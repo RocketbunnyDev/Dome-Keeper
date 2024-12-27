@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DiverHit.wav-a5163a46d0754a2a5622b7470e305a05.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/diver/DiverHit.wav"
+dest_files=[ "res://.import/DiverHit.wav-a5163a46d0754a2a5622b7470e305a05.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

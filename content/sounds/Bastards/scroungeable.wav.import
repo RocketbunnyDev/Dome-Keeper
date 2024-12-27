@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/scroungeable.wav-1532d212756fe95cc740a494f46b2166.sample"
+
+[deps]
+
+source_file="res://content/sounds/Bastards/scroungeable.wav"
+dest_files=[ "res://.import/scroungeable.wav-1532d212756fe95cc740a494f46b2166.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

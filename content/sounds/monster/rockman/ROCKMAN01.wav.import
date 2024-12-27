@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ROCKMAN01.wav-5c49bc231d37972af319df9620a53892.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/rockman/ROCKMAN01.wav"
+dest_files=[ "res://.import/ROCKMAN01.wav-5c49bc231d37972af319df9620a53892.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

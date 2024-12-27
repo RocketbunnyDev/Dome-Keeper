@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Rythmic 2.ogg-c06fc6d3f852d309b1c0c8a0cc8cece7.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/Rythmic 2.ogg"
+dest_files=[ "res://.import/Rythmic 2.ogg-c06fc6d3f852d309b1c0c8a0cc8cece7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

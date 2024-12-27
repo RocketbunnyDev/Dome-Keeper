@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/machine2.wav-83bf5981f2c329d5840000a5c0120fdd.sample"
+
+[deps]
+
+source_file="res://content/sounds/Bastards/machine2.wav"
+dest_files=[ "res://.import/machine2.wav-83bf5981f2c329d5840000a5c0120fdd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/FlyerDie.wav-35e3b72672c4ca74c801ca5dda5eb1bb.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/flyer/FlyerDie.wav"
+dest_files=[ "res://.import/FlyerDie.wav-35e3b72672c4ca74c801ca5dda5eb1bb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

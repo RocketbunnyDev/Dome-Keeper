@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/TeleportAmb.wav-6e4cf809f099554b19036c5fe8d4f60d.sample"
+
+[deps]
+
+source_file="res://content/sounds/Biomes/TeleportAmb.wav"
+dest_files=[ "res://.import/TeleportAmb.wav-6e4cf809f099554b19036c5fe8d4f60d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

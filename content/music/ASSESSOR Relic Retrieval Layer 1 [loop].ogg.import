@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ASSESSOR Relic Retrieval Layer 1 [loop].ogg-ee066dda7f4be137c5884c059b65a80a.oggstr"
+
+[deps]
+
+source_file="res://content/music/ASSESSOR Relic Retrieval Layer 1 [loop].ogg"
+dest_files=[ "res://.import/ASSESSOR Relic Retrieval Layer 1 [loop].ogg-ee066dda7f4be137c5884c059b65a80a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

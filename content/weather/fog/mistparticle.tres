@@ -1,0 +1,15 @@
+[gd_resource type="ShaderMaterial" load_steps=4 format=2]
+
+[ext_resource path="res://content/weather/fog/mistparticle.shader" type="Shader" id=1]
+
+[sub_resource type="OpenSimplexNoise" id=1]
+period = 32.0
+
+[sub_resource type="NoiseTexture" id=2]
+noise = SubResource( 1 )
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/width = 1280.0
+shader_param/height = 250.0
+shader_param/flow = SubResource( 2 )

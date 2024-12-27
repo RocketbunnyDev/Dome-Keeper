@@ -1,0 +1,221 @@
+[gd_scene load_steps=31 format=2]
+
+[ext_resource path="res://content/sounds/Locations/BlastMiner/MineReady.wav" type="AudioStream" id=1]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=2]
+[ext_resource path="res://content/gadgets/blastMining/MiningStation.gd" type="Script" id=3]
+[ext_resource path="res://content/gadgets/blastMining/blast-Sheet.png" type="Texture" id=4]
+[ext_resource path="res://content/gadgets/blastMining/flames-Sheet.png" type="Texture" id=5]
+[ext_resource path="res://content/sounds/Locations/BlastMiner/MinePickup.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/gadgets/blastMining/lasert.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/gadgets/blastMining/mine-Sheet.png" type="Texture" id=8]
+[ext_resource path="res://content/sounds/UI/SelectLaser_v2.wav" type="AudioStream" id=9]
+[ext_resource path="res://content/shared/Usable.tscn" type="PackedScene" id=11]
+
+[sub_resource type="AtlasTexture" id=2]
+atlas = ExtResource( 4 )
+region = Rect2( 0, 60, 30, 30 )
+
+[sub_resource type="AtlasTexture" id=3]
+atlas = ExtResource( 4 )
+region = Rect2( 30, 60, 30, 30 )
+
+[sub_resource type="AtlasTexture" id=4]
+atlas = ExtResource( 4 )
+region = Rect2( 60, 60, 30, 30 )
+
+[sub_resource type="AtlasTexture" id=5]
+atlas = ExtResource( 4 )
+region = Rect2( 90, 60, 30, 30 )
+
+[sub_resource type="AtlasTexture" id=6]
+atlas = ExtResource( 4 )
+region = Rect2( 120, 60, 30, 30 )
+
+[sub_resource type="AtlasTexture" id=7]
+atlas = ExtResource( 4 )
+region = Rect2( 150, 60, 30, 30 )
+
+[sub_resource type="AtlasTexture" id=8]
+atlas = ExtResource( 4 )
+region = Rect2( 180, 60, 30, 30 )
+
+[sub_resource type="AtlasTexture" id=9]
+atlas = ExtResource( 4 )
+region = Rect2( 210, 60, 30, 30 )
+
+[sub_resource type="AtlasTexture" id=10]
+atlas = ExtResource( 4 )
+region = Rect2( 240, 60, 30, 30 )
+
+[sub_resource type="SpriteFrames" id=11]
+animations = [ {
+"frames": [ SubResource( 2 ), SubResource( 3 ), SubResource( 4 ), SubResource( 5 ), SubResource( 6 ), SubResource( 7 ), SubResource( 8 ), SubResource( 9 ), SubResource( 10 ) ],
+"loop": false,
+"name": "default",
+"speed": 10.0
+} ]
+
+[sub_resource type="AtlasTexture" id=12]
+atlas = ExtResource( 5 )
+region = Rect2( 0, 14, 5, 14 )
+
+[sub_resource type="AtlasTexture" id=13]
+atlas = ExtResource( 5 )
+region = Rect2( 5, 14, 5, 14 )
+
+[sub_resource type="AtlasTexture" id=14]
+atlas = ExtResource( 5 )
+region = Rect2( 10, 14, 5, 14 )
+
+[sub_resource type="AtlasTexture" id=15]
+atlas = ExtResource( 5 )
+region = Rect2( 15, 14, 5, 14 )
+
+[sub_resource type="AtlasTexture" id=16]
+atlas = ExtResource( 5 )
+region = Rect2( 20, 14, 5, 14 )
+
+[sub_resource type="AtlasTexture" id=17]
+atlas = ExtResource( 5 )
+region = Rect2( 25, 14, 5, 14 )
+
+[sub_resource type="AtlasTexture" id=18]
+atlas = ExtResource( 5 )
+region = Rect2( 0, 0, 5, 14 )
+
+[sub_resource type="AtlasTexture" id=19]
+atlas = ExtResource( 5 )
+region = Rect2( 5, 0, 5, 14 )
+
+[sub_resource type="AtlasTexture" id=20]
+atlas = ExtResource( 5 )
+region = Rect2( 10, 0, 5, 14 )
+
+[sub_resource type="SpriteFrames" id=21]
+animations = [ {
+"frames": [ SubResource( 12 ), SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ), SubResource( 17 ) ],
+"loop": true,
+"name": "run",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 18 ), SubResource( 19 ), SubResource( 20 ) ],
+"loop": false,
+"name": "start",
+"speed": 10.0
+} ]
+
+[node name="MiningStation" type="Node2D" groups=["saveable"]]
+script = ExtResource( 3 )
+
+[node name="Back" type="Sprite" parent="."]
+position = Vector2( 1, -10 )
+texture = ExtResource( 4 )
+hframes = 9
+vframes = 3
+
+[node name="Mine" type="AnimatedSprite" parent="."]
+position = Vector2( 1, -9 )
+z_index = 1
+frames = SubResource( 11 )
+
+[node name="Bomb" type="Sprite" parent="Mine"]
+position = Vector2( -1, 1 )
+z_index = -1
+texture = ExtResource( 8 )
+hframes = 4
+vframes = 2
+frame = 2
+
+[node name="Front" type="Sprite" parent="."]
+position = Vector2( 1, -10 )
+texture = ExtResource( 4 )
+hframes = 9
+vframes = 3
+frame = 9
+
+[node name="Flames" type="Node2D" parent="."]
+
+[node name="Flame1" type="AnimatedSprite" parent="Flames"]
+position = Vector2( -11, -18 )
+frames = SubResource( 21 )
+animation = "run"
+
+[node name="Flame2" type="AnimatedSprite" parent="Flames"]
+position = Vector2( -5, -20 )
+frames = SubResource( 21 )
+animation = "run"
+flip_h = true
+
+[node name="Flame3" type="AnimatedSprite" parent="Flames"]
+position = Vector2( 1, -21 )
+frames = SubResource( 21 )
+animation = "run"
+
+[node name="Flame4" type="AnimatedSprite" parent="Flames"]
+position = Vector2( 7, -20 )
+frames = SubResource( 21 )
+animation = "run"
+flip_h = true
+
+[node name="Flame5" type="AnimatedSprite" parent="Flames"]
+position = Vector2( 13, -17 )
+frames = SubResource( 21 )
+animation = "run"
+
+[node name="Flame6" type="AnimatedSprite" parent="Flames"]
+position = Vector2( 11, -13 )
+frames = SubResource( 21 )
+animation = "run"
+flip_h = true
+
+[node name="Flame7" type="AnimatedSprite" parent="Flames"]
+position = Vector2( 6, -11 )
+frames = SubResource( 21 )
+animation = "run"
+
+[node name="MinePosition" type="Position2D" parent="."]
+position = Vector2( 0, -5 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Usable" parent="." instance=ExtResource( 11 )]
+position = Vector2( 0, -8 )
+
+[node name="FlameOn" parent="." instance=ExtResource( 2 )]
+stream = ExtResource( 7 )
+volume_db = -17.042
+pitch_scale = 1.6
+bus = "Dome"
+randomVolume = 1.0
+maxAudibleDistance = 80.0
+minAudibleDistance = 40.0
+
+[node name="MineReady" parent="." instance=ExtResource( 2 )]
+stream = ExtResource( 1 )
+pitch_scale = 1.01
+bus = "Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 140.0
+minAudibleDistance = 40.0
+
+[node name="MineReady2" parent="MineReady" instance=ExtResource( 2 )]
+stream = ExtResource( 9 )
+volume_db = -9.176
+pitch_scale = 1.49
+bus = "Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 140.0
+minAudibleDistance = 40.0
+
+[node name="MinePickup" parent="." instance=ExtResource( 2 )]
+stream = ExtResource( 6 )
+volume_db = 5.681
+pitch_scale = 0.8
+bus = "Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[connection signal="animation_finished" from="Mine" to="." method="_on_Mine_animation_finished"]

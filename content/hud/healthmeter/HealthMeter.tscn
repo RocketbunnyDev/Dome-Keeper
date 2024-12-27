@@ -1,0 +1,50 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://content/hud/healthmeter/HealthMeter.gd" type="Script" id=1]
+[ext_resource path="res://content/hud/healthmeter/background3.png" type="Texture" id=2]
+[ext_resource path="res://content/hud/healthmeter/heart.png" type="Texture" id=3]
+
+[node name="HealthMeter" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+size = Vector2( 6, 2 )
+layoutWeights = Vector2( 0, 1 )
+layoutPriority = 1
+
+[node name="Background" type="TextureRect" parent="."]
+margin_left = 2.0
+margin_top = 2.0
+margin_right = 48.0
+margin_bottom = 10.0
+texture = ExtResource( 2 )
+
+[node name="Heart" type="Sprite" parent="."]
+position = Vector2( 7, 6 )
+texture = ExtResource( 3 )
+hframes = 4
+
+[node name="RepairRect" type="ColorRect" parent="."]
+margin_left = 12.0
+margin_top = 4.0
+margin_right = 22.0
+margin_bottom = 7.0
+color = Color( 0.282353, 0.54902, 0.862745, 1 )
+
+[node name="BadRepairRect" type="ColorRect" parent="."]
+margin_left = 12.0
+margin_top = 4.0
+margin_right = 12.0
+margin_bottom = 7.0
+color = Color( 0.407843, 0.423529, 0.862745, 1 )
+
+[node name="HealthRect" type="ColorRect" parent="."]
+margin_left = 12.0
+margin_top = 4.0
+margin_right = 42.0
+margin_bottom = 7.0
+color = Color( 0.376471, 0.298039, 0.862745, 1 )
+
+[node name="Tween" type="Tween" parent="."]
+
+[connection signal="tween_all_completed" from="Tween" to="." method="_on_Tween_tween_all_completed"]

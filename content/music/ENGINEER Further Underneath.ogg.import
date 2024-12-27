@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ENGINEER Further Underneath.ogg-8cf42d38467c24433543b8d8b4141e7d.oggstr"
+
+[deps]
+
+source_file="res://content/music/ENGINEER Further Underneath.ogg"
+dest_files=[ "res://.import/ENGINEER Further Underneath.ogg-8cf42d38467c24433543b8d8b4141e7d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

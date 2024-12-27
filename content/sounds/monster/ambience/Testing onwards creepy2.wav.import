@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Testing onwards creepy2.wav-0558c944d59b51412be07b4ecf0dcac2.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/Testing onwards creepy2.wav"
+dest_files=[ "res://.import/Testing onwards creepy2.wav-0558c944d59b51412be07b4ecf0dcac2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

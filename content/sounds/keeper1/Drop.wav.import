@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Drop.wav-44ea664a6a7afc3a31fa3f5c00d82d79.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper1/Drop.wav"
+dest_files=[ "res://.import/Drop.wav-44ea664a6a7afc3a31fa3f5c00d82d79.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

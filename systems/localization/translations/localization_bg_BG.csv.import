@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://systems/localization/translations/localization_bg_BG.bg_BG.translation" ]
+
+source_file="res://systems/localization/translations/localization_bg_BG.csv"
+dest_files=[ "res://systems/localization/translations/localization_bg_BG.bg_BG.translation" ]
+
+[params]
+
+compress=true
+delimiter=0

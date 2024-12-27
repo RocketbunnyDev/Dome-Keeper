@@ -1,0 +1,13 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=2]
+
+[ext_resource path="res://stages/manager/vignette.shader" type="Shader" id=1]
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/strength = 1.0
+shader_param/p1_center_offset = Vector2( 0, 0 )
+shader_param/p2 = false
+shader_param/p2_center_offset = null
+shader_param/zoom = Vector2( 1, 1 )
+shader_param/color_conversion = Vector3( 0.8, 0.8, 0.8 )
+shader_param/vignette_alpha = 1.0

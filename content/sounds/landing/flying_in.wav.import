@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/flying_in.wav-066ec465044c9d3ae03db28642a4bf46.sample"
+
+[deps]
+
+source_file="res://content/sounds/landing/flying_in.wav"
+dest_files=[ "res://.import/flying_in.wav-066ec465044c9d3ae03db28642a4bf46.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

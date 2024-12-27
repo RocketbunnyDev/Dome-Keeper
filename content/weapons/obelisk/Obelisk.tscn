@@ -1,0 +1,116 @@
+[gd_scene load_steps=21 format=2]
+
+[ext_resource path="res://content/weapons/obelisk/Obelisk.gd" type="Script" id=1]
+[ext_resource path="res://content/gadgets/obelisk/obelisk.png" type="Texture" id=2]
+[ext_resource path="res://content/weapons/obelisk/Reticle.tscn" type="PackedScene" id=3]
+[ext_resource path="res://content/weapons/obelisk/ObeliskBeam.tscn" type="PackedScene" id=4]
+[ext_resource path="res://content/weapons/obelisk/ObeliskLightning.tscn" type="PackedScene" id=5]
+[ext_resource path="res://content/sounds/Weapons/obelisk/lightning_up.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/sounds/Weapons/obelisk/_loo.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/sounds/Weapons/obelisk/tiles_04.wav" type="AudioStream" id=8]
+[ext_resource path="res://content/sounds/Weapons/obelisk/weapon_stop.wav" type="AudioStream" id=9]
+[ext_resource path="res://content/sounds/Weapons/obelisk/weapon_start.wav" type="AudioStream" id=10]
+[ext_resource path="res://content/sounds/Weapons/obelisk/reload_start.wav" type="AudioStream" id=11]
+[ext_resource path="res://content/sounds/Weapons/obelisk/reload_finish.wav" type="AudioStream" id=12]
+[ext_resource path="res://systems/audio/Sound.gd" type="Script" id=13]
+[ext_resource path="res://content/sounds/Weapons/obelisk/reload.wav" type="AudioStream" id=14]
+[ext_resource path="res://content/weapons/obelisk/QuickReload.tscn" type="PackedScene" id=15]
+[ext_resource path="res://content/sounds/Weapons/obelisk/Head_GUNFACE.wav" type="AudioStream" id=16]
+[ext_resource path="res://content/sounds/Weapons/obelisk/quick_fail.wav" type="AudioStream" id=17]
+[ext_resource path="res://content/weapons/obelisk/AmmoDisplay.tscn" type="PackedScene" id=18]
+[ext_resource path="res://content/sounds/Weapons/obelisk/pure lil_4.wav" type="AudioStream" id=19]
+[ext_resource path="res://content/weapons/obelisk/allcolors.PNG" type="Texture" id=20]
+
+[node name="Obelisk" type="Node2D" groups=["primaryWeapon"]]
+z_index = -3
+script = ExtResource( 1 )
+
+[node name="Allcolors" type="Sprite" parent="."]
+visible = false
+position = Vector2( 126, -233 )
+texture = ExtResource( 20 )
+
+[node name="AmmoDisplay" parent="." instance=ExtResource( 18 )]
+position = Vector2( 0, -118 )
+radius = 21
+
+[node name="QuickReload" parent="." instance=ExtResource( 15 )]
+position = Vector2( -1, -39 )
+rotation = -1.5708
+z_index = 101
+
+[node name="Reticle" parent="." instance=ExtResource( 3 )]
+z_index = 80
+
+[node name="ObeliskBeam" parent="Reticle" instance=ExtResource( 4 )]
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 0, -45 )
+z_index = 100
+texture = ExtResource( 2 )
+
+[node name="ReticleSpawn" type="Position2D" parent="."]
+position = Vector2( 0, -86 )
+
+[node name="ObeliskLightning" parent="." instance=ExtResource( 5 )]
+
+[node name="TweenReturnReticle" type="Tween" parent="."]
+
+[node name="TweenShoot" type="Tween" parent="."]
+
+[node name="TweenAmmo" type="Tween" parent="."]
+
+[node name="TweenReload" type="Tween" parent="."]
+
+[node name="LightningUpSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 6 )
+volume_db = 3.314
+
+[node name="ReloadStaticSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 7 )
+volume_db = 8.785
+
+[node name="DenialSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 8 )
+volume_db = 4.936
+pitch_scale = 0.45
+
+[node name="StartSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 10 )
+
+[node name="StopSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 9 )
+
+[node name="ReloadStartSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 11 )
+volume_db = -5.681
+script = ExtResource( 13 )
+
+[node name="ReloadStartSound2" type="AudioStreamPlayer" parent="ReloadStartSound"]
+stream = ExtResource( 14 )
+script = ExtResource( 13 )
+
+[node name="ReloadFinishSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 12 )
+volume_db = -8.351
+
+[node name="ReadyLightning" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 19 )
+volume_db = -12.722
+pitch_scale = 2.27
+script = ExtResource( 13 )
+
+[node name="ReadyLightning2" type="AudioStreamPlayer" parent="ReadyLightning"]
+stream = ExtResource( 11 )
+volume_db = -12.285
+pitch_scale = 1.7
+script = ExtResource( 13 )
+
+[node name="QuickReloadSuccess" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 16 )
+volume_db = -4.369
+pitch_scale = 1.35
+
+[node name="QuickReloadFail" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 17 )
+volume_db = -6.745

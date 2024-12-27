@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://stages/landing/Debris.gd" type="Script" id=1]
+[ext_resource path="res://stages/landing/shards.png" type="Texture" id=2]
+
+[sub_resource type="PhysicsMaterial" id=2]
+bounce = 0.5
+
+[sub_resource type="RectangleShape2D" id=3]
+extents = Vector2( 5, 3 )
+
+[node name="Debris" type="RigidBody2D"]
+collision_layer = 0
+collision_mask = 262144
+physics_material_override = SubResource( 2 )
+script = ExtResource( 1 )
+
+[node name="deathTimer" type="Timer" parent="."]
+wait_time = 3.0
+one_shot = true
+autostart = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource( 3 )
+
+[node name="Sprite" type="Sprite" parent="."]
+z_as_relative = false
+texture = ExtResource( 2 )
+hframes = 6

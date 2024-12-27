@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dome2_Enter2.wav-e05747623e39e66ba17a2dc79cfe4bca.sample"
+
+[deps]
+
+source_file="res://content/sounds/dome2/Dome2_Enter2.wav"
+dest_files=[ "res://.import/Dome2_Enter2.wav-e05747623e39e66ba17a2dc79cfe4bca.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/3xiron-3xwater-3xcobalt-ranken-Sheet.png-2ac24d3f2c4c9d371cbd6e86f20a9545.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://content/gadgets/mineraltree/3xiron-3xwater-3xcobalt-ranken-Sheet.png"
+dest_files=[ "res://.import/3xiron-3xwater-3xcobalt-ranken-Sheet.png-2ac24d3f2c4c9d371cbd6e86f20a9545.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

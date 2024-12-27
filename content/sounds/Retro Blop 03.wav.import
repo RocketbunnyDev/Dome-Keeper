@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Blop 03.wav-b9e216e090e22f7c5d870f2bb63d5947.sample"
+
+[deps]
+
+source_file="res://content/sounds/Retro Blop 03.wav"
+dest_files=[ "res://.import/Retro Blop 03.wav-b9e216e090e22f7c5d870f2bb63d5947.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

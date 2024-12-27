@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ASSESSOR Eternal Dust.ogg-903a3ad5e161edbdea7a74a30b39d38b.oggstr"
+
+[deps]
+
+source_file="res://content/music/ASSESSOR Eternal Dust.ogg"
+dest_files=[ "res://.import/ASSESSOR Eternal Dust.ogg-903a3ad5e161edbdea7a74a30b39d38b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

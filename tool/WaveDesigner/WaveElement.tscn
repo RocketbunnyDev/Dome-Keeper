@@ -1,0 +1,42 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://gui/panels/panel_inside.tres" type="StyleBox" id=1]
+[ext_resource path="res://tool/WaveDesigner/WaveElement.gd" type="Script" id=2]
+
+[node name="WaveElement" type="PanelContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+focus_mode = 1
+size_flags_horizontal = 4
+size_flags_vertical = 4
+custom_styles/panel = ExtResource( 1 )
+script = ExtResource( 2 )
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1908.0
+margin_bottom = 1068.0
+mouse_filter = 2
+
+[node name="TextureRect" type="TextureRect" parent="VBoxContainer"]
+margin_right = 1896.0
+mouse_filter = 2
+
+[node name="Title" type="Label" parent="VBoxContainer"]
+margin_top = 4.0
+margin_right = 1896.0
+margin_bottom = 18.0
+align = 1
+
+[node name="Variants" type="ItemList" parent="VBoxContainer"]
+margin_top = 22.0
+margin_right = 1896.0
+margin_bottom = 22.0
+focus_mode = 0
+same_column_width = true
+
+[connection signal="gui_input" from="." to="." method="_on_WaveElement_gui_input"]
+[connection signal="mouse_entered" from="." to="." method="_on_WaveElement_mouse_entered"]
+[connection signal="mouse_exited" from="." to="." method="_on_WaveElement_mouse_exited"]

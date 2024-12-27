@@ -1,0 +1,393 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://tool/GameIntelligence/GameIntelligence.gd" type="Script" id=1]
+[ext_resource path="res://tool/GameIntelligence/GI_theme.tres" type="Theme" id=2]
+[ext_resource path="res://content/techtree/TechTree.tscn" type="PackedScene" id=3]
+[ext_resource path="res://tool/GameIntelligence/RunFilter.gd" type="Script" id=4]
+[ext_resource path="res://tool/GameIntelligence/StatEntry.tscn" type="PackedScene" id=5]
+[ext_resource path="res://tool/GameIntelligence/StatsView.gd" type="Script" id=6]
+[ext_resource path="res://tool/GameIntelligence/DamagePerWaveView.gd" type="Script" id=7]
+[ext_resource path="res://tool/GameIntelligence/RunWeightView.gd" type="Script" id=8]
+
+[sub_resource type="ButtonGroup" id=2]
+
+[sub_resource type="ButtonGroup" id=3]
+
+[node name="GameIntelligence" type="Node"]
+script = ExtResource( 1 )
+useCachedAggregateRunsFile = true
+majorVersions = [ "41", 40 ]
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Canvas"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme = ExtResource( 2 )
+
+[node name="PanelContainer" type="PanelContainer" parent="Canvas/HBoxContainer"]
+margin_right = 206.0
+margin_bottom = 1080.0
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="Canvas/HBoxContainer/PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 194.0
+margin_bottom = 1068.0
+
+[node name="StatsButton" type="Button" parent="Canvas/HBoxContainer/PanelContainer/VBoxContainer2"]
+margin_right = 182.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+pressed = true
+group = SubResource( 2 )
+text = "Stats"
+
+[node name="TechTreeButton" type="Button" parent="Canvas/HBoxContainer/PanelContainer/VBoxContainer2"]
+margin_top = 55.0
+margin_right = 182.0
+margin_bottom = 106.0
+focus_mode = 0
+toggle_mode = true
+group = SubResource( 2 )
+text = "Tech Tree"
+
+[node name="MonsterDamageButton" type="Button" parent="Canvas/HBoxContainer/PanelContainer/VBoxContainer2"]
+margin_top = 110.0
+margin_right = 182.0
+margin_bottom = 161.0
+focus_mode = 0
+toggle_mode = true
+group = SubResource( 2 )
+text = "Monster Damage"
+
+[node name="RunWeightButton" type="Button" parent="Canvas/HBoxContainer/PanelContainer/VBoxContainer2"]
+margin_top = 165.0
+margin_right = 182.0
+margin_bottom = 216.0
+focus_mode = 0
+toggle_mode = true
+group = SubResource( 2 )
+text = "Run Weight"
+
+[node name="SessionLengthButton" type="Button" parent="Canvas/HBoxContainer/PanelContainer/VBoxContainer2"]
+margin_top = 220.0
+margin_right = 182.0
+margin_bottom = 271.0
+hint_tooltip = "showing how long it took to win or lose a game"
+focus_mode = 0
+toggle_mode = true
+group = SubResource( 2 )
+text = "Session Length"
+
+[node name="BattleAbilitiesButton" type="Button" parent="Canvas/HBoxContainer/PanelContainer/VBoxContainer2"]
+margin_top = 275.0
+margin_right = 182.0
+margin_bottom = 326.0
+hint_tooltip = "showing how long it took to win or lose a game"
+focus_mode = 0
+toggle_mode = true
+group = SubResource( 2 )
+text = "Battle Abilities"
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/HBoxContainer"]
+margin_left = 222.0
+margin_right = 1920.0
+margin_bottom = 1080.0
+size_flags_horizontal = 3
+
+[node name="PanelContainer" type="PanelContainer" parent="Canvas/HBoxContainer/VBoxContainer"]
+margin_right = 1698.0
+margin_bottom = 99.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="RunFilter" type="VBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1686.0
+margin_bottom = 87.0
+script = ExtResource( 4 )
+
+[node name="Container" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter"]
+margin_right = 1674.0
+margin_bottom = 51.0
+
+[node name="Label" type="Label" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container"]
+margin_top = 16.0
+margin_right = 46.0
+margin_bottom = 35.0
+text = "Filter"
+
+[node name="AutoUpdateButton" type="CheckBox" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container"]
+visible = false
+margin_left = 74.0
+margin_right = 271.0
+margin_bottom = 57.0
+pressed = true
+text = "Auto Update"
+
+[node name="FilterVersionButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container"]
+margin_left = 62.0
+margin_right = 171.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+pressed = true
+text = "Versions"
+
+[node name="FilterModeButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container"]
+margin_left = 187.0
+margin_right = 267.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+text = "Mode"
+
+[node name="FilterRelicHuntButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container"]
+margin_left = 283.0
+margin_right = 407.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+text = "Relic Hunt"
+
+[node name="FilterLoadoutButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container"]
+margin_left = 423.0
+margin_right = 526.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+text = "Loadout"
+
+[node name="FilterWorldButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container"]
+margin_left = 542.0
+margin_right = 626.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+text = "World"
+
+[node name="FilterGadgetButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container"]
+margin_left = 642.0
+margin_right = 748.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+text = "Gadgets"
+
+[node name="FilterVersionButtons" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter"]
+margin_top = 55.0
+margin_right = 1674.0
+margin_bottom = 55.0
+
+[node name="FilterModeButtons" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter"]
+margin_top = 59.0
+margin_right = 1674.0
+margin_bottom = 59.0
+
+[node name="FilterRelicHuntButtons" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter"]
+margin_top = 63.0
+margin_right = 1674.0
+margin_bottom = 63.0
+
+[node name="FilterLoadoutButtons" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter"]
+margin_top = 67.0
+margin_right = 1674.0
+margin_bottom = 67.0
+
+[node name="FilterWorldButtons" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter"]
+margin_top = 71.0
+margin_right = 1674.0
+margin_bottom = 71.0
+
+[node name="FilterGadgetButtons" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter"]
+margin_top = 75.0
+margin_right = 1674.0
+margin_bottom = 75.0
+
+[node name="StatsView" type="PanelContainer" parent="Canvas/HBoxContainer/VBoxContainer" groups=["gi_view"]]
+visible = false
+margin_top = 187.0
+margin_right = 1698.0
+margin_bottom = 625.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/HBoxContainer/VBoxContainer/StatsView"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1686.0
+margin_bottom = 426.0
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/HBoxContainer/VBoxContainer/StatsView/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 1658.0
+margin_bottom = 398.0
+follow_focus = true
+
+[node name="AllEntriesContainer" type="VBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer/StatsView/MarginContainer/ScrollContainer"]
+margin_right = 1250.0
+margin_bottom = 127.0
+
+[node name="StatEntry" parent="Canvas/HBoxContainer/VBoxContainer/StatsView/MarginContainer/ScrollContainer/AllEntriesContainer" instance=ExtResource( 5 )]
+margin_right = 1250.0
+margin_bottom = 139.0
+
+[node name="TechTreeView" type="PanelContainer" parent="Canvas/HBoxContainer/VBoxContainer" groups=["gi_view"]]
+visible = false
+margin_top = 490.0
+margin_right = 1698.0
+margin_bottom = 777.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/HBoxContainer/VBoxContainer/TechTreeView"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1686.0
+margin_bottom = 275.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TechTree" parent="Canvas/HBoxContainer/VBoxContainer/TechTreeView/ScrollContainer" instance=ExtResource( 3 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+
+[node name="WavesView" type="PanelContainer" parent="Canvas/HBoxContainer/VBoxContainer" groups=["gi_view"]]
+visible = false
+margin_top = 528.0
+margin_right = 1735.0
+margin_bottom = 1000.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="DamagePerWaveView" type="PanelContainer" parent="Canvas/HBoxContainer/VBoxContainer" groups=["gi_view"]]
+margin_top = 103.0
+margin_right = 1698.0
+margin_bottom = 1080.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+script = ExtResource( 7 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1686.0
+margin_bottom = 965.0
+
+[node name="MonsterBarContainer" type="Control" parent="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView/ScrollContainer"]
+
+[node name="Control" type="Control" parent="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1686.0
+margin_bottom = 965.0
+mouse_filter = 2
+
+[node name="ViewOptions" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView/Control"]
+margin_right = 538.0
+margin_bottom = 51.0
+mouse_filter = 2
+
+[node name="TotalDamageButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView/Control/ViewOptions"]
+margin_right = 72.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+group = SubResource( 3 )
+text = "total"
+
+[node name="AverageDamageButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView/Control/ViewOptions"]
+margin_left = 88.0
+margin_right = 194.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+group = SubResource( 3 )
+text = "average"
+
+[node name="RelativeDamageButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView/Control/ViewOptions"]
+margin_left = 210.0
+margin_right = 310.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+group = SubResource( 3 )
+text = "relative"
+
+[node name="AccumulatedDamageButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView/Control/ViewOptions"]
+margin_left = 326.0
+margin_right = 550.0
+margin_bottom = 51.0
+focus_mode = 0
+toggle_mode = true
+pressed = true
+group = SubResource( 3 )
+text = "accumulated average"
+
+[node name="RunWeightView" type="PanelContainer" parent="Canvas/HBoxContainer/VBoxContainer" groups=["gi_view"]]
+visible = false
+margin_top = 1056.0
+margin_right = 1735.0
+margin_bottom = 1080.0
+script = ExtResource( 8 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/HBoxContainer/VBoxContainer/RunWeightView"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1723.0
+margin_bottom = 12.0
+
+[node name="IronPlotContainer" type="Control" parent="Canvas/HBoxContainer/VBoxContainer/RunWeightView/ScrollContainer"]
+
+[node name="IronView" type="PanelContainer" parent="Canvas/HBoxContainer/VBoxContainer" groups=["gi_view"]]
+visible = false
+margin_top = 1056.0
+margin_right = 1735.0
+margin_bottom = 1080.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/HBoxContainer/VBoxContainer/IronView"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1723.0
+margin_bottom = 12.0
+
+[node name="IronPlotContainer" type="Control" parent="Canvas/HBoxContainer/VBoxContainer/IronView/ScrollContainer"]
+
+[connection signal="pressed" from="Canvas/HBoxContainer/PanelContainer/VBoxContainer2/StatsButton" to="." method="_on_StatsButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/PanelContainer/VBoxContainer2/TechTreeButton" to="." method="_on_TechTreeButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/PanelContainer/VBoxContainer2/MonsterDamageButton" to="." method="_on_MonsterDamageButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/PanelContainer/VBoxContainer2/RunWeightButton" to="." method="_on_RunWeight_pressed"]
+[connection signal="runsFiltered" from="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter" to="." method="_on_RunFilter_runsFiltered"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container/FilterVersionButton" to="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter" method="_on_FilterVersionsButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container/FilterModeButton" to="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter" method="_on_FilterModeButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container/FilterRelicHuntButton" to="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter" method="_on_FilterRelicHuntButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container/FilterLoadoutButton" to="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter" method="_on_FilterLoadoutButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container/FilterWorldButton" to="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter" method="_on_FilterWorldButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter/Container/FilterGadgetButton" to="Canvas/HBoxContainer/VBoxContainer/PanelContainer/RunFilter" method="_on_FilterGadgetButton_pressed"]
+[connection signal="pin" from="Canvas/HBoxContainer/VBoxContainer/StatsView/MarginContainer/ScrollContainer/AllEntriesContainer/StatEntry" to="Canvas/HBoxContainer/VBoxContainer/StatsView" method="_on_StatEntry_pin"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView/Control/ViewOptions/TotalDamageButton" to="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView" method="_on_TotalDamageButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView/Control/ViewOptions/AverageDamageButton" to="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView" method="_on_AverageDamageButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView/Control/ViewOptions/RelativeDamageButton" to="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView" method="_on_RelativeDamageButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView/Control/ViewOptions/AccumulatedDamageButton" to="Canvas/HBoxContainer/VBoxContainer/DamagePerWaveView" method="_on_AccumulatedDamageButton_pressed"]

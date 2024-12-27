@@ -1,0 +1,941 @@
+﻿key,he_IL
+loadout.prestige.title,בחר בסוג המצב
+upgrades.shieldbattleelectroblast.title,פיצוץ חשמלי
+properties.orchard.battleshieldhp,Strength {} hp
+level.station.battle.navbar.move,Move
+options.video.stretchmode.rezised,מוגדל מחדש
+level.gameover.unlock.world,עולם חדש נפתח!
+upgrades.blastminingwaterless.desc,"Does not use water for production anymore, but takes longer."
+properties.blastmining.growthtime,זמן ההפקה {} מחזורים
+properties.laser.stun,חוזק הזעזוע {}
+exhibition.level.instruction,לחץ על כל דבר כדי להמשיך לשחק!
+pause.godot,Made with Godot
+upgrades.orchardjetpack2.desc,"מעלה את הגברת המהירות של הפירות, הגורם לך לזוז הרבה מהר יותר."
+upgrades.artillery.title,רובה רקטות
+upgrades.condenser.desc,Adds a machine under the dome that slowly produces water through condensation.
+properties.lift.keeperupwardsspeed,מהירות מעלית השומר {}
+level.tutorial.fullscreen.continue,continue
+upgrades.dome1damagereduction2.title,להקשיח 2
+upgrades.orchardduration2.title,משך 2
+upgrades.condenserautoovercharge.title,Auto Overcharge
+upgrades.keeper2pinballreflectdamage2.title,Reflection Damage 2
+loadout.title,תבחר את הדברים שלך
+level.tutorial.teleporter_2,"Use the Teleporter Station to teleport to the Portal, and vice versa."
+options.keybindings.action.general.up,למעלה
+loadout.secondstage.cancel,בטל
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,מפעיל את היכולת כשהמגן יורד
+loadout.prestige.normal,רגיל
+properties.sword.reflectprojectilesexplosive,קליעים שמוחזרים מתפוצצים
+upgrades.swordlargeblade3.title,להב כבד 3
+upgrades.orcharddrill2.title,Mining Boost 2
+loadout.prestige.normal.description,Send resources offworld to gain prestige among the keepers.
+upgrades.keeper2pinballreflectdamage1.desc,Reflected spheres will deal much more damage to the rock they hit next.
+options.input.gamepad,שלט
+loadout.choices.locked,Not yet unlocked.
+upgrades.condenserspeed1.desc,מפחית את הזמן הדרוש בשביל עיבוי מים אחד.
+upgrades.shieldbattleinvulnerable.desc,Trigger an active combat ability that makes your dome invulnerable for a short time.
+upgrades.domewavemeter.desc,מציג את הזמן שנותר עד הגל הבא של מתקפת צורות החיים העוינות.
+upgrades.keeper2pinballreflectspeedup2.title,Superior Reflection
+upgrades.keeper2movement1.desc,Improve your gravity generator to move faster.
+upgrades.repellentoverchargeduration2.desc,"After overcharging, the battle ability will last longer in the next wave."
+upgrades.laserhitprojectiles.desc,בעת פגיה בירי עם הלייזר הלייזר מפרק אותם.
+options.keybindings.action.keeper.pickup,הרם
+upgrades.keeper2pinballdamage1.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+upgrades.keeper2pinballdamage3.title,Kinetic Sphere Damage 3
+options.video.graphicsmode.enablevsync,הפעל VSync
+options.translation.community,{completion}% סיים
+loadout.difficult.harder,harder
+worldmodifier.resourcerichiron.desc,בעולם הזה יש הרבה ברזל.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,תשלח ברזל
+upgrades.stunlaserspeed1.desc,לייזר ההלם זז מהר יותר.
+upgrades.keeper2pinballdamage2.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+upgrades.drill1.title,חוזק מקדחה 1
+upgrades.prospectionmetersand2.title,מצפן קובלט
+upgrades.dome1health1.desc,חזק את יציבות הכיפה.
+title.navbar.newgame,משחק חדש
+properties.repellent.overchargeduration,הגבר את מהירות הפקת הדוחה ל{} מעגלים
+properties.sword.retractspeed,מהירות החזרה {} 
+upgrades.lasermove3.desc,מהירות תנועת לייזר מרבית.
+upgrades.stunlaser.title,לייזר הלם
+pause.gamepadcontrols.use,Use
+worldmodifier.monsterfeeble.desc,"המפלצות חלשות, הן עושות פחות נזק"
+upgrades.shield.desc,התקן מגן שיספוג חלק מהנזק. נטען מחדש אוטומטית.
+options.video.stretchmode.rezised.text,"מראה את המשחק במצב החלון הקטן או על כל המסך.
+האיכות תהיה מאד חדה, אבל יהיו בעיות חזותיות בכך שיצוצו קווים רחבים של פיקסל אחד."
+upgrades.orchardbattlerootingexplosion.desc,"Trigger again to cause all trapped monsters to explode, dealing damage around them."
+loadout.mapsize.small,קטן
+upgrades.probe.desc,Adds a probe to your suit which when triggered sends out a pulse that reveals nearby resources. Must be recharged at the station under the dome.
+upgrades.swordlongblade1.desc,התקן להב ארוך וזריז יותר.
+upgrades.dome1health1.title,חיים 1
+upgrades.blastminingwaterless.title,טעינה ללא מים
+level.tutorial.assessor.carry,Gravity Collect
+upgrades.liftspeed1.desc,הכדורים זזים מהר יותר.
+upgrades.shieldstrength1.desc,מגדיל את כמות הנזק שהמגן של הכיפה יכול לספוג.
+upgrades.orchardbattleshieldsecondlayer.title,מגן דו-שכבתי
+upgrades.teleporterteleportresourcescooldown.desc,The portal can teleport resources more often.
+options.input.gamepad.autoswitch,automatic detection of preferred gamepad
+level.gameover.unlock.modifiers,World modifiers unlocked!
+properties.sword.slicebrake,איבוד מהירות מחתיכה {.percent}
+loadout.difficulty.veryeasy,Normal
+properties.sword.sliceacceleration,מהירות החרב {}
+options.input.gamepad.gamepadstickdeadzone.text,"הגדר את הערך כך שהמד לא מהבהב אם אתה רק נוגע בג'ויסטיקים, מבלי לדחוף אותם.
+אם אתה דוחף את הג'ויסטיק, המד אמור להבהב בזמן התזוזה."
+options.accessibility.highlightmonsters.explanation,"הבהר קו מתאר בוהק סביב למפלצות, בשביל ראות טובה יותר."
+properties.upgrade.gameover,סיים את המשחק
+upgrades.blastminingstickycharge.title,טעינה כיוונית דביקה
+upgrades.shieldoverchargestrength2.title,הטענת יתר לחוזקת המגן 2
+upgrades.blastminingblast2.desc,מגביר אפילו יותר את עוצמת הפיצוץ.
+upgrades.repellentbattlestrongerslowdown2.title,קפאון חזק
+upgrades.converter.desc,"יכול להמיר חומרים, עוזר לך להאזין את מלאי החומרים שלך."
+loadout.proceed,המשך
+upgrades.repellentbattleslowdown.desc,Spray a numbing mist during battle that slows all monsters down.
+loadout.mapsize.medium.description,גודל מפה נורמלי לזמני חפירות רגילים.
+properties.orchard.overchargeadditionalbuffduration,{} cycles additional buff duration after overcharge
+options.translation.community.title,תרגומי קהילה
+upgrades.blastminingtriple.title,Triple Charges
+worldmodifier.hardnessextremes.desc,יש הרבה מאד אבנים ממש קשות וממש חלשות.
+level.station.battle.navbar.exit,Exit
+upgrades.keeper2pinballlifetime2.title,Kinetic Sphere Lifetime 2
+upgrades.minoriron.desc,Send iron offworld to increase your prestige.
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,הגירה
+upgrades.converterefficientcobalt.title,המרת קובלט אפקטיבית
+upgrades.shieldbattledestructionprevention.desc,"Gain a long period of invulnerability when your dome is about to be destroyed.
+After that, your shield does not charge for the next battle. Last stand can only be triggered again after 2 completed waves.
+"
+upgrades.drill1.desc,חזק את המקדח כדי לחפור מהר יותר.
+level.gameover.retry,Start another run
+properties.orchard.overchargeduration,מהירות צמיחת הפרי מוכפלת למשך {} מחזורים
+upgrades.dome2health1.title,חיים 1
+level.tutorial.station.popup_4,Then hit | to enter battle mode and defend.
+level.gameover.stats.timeplayed.unit,m
+upgrades.repellentbattlestrongerslowdown2.desc,The mist slows monsters even more and lasts for longer.
+loadout.gadgetoptions.title,תבחר את המכשיר הראשי שלך!
+level.tutorial.station.popup_2,Move to the station and hit | to enter it.
+upgrades.dome1damagereduction1.desc,הקשח את פני השטח של הכיפה על מנת לספוג פחות נזק ממתקפות של מפלצות מטווח קרוב. נזק מקליעים אינו מושפע.
+level.tutorial.station.popup_1,הכיפה שלך תחת התקפה!
+upgrades.keeper2movement3.title,Gravitational Movement 3
+upgrades.jetpackspeed1.desc,שפר את הג'טפאק כדי לנוע מהר יותר.
+properties.converter.ironwatertime,{} מחזורים לזמן ההמרה
+level.tutorial.sworddome.slicing.desc,"The faster the sword swings, the higher the slice damage."
+upgrades.liftorbs.desc,מתקין כדור נוסף למעלית.
+upgrades.proberecharge.desc,The probe will slowly recharges on its own over time.
+loadout.gadget,מכשיר
+upgrades.drill4.title,חוזק מקדחה 4
+properties.probe.rechargetime,השלם זמן טעינה {} מחזורים 
+upgrades.keeper2pinballdamage4.title,Kinetic Sphere Damage 4
+options.game,משחק
+loadout.prestige.cobalt,קובלט מתוקן
+options.input.vibration.strength,עצמת רעידה
+upgrades.liftcapacity1.desc,הכדורים יכולים לשאת עוד חומרים.
+loadout.miner.title,Choose Your Run Options
+level.gameover.stats.difficulty,רמת קושי
+upgrades.repellentoverchargestrength2.title,הטענת יתר למעכב הגלים 2
+upgrades.domesandrepairstrong.title,תיקון על ידי קובלט חזק
+upgrades.stunlaserduration1.desc,The stun laser cools down faster and fires for longer.
+level.gameover.prestige.score.rankimproved,המיקום שלך עלה למקום {rank}.
+upgrades.stunlaserdamage2.desc,Increases damage done by the stun laser.
+upgrades.drillbotstrength4.title,חוזק 4
+level.gameover.prestige.title,משחק נקודות הושלם
+options.keybindings.action.general.back,ביטול
+upgrades.laseraimline.desc,"מוסיף כוונת ללייזר, שמראה לאן הוא מכוון."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,המרכז יספיק לאגור ולייצר שני מים לפני שיפסיק לעבוד.
+upgrades.swordreflection2.title,החזרה 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,חזק את המקדח כדי לחפור מהר יותר.
+properties.laser.hitprojectiles,laser hits energy projectiles
+upgrades.dome1damagereduction1.title,להקשיח 1
+properties.sword.stabexplosivedamage,נזק הפצצה {}
+upgrades.drillbotturnaround.title,תנאים מתקדמים
+upgrades.keeper2movement1.title,Gravitational Movement 1
+properties.orchard.battleroots,גדל {} שורשים על הקרקע
+upgrades.prospectionmeterrange2.title,טווח 2
+upgrades.jetpackspeed4.title,מהירות 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,הגבר עוד יותר את העיכוב של הגל הבא.
+upgrades.orchard.desc,Plant a tree in the dome that grows fruits to buff your movement and mining power.
+upgrades.artilleryflakexplosionradius1.title,רדיוס טילים 1
+upgrades.shieldbattleelectroblast.desc,Trigger an active combat ability that creates a deadly field effect around your dome for a short time.
+upgrades.shredgadgettocobalt.desc,הרוס את המכשיר וקבל {amount} קובלט.
+upgrades.prestigecobalt.title,תשלח קובלט
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,"התקן להב עצום. הוא איטי יותר, אך גורם נזק כבד."
+level.gameover.back,Back
+loadout.abort,בטל
+options.keybindings.action.dome.fire,לירות 
+upgrades.swordstabshoot.title,כידון
+upgrades.blastminingtriple.desc,Produces 3 small charges instead of a large one.
+upgrades.orcharddrill1.title,Mining Boost 1
+upgrades.swordextendlong2.title,דקירה ארוכה 2
+upgrades.artilleryshotcooldown1.desc,יורה לעתים קרובות יותר.
+upgrades.keeper2pinballdamagefraction.title,Kinetic Sphere Hardness Transcendence
+upgrades.doublelaser.title,לייזר כפול
+upgrades.jetpackspeed3.title,מהירות 3
+upgrades.minerwater.title,Send Water
+properties.orchard.battleabilityuses,שמושים בכל קרב {}
+upgrades.liftorbs.title,כדורים 1
+upgrades.repellentoverchargeduration1.title,הטענת יתר לזמן יכולת הקרב 1
+upgrades.drill3.desc,חזק את המקדח כדי לחפור מהר יותר.
+level.gameover.prestige.uploading.inprocess,מעלה נקודות ...
+options.cancel,בטל
+properties.shield.overchargestrength,הטענת יתר לחוזק {}נקודות חיים
+level.station.navbar.upgrades,Upgrades
+upgrades.keeper2pinballsplit.desc,"Split incoming spheres into two, launching them perpendicular to the original."
+upgrades.proberecharge.title,טעינה אוטומטית
+properties.sword.stabrange,טווח {} 
+upgrades.liftspeed1.title,מהירות
+upgrades.domewavecount.desc,התקן מונה שמראה כמה סבבים שרדת.
+level.converter.popup.title,המר חומרים
+pause.discord,הצטרפו לשרת הדיסקורד שלנו
+options.keybindings.cancel,בטל
+upgrades.prospectionmeterrange1.desc,מגדיל את הטווח של מד הראייה.
+upgrades.dome2badrepair1.desc,"הכיפה תתקן את עצמה אוטומטית, במידה וספגה הרבה נזק במהלך קרב."
+upgrades.prestigecobalt.desc,"שלח קובלט הביתה, מעלה את מכפלת הניקוד שאתה מקבל אחרי כל סבב."
+upgrades.domesandrepair.desc,תקן נזק שנגרם לכיפה באמצעות קובלט.
+loadout.skinoptions.title,Choose your Skin!
+loadout.difficulty.medium.description,Dome‘s intended difficulty.
+loadout.difficulty.veryeasy.description,"עדיין לא קל, אבל יותר רגוע מרמות הקושי האחרות."
+options.game.tutorials,הדרכה
+upgrades.orchardbattlerootingmore.desc,Grow more roots that last longer.
+upgrades.probepersist1.title,סורק זוכר
+upgrades.keeper2pinballmorespheres2.title,Sphere Supply 2
+upgrades.orchardjetpack3.desc,"מעלה את הגברת המהירות של הפירות, הגורם לך לזוז מהר רצח."
+upgrades.probe.title,סורק
+upgrades.sword.title,חרב
+properties.shield.battledestructionprevention,זמן נוסף {}s
+upgrades.shieldbattlereflect.title,החזרה
+options.keybindings.action.general.use,שימוש
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,אחסון כפול
+upgrades.relichunt.desc,מתא את השריד הקבור עמוק באדמה והחזר אותו לכיפה שלך.
+loadout.mapsize.unlock.description,"Win a run with the previous map size, to unlock this map size."
+properties.sword.stabdamage,נזק דקירה {} 
+properties.keeper1.drillstrength,חוזק קדיחה {}
+worldmodifier.mapwildbiomes.desc,גבולות הביומים אינם סדירים.
+upgrades.condenser.title,מרכז
+upgrades.dome2badrepair2.title,החלמה מפגיעות 2
+options.game.screenshake.shakewhenmining,נער בעת חציבה
+upgrades.repellentdelay2.title,לעכב 2
+level.tutorial.assessor.reflect.desc,Hit|to reflect incoming kinetic spheres for a very short time.
+properties.drillbot.buffamount,פגיעות {} קדיחה אנרגתית
+upgrades.laserstrength2.title,כוח 2
+upgrades.jetpackstrength3.title,חוזק החזקה 3
+options.keybindings.action.general,כללי
+level.gameover.unlock.gadgetability,יכולת קרב למכשיר חדשה
+upgrades.jetpackstrength1.desc,שפר את תרמיל הריחוף כדי לסחוב יותר משאבים.
+upgrades.artillerymultishot1.desc,יורה כמה רימונים כל ירייה.
+properties.sword.reflectprojectiles,החזרת קליעים מאנרגיה
+upgrades.stunlaser.desc,Install a laser that auto targets and stuns monsters.
+upgrades.orchardbattleshieldstrong.desc,The projectile shields are stronger. Also gain an additional ability use after using overcharge.
+upgrades.orchardjetpack1.desc,"מעלה את הגברת המהירות של הפיירות, הגורם לך לזוז מהר יותר."
+upgrades.laser.desc,לייזר מדויק הנע לאורך הכיפה. במקור נועד לכריית אסטרואידים.
+properties.shield.maxstrength,Strength {} hp
+loadout.keeper,שומר
+worldmodifier.resourceunpredicatablecobalt.desc,המאגרי קובלט מפוזרים יותר וקשה יותר לנבא איפה הם.
+pause.quitgame,צא מהמשחק
+options.keybindings.rebinding.error.gamepad,לא ניתן להגדיר את זה כקלט של שלט
+upgrades.repellentbattleslowdownstun1.desc,"Use volatile spores in the mist to stun monsters, stopping them in their tracks for a short time."
+upgrades.swordfastreflection.title,החזרה מואצת
+upgrades.stunlaserduration2.title,סיבולת אש 2
+level.gameover.lose.title,הכיפה שלך אבודה
+worldmodifier.resourcescatterediron.desc,"יש יותר מאגרי ברזל, אבל הם קטנים יותר."
+properties.laser.dps,נזק {}
+options.game.screenshake.shakeintensity,עוצמת ניעור
+worldmodifier.hardnessharder.desc,יש אבנים יותר קשות במכרה.
+options.video.stretchmode,מצב מתיחה
+worldmodifier.monsterhealthy.desc,למפלצות יש יותר חיים.
+level.gameover.stats.mapsize,גודל המפה
+loadout.mode.longtime,מחזורים ארוכים
+upgrades.swordreflection3.desc,Max shield pad size.
+upgrades.repellentbattleslowdownstun2.desc,משתמש בנהגים יותר והזעזוע של המפלצות נמשך יותר זמן.
+upgrades.teleporterteleportresourcesarea.title,אזור שיגור
+upgrades.shieldoverchargeduration2.desc,Your shield battle ability will be active even longer in the next wave after overcharging.
+upgrades.shieldoverchargestrength1.title,הטענת יתר לחוזקת המגן 1
+upgrades.drillbotbuffstrength1.desc,חטיפים גורמים לדרילברט להיות אנרגתי ליותר זמן.
+upgrades.orchardoverchargebuffduration.title,הטענת יתר להשפעת הפרי
+level.tutorial.assessor.spheres.desc3,It recharges its power with each bounce.
+loadout.mode.longtime.desc,"יש לך פי שניים יותר זמן בין גלים, אבל הגלים יהיו חזקים יותר."
+level.tutorial.assessor.spheres.desc2,Choose a direction and release to shoot the sphere.
+upgrades.laserstrength1.desc,"משפר את עוצמת הלייזר שלך, אך הלייזר ינוע לאט יותר בזמן ירי."
+level.tutorial.assessor.spheres.desc1,Hold|to charge a kinetic sphere.
+upgrades.jetpackstrength4.title,חוזק החזקה 4
+upgrades.migration.desc,"תהגר מעולם לעולם, ובכך להפשיט כל אחד מהחומרים והשרידים לפני שתהייה מוצף."
+upgrades.orcharddrill1.desc,"Increase the fruits mining boost, letting you mine faster."
+upgrades.keeper2pinballdamage3.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+options.accessibility.highlightmonsters,הדגש מפלצות
+upgrades.prestigecobaltnocobalt.title,שלח קובלט
+properties.keeper2.spherebasedamage,Sphere Base Damage {}
+upgrades.orcharddrill3.desc,"Increase the fruits mining boost, letting you mine extremely fast."
+properties.converter.cobalttoiron,{} קובלט בשביל ברזל אחד
+level.tutorial.repair.usecobalt,אתה יכול להשתמש בקן לא כדי לתקן את הכיפה שלך. זה שידרוג בעץ התכנולוגי של הכיפה.
+upgrades.blastminingimpactdetonation.title,פיצוץ מגעי
+upgrades.swordfastreflection.desc,Reflected projectiles fly back faster.
+upgrades.liftcapacity1.title,כמות מקסימלית
+upgrades.artillery.desc,בזוקת תולעים.
+properties.sword.electricdamage,נזק חרב חשמלית {}
+level.station.upgrademenu.close,Close
+properties.shield.overchargebattleabilityduration,זמן נוסף ליכולת {.percent}
+pause.title,הפסק
+upgrades.artillerymultishot1title,יריית שרשרת 1
+properties.shield.battleadditionalabilitydurationafterdepletion,זמן נוסף ליכולת {} שניות
+upgrades.orchardbattlerootingexplosion.title,טרף מתפוצצת
+upgrades.blastminingproductiontime1.title,זמן ייצור
+options.video.stretchmode.scaled.text,"מראה את המשחק באיכות מתוקנת ומרחיב/מקטין את המחשק לגודל המסך שלך.
+יכול להיות מפוקסל, במיוחד באותיות, אבל אין שום בעיות חזותיות."
+upgrades.orchardduration3.title,משך 3
+upgrades.domewavecount.title,מדד מעגלים
+upgrades.shredgadgettoiron.title,שבור לברזל
+options.keybindings.rebinding.apply,בצע
+options.keybindings.restoredefault,החזר הגדרות למצבם הקודם
+upgrades.converterironduplication.title,שכפול ברזל
+title.navbar.credits,קרדיטס
+level.gameover.unlock.gadget,מכשיר חדש
+upgrades.jetpackspeed2.title,מהירות 2
+loadout.modeoptions.title,תבחר את מצב המשחק שלך!
+properties.keeper2.spherebaselifetime,Sphere Lifetime {}
+options.video.stretchmode.scaled,בקנה מידה
+properties.orchard.battleabilityduration,משך זמן היכולת הנוספת {}שניות
+upgrades.repellentbattleslowdownstun1.title,שיתוק
+loadout.difficulty.medium,Brutal
+options.audio.volumes,ווליום
+upgrades.keeper1.title,מהנדס
+upgrades.drillbotsleepless.title,תנאים בסיסיים
+upgrades.drillbot.title,דרילברט
+level.tutorial.assessor.carry.desc1,"Hold|to pull in resources, until they are locked onto you."
+level.tutorial.assessor.carry.desc2,Hit|to drop a resource.
+level.tutorial.drillbot.sleeping1,"Drillbert goes to sleep after a while, or when it meets a wall it can't dig."
+level.tutorial.assessor.carry.desc3,"If you aim into a direction while dropping a resource, it will be accelerated heavily."
+level.tutorial.drillbot.sleeping2,"When close to it, hit | to wake it."
+level.tutorial.drillbot.sleeping3,You can make it turn around by hitting | when it's awake.
+properties.keeper2.totalspheres,Spheres {}
+upgrades.shieldbattleblastdamage.title,פיצוץ קטלני
+upgrades.domeresourcecounters.desc,מציג את כמות המשאבים הצבורה.
+upgrades.swordextendlong1.desc,Improved stab strength and ability to guide in flight.
+worldmodifier.resourcerichwater.desc,בעולם הזה יש הרבה מים.
+upgrades.drillbotstrength1.desc,שפר את יכולת החפירה של דרילברט.
+upgrades.stunlaserautonomy1.desc,A simple AI will control the stun laser even when you are not inside the control station.
+properties.blastmining.radius,רדיוס הפיצוץ {} אריכים
+upgrades.jetpackstrength1.title,חוזק החזקה 1
+options.keybindings.apply,בצע
+upgrades.laserstrength2.desc,"משפר מאוד את עוצמת הלייזר שלך, אך הלייזר ינוע אף לאט יותר בזמן ירי."
+properties.laser.movespeedwhilefiring,מהירות בזמן ירי {.percent}
+properties.probe.markerretention,שימור סימונים {}שניות
+upgrades.swordexplosivereflection.title,החזרה מתפוצצת
+upgrades.condenserspeed2.desc,מפחית עוד יותר את הזמן הדרוש בשביל עיבוי מים אחד.
+upgrades.condenserspeed2.title,מהירות ייצור 2
+properties.stunlaser.firetime,זמן הירי {} שניות
+options.input.gamepad.gamepadstickdeadzone,שטח מת בג'ויסטיקים
+upgrades.keeper2movement2.desc,Improve your gravity generator to move faster.
+upgrades.shieldbattlelongerafterdepletion.desc,The blast will last longer if triggered after your shield runs out.
+properties.laser.bend,laser auto aims {}°
+level.station.upgrademenu.buy,Buy
+properties.drillbot.plantgrowthtime,זמן גדילת חטיפים {} מחזורים
+title.navbar.continue,המשך
+upgrades.repellentoverchargeduration1.desc,Overcharging your tank will also prolong any repellent battle ability you use in the next wave.
+upgrades.artilleryshotcooldown1.title,משך המתנה 1
+worldmodifier.resourceunpredicatablewater.desc,המאגרי מים מפוזרים יותר וקשה יותר לנבא איפה הם.
+level.tutorial.blastmining.popup_1,קח את טעינת הפיצוץ ועזוב אותה במקום שאתה רוצה להרוס אבנים.
+ending.thankyoumessage,תודה ששיחקתם!
+options.keybindings.rebinding.error.keyboard,לא ניתן להגדיר את זה כקלט של מקלדת
+upgrades.keeper2pinballdamagefraction.desc,The kinetic sphere transcends rock hardness and damages the rock by a fixed fraction of its health.
+upgrades.swordlargeblade1.title,להב כבד 1
+upgrades.shredgadgettoiron.desc,הרוס את המכשיר וקבל {amount} ברזל.
+upgrades.drillbot.desc,Adopt a loveable creature that loves to dig. Carry it into the mine and drop off where you want it to work. Check back to wake it up when it goes to sleep on the job.
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,חיים 1
+title.navbar.updates.close,סגור
+upgrades.swordaimline.desc,הוסף כוונת לייזר כדי לכוון את החרב לדקירה.
+upgrades.shieldoverchargeduration1.title,הטענת יתר לזמן יכולת הקרב 1
+level.converter.popup.explanation,הרם ממיר חומרים כדי להתחיל!
+upgrades.drillbotbuff1.title,חטיפים
+title.navbar.credits.close,סגור
+upgrades.keeper2movement3.desc,Improve your gravity generator to move faster.
+pause.quittotitlescreen,עזוב למסך הראשי
+loadout.prestige.countdown.description,The prestige multiplier starts high and decreases each cycle.
+upgrades.drill3.title,חוזק מקדחה 3
+upgrades.probestage1.title,סורק משופר
+properties.sword.stabarrowhead,הגברת גודל ראש החץ
+loadout.mapsize.huge.description,A huge map for the longest runs.
+properties.sword.stabspeed,מהירות הדקירה {.percent} 
+level.tutorial.teleporter.take1,Your teleporter has a station and a portal. You can teleport between them.
+worldmodifier.mapmaze.desc,המכרה מבוך.
+level.tutorial.teleporter.take2,Grab the Portal and place it where you like.
+options.keybindings.action.dome.battleability1,יכולת קרבית
+upgrades.laserbend.desc,התקן בסיס מסתובב ללייזר שממקד אותו אוטומטית במידה והוא מכוון קרוב מספיק.
+options.video.graphicsmode.fullscreen,מסך מלא
+options.keybindings.action.general.down,למטה
+level.tutorial.assessor.spheres,Kinetic Spheres
+level.tutorial.mineraltree1,"You just found a mineral tree seed. It can grow into a tree which roots into tiles. It will grow resources depending on the resources of the rooted tiles.
+Drop it on a tile to plant the seed."
+upgrades.blastmining.desc,Adds a machine under the dome that produces blast charges. Carry them into the mines and release to detonate.
+properties.sword.stabcooldown,הארך זמן קירור {}שניות 
+upgrades.repellentoverchargestrength2.desc,Further increase the delay until the next wave after overcharging.
+upgrades.probeswift1.desc,"Switch to a fast, short range probe with many charges."
+properties.drillbot.buffextraamount,פגיעות {} קדיחה נוספות
+level.gameover.unlock.keeper,שומר חדש
+upgrades.prospectionmeter.title,מד ראייה
+upgrades.shieldbattleactivateondepletion.desc,Invulnerability automatically activates an additional time when the shield runs out.
+upgrades.dome2badrepair1.title,החלמה מפגיעות 1
+upgrades.swordtargetlock.title,נעילת מטרה
+upgrades.laserhitprojectiles.title,פירוק יריות
+upgrades.keeper2pinballreflectspeedup1.title,Improved Reflection
+properties.shield.battleuses,שמושים בכל קרב {}
+options.game.events,אירועים
+upgrades.artilleryflakexplosionradius1.desc,הפיצוץ של הטילים גדול יותר.
+properties.keeper1.speedlosspercarry,כובד הנשיאה {}
+pause.gamepadcontrols.back,Back
+level.gameover.unlocknewelementbutton,Pick your unlock
+upgrades.prospectionmeteriron2.desc,Displays the direction to the nearest iron deposits.
+upgrades.prestige.desc,צבור נקודות על ידי שליחת כמות מירבית של משאבים הביתה לפני שהכיפה שלך תקרוס או שתעזוב את הכוכב בבטחה.
+properties.prestige.multiplier,{} Prestige Multiplier per Wave
+options.input.controls,מקשים
+properties.sword.reflectionacceleration,מהירות קליעים שהוחזרו {.percent}
+loadout.difficult.easier,easier
+upgrades.keeper2pinballreflectdamage1.title,Reflection Damage 1
+properties.sword.extendspeed,מהירות הארכה {} 
+properties.keeper2.reflectspeedup,Sphere Speedup on Reflection {.percent}
+loadout.mode.doubleiron,Double Iron
+upgrades.dome3.desc,לא זמין בגרסת הניסיון
+properties.condenser.growthtime,זמן ההפקה {} מחזורים
+options.game.languages,שפות
+worldmodifier.mapwidebottom.desc,"המכרה צר בהתחלה, ונהיה ממש רחב במעמקים."
+loadout.mode.maze,מבוך
+upgrades.dome2health1.desc,חזק את מבנה הכיפה ותקן אותה.
+properties.drillbot.drillstrength,חוזק קדיחה {}
+upgrades.keeper2.desc,כורה בלתי רגיל המשתמש בטכנולוגית כבידה נסיונית.
+properties.orchard.battleshields,שכבות המגנים {}
+level.tutorial.sworddome.reflecting.desc,"Use the sword's shield pad to stop projectiles, or even reflect them."
+options.audio.volumes.musicvolume,עוצמת ווליום המוזיקה
+loadout.dome,כיפה
+upgrades.swordlongblade2.title,להב ארוך 2
+upgrades.laseraimline.title,ראית לייזר
+level.tutorial.assessor.bundle.desc1,"Hold|while carrying resources, to charge a bundle."
+options.keybindings.keyboard,מקלדת
+level.tutorial.assessor.bundle.desc2,"Aim and release to shoot it, the same way you fire a kinetic sphere."
+properties.prestige.score,{} נקודות
+worldmodifier.mapdeep.desc,המכרה עמוק יותר ופחות רחב.
+upgrades.repellentbattleslowdownstun2.title,שיתוק חזק
+upgrades.keeper2pinballmorespheres1.title,Sphere Supply 1
+upgrades.prestigewater.desc,"שלח מים הביתה, מוסיף 1 לניקוד שאתה מקבל אחרי כל סבב."
+properties.keeper2.bundlestopcenter,Center Column Gravity Field
+upgrades.stunlaserdamage1.title,נזק 1
+upgrades.keeper2pinballlifetime1.title,Kinetic Sphere Lifetime 1
+properties.repellent.battleslowdown,האטת מפלצות {.percent}
+upgrades.swordextendlong1.title,דקירה ארוכה 1
+level.gameover.stats.distancetravelled,המרחק שעברת
+properties.keeper2.reflectlifetime,Additional Sphere Lifetime on Reflection {}s
+upgrades.blastminingimpactdetonation.desc,The blast charge will explode on impact with a surface.
+properties.keeper2.spheresplit,Split Incoming Spheres
+options.keybindings.action.dome.upgrade,שדרוגים
+worldmodifier.resourcepoorcobalt.desc,בעולם הזה יש מעט קובלט.
+pause.resumegame,חזור למשחק
+level.gameover.unlock.difficulty,רמת קושי חדשה נפתחה!
+properties.stunlaser.cooldown,זמן קירור {}שניות
+options.keybindings.action.general.right,ימינה
+level.tutorial.assessor.mining.desc,"To remove a single rock, you can move the rotating kinetic sphere into it."
+upgrades.teleporterteleportresourcesback.title,לשגר חומרים
+upgrades.dome1.title,כיפת לייזר
+upgrades.keeper2bundleinfinite.title,Enduring Bundle
+upgrades.repellentdelay1.title,לעכב 1
+upgrades.miner.desc,"In worlds without monsters, you can concentrate on mining as many resources as you want without distraction."
+upgrades.repellentbattlestrongerslowdown1.desc,The mist slows monsters more and lasts longer.
+upgrades.teleporterteleportresourcesarea.desc,המשגר ישגר חומרים ממרחק גדול יותר ממקודם.
+upgrades.dome3.title,כיפת רובה
+upgrades.swordstabshoot.desc,"Instead of retracting with a cable, the sword charges and is shot from the dome like a javelin."
+upgrades.repellentbattledamageovertime.desc,All monsters take a little damage for each second the toxic fumes persist.
+upgrades.shieldbattleactivateondepletion.title,מופעל בעת ירידת המגן
+upgrades.artillerymultishot2.desc,יורה כמה רימונים כל ירייה.
+upgrades.dome1health2.title,חיים 2
+worldmodifier.monsterlethal.desc,"המפלצות קטלניות, הן עושות יותר נזק."
+loadout.pet,Pet
+options.keybindings.action,פעולה
+upgrades.orcharddrill3.title,Mining Boost 3
+options.translation.title,תבחר את השפה שלך
+upgrades.prospectionmeterrange1.title,טווח 1
+upgrades.dome2badrepair2.desc,"הכיפה תתקן את עצמה אוטומטית אף יותר, במידה וספגה הרבה נזק במהלך קרב."
+options.audio.volumes.ambiencevolume,עוצמת ווליום האווירה
+upgrades.prestigecobaltnocobalt.desc,"שלח ברזל, מעלה את מכפלת ניקוד היוקרה אשר תקבל בכל גל."
+worldmodifier.maparms.desc,המכרה יותר סדוק.
+loadout.prestige.countdown,Countdown
+upgrades.keeper2pinballdamage2.title,Kinetic Sphere Damage 2
+upgrades.jetpackspeed1.title,מהירות 1
+upgrades.minerrefuel.title,Refuel
+upgrades.teleporterteleportduration1.title,זמן הטלפורטציה
+properties.probe.charges,טעינות {}
+loadout.miner.fuel.title,Fuel
+exhibition.title.press.anything,Press anything to play
+loadout.mode,מצב
+level.tutorial.sworddome.slicing,Slice
+properties.condenser.autoovercharge,Automated Overcharge
+upgrades.teleporterteleportduration1.desc,השיגור של עצמך ייקח פחות זמן.
+upgrades.prestigewater.title,תשלח מים
+level.gameover.continue,Continue
+upgrades.orchardbattleshield.desc,גדל מגן שמגן על הכיפה מקליעים.
+upgrades.liftcarrykeeper1.title,מעלית לשומר 1
+options.input.controls.keybindings,הגדרות מקשים
+properties.keeper2.bundlespheres,Bundle Spheres
+upgrades.shieldovercharge.title,הטענת יתר למגן
+properties.condenser.overchargedelay,Production Delay {} cycles
+upgrades.keeper2.title,מדען
+level.tutorial.assessor.mining,Rotational Mining
+upgrades.repellentoverchargeduration2.title,הטענת יתר לזמן יכולת הקרב 2
+upgrades.swordblade1.title,שיפור לחתיכה
+properties.converter.irontoiron,{} ברזל בשביל ברזל אחד
+exhibition.level.description,חוזר לתפריט הראשי בעוד ...
+level.tutorial.assessor.mining.desc2,"You can stop mining without shooting a sphere, by first releasing the directional keys."
+worldmodifier.monsterslow.desc,המפלצות איטיות יותר.
+upgrades.orcharddrill2.desc,"Increase the fruits mining boost, letting you mine even faster."
+loadout.difficulty.easy.description,טיפה יותר סלחני בהרבה היבטים.
+upgrades.swordstabexplode.title,דקירה עם הזמנה מתפוצצת
+level.gameover.stats.additionalgadget,Additional Gadget
+upgrades.drillbotbuffstrength2.desc,"אחרי שהוא מקבל חטיף, דרילברט יעבוד הרבה יותר לפני שהוא יהפוך לישנוני."
+upgrades.laserstrength3.desc,"משפר את כוח הלייזר שלך באופן מסיבי, אך הלייזר בקושי יזוז בזמן ירי."
+loadout.mapsize.medium,בינוני
+loadout.difficulty.hard,You asked for it
+level.gameover.stats.wavessurvived,הגלים ששרדת
+properties.stunlaser.damage,נזק {}
+options.keybindings.rebinding.cancel,ביטול
+level.tutorial.sworddome.stabbing.desc,Extend the sword and stab distant enemies.
+level.gameover.unlock.gamemodevariant,גרסת משחק שונה
+upgrades.prestigefinish.title,עזוב את הכוכב
+properties.keeper2.bundleduration,Bundle Lifetime {.percent}
+upgrades.shieldstrength3.title,חוזק 3
+options.audio.volumes.mastervolume,עוצמת הווליום המרכזי
+upgrades.shieldbattlelongerafterdepletion.title,הגברת ירידת המגן
+options.keybindings.text,"ערוך את מיפוי המקשים לנוחיותך.
+מקשים מחלקים שונים לרוב יכולים לחפוף בלי בעיה (לדוגמה להשתמש באותם המקשים להזיז את דמות השחקן ואת הנשק שעל הכיפה)."
+properties.shield.battleblastdamage,{} נזק הפיצוץ בכל שנייה
+loadout.mapsize.large.description,A large map for sessions lasting more than an hour.
+upgrades.drill4.desc,חזק את המקדח כדי לחפור מהר יותר.
+upgrades.drillbotsleepless.desc,דרילברט יעבור הרבה יוצר לפני שהוא יהפוך לישנוני.
+upgrades.swordlargeblade2.title,להב כבד 2
+upgrades.swordlongblade2.desc,"הגבר את מהירות הלהב אף יותר, כך שהוא קופץ חזרה כשהוא פוגע בקצוות."
+upgrades.prestigefinishnocobalt.title,עזוב את הכוכב
+worldmodifier.hardnessmoderated.desc,יש מעט מאד אבנים ממש קשות וממש חלשות.
+upgrades.converterironduplication.desc,משכפל ברזל.
+upgrades.prestigefinish.desc,עזוב את הכוכב הזה ותחזור בחזרה הביתה.
+upgrades.dome2health2.desc,חזק את מבנה הכיפה ותקן אותה.
+upgrades.prestige.title,ניקוד אין סופי
+upgrades.liftcarrykeeper1.desc,The lift boosts your speed when moving upwards inside it.
+upgrades.repellentbattlehealthreduction.desc,"מחליש את כל המפלצות, ישר מוריד להם את החיים הנוצרו להם."
+upgrades.dome2.title,כיפת חרב
+worldmodifier.monsterfast.desc,המפלצות מהירות יותר.
+upgrades.condenserautocollect.desc,"Automates water collection, removing the need for you to pick it up manually."
+upgrades.lift.title,מעלית
+options.game.screenshake,ניעור מסך
+options.keybindings.action.dome,כיפה
+upgrades.swordstabexplodedamage.desc,מגדיל את הזק שהפצצה עושה.
+level.gameover.stats.resourcesmined,חומרים חצובים
+worldmodifier.resourcepoorwater.desc,בעולם הזה יש מעט מים.
+upgrades.prospectionmeter.desc,A meter showing the distance to the nearest resources. Can be upgraded to also show direction.
+upgrades.shredgadgettocobalt.title,הרוס לקובלט
+upgrades.swordelectrified.desc,"חשמל זורם דרך הלהב, גורם נזק במגע."
+upgrades.artilleryflakexplosionradius2.desc,הפיצוץ של הטילים גדול יותר.
+upgrades.prospectionmeterwater1.title,מד מים
+upgrades.minerwater.desc,Send water offworld to increase your prestige.
+options.video.graphicsmode,מצב גרפי
+upgrades.shieldbattlereflectspeedup.desc,"Reflected projectiles fly back at a higher speed, increasing their chances of hitting the attacker."
+properties.shield.battleblaststun,זעזוע הפיצוץ {}
+loadout.mode.hyperactive.desc,"מפלצות זזות הרבה יותר מהר, אבל יש להן פחות חיים."
+upgrades.swordstabexplode.desc,"החרב מספקת פצצה, היא מתפוצצת במגע הראשון עם מפלצת בזמן דקירה."
+upgrades.swordstabfast2.title,דקירה מהירה 2
+upgrades.converterefficientwater.desc,"המרת מים הופך ליותר אפקטיב, אבל לוקח יותר זמן."
+upgrades.orchardduration1.desc,Effects of the fruit last longer.
+loadout.difficulty.title,רמת קושי
+exhibition.level.heading,אתה עדיין שם?
+level.gameover.unlock.gamemode,סוג משחק חדש
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,מגפה
+upgrades.teleporterteleportreactivate.title,להפעיל מחדש טלפורט אישי
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,שמע
+upgrades.repellentovercharge.desc,Use water to overcharge your tank to produce the next load of repellent faster.
+upgrades.domewavemeter.title,מד סכנות קרובות
+upgrades.prospectionmeterrange2.desc,מגדיל את הטווח של מד הראייה עוד יותר.
+upgrades.keeper2pinballreflectspeedup1.desc,"Spheres are powered when reflected, which will accelerate them and let them float for longer upon reflection."
+upgrades.shieldoverchargestrength1.desc,Increases how much damage the overcharged shield absorbs.
+upgrades.repellentdelay1.desc,הגבר את העיכוב של הגל הבא.
+upgrades.repellentbattlelongerhealthreduction.title,מגפה חזקה
+upgrades.swordtargetlock.desc,"When stabbed, the sword automatically locks on to the first monster it targets."
+upgrades.orchardovercharge.desc,"משתמש במים כדי להטעין יתר את העץ, גורם לו להפיק פירות יותר מהר."
+upgrades.orchardbattlerootingmore.title,שורשים חזקים
+upgrades.swordextendlong2.desc,Further improved stab strength and more precise control in flight.
+upgrades.swordstabfast1.title,דקירה מהירה 1
+upgrades.probelong1.desc,"Increases the range of the probe ping, but lose a charge slot."
+upgrades.repellent.title,דוחה
+worldmodifier.monsterwavesspaced.desc,גלי המפלצות רחוקים אחד מהשני.
+upgrades.artilleryflakexplosionradius2.title,רדיוס טילים 2
+properties.drillbot.amount,פגיעות {} קדיחה
+upgrades.repellentdelay3.title,לעכב 3
+ending.appreciationmessage,"אנו מקווים שהיה לך כיף! אנו תמיד מעריכים את המשוב שלך, ספר לנו מה אתה חושב על המשחק בדיסקורד או בסטים :)"
+properties.orchard.battlerootexplosion,Explosion damage {}
+upgrades.orchardduration3.desc,Max fruit effects length.
+upgrades.dome1damagereduction2.desc,הקשח את פני השטח של הכיפה אף יותר על מנת לספוג פחות נזק ממתקפות של מפלצות מטווח קרוב. נזק מקליעים אינו מושפע.
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,שפר את הג'טפאק כדי לנוע מהר יותר.
+upgrades.jetpackspeed3.desc,שפר את הג'טפאק כדי לנוע מהר יותר.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,אפשרויות
+properties.repellent.battledamageovertime,מפלצות מקבלות {} נזק כל שנייה
+upgrades.repellentoverchargestrength1.title,הטענת יתר למעכב הגלים 1
+upgrades.repellentoverchargestrength1.desc,Overcharging also increases the delay time until the next wave.
+upgrades.blastminingproductiontime1.desc,מקטין את הזמן שבו מייצרים מטענים מתפוצצים.
+properties.teleporter.teleportresourcescooldown,זמן טלפורטציית חומרים {}שניות
+upgrades.artilleryflakmultishot1.desc,יורה יותר קליעים.
+properties.converter.ironcobalttime,{} מחזורים לזמן ההמרה
+options.title,אפשרויות
+options.video.graphicsmode.window,חלון
+properties.shield.battlereflectspeedup,מהירות קליעים שהוחזרו {.percent}
+upgrades.swordaimline.title,קיו מטרה
+level.tutorial.drillbot.handling1,Hold | to pick up Drillbert again.
+upgrades.probestage1.desc,"משפר את הסורק, הופך אותו לטוב יותר בהכל."
+level.tutorial.drillbot.handling2,"Hit | to make it change direction, if on ground."
+options.keybindings.rebinding.capture,שמור
+properties.prospectionmeter.range,טווח {} אריכים
+properties.stunlaser.speed,מהירות {}
+properties.probe.impulsespeed,מהירות הדחף {}
+upgrades.domehealthmeter.title,מד חיים
+options.audio.music.frequency,Frequentness (cycles without music)
+options.audio.volumes.soundvolume,עוצמת ווליום הקולות
+properties.sword.slicebounceback,חרב קופצת בקצה
+upgrades.jetpackspeed4.desc,שפר את הג'טפאק כדי לנוע מהר יותר.
+worldmodifier.monsterfragile.desc,למפלצות יש פחות חיים.
+level.gameover.prestige.score.personalbest,השיא האישי החדש שלך!
+properties.prestige.baseperwave,{} נקודות לבסיס כל גל
+loadout.choices.comingsoon,"Not yet available, but coming soon."
+upgrades.doublelaser.desc,"מתקין יורה לייזר שני, אבל מחלק את הכוח של הלייזר בין שניהם."
+upgrades.jetpackstrength2.title,חוזק החזקה 2
+upgrades.keeper2bundlestopcenter.title,Gravity Center
+properties.keeper2.spherelifetimeperbounce,Additional Sphere Lifetime per Bounce {}s
+upgrades.converterefficientcobalt.desc,"המרת קובלט הופך ליותר אפקטיב, אבל לוקח יותר זמן."
+properties.orchard.buffduration,זמן ההשפעה {} מעגלים
+upgrades.domesandrepair.title,תיקון על ידי קובלט
+properties.keeper2.maxspeed,Top Speed {}
+level.station.upgrademenu.cost,עלות
+upgrades.lasermove1.title,מהירות תנועה 1
+level.tutorial.sworddome.reflecting,Reflect
+loadout.petoptions.title,Choose your Pet!
+level.station.upgrademenu.inventory,מלאי
+level.gameover.unlockpicker.title,בחר בדבר החדש
+level.gameover.proceedtounlock,Unlock a new element
+upgrades.artilleryshotcooldown2.desc,יורה לעתים קרובות יותר.
+level.gameover.keepgadget.title,Select a Gadget To Keep For Your Next Run
+level.station.battle.navbar.shoot,Shoot
+upgrades.repellentbattlestrongerslowdown1.title,קפאון
+upgrades.dome2.desc,כיפה חזקה עם חרב דינמית ששומרים יכולים להתמחות בה כדי לרסק תוקפים.
+loadout.difficulty.easy,Hard
+upgrades.condenserautocollect.title,איסוף אוטומטי
+upgrades.orchard.title,פרדס
+upgrades.keeper2pinballreflectspeedup2.desc,Spheres are intensely powered up when reflected.
+upgrades.laserstrength1.title,כוח 1
+upgrades.lasermove2.title,מהירות תנועה 2
+upgrades.shieldbattlereflectshortuses.desc,מחזיר לעיתים קרובות יותר לזמן קצר.
+options.keybindings.action.keeper.drop,הפל
+level.converter.popup.conversion.to,ל
+upgrades.repellent.desc,"Install a tank that produces a monster repelling liquid. Activate to spray it outside the dome, delaying the next wave of attackers."
+properties.repellent.battlehealthreduction,צמצום חיי המפלצות {.percent}
+loadout.mode.hyperactive,Quick & Feeble
+upgrades.miner.title,Miner
+upgrades.converter.title,ממיר חומרים
+properties.condenser.waterstorage,מכיל {} מים
+upgrades.jetpackstrength2.desc,שפר את תרמיל הריחוף כדי לסחוב יותר משאבים.
+level.station.navbar.exit,Exit
+options.accessibility.photosensitivity.explanation,מפחית אורות מהבהבים.
+properties.orchard.overchargeadditionalabilityuses,{} מספר השתמשות ביכולות נוספות אחרי הטענת יתר
+worldmodifier.resourcepooriron.desc,בעולם הזה יש מעט ברזל.
+level.gameover.backtomainmenu,Back to main menu
+upgrades.orchardbattlerooting.desc,Activate in battle to grow roots outside the dome that will trap any medium sized monster stepping on them.
+upgrades.keeper2pinballreflect.desc,"Reflect spheres with a high powered, small gravity field around yourself."
+upgrades.laser.title,לייזר
+options.game.tutorials.resettutorials,אפס הדרכה
+properties.converter.ironirontime,{} מחזורים לזמן ההמרה
+loadout.secondstage.start,התחל משחק
+upgrades.artilleryflakmultishot2.desc,יורה יותר קליעים.
+upgrades.swordreflection2.desc,Even larger shield pad.
+upgrades.lasermove3.title,מהירות תנועה 3
+upgrades.lasermove1.desc,הלייזר זז מהר יותר.
+properties.lift.orbs,{} כדורים
+options.keybindings.action.general.move,תנועה
+upgrades.orchardjetpack2.title,הגברת מהירות ג'טפאק 2
+options.audio.music,מנגינה
+worldmodifier.resourceunpredicatableiron.desc,המאגרי ברזל מפוזרים יותר וקשה יותר לנבא איפה הם.
+properties.dome.maxhealth,חיים {}נקודות חיים
+upgrades.condenserspeed1.title,מהירות ייצור 1
+properties.repellent.battleuses,שמושים בכל קרב {}
+upgrades.shieldstrength3.desc,מגדיל עוד יותר את כמות הנזק שהמגן של הכיפה יכול לספוג.
+upgrades.drillbotbuffstrength2.title,Taurine Addition
+upgrades.keeper2pinballreflectdamage2.desc,Reflected spheres will deal much more damage to the rock they hit next.
+level.paused,Paused
+level.tutorial.sworddome.stabbing,Stab
+upgrades.stunlaserspeed1.title,מהירות 1
+upgrades.domehealthmeter.desc,מציג את מצב השלמות המבנית של הכיפה.
+upgrades.swordlargeblade1.desc,"הרחב והארך את הלהב, בכדי לגרום יותר נזק."
+title.navbar.quit,צא מהמשחק
+level.station.battle.navbar.slice,Slice 
+level.gameover.stats.timeplayed,משך המשחק
+properties.teleporter.teleportresources,לשגר חומרים
+upgrades.drillbotstrength2.desc,שפר את יכולת החפירה של דרילברט.
+level.tutorial.drop.popup_2,Hit | to drop one. Hold to drop many.
+level.gameover.keepgadget.keeping,Gadget to keep: {gadget}
+level.tutorial.drop.popup_1,חומרים שאתה נושאה מאטים אותך.
+worldmodifier.maprugged.desc,המכרה מחוספס ולא סדיר.
+level.tutorial.onewayteleporter1,מצאת משגר חד כיווני!
+properties.sword.aimline,Aim Prediction
+upgrades.keeper2bundle.desc,"Attached minerals can be shot as a bundle, in the same way you shoot kinetic spheres."
+level.tutorial.onewayteleporter2,Press|to place the eye.
+level.tutorial.onewayteleporter3,Press again to teleport back to it.
+properties.lift.capacity,כדורים נושאים {} חומרים
+properties.shield.battleabilityduration,משך זמן היכולת הנוספת {}שניות
+level.tutorial.teleporter.carry2,"Hold | to pick up the portal again, when close to it."
+level.tutorial.teleporter.carry3,"If you hit |, you will teleport back."
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,You can move the portal anywhere you want.
+level.converter.popup.cancel,Cancel
+level.tutorial.probe.popup_1,Hit | to emit a probe impulse.
+upgrades.liftcarrykeeper2.desc,המעלית תגביר לך אפילו יותר את המהירות.
+level.tutorial.probe.popup_3,זה מראה כמה מהחומרים שנמצאים לידך. כדי להטעין מחדש חזור לתחנה שלו שבכיפה.
+worldmodifier.resourcerichcobalt.desc,בעולם הזה יש הרבה קובלט.
+upgrades.keeper2pinballdamage4.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+properties.sword.stabexplosive,קצה פצצה רכוב
+properties.drillbot.turnaround,בעת פגיעה בקיר קשה תסתובב בחזרה
+upgrades.shieldstrength1.title,חוזק 1
+properties.repellent.overchargewavedelay,זמן עיכוב לגל נוסף {} מעגלים
+upgrades.swordreflection3.title,החזרה 3
+upgrades.dome1.desc,"כיפת חציבה סטנדרטית, מצוידת בלייזר מדויק."
+level.tutorial.drillbot.carry,"Take Drillbert from its tank, and place it in the mine, where it should dig."
+upgrades.lift.desc,Install an automated lift that brings mined resources up for processing in the dome.
+upgrades.dome1health2.desc,חזק את יציבות הכיפה.
+upgrades.converterefficientwater.title,המרת מים אפקטיבית
+loadout.difficulty.hard.description,"טוב, זו הכיפה שלך שאתה מפסיד."
+upgrades.artillerymultishot2.title,יריית שרשרת 2
+upgrades.swordelectrified.title,להב מחושמל
+upgrades.drillbotstrength3.desc,שפר את יכולת החפירה של דרילברט.
+upgrades.shieldbattleinvulnerable.title,חסינות
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,אוטונומיה
+level.tutorial.teleporter.teleport1,"When close to the portal, hit | to teleport back."
+level.tutorial.teleporter.teleport2,You can also teleport in the other direction.
+level.gameover.prestige.uploading.failed,"ההעלאה נכשלה, נסה עוד פעם"
+upgrades.lasermove2.desc,הלייזר זז אפילו מהר יותר.
+loadout.mapsize.title,גודל המפה
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,פיצוץ 1
+upgrades.drillbotturnaround.desc,"כשהוא פוגש קיר שלא יכול להישבר, דרילברט יסתובב בחזרה במקום לדפוק תנומה."
+properties.dome.baserepair,תקן {}נקודות חיים
+upgrades.condenserautoovercharge.desc,"Keeps your primary gadget permanently overcharged, without using up water. Condenser water production will be delayed after overcharging."
+upgrades.teleporterteleportresourcesback.desc,"The portal now teleports resources, but can't teleport you back anymore. You can still teleport from the dome to the portal."
+ending.wishlistonsteam,הוסף ל-wishlist ב-Steam
+properties.sword.reflection,מגדיל את גודלו של המגן
+upgrades.drillbotduplicate.desc,"דרילברט מקבל אח תאום, דריליאם."
+level.converter.popup.conversion.convert,המר
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} מים בשביל ברזל אחד
+title.navbar.options,אפשרויות
+upgrades.swordexplosivereflection.desc,Reflected projectiles explode when they hit something.
+upgrades.shieldbattlereflectshortuses.title,החזרה מתוזמנת
+level.gameover.unlock.skin,New skin unlocked!
+level.gameover.stats.destroyedblocks,בלוקים הרוסים
+options.keybindings.action.keeper.gravityball,Charge Shot
+upgrades.orchardjetpack1.title,הגברת מהירות ג'טפאק 1
+upgrades.keeper1.desc,"איש מיומן, יעיל עם כישורי חציבה מעולים."
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,כוח 3
+upgrades.orchardoverchargebuffduration.desc,The fruit effects will last for longer after overcharging the orchard.
+upgrades.stunlaserduration1.title,סיבולת אש 1
+loadout.mode.maze.desc,"המפה דמוית מבוך, עם הרבה מעברים, מבוים סתומים ופיתולים."
+properties.dome.healthfractionrepair,תתקן {.percent} מסך הכל החיים
+upgrades.jetpackstrength3.desc,שפר את תרמיל הריחוף כדי לסחוב יותר משאבים.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,זוהתה תנועה:
+upgrades.prospectionmetersand1.title,מד קובלט
+upgrades.prospectionmeterwater1.desc,Displays the distance to the nearest water deposits.
+upgrades.blastminingstickycharge.desc,"טעינות נדבקות לקיר הראשון בו הן נוגעות, ומתפוצצות בצורת תעלה במקום עיגול."
+options.video,וידאו
+title.navbar.updates,עדכונים
+loadout.skin,Skin
+upgrades.shieldstrength2.title,חוזק 2
+level.gameover.win.title,הכיפה שלך הוצלה
+level.station.navbar.battle,Battle
+upgrades.converterirontocobalt.desc,מאפשר להמיר קובלט לברזל ולהפך.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,כיפה חדשה
+pause.gamepadcontrols.pickup,Pickup
+options.video.graphicsmode.photosensitive,מצב רגישות לאור
+upgrades.orchardduration2.desc,Effects of the fruit last even longer.
+properties.dome.meleedamagereduction,Melee Damage Reduction {.percent}
+upgrades.domesandrepairstrong.desc,תקן נזק שנגרם לכיפה באמצעות קובלט.
+options.input,קלט
+properties.keeper2.spherereload,Sphere Reload {}s
+properties.blastmining.damage,נזק {}
+upgrades.laserbend.title,בסיס מסתובב ללייזר
+upgrades.swordlargeblade3.desc,להב מפלצתי. רב עצמה אך איטי מאוד.
+loadout.domeoptions.title,תבחר את הכיפה שלך!
+upgrades.shieldoverchargeduration1.desc,Overcharging your shield will also prolong any shield battle ability you use in the next wave.
+upgrades.probelong1.title,טווח ארוך
+options.keybindings.rebinding.inputprocessor,לחץ על כפתור חדש עבור הפעולה הבאה…
+properties.teleporter.teleportduration,זמן הטלפורטציה {}שניות
+upgrades.dome2health2.title,חיים 2
+upgrades.drillbotduplicate.title,אחים
+pause.quit.popup,"Are you sure you want to quit?
+Press again to do so.
+(your progress is saved)"
+upgrades.prospectionmetersand2.desc,Displays the direction to the nearest cobalt deposits.
+upgrades.probepersist1.desc,"Add a memory module to the probe, marking the location of resources for longer."
+upgrades.artilleryshotcooldown2.title,משך המתנה 2
+properties.keeper2.sphereadditionalfirsthitdamage,Additional First Hit Damage {.percent}
+upgrades.shieldbattledestructionprevention.title,עמידה אחרונה
+level.gameover.unlock.pet,New pet unlocked!
+upgrades.repellentbattlelongerhealthreduction.desc,המגפה חזקה יותר ונמשכת ליותר זמן.
+ending.feedbackondiscord,משוב בדיסקורד
+properties.keeper2.reflectnexthitdamage,Additional Sphere Damage on Reflection for Next Bounce {.percent}
+options.video.graphicsmode.borderlesswindow,חלון קטן
+upgrades.keeper2pinballlifetime1.desc,"Stabilize the kinetic sphere, so it will float for longer."
+level.gadgetchoice.title,בחר מכשיר!
+upgrades.keeper2bundle.title,Bundle Shot
+upgrades.relichunt.title,צייד שרידים
+loadout.mode.doubleiron.desc,"Iron desposits are twice as rich, but upgrades cost twice the iron too."
+level.tutorial.repair.findcobalt,"Try to find some cobalt. You can repair your dome with it.
+It is rare and finite."
+upgrades.keeper2pinballsplit.title,Split Spheres
+options.input.controls.text,משוחק הכי טוב עם שלט.
+landing.proceed,Press anything to continue
+upgrades.keeper2pinballmorespheres1.desc,"Add an additional module to your gravity generator, so it can corral more kinetic spheres."
+upgrades.jetpackstrength4.desc,שפר את תרמיל הריחוף כדי לסחוב יותר משאבים.
+upgrades.orchardbattleshieldsecondlayer.desc,גדל עוד שכבה של מגני קליעים.
+level.converter.popup.conversion.time,over {time} cycles
+properties.keeper1.maxspeed,מהירות מקסימלית {}
+properties.laser.aimline,קיו מטרה
+upgrades.shieldstrength2.desc,מגדיל אפילו יותר את כמות הנזק שהמגן של הכיפה יכול לספוג.
+upgrades.repellentovercharge.title,Overcharge Repellent
+properties.drillbot.buffstrength,האצה אנרגתית {.percent}
+worldmodifier.hardnesssofter.desc,יש אבנים יותר חלשות במכרה.
+level.tutorial.pickup.popup_1,Hit | to pick up a resource.
+level.tutorial.pickup.popup_3,החזק כדי להרים הרבה.
+pause.gamepadcontrols.drop,Drop
+level.tutorial.fruit.popup_1,Your orchard just grew its first fruit.
+level.tutorial.fruit.popup_2,"When next to it, hit | to consume it."
+worldmodifier.mapwide.desc,המכרה רחב יותר ופחות עמוק.
+upgrades.prestigefinishnocobalt.desc,עזוב את הכוכב הזה ותחזור הביתה.
+upgrades.prospectionmeteriron2.title,מצפן ברזל
+upgrades.keeper2movement2.title,Gravitational Movement 2
+options.keybindings.gamepad,שלט
+ending.backtomainmenu,Back to main menu
+level.tutorial.fullscreen.back,back
+upgrades.shield.title,מגן
+upgrades.blastmining.title,כרייה מתפוצצת
+upgrades.converterirontocobalt.title,המרת קובלט
+upgrades.swordstabfast1.desc,דקירה מהירה יותר ולעתים קרובות יותר.
+level.gameover.prestige.score.rankunchanged,אין שינוי במיקום.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,השער מקבל בחזרה את היכולת לשגר אותך.
+upgrades.orchardjetpack3.title,הגברת מהירות ג'טפאק 3
+level.gameover.unlock.mapsize,גודל מפה חדש נפתח!
+upgrades.domeresourcecounters.title,מלאי
+level.gameover.keepgadget.none,none
+upgrades.stunlaserdamage1.desc,Adds a small amount of damage to the stun laser.
+properties.repellent.battleabilityduration,משך זמן היכולת הנוספת {}שניות
+upgrades.prestigeiron.desc,"שלח ברזל הביתה, מוסיף 1 לניקוד שאתה מקבל אחרי כל סבב."
+upgrades.teleporter.title,משגר
+ending.teasemessage,הצצה קטנה למה שיבוא בעתיד:
+loadout.relichunt.modifiers,Choose your Modifiers
+options.accessibility,נגישות
+loadout.mapsize.small.description,מפה קטנה למשימות קצרות.
+upgrades.shieldbattleblastdamage.desc,Increases the damage and stun effect of the electro blast.
+options.translation.community.desc,שפות אלו תורגמו על ידי הקהילה הנפלאה שלנו. הצטרפו אליהם אם תרצו!
+upgrades.prospectionmeterwater2.desc,Displays the direction to the nearest water deposits.
+upgrades.stunlaserdamage2.title,נזק 2
+options.keybindings.action.keeper.gadget1,מכשיר 1
+options.keybindings.action.keeper.gadget2,מכשיר 2
+properties.repellent.wavedelay,עיכוב הגל {} מעגלים
+options.ok,אישור
+upgrades.swordblade1.desc,שפר את עוצמת החתיכה והמהירות של החרב שלך.
+upgrades.shieldoverchargeduration2.title,הטענת יתר לזמן יכולת הקרב 2
+properties.sword.slicedamage,נזק חתיכה {} 
+properties.condenser.autocollect,איסוף אוטומטי
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,"Shot bundles will stay right under the dome, instead of flying past the central axis."
+upgrades.orchardduration1.title,משך 1
+upgrades.drillbotbuffstrength1.title,חטיפים מזינים
+upgrades.liftcarrykeeper2.title,מעלית לשומר 2
+upgrades.shieldoverchargestrength2.desc,Further increases how much damage the overcharged shield absorbs.
+upgrades.repellentbattleslowdown.title,התשה
+upgrades.artilleryshotprediction.title,ניבואה הקליע
+upgrades.repellentdelay3.desc,הגבר עוד יותר את העיכוב של הגל הבא.
+upgrades.teleporter.desc,A two-way teleporter with a station under the dome and portal that can be placed and moved around the mines.
+level.gameover.stats.monsterskilled,מפלצות נהרגו
+upgrades.keeper2pinballreflect.title,Sphere Reflection
+upgrades.drillbotstrength3.title,חוזק 3
+upgrades.shieldbattlereflectspeedup.title,החזרה מואצת
+upgrades.probeswift1.title,סורק מהיר
+options.game.events.enableseasonal,enable seasonal content
+upgrades.repellentbattledamageovertime.title,עשן רעיל
+upgrades.dome3health2.title,חיים 2
+loadout.mapsize.huge,ענק
+properties.repellent.overchargebattleabilityduration,זמן נוסף ליכולת {.percent}
+options.keybindings.action.keeper.gravitycollect,Charge Collect
+loadout.miner.scores.title,Scores
+properties.lift.speed,מהירות הכדורים {}
+upgrades.drillbotstrength1.title,חוזק 1
+level.tutorial.repellent.popup_2,"When close to it, hit | to activate it."
+level.tutorial.repellent.popup_1,הדוחה שלך מוכן לעכב את הגל הבא.
+properties.orchard.growthtime,זמן הגדילה {} מחזורים
+properties.keeper2.spherefractiondamage,Sphere Damage transcending Rock Hardness {.percent}
+properties.sword.brake,זריזות החרב {}
+upgrades.artilleryflakmultishot2.title,יריית טילים מרבית 2
+upgrades.swordstabfast2.desc,Stab even faster and more often.
+upgrades.sword.desc,חרב עמידה הגורמת נזק מתגבר ככל שמניפים אותה רחוק יותר לאורך הכיפה בעת החיתוך. ניתנת לשיגור כדי לדקור מפלצות ובעלת רפידת מגן בבסיס החוסמת קליעים.
+upgrades.artilleryflakmultishot1.title,יריית טילים מרבית 1
+upgrades.artilleryshotprediction.desc,מראה את המיקום שבו הרימון ינחת.
+upgrades.shieldbattlereflect.desc,Trigger an active combat ability that reflects incoming projectiles for a short time.
+upgrades.orchardbattleshieldstrong.title,מגנים חזקים
+upgrades.swordlongblade1.title,להב ארוך 1
+level.station.battle.navbar.stab,Stab
+properties.converter.irontowater,{} ברזל בשביל מים אחד
+upgrades.minoriron.title,Send Iron
+upgrades.keeper2bundleinfinite.desc,Bundles will stay stable for a very long time.
+worldmodifier.resourcedesc,"יש מעט מאגרי ברזל, אבל הם גדולים מאד."
+options.keybindings.action.keeper,שומר
+upgrades.drillbotstrength4.desc,שפר את יכולת החפירה של דרילברט.
+upgrades.swordstabexplodedamage.title,נזק הפצצה
+upgrades.prospectionmeterwater2.title,מצפן מים
+loadout.keeperoptions.title,תבחר את השומר שלך!
+properties.probe.range,{} אריכים טווח
+upgrades.orchardbattleshield.title,מגן קליעים
+loadout.mapsize.large,גדול
+properties.keeper2.reflectsphere,Reflect Incoming Spheres
+upgrades.orchardbattlerooting.title,מלכודת שורשים
+properties.repellent.growthtime,זמן ההפקה {} מחזורים
+properties.converter.irontocobalt,{} ברזל בשביל קובלט אחד
+upgrades.dome3health1.desc,חזק את יציבות הכיפה.
+upgrades.teleporterteleportresourcescooldown.title,קירור טלפורטציה
+upgrades.shieldovercharge.desc,Use water to manually overcharge your shield so it absorbs more damage in the next wave.
+upgrades.stunlaserspeed2.title,מהירות 2
+upgrades.drillbotbuff1.desc,Treats grow at the nest under the dome. Take them to Drillbert who will happily gobble them up to get energized.
+options.keybindings.action.dome.battle,מצב קרב
+upgrades.orchardovercharge.title,Overcharge Orchard
+properties.teleporter.teleportresourcesarea,אורך הטווח {} אריכים
+upgrades.swordreflection1.desc,מגדיל את גודלו של המגן וגורם לו להחזיר קליעים.
+upgrades.blastminingblast2.title,פיצוץ 2
+upgrades.swordreflection1.title,החזרה 1
+upgrades.keeper2pinballlifetime2.desc,"Stabilize the kinetic sphere, so it will float for longer."
+options.keybindings.action.general.left,שמאלה
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,חזק את יציבות הכיפה.
+upgrades.drill2.title,חוזק מקדחה 2
+options.keybindings.rebinding,מגדיר מחדש
+level.tutorial.assessor.carry.desc1_1,"Once locked onto you, they will follow you even if you release the collection key."
+upgrades.keeper2pinballdamage1.title,Kinetic Sphere Damage 1
+upgrades.stunlaserspeed2.desc,לייזר ההלם זז יותר מהר יותר וממשיך לעקוב אחרי המפלצות כשהוא מתקרר.
+options.keybindings.title,מיפוי מקשים
+upgrades.keeper2pinballmorespheres2.desc,"Add an additional module to your gravity generator, so it can corral more kinetic spheres."
+level.gameover.prestige.uploading.finalfailed,"העלאת הניקוד החדש נכשלה, סליחה!"
+upgrades.blastminingblast1.desc,מגביר את עוצמת הפיצוץ.
+upgrades.stunlaserduration2.desc,לייזר ההלם מתקרר מהר יותר ויורה לזמן ארוך יותר.
+upgrades.prospectionmetersand1.desc,Displays the distance to the nearest cobalt deposits.
+pause.gamepadcontrols.move,Move
+properties.blastmining.bombs,Charges {}
+upgrades.drillbotstrength2.title,חוזק 2
+loadout.prestige.cobalt.description,"במפה אין קובלט ואי אפשר להפיק אותו, אבל אתה מתחיל עם מלא ממנו."

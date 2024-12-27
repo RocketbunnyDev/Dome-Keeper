@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/giraffe.wav-94e0780aa92372b790dfafe3fcb7b322.sample"
+
+[deps]
+
+source_file="res://content/sounds/Amb/giraffe.wav"
+dest_files=[ "res://.import/giraffe.wav-94e0780aa92372b790dfafe3fcb7b322.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

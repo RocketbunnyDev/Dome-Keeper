@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/dope3.ogg-19bbbf928c528359b1086ebda27a5951.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/dope3.ogg"
+dest_files=[ "res://.import/dope3.ogg-19bbbf928c528359b1086ebda27a5951.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

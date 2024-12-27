@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Beast_hit_03.wav-c8ecc0d4c598959206f1a20a85c64439.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/beast/Beast_hit_03.wav"
+dest_files=[ "res://.import/Beast_hit_03.wav-c8ecc0d4c598959206f1a20a85c64439.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

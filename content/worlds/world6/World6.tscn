@@ -1,0 +1,191 @@
+[gd_scene load_steps=26 format=2]
+
+[ext_resource path="res://content/worlds/World.tscn" type="PackedScene" id=1]
+[ext_resource path="res://content/worlds/world6/Layer3.png" type="Texture" id=2]
+[ext_resource path="res://content/worlds/world6/Layer4.png" type="Texture" id=3]
+[ext_resource path="res://content/worlds/world6/Layer8.png" type="Texture" id=4]
+[ext_resource path="res://content/worlds/world6/Layer2.png" type="Texture" id=5]
+[ext_resource path="res://content/worlds/world6/Layer9.png" type="Texture" id=6]
+[ext_resource path="res://content/worlds/world6/Layer5.png" type="Texture" id=7]
+[ext_resource path="res://content/worlds/world6/Layer10.png" type="Texture" id=8]
+[ext_resource path="res://content/worlds/world6/Layer13.png" type="Texture" id=9]
+[ext_resource path="res://content/worlds/world6/Layer6.png" type="Texture" id=10]
+[ext_resource path="res://content/worlds/world6/Layer11.png" type="Texture" id=11]
+[ext_resource path="res://content/worlds/world6/Layer1.png" type="Texture" id=12]
+[ext_resource path="res://content/worlds/world6/Layer12.png" type="Texture" id=13]
+[ext_resource path="res://content/worlds/world6/Layer7.png" type="Texture" id=14]
+[ext_resource path="res://content/sounds/Amb/amb_whilesailing_BASS.wav" type="AudioStream" id=15]
+
+[sub_resource type="Curve2D" id=1]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, -363, -26, -31.748, 2.11653, 31.748, -2.11653, -136, -18, 0, 0, 0, 0, 78, -21, 0, 0, 0, 0, 103, -22 )
+}
+
+[sub_resource type="Curve2D" id=2]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, -363, -35, -34.3937, 0.529134, 34.3937, -0.529134, -164, -26, 0, 0, 0, 0, 103, -29 )
+}
+
+[sub_resource type="Curve2D" id=3]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, -360, -17, -45, 1, 45, -1, -111, -10, 0, 0, 0, 0, 75, -13, 0, 0, 0, 0, 111, -13 )
+}
+
+[sub_resource type="Curve2D" id=4]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 654, -5, 30.3333, 0.333333, -30.3333, -0.333333, 373, -7, 0, 0, 0, 0, 207, -17 )
+}
+
+[sub_resource type="Curve2D" id=5]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 654, -11, 0, 0, 0, 0, 376, -15, 0, 0, 0, 0, 206, -23 )
+}
+
+[sub_resource type="Curve2D" id=6]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 655, -16, 47.6125, 1.83502, -47.6125, -1.83502, 396, -20, 0, 0, 0, 0, 212, -32 )
+}
+
+[sub_resource type="Curve2D" id=7]
+_data = {
+"points": PoolVector2Array( -41.0415, -3.22296, 41.0415, 3.22296, -336, -20, -47.8866, -1.85197, 47.8866, 1.85197, -133, -14, 0, 0, 0, 0, 166, -23 )
+}
+
+[sub_resource type="Curve2D" id=8]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, -362, -18, -59.6831, 1.41262, 59.6831, -1.41262, -145, -5, 0, 0, 0, 0, 136, -12 )
+}
+
+[sub_resource type="Curve2D" id=9]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 679, -8, 0, 0, 0, 0, 413, -9, 0, 0, 0, 0, 191, -27 )
+}
+
+[sub_resource type="Curve2D" id=10]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 679, -4, 0, 0, 0, 0, 409, -1, 0, 0, 0, 0, 190, -13 )
+}
+
+[node name="World" instance=ExtResource( 1 )]
+allowedMonsters = [  ]
+allowedPalettes = [ 1, 2, 3, 4, 5, 6 ]
+
+[node name="Ambience" parent="." index="0"]
+stream = ExtResource( 15 )
+volume_db = -26.655
+
+[node name="WeatherSystem" parent="." index="1"]
+enabled = true
+ClearPercentage = 85
+Lightning = false
+Fog = false
+Snow = false
+Meteors = false
+
+[node name="ParallaxBackground" parent="." index="2"]
+scrollSpeeds = [ 0.0, 0.04, 0.08, 0.1, 0.15, 0.3, 0.2, 0.4, 0.6, 0.75, 0.85, 1.0, 1.0, 1.0 ]
+
+[node name="Background1" type="Sprite" parent="ParallaxBackground" index="0"]
+texture = ExtResource( 9 )
+offset = Vector2( 0, 40 )
+
+[node name="Background2" type="Sprite" parent="ParallaxBackground" index="1"]
+texture = ExtResource( 13 )
+offset = Vector2( -55, 121 )
+
+[node name="Background3" type="Sprite" parent="ParallaxBackground" index="2"]
+texture = ExtResource( 11 )
+offset = Vector2( 136, 21 )
+
+[node name="Background4" type="Sprite" parent="ParallaxBackground" index="3"]
+texture = ExtResource( 8 )
+offset = Vector2( -222, 41 )
+
+[node name="Background5" type="Sprite" parent="ParallaxBackground" index="4"]
+texture = ExtResource( 6 )
+offset = Vector2( 143, 76 )
+
+[node name="Background6" type="Sprite" parent="ParallaxBackground" index="5"]
+texture = ExtResource( 4 )
+offset = Vector2( -150, -132 )
+
+[node name="Background7" type="Sprite" parent="ParallaxBackground" index="6"]
+texture = ExtResource( 14 )
+offset = Vector2( -401, -112 )
+
+[node name="Background8" type="Sprite" parent="ParallaxBackground" index="7"]
+texture = ExtResource( 10 )
+offset = Vector2( 365, 146 )
+
+[node name="Background9" type="Sprite" parent="ParallaxBackground" index="8"]
+texture = ExtResource( 7 )
+offset = Vector2( 0, 73 )
+
+[node name="Background10" type="Sprite" parent="ParallaxBackground" index="9"]
+texture = ExtResource( 3 )
+offset = Vector2( 0, 146 )
+
+[node name="Position2D" type="Position2D" parent="ParallaxBackground" index="10"]
+position = Vector2( -55, 0 )
+
+[node name="BackgroundHub" type="Position2D" parent="ParallaxBackground/Position2D" index="0"]
+position = Vector2( 157, 206 )
+
+[node name="Background11" type="Sprite" parent="ParallaxBackground" index="11"]
+texture = ExtResource( 2 )
+offset = Vector2( 0, 170 )
+
+[node name="Foreground01" type="Sprite" parent="ParallaxBackground" index="12"]
+z_index = 200
+texture = ExtResource( 5 )
+offset = Vector2( 0, 250 )
+
+[node name="Foreground02" type="Sprite" parent="ParallaxBackground" index="13"]
+texture = ExtResource( 12 )
+offset = Vector2( 0, 274 )
+
+[node name="Ground" parent="." index="3"]
+visible = false
+
+[node name="LeftPath1" type="Path2D" parent="WalkMediumPaths" index="0"]
+position = Vector2( -152, 0 )
+curve = SubResource( 1 )
+
+[node name="LeftPath2" type="Path2D" parent="WalkMediumPaths" index="1"]
+position = Vector2( -152, 0 )
+curve = SubResource( 2 )
+
+[node name="LeftPath3" type="Path2D" parent="WalkMediumPaths" index="2"]
+position = Vector2( -152, 0 )
+curve = SubResource( 3 )
+
+[node name="RightPath1" type="Path2D" parent="WalkMediumPaths" index="3"]
+position = Vector2( -152, 0 )
+curve = SubResource( 4 )
+
+[node name="RightPath2" type="Path2D" parent="WalkMediumPaths" index="4"]
+position = Vector2( -152, 0 )
+curve = SubResource( 5 )
+
+[node name="RightPath3" type="Path2D" parent="WalkMediumPaths" index="5"]
+position = Vector2( -152, 0 )
+curve = SubResource( 6 )
+
+[node name="WalkLargePaths" parent="." index="5"]
+visible = false
+
+[node name="LeftPath1" type="Path2D" parent="WalkLargePaths" index="0"]
+position = Vector2( -182, -6 )
+curve = SubResource( 7 )
+
+[node name="LeftPath2" type="Path2D" parent="WalkLargePaths" index="1"]
+position = Vector2( -152, 0 )
+curve = SubResource( 8 )
+
+[node name="RightPath1" type="Path2D" parent="WalkLargePaths" index="2"]
+position = Vector2( -152, 0 )
+curve = SubResource( 9 )
+
+[node name="RightPath2" type="Path2D" parent="WalkLargePaths" index="3"]
+position = Vector2( -152, 0 )
+curve = SubResource( 10 )

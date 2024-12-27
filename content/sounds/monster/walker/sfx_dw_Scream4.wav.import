@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/sfx_dw_Scream4.wav-ad647cb12b71f2447e40b18b5e58ebf0.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/walker/sfx_dw_Scream4.wav"
+dest_files=[ "res://.import/sfx_dw_Scream4.wav-ad647cb12b71f2447e40b18b5e58ebf0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

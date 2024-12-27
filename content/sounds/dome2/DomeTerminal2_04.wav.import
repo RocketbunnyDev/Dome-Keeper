@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DomeTerminal2_04.wav-dcdfdb3398ddf0637ea3475c49f54b29.sample"
+
+[deps]
+
+source_file="res://content/sounds/dome2/DomeTerminal2_04.wav"
+dest_files=[ "res://.import/DomeTerminal2_04.wav-dcdfdb3398ddf0637ea3475c49f54b29.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

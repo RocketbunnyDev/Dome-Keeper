@@ -1,0 +1,88 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://content/monster/walker/monster1_stun0.png" type="Texture" id=5]
+[ext_resource path="res://content/monster/walker/monster1_stun1.png" type="Texture" id=6]
+[ext_resource path="res://content/monster/walker/monster1_stun2.png" type="Texture" id=10]
+[ext_resource path="res://content/monster/walker/monster1_stun3.png" type="Texture" id=11]
+[ext_resource path="res://test/party/welt15.png" type="Texture" id=32]
+[ext_resource path="res://test/party/Party.gd" type="Script" id=36]
+[ext_resource path="res://gui/theme.tres" type="Theme" id=38]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 5 ), ExtResource( 6 ), ExtResource( 10 ), ExtResource( 11 ) ],
+"loop": true,
+"name": "default",
+"speed": 10.0
+} ]
+
+[node name="PartyEndingStage" type="Node"]
+script = ExtResource( 36 )
+
+[node name="welt15" type="Sprite" parent="."]
+position = Vector2( 5, -22 )
+texture = ExtResource( 32 )
+
+[node name="Dancer1" type="AnimatedSprite" parent="."]
+position = Vector2( -150, 30 )
+frames = SubResource( 1 )
+frame = 2
+playing = true
+
+[node name="Dancer2" type="AnimatedSprite" parent="."]
+position = Vector2( -85, 33 )
+frames = SubResource( 1 )
+frame = 1
+playing = true
+
+[node name="Dancer3" type="AnimatedSprite" parent="."]
+position = Vector2( -110, 32 )
+frames = SubResource( 1 )
+frame = 1
+playing = true
+flip_h = true
+
+[node name="Dancer7" type="AnimatedSprite" parent="."]
+position = Vector2( -43, 39 )
+frames = SubResource( 1 )
+frame = 1
+playing = true
+flip_h = true
+
+[node name="Dancer4" type="AnimatedSprite" parent="."]
+position = Vector2( 72, 40 )
+frames = SubResource( 1 )
+frame = 1
+playing = true
+
+[node name="Dancer5" type="AnimatedSprite" parent="."]
+position = Vector2( 154, 40 )
+frames = SubResource( 1 )
+frame = 1
+playing = true
+flip_h = true
+
+[node name="Dancer6" type="AnimatedSprite" parent="."]
+position = Vector2( 129, 41 )
+frames = SubResource( 1 )
+frame = 1
+playing = true
+flip_h = true
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2( 5, -22 )
+current = true
+zoom = Vector2( 0.167, 0.167 )
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+
+[node name="Label2" type="Label" parent="Canvas"]
+margin_left = 472.0
+margin_top = 1020.0
+margin_right = 1448.0
+margin_bottom = 1045.0
+theme = ExtResource( 38 )
+text = "- press space to continue -"
+align = 1
+
+[node name="Tween" type="Tween" parent="."]

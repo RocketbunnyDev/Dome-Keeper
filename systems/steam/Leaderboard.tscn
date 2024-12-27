@@ -1,0 +1,176 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://gui/panels/panel_outside.tres" type="StyleBox" id=2]
+
+[sub_resource type="GDScript" id=1]
+script/source = "extends Control
+
+var entry = preload(\"res://systems/steam/LeaderboardEntryTemplate.tscn\")
+
+# Declare member variables here. Examples:
+#var LEADERBOARD_HANDLES: Dictionary = {
+#	\"top_score\": 1,
+#	\"most_kills\": 2,
+#	\"most_games\": 3
+#}
+
+var pia: PoolIntArray = [0]
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	SteamGlobal.Steam.connect(\"leaderboard_find_result\", self, \"_leaderboard_Find_Result\")
+	SteamGlobal.Steam.connect(\"leaderboard_score_uploaded\", self, \"_leaderboard_Score_Uploaded\")
+	SteamGlobal.Steam.connect(\"leaderboard_scores_downloaded\", self, \"_leaderboard_Scores_Downloaded\")
+	
+	SteamGlobal.Steam.findLeaderboard(\"endless\")
+	#SteamGlobal.Steam.uploadLeaderboardScore( score, keep_best, details, handle )
+	
+
+func _leaderboard_Find_Result(handle: int, found: int) -> void:
+	
+	if found == 1:
+		var LEADERBOARD_HANDLE = handle
+		print(\"Leaderboard handle found: \"+str(LEADERBOARD_HANDLE))
+	else:
+		print(\"No Leaderboard handle was found\")
+
+#fires on leaderboard upload
+func _leaderboard_Score_Uploaded(success: int, score: int, score_changed: int, new_rank: int, prev_rank:int) -> void:
+	print(\"...\",success)
+	if success == 1:
+		print(\"Successfully uploaded scores!\")
+		$uploadLabel.text = \"Successfully uploaded scores!\"
+		# Add additional logic to use other variables passed back
+	else:
+		print(\"Failed to upload scores!\")
+		$uploadLabel.text = \"Failed to upload scores!\"
+
+#fires on download
+func _leaderboard_Scores_Downloaded(message: String, result: Array) -> void:
+	randomize()
+	print(\"Scores downloaded message: \"+str(message))
+
+	#draws score to ui
+	for R in result:
+		var unique_entry = entry.instance()
+		unique_entry.get_node(\"Rank\").text = str(R.global_rank)
+		#unique_entry.get_node(\"Player\").text = str(R.steam_id)
+		unique_entry.get_node(\"Player\").text = SteamGlobal.Steam.getFriendPersonaName(R.steam_id)
+		unique_entry.get_node(\"Score\").text = str(R.score)
+		get_node(\"Background/LeaderboardBoundries/Leaderboard\").add_child(unique_entry)
+		
+	print(\"Succsses\")
+
+func _on_Button_pressed():
+	var score_string = $TextEdit.text
+	var score_int = int(score_string)
+	print(score_int)
+	print(score_int is int)
+	#must be called later
+	#inte = score_int
+	$uploadLabel.text = \"wait!\"
+	yield(get_tree().create_timer(1),\"timeout\")
+	$uploadLabel.text = \"wait over!\"
+	SteamGlobal.Steam.uploadLeaderboardScore(score_int, true)
+
+
+func _on_Button2_pressed():
+		#to show details set in prev. section
+	var DETAILS_MAX: int = SteamGlobal.Steam.setLeaderboardDetailsMax(0)
+	print(\"Max details: \"+ str(DETAILS_MAX))
+	
+	SteamGlobal.Steam.downloadLeaderboardEntries( 1, 10, 0,0)
+"
+
+[node name="Control" type="Control"]
+margin_right = 28.0
+margin_bottom = 24.0
+script = SubResource( 1 )
+
+[node name="Background" type="PanelContainer" parent="."]
+margin_left = 378.0
+margin_top = 129.0
+margin_right = 1009.0
+margin_bottom = 751.0
+custom_styles/panel = ExtResource( 2 )
+
+[node name="LeaderboardBoundries" type="VBoxContainer" parent="Background"]
+margin_left = 32.0
+margin_top = 32.0
+margin_right = 599.0
+margin_bottom = 590.0
+
+[node name="LeaderboardHeader" type="HBoxContainer" parent="Background/LeaderboardBoundries"]
+margin_right = 567.0
+margin_bottom = 14.0
+
+[node name="Ranku" type="Label" parent="Background/LeaderboardBoundries/LeaderboardHeader"]
+margin_right = 200.0
+margin_bottom = 14.0
+rect_min_size = Vector2( 200, 0 )
+text = "rank"
+
+[node name="Playeru" type="Label" parent="Background/LeaderboardBoundries/LeaderboardHeader"]
+margin_left = 204.0
+margin_right = 404.0
+margin_bottom = 14.0
+rect_min_size = Vector2( 200, 0 )
+text = "Player"
+
+[node name="Scoreu" type="Label" parent="Background/LeaderboardBoundries/LeaderboardHeader"]
+margin_left = 408.0
+margin_right = 443.0
+margin_bottom = 14.0
+text = "Score"
+
+[node name="Line" type="HSeparator" parent="Background/LeaderboardBoundries"]
+margin_top = 18.0
+margin_right = 567.0
+margin_bottom = 22.0
+
+[node name="Leaderboard" type="VBoxContainer" parent="Background/LeaderboardBoundries"]
+margin_top = 26.0
+margin_right = 567.0
+margin_bottom = 26.0
+
+[node name="Button" type="Button" parent="."]
+anchor_right = 7.749
+anchor_bottom = 3.496
+margin_left = 460.0
+margin_top = 879.0
+margin_right = 268.04
+margin_bottom = 821.16
+text = "Upload"
+
+[node name="Button2" type="Button" parent="."]
+anchor_right = 7.749
+anchor_bottom = 3.496
+margin_left = 637.0
+margin_top = 880.0
+margin_right = 466.04
+margin_bottom = 822.16
+text = "Download and show"
+
+[node name="Label" type="Label" parent="."]
+margin_left = 415.0
+margin_top = 780.0
+margin_right = 561.0
+margin_bottom = 794.0
+text = "Please Enter a Number"
+
+[node name="TextEdit" type="TextEdit" parent="."]
+anchor_bottom = 0.148
+margin_left = 407.0
+margin_top = 807.0
+margin_right = 823.0
+margin_bottom = 855.892
+text = "0"
+
+[node name="uploadLabel" type="Label" parent="."]
+margin_left = 884.0
+margin_top = 929.0
+margin_right = 1119.0
+margin_bottom = 959.0
+
+[connection signal="pressed" from="Button" to="." method="_on_Button_pressed"]
+[connection signal="pressed" from="Button2" to="." method="_on_Button2_pressed"]

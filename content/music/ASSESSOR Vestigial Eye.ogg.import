@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ASSESSOR Vestigial Eye.ogg-63ea5b37f6f829a25578bc05744167e0.oggstr"
+
+[deps]
+
+source_file="res://content/music/ASSESSOR Vestigial Eye.ogg"
+dest_files=[ "res://.import/ASSESSOR Vestigial Eye.ogg-63ea5b37f6f829a25578bc05744167e0.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

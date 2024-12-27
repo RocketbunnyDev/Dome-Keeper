@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ENGINEER Lost in the Mines.ogg-ed993853bea327df46919391a0e2695c.oggstr"
+
+[deps]
+
+source_file="res://content/music/ENGINEER Lost in the Mines.ogg"
+dest_files=[ "res://.import/ENGINEER Lost in the Mines.ogg-ed993853bea327df46919391a0e2695c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

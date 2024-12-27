@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/eeerie.ogg-39c440ba20903f3403d0cbcacfbfa6e4.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/eeerie.ogg"
+dest_files=[ "res://.import/eeerie.ogg-39c440ba20903f3403d0cbcacfbfa6e4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

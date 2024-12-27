@@ -1,0 +1,41 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://stages/loadout/DummyMonster.gd" type="Script" id=2]
+[ext_resource path="res://stages/loadout/HittableLetter.gd" type="Script" id=3]
+[ext_resource path="res://gui/fonts/FontMonoHeadingOutlined.tres" type="DynamicFont" id=4]
+
+[sub_resource type="CapsuleShape2D" id=1]
+
+[node name="HittableLetter" type="Label"]
+self_modulate = Color( 1, 1, 1, 0 )
+margin_right = 44.0
+margin_bottom = 65.0
+size_flags_horizontal = 4
+theme = ExtResource( 1 )
+custom_fonts/font = ExtResource( 4 )
+text = "C"
+align = 1
+script = ExtResource( 3 )
+
+[node name="HitArea" type="Area2D" parent="." groups=["monster"]]
+collision_layer = 128
+collision_mask = 0
+script = ExtResource( 2 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="HitArea"]
+position = Vector2( 0.0720825, 0 )
+shape = SubResource( 1 )
+
+[node name="VisibleLetter" type="Label" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -22.5
+margin_top = -54.5
+margin_right = 17.5
+margin_bottom = 54.5
+rect_pivot_offset = Vector2( 20, 50 )
+custom_colors/font_color = Color( 1, 0.92549, 0.839216, 1 )
+custom_fonts/font = ExtResource( 4 )

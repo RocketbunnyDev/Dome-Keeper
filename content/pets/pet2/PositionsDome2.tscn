@@ -1,0 +1,81 @@
+[gd_scene format=2]
+
+[node name="PetPositions" type="Node2D"]
+
+[node name="Position1_1_right" type="Position2D" parent="."]
+position = Vector2( -21, -2 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position1_2_left" type="Position2D" parent="."]
+position = Vector2( 41, -36 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position1_3_left" type="Position2D" parent="."]
+position = Vector2( 27, -27 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position1_4" type="Position2D" parent="."]
+position = Vector2( 39, -5 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position2_1" type="Position2D" parent="."]
+position = Vector2( 39, -5 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position2_2" type="Position2D" parent="."]
+position = Vector2( 1, -2 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position3_1_right" type="Position2D" parent="."]
+position = Vector2( -21, 2 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position3_2_left" type="Position2D" parent="."]
+position = Vector2( 20, 4 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position4_1" type="Position2D" parent="."]
+position = Vector2( 38, -4 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position4_2" type="Position2D" parent="."]
+position = Vector2( 29, 6 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position4_3" type="Position2D" parent="."]
+position = Vector2( -26, 6 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position5_1_left" type="Position2D" parent="."]
+position = Vector2( 23, 4 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position5_2_right" type="Position2D" parent="."]
+position = Vector2( -17, -3 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}

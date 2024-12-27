@@ -1,0 +1,111 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://content/gamemode/prestige/leaderboard/PrestigeLeaderboard.gd" type="Script" id=2]
+
+[sub_resource type="ButtonGroup" id=2]
+
+[sub_resource type="ButtonGroup" id=1]
+
+[node name="PrestigeLeaderboard" type="PanelContainer"]
+margin_left = 330.0
+margin_right = 830.0
+margin_bottom = 700.0
+rect_min_size = Vector2( 500, 730 )
+theme = ExtResource( 1 )
+script = ExtResource( 2 )
+
+[node name="MarginContainer2" type="MarginContainer" parent="."]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 533.0
+margin_bottom = 718.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer2"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 505.0
+margin_bottom = 690.0
+
+[node name="SeasonButtons" type="HBoxContainer" parent="MarginContainer2/VBoxContainer"]
+margin_right = 489.0
+margin_bottom = 57.0
+
+[node name="ButtonSeason1" type="Button" parent="MarginContainer2/VBoxContainer/SeasonButtons"]
+margin_right = 236.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+toggle_mode = true
+group = SubResource( 2 )
+text = "season 1"
+
+[node name="ButtonSeason2" type="Button" parent="MarginContainer2/VBoxContainer/SeasonButtons"]
+margin_left = 252.0
+margin_right = 489.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+toggle_mode = true
+pressed = true
+group = SubResource( 2 )
+text = "season 2"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer2/VBoxContainer"]
+margin_top = 73.0
+margin_right = 489.0
+margin_bottom = 130.0
+
+[node name="ButtonShowFriends" type="Button" parent="MarginContainer2/VBoxContainer/HBoxContainer"]
+margin_right = 241.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+toggle_mode = true
+pressed = true
+group = SubResource( 1 )
+text = "leaderboard.friends"
+
+[node name="ButtonShowLeaderboard" type="Button" parent="MarginContainer2/VBoxContainer/HBoxContainer"]
+margin_left = 257.0
+margin_right = 489.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+toggle_mode = true
+group = SubResource( 1 )
+text = "leaderboard.global"
+
+[node name="LeaderboardLoadingLabel" type="Label" parent="MarginContainer2/VBoxContainer"]
+margin_top = 146.0
+margin_right = 489.0
+margin_bottom = 171.0
+text = "leaderboard.loading"
+
+[node name="FriendsContainer" type="VBoxContainer" parent="MarginContainer2/VBoxContainer"]
+visible = false
+margin_top = 73.0
+margin_right = 767.0
+margin_bottom = 98.0
+
+[node name="FriendsLeaderboardContainer1" type="GridContainer" parent="MarginContainer2/VBoxContainer/FriendsContainer"]
+margin_top = 57.0
+margin_right = 444.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_constants/vseparation = 5
+columns = 6
+
+[node name="LeaderboardContainer" type="VBoxContainer" parent="MarginContainer2/VBoxContainer"]
+margin_top = 187.0
+margin_right = 489.0
+margin_bottom = 187.0
+
+[node name="GlobalLeaderboardContainer1" type="GridContainer" parent="MarginContainer2/VBoxContainer/LeaderboardContainer"]
+margin_right = 489.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_constants/vseparation = 5
+columns = 6
+
+[node name="Tween" type="Tween" parent="."]
+
+[connection signal="pressed" from="MarginContainer2/VBoxContainer/HBoxContainer/ButtonShowFriends" to="." method="_on_ButtonShowFriends_pressed"]
+[connection signal="pressed" from="MarginContainer2/VBoxContainer/HBoxContainer/ButtonShowLeaderboard" to="." method="_on_ButtonShowLeaderboard_pressed"]

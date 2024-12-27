@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fucking creepy.ogg-4710da118bbb5e32083414198158b6f3.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/fucking creepy.ogg"
+dest_files=[ "res://.import/fucking creepy.ogg-4710da118bbb5e32083414198158b6f3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

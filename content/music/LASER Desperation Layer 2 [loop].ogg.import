@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/LASER Desperation Layer 2 [loop].ogg-db649f23abe7536373fd93f0a5d0b264.oggstr"
+
+[deps]
+
+source_file="res://content/music/LASER Desperation Layer 2 [loop].ogg"
+dest_files=[ "res://.import/LASER Desperation Layer 2 [loop].ogg-db649f23abe7536373fd93f0a5d0b264.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/jellyfishtonal_03.wav-c1a4db7114fc298690d94ffc1cf72e5e.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper2/jellyfishtonal_03.wav"
+dest_files=[ "res://.import/jellyfishtonal_03.wav-c1a4db7114fc298690d94ffc1cf72e5e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

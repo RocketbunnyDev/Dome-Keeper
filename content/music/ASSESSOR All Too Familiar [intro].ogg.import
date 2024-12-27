@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ASSESSOR All Too Familiar [intro].ogg-595da3145c3822518d7661ba6751ec53.oggstr"
+
+[deps]
+
+source_file="res://content/music/ASSESSOR All Too Familiar [intro].ogg"
+dest_files=[ "res://.import/ASSESSOR All Too Familiar [intro].ogg-595da3145c3822518d7661ba6751ec53.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

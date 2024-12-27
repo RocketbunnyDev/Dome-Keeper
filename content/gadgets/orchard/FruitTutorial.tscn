@@ -1,0 +1,69 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://gui/buttons/Action.tscn" type="PackedScene" id=2]
+[ext_resource path="res://content/gadgets/orchard/FruitTutorial.gd" type="Script" id=3]
+[ext_resource path="res://content/gadgets/orchard/dome1/orchard_tutpic.png" type="Texture" id=4]
+
+[node name="FruitTutorial" type="MarginContainer"]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -582.0
+margin_top = -120.0
+grow_horizontal = 0
+grow_vertical = 0
+theme = ExtResource( 1 )
+script = ExtResource( 3 )
+moveInDelay = 1.0
+minTimeToWave = 30.0
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 566.0
+margin_bottom = 130.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 538.0
+margin_bottom = 102.0
+
+[node name="OrchardImage" type="TextureRect" parent="PanelContainer/HBoxContainer"]
+margin_right = 84.0
+margin_bottom = 90.0
+rect_min_size = Vector2( 84, 90 )
+texture = ExtResource( 4 )
+stretch_mode = 6
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/HBoxContainer"]
+margin_left = 100.0
+margin_right = 401.0
+margin_bottom = 90.0
+
+[node name="Label" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer"]
+margin_right = 301.0
+margin_bottom = 25.0
+text = "level.tutorial.fruit.popup_1"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/HBoxContainer/VBoxContainer"]
+margin_top = 41.0
+margin_right = 301.0
+margin_bottom = 66.0
+custom_constants/separation = 6
+
+[node name="Label1" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+margin_bottom = 25.0
+
+[node name="ActionUse" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer" instance=ExtResource( 2 )]
+margin_left = 6.0
+margin_right = 6.0
+margin_bottom = 25.0
+action = "keeper_use"
+
+[node name="Label2" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+margin_left = 12.0
+margin_right = 12.0
+margin_bottom = 25.0

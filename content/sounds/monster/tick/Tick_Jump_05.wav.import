@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Tick_Jump_05.wav-d385f58b8d52580c52cd68ed9aac1b86.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/tick/Tick_Jump_05.wav"
+dest_files=[ "res://.import/Tick_Jump_05.wav-d385f58b8d52580c52cd68ed9aac1b86.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

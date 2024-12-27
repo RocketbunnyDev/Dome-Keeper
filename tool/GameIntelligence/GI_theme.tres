@@ -1,0 +1,92 @@
+[gd_resource type="Theme" load_steps=21 format=2]
+
+[ext_resource path="res://gui/panels/panel_inside.tres" type="StyleBox" id=1]
+[ext_resource path="res://gui/sliders/slider_ver.tres" type="StyleBox" id=2]
+[ext_resource path="res://tool/GameIntelligence/GIFontNormal.tres" type="DynamicFont" id=3]
+[ext_resource path="res://gui/seperator.tres" type="StyleBox" id=4]
+[ext_resource path="res://gui/buttons/button_normal.tres" type="StyleBox" id=5]
+[ext_resource path="res://gui/buttons/button_pressed.tres" type="StyleBox" id=6]
+[ext_resource path="res://gui/sliders/bar_hor.tres" type="StyleBox" id=8]
+[ext_resource path="res://gui/buttons/button_hover.tres" type="StyleBox" id=9]
+[ext_resource path="res://gui/sliders/slider_hor.tres" type="StyleBox" id=10]
+[ext_resource path="res://gui/sliders/slider_ver_highlight.tres" type="StyleBox" id=11]
+[ext_resource path="res://gui/sliders/slider_hor_highlight.tres" type="StyleBox" id=12]
+[ext_resource path="res://gui/buttons/button_focus.tres" type="StyleBox" id=13]
+[ext_resource path="res://gui/buttons/button_disabled.tres" type="StyleBox" id=14]
+[ext_resource path="res://gui/sliders/grabber_normal.png" type="Texture" id=15]
+[ext_resource path="res://gui/sliders/tick.png" type="Texture" id=16]
+[ext_resource path="res://gui/sliders/grabber.png" type="Texture" id=17]
+[ext_resource path="res://gui/sliders/slider_fill_highlight.tres" type="StyleBox" id=18]
+[ext_resource path="res://gui/sliders/slider_fill.tres" type="StyleBox" id=19]
+[ext_resource path="res://gui/buttons/checkbox_checked.png" type="Texture" id=20]
+[ext_resource path="res://gui/buttons/checkbox_normal.png" type="Texture" id=21]
+
+[resource]
+default_font = ExtResource( 3 )
+Button/colors/font_color = Color( 0.313726, 0.568627, 0.470588, 1 )
+Button/colors/font_color_disabled = Color( 0.9, 0.9, 0.9, 0.2 )
+Button/colors/font_color_hover = Color( 1, 0.831373, 0.639216, 1 )
+Button/colors/font_color_pressed = Color( 1, 1, 1, 1 )
+Button/constants/hseparation = 2
+Button/fonts/font = ExtResource( 3 )
+Button/styles/disabled = ExtResource( 14 )
+Button/styles/focus = ExtResource( 13 )
+Button/styles/hover = ExtResource( 9 )
+Button/styles/normal = ExtResource( 5 )
+Button/styles/pressed = ExtResource( 6 )
+CheckBox/icons/checked = ExtResource( 20 )
+CheckBox/icons/unchecked = ExtResource( 21 )
+GridContainer/constants/hseparation = 16
+GridContainer/constants/vseparation = 4
+HBoxContainer/constants/separation = 16
+HScrollBar/icons/decrement = null
+HScrollBar/icons/decrement_highlight = null
+HScrollBar/icons/increment = null
+HScrollBar/icons/increment_highlight = null
+HScrollBar/styles/grabber = ExtResource( 10 )
+HScrollBar/styles/grabber_highlight = ExtResource( 12 )
+HScrollBar/styles/grabber_pressed = ExtResource( 12 )
+HScrollBar/styles/scroll = ExtResource( 8 )
+HScrollBar/styles/scroll_focus = null
+HSeparator/constants/separation = 24
+HSeparator/styles/separator = ExtResource( 4 )
+HSlider/icons/grabber = ExtResource( 15 )
+HSlider/icons/grabber_highlight = ExtResource( 17 )
+HSlider/icons/tick = ExtResource( 16 )
+HSlider/styles/grabber_area = ExtResource( 19 )
+HSlider/styles/grabber_area_highlight = ExtResource( 18 )
+HSlider/styles/slider = ExtResource( 8 )
+Label/colors/font_color = Color( 1, 0.92549, 0.839216, 1 )
+Label/colors/font_color_shadow = Color( 0, 0, 0, 0 )
+Label/colors/font_outline_modulate = Color( 1, 1, 1, 1 )
+Label/constants/line_spacing = 3
+Label/constants/shadow_as_outline = 0
+Label/constants/shadow_offset_x = 1
+Label/constants/shadow_offset_y = 1
+Label/fonts/font = null
+Label/styles/normal = null
+MarginContainer/constants/margin_bottom = 16
+MarginContainer/constants/margin_left = 16
+MarginContainer/constants/margin_right = 16
+MarginContainer/constants/margin_top = 16
+PanelContainer/styles/panel = ExtResource( 1 )
+PopupMenu/icons/checked = ExtResource( 20 )
+PopupMenu/icons/radio_checked = ExtResource( 20 )
+PopupMenu/icons/radio_unchecked = ExtResource( 21 )
+PopupMenu/icons/unchecked = ExtResource( 21 )
+PopupMenu/styles/hover = ExtResource( 13 )
+PopupMenu/styles/panel = ExtResource( 5 )
+PopupMenu/styles/separator = ExtResource( 4 )
+RichTextLabel/colors/default_color = Color( 1, 0.92549, 0.839216, 1 )
+VBoxContainer/constants/separation = 4
+VScrollBar/icons/decrement = null
+VScrollBar/icons/decrement_highlight = null
+VScrollBar/icons/increment = null
+VScrollBar/icons/increment_highlight = null
+VScrollBar/styles/grabber = ExtResource( 2 )
+VScrollBar/styles/grabber_highlight = ExtResource( 11 )
+VScrollBar/styles/grabber_pressed = ExtResource( 11 )
+VScrollBar/styles/scroll = ExtResource( 8 )
+VScrollBar/styles/scroll_focus = null
+VSeparator/constants/separation = 24
+VSeparator/styles/separator = ExtResource( 4 )

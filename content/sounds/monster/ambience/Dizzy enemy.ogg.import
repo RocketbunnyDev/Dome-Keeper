@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Dizzy enemy.ogg-f9adb70aa19270ca440ed17b5ab5ef26.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/Dizzy enemy.ogg"
+dest_files=[ "res://.import/Dizzy enemy.ogg-f9adb70aa19270ca440ed17b5ab5ef26.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

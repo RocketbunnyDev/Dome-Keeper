@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/sfx_dw_shoot me.wav-a4d47273a955b9af3e6828f0217994fe.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/bolter/sfx_dw_shoot me.wav"
+dest_files=[ "res://.import/sfx_dw_shoot me.wav-a4d47273a955b9af3e6828f0217994fe.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/elgen.ogg-8539b8d5a5ad7faedb988f951ebf6f8b.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/elgen.ogg"
+dest_files=[ "res://.import/elgen.ogg-8539b8d5a5ad7faedb988f951ebf6f8b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

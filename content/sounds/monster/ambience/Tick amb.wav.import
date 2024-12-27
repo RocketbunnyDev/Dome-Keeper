@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Tick amb.wav-a12d3caa389b9299e8650ea5d29cd14a.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/Tick amb.wav"
+dest_files=[ "res://.import/Tick amb.wav-a12d3caa389b9299e8650ea5d29cd14a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,129 @@
+[gd_scene load_steps=15 format=2]
+
+[ext_resource path="res://content/monster/driller/spriteframes.tres" type="SpriteFrames" id=1]
+[ext_resource path="res://content/monster/driller/Driller.gd" type="Script" id=2]
+[ext_resource path="res://content/sounds/monster/driller/DrillerImpact.wav" type="AudioStream" id=3]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=4]
+[ext_resource path="res://content/sounds/monster/driller/sphere amb_darkness_distortion.wav" type="AudioStream" id=5]
+[ext_resource path="res://content/sounds/monster/driller/DrillerDie.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/sounds/monster/driller/DomeDrillerSettle.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/sounds/monster/diver/DrillerImpact.wav" type="AudioStream" id=8]
+[ext_resource path="res://content/sounds/monster/snd_hard_01.wav" type="AudioStream" id=9]
+[ext_resource path="res://content/sounds/monster/driller/DrillerDie_v2.wav" type="AudioStream" id=10]
+[ext_resource path="res://content/monster/FlashMaterial.tres" type="Material" id=95]
+
+[sub_resource type="CapsuleShape2D" id=2]
+radius = 14.0
+height = 62.0
+
+[sub_resource type="CapsuleShape2D" id=3]
+radius = 6.0
+height = 74.0
+
+[sub_resource type="CapsuleShape2D" id=4]
+radius = 6.96843
+height = 68.1606
+
+[node name="Driller" type="Area2D" groups=["monster"]]
+material = ExtResource( 95 )
+collision_layer = 128
+collision_mask = 0
+script = ExtResource( 2 )
+techId = "driller"
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+material = ExtResource( 95 )
+position = Vector2( 0, -37 )
+frames = ExtResource( 1 )
+animation = "attack"
+
+[node name="HitboxWalk" type="CollisionShape2D" parent="."]
+position = Vector2( 0, -40 )
+shape = SubResource( 2 )
+
+[node name="HitboxDefault" type="CollisionShape2D" parent="."]
+position = Vector2( -4, -35 )
+shape = SubResource( 3 )
+disabled = true
+
+[node name="HitboxAttack1" type="CollisionShape2D" parent="."]
+position = Vector2( -1, -35 )
+shape = SubResource( 3 )
+disabled = true
+
+[node name="HitboxAttack2" type="CollisionShape2D" parent="."]
+position = Vector2( -45, -55 )
+rotation = 0.975639
+shape = SubResource( 4 )
+disabled = true
+
+[node name="HitPosition" type="Position2D" parent="."]
+position = Vector2( -85, -29 )
+
+[node name="Particles1" type="Particles2D" parent="."]
+position = Vector2( -83, -29 )
+emitting = false
+amount = 20
+lifetime = 0.5
+local_coords = false
+
+[node name="Particles2" type="Particles2D" parent="."]
+position = Vector2( -83, -29 )
+emitting = false
+amount = 20
+lifetime = 0.5
+local_coords = false
+
+[node name="PunchSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 5 )
+volume_db = -7.767
+bus = "World"
+
+[node name="SettleSound" parent="." instance=ExtResource( 4 )]
+stream = ExtResource( 7 )
+volume_db = 1.748
+pitch_scale = 1.12
+bus = "Important"
+randomVolume = 0.3
+randomPitch = 0.0
+
+[node name="SettleSound2" parent="SettleSound" instance=ExtResource( 4 )]
+stream = ExtResource( 8 )
+volume_db = -2.319
+pitch_scale = 0.89
+bus = "World"
+removeAfterPlaying = true
+
+[node name="ImpactSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 3 )
+volume_db = 6.0
+bus = "Important"
+
+[node name="DieSound" parent="." instance=ExtResource( 4 )]
+stream = ExtResource( 6 )
+volume_db = -3.0
+bus = "Important"
+randomVolume = 1.0
+randomPitch = 0.2
+removeAfterPlaying = true
+
+[node name="DieSound2" parent="DieSound" instance=ExtResource( 4 )]
+stream = ExtResource( 10 )
+volume_db = -3.0
+pitch_scale = 1.07
+bus = "World"
+randomVolume = 1.0
+randomPitch = 0.2
+removeAfterPlaying = true
+
+[node name="IsHitSound" parent="." instance=ExtResource( 4 )]
+stream = ExtResource( 9 )
+volume_db = -4.0
+pitch_scale = 1.71
+bus = "World"
+randomVolume = 1.0
+randomPitch = 0.2
+
+[node name="Tween" type="Tween" parent="."]
+
+[connection signal="animation_finished" from="Sprite" to="." method="_on_Sprite_animation_finished"]

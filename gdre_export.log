@@ -1,0 +1,56 @@
+GDRE Tools v0.8.0
+Windows 10.0.22631, Intel(R) UHD Graphics, opengl3
+Extracted 6569 files, no errors detected!
+WARNING: Converting lossy imports, you may lose fidelity for indicated assets when re-importing upon loading the project
+   at: ImportExporter::_export_imports (modules\gdsdecomp\utility\import_exporter.cpp:181)
+Script version 3.2.0-stable (rev 0x5565f55) detected
+Recreating plugin configs...
+Exporting resources in parallel...
+Loading resource strings, this may take a while!!
+Resource strings loaded!
+Saved project config project.godot.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     478
+Failed scripts:                         0
+Imported resources for export session:  2438
+Successfully converted:                 2438
+Lossy:                                  4
+Rewrote metadata:                       0
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+The following files were converted from an import that was stored lossy.
+You may lose fidelity when re-importing these files upon loading the project.
+res://.import/a.jpg-2f07c2ddbefec9df4d4d965aa5924853.stex to res://test/blendmode/a.jpg
+res://.import/b.jpg-5b0b7c86a47ae4a9022a3391eef43b23.stex to res://test/blendmode/b.jpg
+res://.import/City spaceship-2.jpg-e11bac56bc090b751a7e0273033b54e6.stex to res://test/city/City spaceship-2.jpg
+res://.import/new concept.jpg-8c8ce383f38ad938079f17ba61fcd2da.stex to res://test/city/new concept.jpg
+
+
+
+---------------------------------IMPORTANT NOTES----------------------------------
+
+
+Translation Export Incomplete:
+WARNING: Could not recover 1 keys for res://systems/localization/translations/localization_ar_SA.csv
+
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 3.4.5 (steam version) to edit the project.
+GodotSteam can be found here: https://github.com/CoaguCo-Industries/GodotSteam/releases 
+Note: the project may be using a custom version of Godot. Detection for this has not been implemented yet.
+If you find that you have many non-import errors upon opening the project 
+(i.e. scripts or shaders have many errors), use the original game's binary as the export template.
+
+*******************************************************************************
+

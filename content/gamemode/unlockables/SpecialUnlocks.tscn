@@ -1,0 +1,160 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://content/gamemode/unlockables/SpecialUnlocks.gd" type="Script" id=2]
+
+[node name="SpecialUnlocks" type="HBoxContainer"]
+margin_right = 611.0
+margin_bottom = 178.0
+script = ExtResource( 2 )
+
+[node name="NewDifficultyUnlockedPanel" type="PanelContainer" parent="."]
+margin_top = 48.0
+margin_right = 421.0
+margin_bottom = 129.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+theme = ExtResource( 1 )
+
+[node name="MarginContainer" type="MarginContainer" parent="NewDifficultyUnlockedPanel"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 409.0
+margin_bottom = 69.0
+
+[node name="Label2" type="Label" parent="NewDifficultyUnlockedPanel/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 381.0
+margin_bottom = 41.0
+text = "level.gameover.unlock.difficulty"
+align = 1
+
+[node name="NewPetUnlockedPanel" type="PanelContainer" parent="."]
+margin_left = 425.0
+margin_top = 48.0
+margin_right = 781.0
+margin_bottom = 129.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+theme = ExtResource( 1 )
+
+[node name="MarginContainer" type="MarginContainer" parent="NewPetUnlockedPanel"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 344.0
+margin_bottom = 69.0
+
+[node name="Label2" type="Label" parent="NewPetUnlockedPanel/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 316.0
+margin_bottom = 41.0
+text = "level.gameover.unlock.pet"
+align = 1
+
+[node name="NewWorldUnlockedPanel" type="PanelContainer" parent="."]
+margin_left = 785.0
+margin_top = 48.0
+margin_right = 1168.0
+margin_bottom = 129.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+theme = ExtResource( 1 )
+
+[node name="MarginContainer" type="MarginContainer" parent="NewWorldUnlockedPanel"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 371.0
+margin_bottom = 69.0
+
+[node name="Label2" type="Label" parent="NewWorldUnlockedPanel/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 343.0
+margin_bottom = 41.0
+text = "level.gameover.unlock.world"
+align = 1
+
+[node name="NewMapSizeUnlockedPanel" type="PanelContainer" parent="."]
+margin_left = 1172.0
+margin_top = 48.0
+margin_right = 1581.0
+margin_bottom = 129.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+theme = ExtResource( 1 )
+
+[node name="MarginContainer" type="MarginContainer" parent="NewMapSizeUnlockedPanel"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 397.0
+margin_bottom = 69.0
+
+[node name="Label2" type="Label" parent="NewMapSizeUnlockedPanel/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 369.0
+margin_bottom = 41.0
+text = "level.gameover.unlock.mapsize"
+align = 1
+
+[node name="ModifiersUnlockedPanel" type="PanelContainer" parent="."]
+margin_left = 1585.0
+margin_top = 48.0
+margin_right = 2008.0
+margin_bottom = 129.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+theme = ExtResource( 1 )
+
+[node name="MarginContainer" type="MarginContainer" parent="ModifiersUnlockedPanel"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 411.0
+margin_bottom = 69.0
+
+[node name="Label2" type="Label" parent="ModifiersUnlockedPanel/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 383.0
+margin_bottom = 41.0
+text = "level.gameover.unlock.modifiers"
+align = 1
+
+[node name="SkinUnlockPanel" type="PanelContainer" parent="."]
+margin_left = 2012.0
+margin_top = 48.0
+margin_right = 2374.0
+margin_bottom = 129.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+theme = ExtResource( 1 )
+
+[node name="MarginContainer" type="MarginContainer" parent="SkinUnlockPanel"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 350.0
+margin_bottom = 69.0
+
+[node name="Label2" type="Label" parent="SkinUnlockPanel/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 322.0
+margin_bottom = 41.0
+text = "level.gameover.unlock.skin"
+align = 1
+
+[node name="Tween" type="Tween" parent="."]

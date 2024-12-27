@@ -1,0 +1,117 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://content/caves/cobaltcave/Cobalt.gd" type="Script" id=1]
+[ext_resource path="res://content/map/Parallaxer.gd" type="Script" id=2]
+[ext_resource path="res://content/caves/cobaltcave/cobaltcave_sheet.png" type="Texture" id=3]
+[ext_resource path="res://content/caves/cobaltcave/CobaltCave.gd" type="Script" id=4]
+[ext_resource path="res://content/shared/Usable.tscn" type="PackedScene" id=5]
+[ext_resource path="res://content/drop/sand/sand_smol.png" type="Texture" id=6]
+[ext_resource path="res://content/drop/sand/focussed.png" type="Texture" id=7]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=8]
+[ext_resource path="res://content/sounds/monster/Shifter_amb.wav" type="AudioStream" id=9]
+[ext_resource path="res://content/caves/cobaltcave/cobaltcave_alpha_map_blurred.png" type="Texture" id=10]
+
+[node name="CobaltCave" type="Node2D" groups=["saveable", "unstyled"]]
+z_index = -40
+script = ExtResource( 4 )
+biome = "blue"
+
+[node name="ExtraBackground" type="ColorRect" parent="."]
+margin_left = -2.0
+margin_top = -1.0
+margin_right = 91.0
+margin_bottom = 47.0
+mouse_filter = 2
+color = Color( 0.0862745, 0.0941176, 0.2, 1 )
+
+[node name="Sprites" type="Control" parent="."]
+margin_right = 96.0
+margin_bottom = 48.0
+rect_clip_content = true
+script = ExtResource( 2 )
+start_offset = 0.4
+scaling = 0.5
+
+[node name="Sprite" type="Sprite" parent="Sprites"]
+position = Vector2( 48, 25 )
+texture = ExtResource( 3 )
+hframes = 5
+
+[node name="ExtraBackground2" type="ColorRect" parent="Sprites/Sprite"]
+margin_left = -65.0
+margin_top = -36.0
+margin_right = 64.0
+margin_bottom = 40.0
+mouse_filter = 2
+color = Color( 0.188235, 0.372549, 0.482353, 1 )
+
+[node name="Sprite2" type="Sprite" parent="Sprites"]
+position = Vector2( 48, 25 )
+texture = ExtResource( 3 )
+hframes = 5
+frame = 1
+
+[node name="Sprite3" type="Sprite" parent="Sprites"]
+position = Vector2( 48, 25 )
+texture = ExtResource( 3 )
+hframes = 5
+frame = 2
+
+[node name="Sprite4" type="Sprite" parent="Sprites"]
+position = Vector2( 48, 25 )
+texture = ExtResource( 3 )
+hframes = 5
+frame = 3
+
+[node name="Cobalt1" type="Sprite" parent="Sprites/Sprite4"]
+self_modulate = Color( 0.631373, 0.631373, 0.631373, 1 )
+position = Vector2( -36, -13 )
+texture = ExtResource( 6 )
+script = ExtResource( 1 )
+
+[node name="Usable" parent="Sprites/Sprite4/Cobalt1" instance=ExtResource( 5 )]
+visibleOnFocus = NodePath("../FocusSprite")
+
+[node name="FocusSprite" type="Sprite" parent="Sprites/Sprite4/Cobalt1"]
+position = Vector2( 0, -1 )
+texture = ExtResource( 7 )
+
+[node name="Cobalt2" type="Sprite" parent="Sprites/Sprite4"]
+self_modulate = Color( 0.631373, 0.631373, 0.631373, 1 )
+position = Vector2( 20, 1 )
+texture = ExtResource( 6 )
+script = ExtResource( 1 )
+
+[node name="Usable" parent="Sprites/Sprite4/Cobalt2" instance=ExtResource( 5 )]
+visibleOnFocus = NodePath("../FocusSprite")
+
+[node name="FocusSprite" type="Sprite" parent="Sprites/Sprite4/Cobalt2"]
+position = Vector2( 0, -1 )
+texture = ExtResource( 7 )
+
+[node name="Sprite5" type="Sprite" parent="Sprites"]
+position = Vector2( 48, 25 )
+texture = ExtResource( 3 )
+hframes = 5
+frame = 4
+
+[node name="Position2D" type="Position2D" parent="."]
+position = Vector2( 47, 31 )
+
+[node name="Amb" parent="Position2D" instance=ExtResource( 8 )]
+stream = ExtResource( 9 )
+volume_db = -9.177
+pitch_scale = 0.65
+bus = "Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 120.0
+minAudibleDistance = 36.0
+fadeInTime = 0.1
+fadeOutTime = 2.0
+loop = true
+
+[node name="AlphaMap" type="Sprite" parent="."]
+visible = false
+position = Vector2( 45, 23 )
+texture = ExtResource( 10 )

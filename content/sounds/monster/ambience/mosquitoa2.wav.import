@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mosquitoa2.wav-f984c98b52f8b25ba0993f93fabff7c9.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/mosquitoa2.wav"
+dest_files=[ "res://.import/mosquitoa2.wav-f984c98b52f8b25ba0993f93fabff7c9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

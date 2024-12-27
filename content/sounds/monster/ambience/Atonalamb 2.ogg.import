@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Atonalamb 2.ogg-72439335f66a3c23417ca209155a6dbb.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/Atonalamb 2.ogg"
+dest_files=[ "res://.import/Atonalamb 2.ogg-72439335f66a3c23417ca209155a6dbb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/OrchardShield_die.wav-f01825636e59e4ef7c3d2a21d0da3245.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Orchard/OrchardShield_die.wav"
+dest_files=[ "res://.import/OrchardShield_die.wav-f01825636e59e4ef7c3d2a21d0da3245.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

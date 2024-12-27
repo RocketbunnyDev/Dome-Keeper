@@ -1,0 +1,8 @@
+[gd_resource type="OpenSimplexNoise" format=2]
+
+[resource]
+seed = 58
+octaves = 5
+period = 63.4
+persistence = 0.612
+lacunarity = 0.24

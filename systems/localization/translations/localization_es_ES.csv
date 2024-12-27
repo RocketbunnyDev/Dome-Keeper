@@ -1,0 +1,942 @@
+﻿key,es_ES
+loadout.prestige.title,Elige una variación de modo
+upgrades.shieldbattleelectroblast.title,Electroexplosión
+properties.orchard.battleshieldhp,Fuerza: {} PS
+options.keybindings.action.general.move,Moverse
+options.video.stretchmode.rezised,Redimensionado
+level.gameover.unlock.world,¡Nuevo mundo desbloqueado!
+upgrades.blastminingwaterless.desc,"Producirlas no gasta agua, pero lleva más tiempo."
+properties.blastmining.growthtime,Tiempo de producción: {} ciclos
+properties.laser.stun,Fuerza del aturdimiento: {}
+exhibition.level.instruction,¡Pulsa cualquier tecla o botón para seguir jugando!
+pause.godot,Hecho con Godot
+upgrades.orchardjetpack2.desc,"Aumenta el potenciador de velocidad de la fruta, lo que te permitirá moverte aún más rápido."
+upgrades.artillery.title,Artillería
+upgrades.condenser.desc,Añade una máquina bajo la cúpula que produce agua poco a poco gracias a la condensación.
+properties.lift.keeperupwardsspeed,Velocidad de ascensor del cuidador: {}
+level.tutorial.fullscreen.continue,continuar
+upgrades.dome1damagereduction2.title,Refuerzo 2
+upgrades.orchardduration2.title,Duración 2
+upgrades.condenserautoovercharge.title,Sobrecarga automática
+upgrades.keeper2pinballreflectdamage2.title,Daño por reflexión 2
+loadout.title,ELIGE TU EQUIPAMIENTO
+level.tutorial.teleporter_2,Usa el puesto del teletransportador para ir hasta el portal y viceversa.
+options.keybindings.action.general.up,Arriba
+level.converter.popup.cancel,Cancelar
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,Activar habilidad al agotarse el escudo
+loadout.difficulty.veryeasy,Normal
+properties.sword.reflectprojectilesexplosive,Los proyectiles de energía reflejados son explosivos
+upgrades.swordlargeblade3.title,Hoja pesada 3
+upgrades.orcharddrill2.title,Potenciador de minería 2
+loadout.prestige.normal.description,El modo de prestigio normal.
+upgrades.keeper2pinballreflectdamage1.desc,Las esferas reflejadas infligirán mucho más daño a la roca que golpeen a continuación.
+options.input.gamepad,Mando
+loadout.choices.locked,Sin desbloquear
+upgrades.condenserspeed1.desc,Reduce el tiempo necesario para condensar una unidad de agua.
+upgrades.shieldbattleinvulnerable.desc,Activa una habilidad de combate que hace invencible tu cúpula durante un breve periodo de tiempo.
+upgrades.domewavemeter.desc,Muestra el tiempo que falta hasta que ataque la siguiente oleada de formas de vida hostiles.
+upgrades.keeper2pinballreflectspeedup2.title,Reflejo superior
+upgrades.keeper2movement1.desc,Mejora tu generador de gravedad para moverte más rápido.
+upgrades.repellentoverchargeduration2.desc,"Tras la sobrecarga, la habilidad de combate durará más en la siguiente oleada."
+upgrades.laserhitprojectiles.desc,Los disparos del láser disuelven los proyectiles contra los que impacten.
+options.keybindings.action.keeper.pickup,Recoger
+upgrades.keeper2pinballdamage1.desc,Mejora el daño que la esfera cinética inflige a las rocas al impactar. También mejora el daño de la minería rotativa.
+upgrades.keeper2pinballdamage3.title,Daño de la esfera cinética 3
+options.video.graphicsmode.enablevsync,Activar sincronización vertical
+options.translation.community,"Traducción de la comunidad, {completion} % terminada"
+loadout.difficult.harder,más difícil
+worldmodifier.resourcerichiron.desc,Este mundo tiene mucho hierro.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,Enviar hierro
+upgrades.stunlaserspeed1.desc,El láser aturdidor se mueve más deprisa.
+upgrades.keeper2pinballdamage2.desc,Mejora el daño que la esfera cinética inflige a las rocas al impactar. También mejora el daño de la minería rotativa.
+upgrades.drill1.title,Fuerza del taladro 1
+upgrades.prospectionmetersand2.title,Brújula de cobalto
+upgrades.dome1health1.desc,Aumenta de forma permanente la salud estructural de la cúpula.
+title.navbar.newgame,Nueva partida
+properties.repellent.overchargeduration,Aumenta la velocidad de producción del repelente durante {} ciclos
+properties.sword.retractspeed,Velocidad de retracción: {} 
+upgrades.lasermove3.desc,El láser se mueve a su velocidad máxima.
+upgrades.stunlaser.title,Láser aturdidor
+options.keybindings.action.general.use,Usar
+worldmodifier.monsterfeeble.desc,Los monstruos son más débiles e infligen menos daño.
+upgrades.shield.desc,Instala un escudo que absorberá el daño. Se recarga automáticamente.
+options.video.stretchmode.rezised.text,"Muestra el juego en su resolución nativa en modo pantalla completa o ventana.
+Se verá bien, pero pueden aparecer errores en forma de líneas de un píxel de ancho."
+upgrades.orchardbattlerootingexplosion.desc,Actívalas otra vez para hacer que todos los monstruos atrapados estallen e inflijan daños a su alrededor.
+loadout.mapsize.small,Pequeño
+upgrades.probe.desc,"Añade una sonda a tu traje que, al activarla, envía un pulso que revela recursos cercanos. Debe recargarse en el puesto de carga bajo la cúpula."
+upgrades.swordlongblade1.desc,Instala una hoja más larga y ágil.
+upgrades.dome1health1.title,Salud 1
+upgrades.blastminingwaterless.title,Cargas sin agua
+level.tutorial.assessor.carry,Recogida de gravedad
+upgrades.liftspeed1.desc,Los orbes se mueven más rápido.
+upgrades.shieldstrength1.desc,Aumenta la cantidad de daño que puede absorber el escudo de la cúpula.
+upgrades.orchardbattleshieldsecondlayer.title,Escudo de doble capa
+upgrades.teleporterteleportresourcescooldown.desc,El portal del teletransportador puede transportar recursos más a menudo.
+options.input.gamepad.autoswitch,detección automática del mando preferido
+level.gameover.unlock.modifiers,¡Nuevos modificadores de mundo desbloqueados!
+properties.sword.slicebrake,Pérdida de velocidad al cortar: {.percent}
+loadout.prestige.normal,Normal
+properties.sword.sliceacceleration,Velocidad de la espada: {}
+options.input.gamepad.gamepadstickdeadzone.text,"Establece el valor de modo que la barra no parpadee cuando tocas los joysticks sin moverlos.
+Si mueves el joystick, la barra debería moverse."
+options.accessibility.highlightmonsters.explanation,Coloca un contorno brillante alrededor de los monstruos para una mejor visibilidad.
+properties.upgrade.gameover,Acabar la sesión
+upgrades.blastminingstickycharge.title,Cargas direccionales adhesivas
+upgrades.shieldoverchargestrength2.title,Sobrecargar fuerza del escudo 2
+upgrades.blastminingblast2.desc,Aumenta aún más la potencia de la explosión.
+upgrades.repellentbattlestrongerslowdown2.title,Estancamiento fuerte
+upgrades.converter.desc,"Puede transformar los recursos, lo que ayudará a equilibrar tu inventario."
+level.gameover.continue,Continuar
+upgrades.repellentbattleslowdown.desc,Esparce una neblina aturdidora que ralentiza a todos los monstruos.
+loadout.mapsize.medium.description,Un mapa de tamaño normal para una sesión de verdad.
+properties.orchard.overchargeadditionalbuffduration,{} s de duración adicional del potenciador tras la sobrecarga
+options.translation.community.title,Traducciones por la Comunidad
+upgrades.blastminingtriple.title,Triple Carga
+worldmodifier.hardnessextremes.desc,Hay muchas rocas extremadamente duras y blandas.
+level.station.battle.navbar.exit,Salir
+upgrades.keeper2pinballlifetime2.title,Vida útil de la esfera cinética 2
+upgrades.minoriron.desc,Send iron offworld to increase your prestige.
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,Migración
+upgrades.converterefficientcobalt.title,Conversión de cobalto eficiente
+upgrades.shieldbattledestructionprevention.desc,"Obtienes un largo periodo de invulnerabilidad cuando tu cúpula está a punto de ser destruida.
+Tras ello, el escudo no se recargará para la siguiente batalla. La última defensa solo puede volver a activarse tras completar otras dos oleadas.
+"
+upgrades.drill1.desc,Refuerza el taladro para excavar más rápido.
+level.gameover.retry,Iniciar otra sesión
+properties.orchard.overchargeduration,La velocidad de crecimiento de la fruta se duplica durante {} ciclos
+upgrades.dome2health1.title,Salud 1
+level.tutorial.station.popup_4,Luego pulsa | para entrar en el modo batalla y defenderte.
+level.gameover.stats.timeplayed.unit,m
+upgrades.repellentbattlestrongerslowdown2.desc,La neblina dura más y ralentiza mucho más a los monstruos.
+loadout.gadgetoptions.title,¡Elige tu artilugio principal!
+level.tutorial.station.popup_2,Ve al puesto de control y pulsa | para entrar.
+upgrades.dome1damagereduction1.desc,Refuerza la superficie de la cúpula para que reciba menos daño de los golpes cuerpo a cuerpo de los monstruos. El daño por proyectiles no se ve afectado.
+level.tutorial.station.popup_1,¡Atacan la cúpula!
+upgrades.keeper2movement3.title,Movimiento gravitatorio 3
+upgrades.jetpackspeed1.desc,Mejora la mochila propulsora para moverte más rápido.
+properties.converter.ironwatertime,{} ciclos de tiempo de conversión
+level.tutorial.sworddome.slicing.desc,"Cuanto más rápido gire la espada, mayor será el daño de corte."
+upgrades.liftorbs.desc,Instala orbes de carga adicionales.
+upgrades.proberecharge.desc,La sonda se recargará lentamente con el paso del tiempo.
+loadout.gadget,ARTILUGIO
+upgrades.drill4.title,Fuerza del taladro 4
+properties.probe.rechargetime,Tiempo para la recarga completa: {} ciclos 
+upgrades.keeper2pinballdamage4.title,Daño de la esfera cinética 4
+options.game,Juego
+loadout.prestige.cobalt,Cobalto fijado
+options.input.vibration.strength,Fuerza de la vibración
+upgrades.liftcapacity1.desc,Los orbes pueden cargar con más recursos.
+loadout.miner.title,Choose Your Run Options
+level.gameover.stats.difficulty,Dificultad
+upgrades.repellentoverchargestrength2.title,Sobrecargar retraso de oleada 2
+upgrades.domesandrepairstrong.title,Reparación potente con cobalto
+upgrades.stunlaserduration1.desc,El láser aturdidor se recarga más rápido y dispara durante más tiempo.
+level.gameover.prestige.score.rankimproved,Has subido al puesto {rank}.
+upgrades.stunlaserdamage2.desc,Aumenta el daño infligido por el láser aturdidor.
+upgrades.drillbotstrength4.title,Fuerza 4
+level.gameover.prestige.title,SESIÓN DE PRESTIGIO TERMINADA
+loadout.secondstage.cancel,Cancelar
+upgrades.laseraimline.desc,Añade una mira de apuntado al láser para mostrar dónde apunta.
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,El condensador producirá y almacenará dos unidades de agua antes detenerse.
+upgrades.swordreflection2.title,Reflejo 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,Refuerza el taladro para excavar más rápido.
+properties.laser.hitprojectiles,El láser impacta contra proyectiles de energía
+upgrades.dome1damagereduction1.title,Refuerzo 1
+properties.sword.stabexplosivedamage,Daño de la bomba: {}
+upgrades.drillbotturnaround.title,Condicionamiento avanzado
+upgrades.keeper2movement1.title,Movimiento gravitatorio 1
+properties.orchard.battleroots,Hace crecer {} raíces en el suelo
+upgrades.prospectionmeterrange2.title,Alcance 2
+upgrades.jetpackspeed4.title,Velocidad 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,Aumenta aún más el tiempo que falta hasta la siguiente oleada de monstruos.
+upgrades.orchard.desc,Planta un árbol en la cúpula que produzca frutos para potenciar tu movimiento y tu poder de minería.
+upgrades.artilleryflakexplosionradius1.title,Radio del Flak 1
+upgrades.shieldbattleelectroblast.desc,Activa una habilidad de combate que crea un campo letal alrededor de tu cúpula durante un breve periodo de tiempo.
+upgrades.shredgadgettocobalt.desc,Destruye el artilugio y otorga {amount} de cobalto.
+upgrades.prestigecobalt.title,Enviar cobalto
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,"Instala una hoja enorme. Es más lenta, pero inflige mucho más daño."
+level.gameover.back,Atrás
+loadout.abort,Cancelar
+options.keybindings.action.dome.fire,Disparar
+upgrades.swordstabshoot.title,Jabalina
+upgrades.blastminingtriple.desc,Produce tres cargas pequeñas en lugar de una grande.
+upgrades.orcharddrill1.title,Potenciador de minería 1
+upgrades.swordextendlong2.title,Puñalada larga 2
+upgrades.artilleryshotcooldown1.desc,Dispara más a menudo.
+upgrades.keeper2pinballdamagefraction.title,Trascendencia de la dureza de la esfera cinética
+upgrades.doublelaser.title,Láser doble
+upgrades.jetpackspeed3.title,Velocidad 3
+upgrades.minerwater.title,Send Water
+properties.orchard.battleabilityuses,Usos por batalla: {}
+upgrades.liftorbs.title,Orbes 1
+upgrades.repellentoverchargeduration1.title,Sobrecargar duración de habilidad de combate 1
+upgrades.drill3.desc,Refuerza el taladro para excavar más rápido.
+level.gameover.prestige.uploading.inprocess,Subiendo puntuación...
+options.keybindings.action.general.back,Cancelar
+properties.shield.overchargestrength,Fuerza de la sobrecarga: {} PS
+level.station.navbar.upgrades,Mejoras
+upgrades.keeper2pinballsplit.desc,"Split incoming spheres into two, launching them perpendicular to the original."
+upgrades.proberecharge.title,Autorrecarga
+properties.sword.stabrange,Alcance: {} 
+upgrades.liftspeed1.title,Velocidad
+upgrades.domewavecount.desc,Instala un contador que muestra el número de oleadas al que has sobrevivido.
+level.converter.popup.title,Convertir recursos
+pause.discord,Únete a nosotros en Discord
+options.cancel,Volver
+upgrades.prospectionmeterrange1.desc,Aumenta el alcance de detección del medidor de prospección.
+upgrades.dome2badrepair1.desc,La cúpula se repara un poco de forma automática si recibe mucho daño durante el combate.
+upgrades.prestigecobalt.desc,Envía cobalto; añade 1 al prestigio que obtienes con cada oleada.
+upgrades.domesandrepair.desc,Repara el daño de tu cúpula con cobalto.
+loadout.skinoptions.title,¡Elige tu aspecto!
+loadout.difficulty.medium.description,La dificultad original de Dome Keeper.
+loadout.difficulty.veryeasy.description,"No es fácil, pero es una aventura más relajada que el resto."
+options.game.tutorials,Tutoriales
+upgrades.orchardbattlerootingmore.desc,Crecen más raíces y duran más.
+upgrades.probepersist1.title,Sonda inteligente
+upgrades.keeper2pinballmorespheres2.title,Suministro de esferas 2
+upgrades.orchardjetpack3.desc,"Aumenta el potenciador de velocidad de la fruta, lo que te permite moverte extremadamente rápido."
+upgrades.probe.title,Sonda
+upgrades.sword.title,Espada
+properties.shield.battledestructionprevention,Duración adicional: {} s
+upgrades.shieldbattlereflect.title,Reflejo
+pause.gamepadcontrols.use,Usar
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,Doble de almacenamiento
+upgrades.relichunt.desc,Encuentra la reliquia enterrada en las profundidades y llévala a la cúpula.
+loadout.mapsize.unlock.description,Gana una sesión de juego con el tamaño del mapa anterior para desbloquear este tamaño de mapa.
+properties.sword.stabdamage,Daño de puñalada: {} 
+properties.drillbot.drillstrength,Potencia del taladro: {}
+worldmodifier.mapwildbiomes.desc,Los límites de los biomas son muy irregulares.
+upgrades.condenser.title,Condensador
+upgrades.dome2badrepair2.title,Recuperación de impactos 2
+options.game.screenshake.shakewhenmining,Sacudida al excavar
+upgrades.repellentdelay2.title,Retraso 2
+level.tutorial.assessor.reflect.desc,Golpea para reflejar las esferas cinéticas entrantes durante un tiempo muy breve.
+properties.drillbot.buffamount,Taladrado tras comer: {} impactos
+upgrades.laserstrength2.title,Potencia 2
+upgrades.jetpackstrength3.title,Fuerza de carga 3
+options.keybindings.action.general,General
+level.gameover.unlock.gadgetability,Nueva habilidad de combate de artilugio
+upgrades.jetpackstrength1.desc,Mejora la mochila propulsora para poder cargar con más recursos.
+upgrades.artillerymultishot1.desc,Lanza varias granadas por disparo.
+properties.sword.reflectprojectiles,Refleja proyectiles de energía
+upgrades.stunlaser.desc,Instala un láser que apunta automáticamente a los monstruos pequeños y los aturde.
+upgrades.orchardbattleshieldstrong.desc,Los escudos de proyectiles se fortalecen. También ganan un uso adicional de habilidad tras usar la sobrecarga.
+upgrades.orchardjetpack1.desc,"Aumenta el potenciador de velocidad de la fruta, lo que te permitirá moverte más rápido."
+upgrades.laser.desc,Un láser de precisión que se mueve alrededor de tu cúpula. Diseñado originalmente para excavar en asteroides.
+properties.shield.maxstrength,Fuerza: {} PS
+options.keybindings.action.keeper,Guardián
+worldmodifier.resourceunpredicatablecobalt.desc,El cobalto está más repartido y es más difícil predecir su posición.
+title.navbar.quit,Salir al Escritorio
+options.keybindings.rebinding.error.gamepad,No se puede establecer como entrada del mando.
+upgrades.repellentbattleslowdownstun1.desc,Usa esporas volátiles en la niebla para aturdir a los monstruos y detener su avance durante un breve periodo de tiempo.
+upgrades.swordfastreflection.title,Reflejo acelerado
+upgrades.stunlaserduration2.title,Aguante 2
+level.gameover.lose.title,HAS PERDIDO LA CÚPULA
+worldmodifier.resourcescatterediron.desc,"Hay más agrupaciones de hierro, pero son más pequeñas."
+properties.laser.dps,Daño: {}
+options.game.screenshake.shakeintensity,Intensidad de la sacudida
+worldmodifier.hardnessharder.desc,Hay más rocas duras en la mina.
+options.video.stretchmode,Modo de Renderización
+worldmodifier.monsterhealthy.desc,Los monstruos tienen más salud.
+level.gameover.stats.mapsize,Tamaño del mapa
+loadout.mode.longtime,Ciclos largos
+upgrades.swordreflection3.desc,Tamaño máximo de la guarda.
+upgrades.repellentbattleslowdownstun2.desc,Usa las esporas más a menudo y aturde a los monstruos durante más tiempo.
+upgrades.teleporterteleportresourcesarea.title,Área de teletransporte
+upgrades.shieldoverchargeduration2.desc,Tu habilidad de combate de escudo permanecerá activa incluso más tiempo durante la segunda oleada tras la sobrecarga.
+upgrades.shieldoverchargestrength1.title,Sobrecargar fuerza del escudo 1
+upgrades.drillbotbuffstrength1.desc,Los premios renuevan las energías de Brocaquín durante más tiempo.
+upgrades.orchardoverchargebuffduration.title,Sobrecargar duración del potenciador
+level.tutorial.assessor.spheres.desc3,Recarga su energía con cada rebote.
+loadout.mode.longtime.desc,"Tienes el doble de tiempo entre oleadas, pero estas serán más potentes."
+level.tutorial.assessor.spheres.desc2,Elige una dirección y suelta para disparar la esfera.
+upgrades.laserstrength1.desc,"Mejora la potencia de tu láser, pero se moverá más despacio mientras dispara."
+level.tutorial.assessor.spheres.desc1,Mantén la posición para cargar una esfera cinética.
+upgrades.jetpackstrength4.title,Fuerza de carga 4
+upgrades.migration.desc,"Ve de un mundo a otro, haciéndote con sus recursos y reliquias antes de que te superen."
+upgrades.orcharddrill1.desc,"Aumenta el impulso de la minería de frutas, permitiéndote minar más rápido."
+upgrades.keeper2pinballdamage3.desc,Mejora el daño que la esfera cinética inflige a las rocas al impactar. También mejora el daño de la minería rotativa.
+options.accessibility.highlightmonsters,Destacar monstruos
+upgrades.prestigecobaltnocobalt.title,Envía Cobalto
+properties.keeper2.spherebasedamage,Daño base de la esfera {}
+upgrades.orcharddrill3.desc,"Aumenta el impulso de la minería de frutas, permitiéndote minar extremadamente rápido."
+properties.converter.cobalttoiron,{} de cobalto por una unidad de hierro
+level.tutorial.repair.usecobalt,Puedes usar tu cobalto para reparar la cúpula. Es una mejora del árbol tecnológico de la cúpula.
+upgrades.blastminingimpactdetonation.title,Detonación al impactar
+upgrades.swordfastreflection.desc,Los proyectiles reflejados van más rápido.
+upgrades.liftcapacity1.title,Capacidad
+upgrades.artillery.desc,Bazuca como el del juego de gusanos.
+properties.sword.electricdamage,Daño de espada electrificada: {}
+level.station.upgrademenu.close,Cerrar
+properties.shield.overchargebattleabilityduration,Duración de la habilidad adicional: {.percent}
+pause.title,PAUSA
+upgrades.artillerymultishot1title,Disparo en cadena 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Duración de la habilidad adicional: {} s
+upgrades.orchardbattlerootingexplosion.title,Presa explosiva
+upgrades.blastminingproductiontime1.title,Tiempo de producción
+options.video.stretchmode.scaled.text,"Renderiza el juego en una resolución fija y lo escala a tu resolución.
+Puede estar pixelado, especialmente en los textos, pero no hay errores graficos."
+upgrades.orchardduration3.title,Duración 3
+upgrades.domewavecount.title,Contador de ciclos
+upgrades.shredgadgettoiron.title,Destruir y convertir en hierro
+options.keybindings.rebinding.apply,Aplicar
+options.keybindings.restoredefault,Restaurar valores predeterminados
+upgrades.converterironduplication.title,Duplicado de hierro
+title.navbar.credits,Créditos
+level.gameover.unlock.gadget,Nuevo artilugio
+upgrades.jetpackspeed2.title,Velocidad 2
+loadout.modeoptions.title,¡Elige tu modo de juego!
+properties.keeper2.spherebaselifetime,Vida útil de la esfera {}
+options.video.stretchmode.scaled,Escalado
+properties.orchard.battleabilityduration,Duración de la habilidad: {} s
+upgrades.repellentbattleslowdownstun1.title,Parálisis
+loadout.difficulty.medium,Brutal
+options.audio.volumes,Volumen
+upgrades.keeper1.title,Ingeniero
+upgrades.drillbotsleepless.title,Condicionamiento básico
+upgrades.drillbot.title,Brocaquín
+level.tutorial.assessor.carry.desc1,"Mantén pulsado el botón para atraer los recursos, hasta que se fijen en ti."
+level.tutorial.assessor.carry.desc2,Pulsa|para soltar un recurso.
+level.tutorial.drillbot.sleeping1,"Al cabo del rato, o cuando encuentre un muro en el que no pueda excavar, Brocaquín se irá a dormir."
+level.tutorial.assessor.carry.desc3,"Si apuntas hacia una dirección mientras dejas caer un recurso, se acelerará mucho."
+level.tutorial.drillbot.sleeping2,"Cuando estés cerca, pulsa | para despertarlo."
+level.tutorial.drillbot.sleeping3,Puedes hacer que se gire pulsando | cuando esté despierto.
+properties.keeper2.totalspheres,Esferas {}
+upgrades.shieldbattleblastdamage.title,Explosión mortal
+upgrades.domeresourcecounters.desc,Muestra la cantidad actual de recursos almacenados.
+upgrades.swordextendlong1.desc,Fuerza de puñalada mejorada y capacidad de guiar la espada en pleno vuelo.
+worldmodifier.resourcerichwater.desc,Este mundo tiene mucha agua.
+upgrades.drillbotstrength1.desc,Aumenta la potencia de excavación de Brocaquín.
+upgrades.stunlaserautonomy1.desc,Una IA sencilla controlará el láser aturdidor incluso cuando no estés en el puesto de control.
+properties.blastmining.radius,Radio de la explosión: {} casillas
+upgrades.jetpackstrength1.title,Fuerza de carga 1
+options.keybindings.apply,Aplicar
+upgrades.laserstrength2.desc,"Mejora en gran medida la potencia de tu láser, pero se moverá incluso más despacio mientras dispara."
+properties.laser.movespeedwhilefiring,Velocidad mientras disparas: {.percent}
+properties.probe.markerretention,Duración de marcadores: {} s
+upgrades.swordexplosivereflection.title,Reflejo explosivo
+upgrades.condenserspeed2.desc,Reduce aún más el tiempo necesario para condensar una unidad de agua.
+upgrades.condenserspeed2.title,Velocidad de producción 2
+properties.stunlaser.firetime,Tiempo de disparo: {} s
+options.input.gamepad.gamepadstickdeadzone,Zona muerta del joystick
+upgrades.keeper2movement2.desc,Mejora tu generador de gravedad para moverte más rápido.
+upgrades.shieldbattlelongerafterdepletion.desc,La explosión durará más tiempo si se activa cuando se haya agotado el escudo.
+properties.laser.bend,El láser apunta automáticamente {}°.
+level.station.upgrademenu.buy,Comprar
+properties.drillbot.plantgrowthtime,Tiempo de crecimiento del premio: {} ciclos
+loadout.proceed,Continuar
+upgrades.repellentoverchargeduration1.desc,Sobrecargar tu tanque también prolongará cualquier habilidad de combate repelente que uses en la siguiente oleada.
+upgrades.artilleryshotcooldown1.title,Tiempo de espera 1
+worldmodifier.resourceunpredicatablewater.desc,El agua está más repartida y es más difícil predecir su posición.
+level.tutorial.blastmining.popup_1,Coge la carga explosiva y suéltala donde quieras despejar rocas.
+ending.thankyoumessage,¡Gracias por jugar!
+options.keybindings.rebinding.error.keyboard,No se puede establecer como entrada del teclado.
+upgrades.keeper2pinballdamagefraction.desc,The kinetic sphere transcends rock hardness and damages the rock by a fixed fraction of its health.
+upgrades.swordlargeblade1.title,Hoja pesada 1
+upgrades.shredgadgettoiron.desc,Destruye el artilugio y otorga {amount} de hierro.
+upgrades.drillbot.desc,Adopta una adorable criatura a la que le encanta excavar. Llévala a la mina y déjala donde quieras que trabaje. Dale un toque para despertarla cuando se duerma.
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,Salud 1
+title.navbar.updates.close,Cerrar
+upgrades.swordaimline.desc,Añade una mira láser para dirigir la puñalada de la espada.
+upgrades.shieldoverchargeduration1.title,Sobrecargar duración de habilidad de combate 1
+level.converter.popup.explanation,¡Selecciona una conversión de recursos para empezar!
+upgrades.drillbotbuff1.title,Premios
+title.navbar.credits.close,Cerrar
+upgrades.keeper2movement3.desc,Mejora tu generador de gravedad para moverte más rápido.
+pause.quittotitlescreen,Salir a la pantalla de título
+loadout.prestige.countdown.description,El multiplicador de prestigio comienza siendo alto y disminuye en cada oleada.
+upgrades.drill3.title,Fuerza del taladro 3
+upgrades.probestage1.title,Sonda mejorada
+properties.sword.stabarrowhead,Aumentar el tamaño de las puntas de flecha
+loadout.mapsize.huge.description,Un mapa enorme para las sesiones de juego más largas.
+properties.sword.stabspeed,Velocidad de apuñalamiento: {.percent} 
+level.tutorial.teleporter.take1,Tu teletransportador tiene una estación y un portal. Puedes teletransportarte entre ellos.
+worldmodifier.mapmaze.desc,La mina es un laberinto.
+level.tutorial.teleporter.take2,Coge el Portal y colócalo donde quieras.
+options.keybindings.action.dome.battleability1,Habilidad Activa
+upgrades.laserbend.desc,Instala una cabeza giratoria que corrige automáticamente tu puntería cuando el disparo pasaría cerca del objetivo.
+options.video.graphicsmode.fullscreen,Pantalla completa
+options.keybindings.action.general.down,Abajo
+level.tutorial.assessor.spheres,Esferas cinéticas
+level.tutorial.mineraltree1,"Acabas de encontrar una semilla de árbol mineral. Puede crecer hasta convertirse en un árbol que echa raíces en las baldosas. Producirá recursos dependiendo de los recursos de las baldosas enraizadas.
+Para plantar la semilla, déjala caer sobre una baldosa."
+upgrades.blastmining.desc,Añade una máquina bajo la cúpula que crea cargas explosivas con agua. Llévalas a las minas y suéltalas para detonarlas.
+properties.sword.stabcooldown,Tiempo de espera entre extensiones: {} s 
+upgrades.repellentdelay3.desc,Aumenta aún más el tiempo que falta hasta la siguiente oleada de monstruos.
+upgrades.probeswift1.desc,"Una sonda rápida de alcance corto, pero con más cargas."
+properties.drillbot.buffextraamount,Taladrado adicional: {} impactos
+level.gameover.unlock.keeper,Nuevo cuidador
+upgrades.prospectionmeter.title,Medidor de prospección
+upgrades.shieldbattleactivateondepletion.desc,La invulnerabilidad se activa de forma automática durante un tiempo adicional cuando se agota el escudo.
+upgrades.dome2badrepair1.title,Recuperación de impactos 1
+upgrades.swordtargetlock.title,Fijar objetivo
+upgrades.laserhitprojectiles.title,Disolver proyectiles
+upgrades.keeper2pinballreflectspeedup1.title,Reflejo mejorado
+properties.shield.battleuses,Usos por batalla: {}
+options.game.events,Eventos
+upgrades.artilleryflakexplosionradius1.desc,La explosión del Flak es más grande.
+properties.keeper1.speedlosspercarry,Ralentización al cargar: {}
+pause.gamepadcontrols.back,Atrás
+level.gameover.unlocknewelementbutton,Selecciona qué desbloquear
+upgrades.prospectionmeteriron2.desc,Muestra la dirección de los depósitos de hierro más cercanos.
+upgrades.prestige.desc,Obtén puntos enviando a casa tantos recursos como puedas antes de que caiga tu cúpula o abandones el planeta a salvo.
+properties.prestige.multiplier,{} de multiplicador de prestigio por oleada
+options.input.controls,Controles
+properties.sword.reflectionacceleration,Velocidad de los proyectiles reflejados: {.percent}
+loadout.difficult.easier,más fácil
+upgrades.keeper2pinballreflectdamage1.title,Daño por reflexión 1
+properties.sword.extendspeed,Velocidad de salida: {} 
+properties.keeper2.reflectspeedup,Aceleración de la esfera en la reflexión {.percent}
+loadout.mode.doubleiron,Doble hierro
+upgrades.dome3.desc,No disponible en la demo.
+properties.condenser.growthtime,Tiempo de producción: {} ciclos
+options.game.languages,Idiomas
+worldmodifier.mapwidebottom.desc,"La mina es estrecha al principio, pero se ensancha al ir llegando a lo más profundo."
+loadout.mode.maze,Laberinto
+upgrades.dome2health1.desc,Aumenta de forma permanente la salud estructural de la cúpula y la repara.
+properties.keeper1.drillstrength,Fuerza del Taladro {}
+upgrades.keeper2.desc,Un minero poco convencional que emplea tecnología gravitatoria experimental.
+properties.orchard.battleshields,Capas de escudo: {}
+level.tutorial.sworddome.reflecting.desc,Usa la almohadilla protectora de la espada para detener proyectiles o incluso desviarlos.
+options.audio.volumes.musicvolume,Volumen de la música
+loadout.dome,CÚPULA
+upgrades.swordlongblade2.title,Hoja larga 2
+upgrades.laseraimline.title,Mira láser
+level.tutorial.assessor.bundle.desc1,"Mientras que lleva recursos, para cargar un paquete."
+options.keybindings.keyboard,Teclado
+level.tutorial.assessor.bundle.desc2,"Apunta y suelta para disparar, del mismo modo que disparas una esfera cinética."
+properties.prestige.score,{} de prestigio
+worldmodifier.mapdeep.desc,La mina es profunda y más estrecha.
+upgrades.repellentbattleslowdownstun2.title,Parálisis fuerte
+upgrades.keeper2pinballmorespheres1.title,Suministro de esferas 1
+upgrades.prestigewater.desc,Envía agua; añade 1 al prestigio que obtienes con cada oleada.
+properties.keeper2.bundlestopcenter,Campo de gravedad de la columna central
+upgrades.stunlaserdamage1.title,Daño 1
+upgrades.keeper2pinballlifetime1.title,Vida útil de la esfera cinética 1
+properties.repellent.battleslowdown,Ralentización de monstruos: {.percent}
+upgrades.swordextendlong1.title,Puñalada larga 1
+level.gameover.stats.distancetravelled,Distancia recorrida
+properties.keeper2.reflectlifetime,Tiempo de vida adicional de la esfera en la reflexión {}s
+upgrades.blastminingimpactdetonation.desc,La carga explosiva estalla al impactar contra una superficie
+properties.keeper2.spheresplit,Split Incoming Spheres
+options.keybindings.action.dome.upgrade,Mejorar
+worldmodifier.resourcepoorcobalt.desc,Este mundo tiene poco cobalto.
+pause.resumegame,Continuar partida
+level.gameover.unlock.difficulty,¡Nuevo modo de dificultad desbloqueado!
+properties.stunlaser.cooldown,Tiempo de espera: {} s
+options.keybindings.action.general.right,Derecha
+level.tutorial.assessor.mining.desc,"Para eliminar una sola roca, puedes mover la esfera cinética giratoria hacia ella."
+upgrades.teleporterteleportresourcesback.title,Teletransportar recursos
+upgrades.dome1.title,Cúpula láser
+upgrades.keeper2bundleinfinite.title,Paquete duradero
+upgrades.repellentdelay1.title,Retraso 1
+upgrades.miner.desc,"In worlds without monsters, you can concentrate on mining as many resources as you want without distraction."
+upgrades.repellentbattlestrongerslowdown1.desc,La neblina dura más y ralentiza aún más a los monstruos.
+upgrades.teleporterteleportresourcesarea.desc,El portal teletransportará recursos de una zona más grande que antes.
+upgrades.dome3.title,Cúpula artillera
+upgrades.swordstabshoot.desc,"En vez de retraerse con un cable, la espada se carga y se dispara desde la cúpula como una jabalina."
+upgrades.repellentbattledamageovertime.desc,Todos los monstruos reciben un poco de daño por cada segundo que estén expuestos a los vapores tóxicos.
+upgrades.shieldbattleactivateondepletion.title,Activar al agotarse
+upgrades.artillerymultishot2.desc,Lanza varias granadas por disparo.
+upgrades.dome1health2.title,Salud 2
+worldmodifier.monsterlethal.desc,Los monstruos son más letales e infligen más daño.
+loadout.pet,Mascota
+options.keybindings.action,Acción
+upgrades.orcharddrill3.title,Potenciador de minería 3
+options.translation.title,SELECCIONA TU IDIOMA
+upgrades.prospectionmeterrange1.title,Alcance 1
+upgrades.dome2badrepair2.desc,La cúpula se repara algo más de forma automática si recibe mucho daño durante el combate.
+options.audio.volumes.ambiencevolume,Volumen del ambiente
+upgrades.prestigecobaltnocobalt.desc,"Envía Cobalto, incrementa el multiplicador de prestigio que obtienes por cada oleada."
+worldmodifier.maparms.desc,La mina está más fracturada.
+loadout.prestige.countdown,Cuenta regresiva
+upgrades.keeper2pinballdamage2.title,Daño de la esfera cinética 2
+upgrades.jetpackspeed1.title,Velocidad 1
+upgrades.minerrefuel.title,Refuel
+upgrades.teleporterteleportduration1.title,Duración del teletransporte
+properties.probe.charges,Cargas: {}
+loadout.miner.fuel.title,Fuel
+exhibition.title.press.anything,Pulsa cualquier tecla o botón para continuar
+loadout.mode,MODO
+level.tutorial.sworddome.slicing,Cortar
+properties.condenser.autoovercharge,Sobrecarga automática
+upgrades.teleporterteleportduration1.desc,Teletransportarte lleva menos tiempo.
+upgrades.prestigewater.title,Enviar agua
+title.navbar.continue,Continuar
+upgrades.orchardbattleshield.desc,Hace crecer un escudo que protege la cúpula contra proyectiles.
+upgrades.liftcarrykeeper1.title,Ascensor del cuidador 1
+options.input.controls.keybindings,Asignación de teclas
+properties.keeper2.bundlespheres,Esferas de paquetes
+upgrades.shieldovercharge.title,Sobrecargar escudo
+properties.condenser.overchargedelay,Retraso de producción: {} ciclos
+upgrades.keeper2.title,Asesor
+level.tutorial.assessor.mining,Minería rotativa
+upgrades.repellentoverchargeduration2.title,Sobrecargar duración de habilidad de combate 2
+upgrades.swordblade1.title,Filo Mejorado
+properties.converter.irontoiron,{} de hierro por una unidad de hierro
+exhibition.level.description,Volviendo al menú principal en...
+level.tutorial.assessor.mining.desc2,"Puedes dejar de minar sin disparar una esfera, soltando primero las teclas de dirección."
+worldmodifier.monsterslow.desc,Los monstruos son más lentos.
+upgrades.orcharddrill2.desc,"Aumenta el impulso de la minería de frutas, permitiéndote minar aún más rápido."
+loadout.difficulty.easy.description,Un poco más indulgente en muchos aspectos.
+upgrades.swordstabexplode.title,Estocada Explosiva
+level.gameover.stats.additionalgadget,Artilugio adicional
+upgrades.drillbotbuffstrength2.desc,"Tras recibir un premio, Brocaquín trabajará bastante más rato antes de que le entre sueño."
+upgrades.laserstrength3.desc,"Mejora de forma masiva la potencia de tu láser, pero apenas puede moverse mientras dispara."
+loadout.mapsize.medium,Mediano
+loadout.difficulty.hard,Tú lo has querido
+level.gameover.stats.wavessurvived,Oleadas sobrevividas
+properties.stunlaser.damage,Daño: {}
+options.keybindings.rebinding.cancel,Cancelar
+level.tutorial.sworddome.stabbing.desc,Extiende la espada y apuñala a los enemigos distantes.
+level.gameover.unlock.gamemodevariant,Nueva variante de modo de juego
+upgrades.prestigefinish.title,Abandono del planeta
+properties.keeper2.bundleduration,Vida útil del paquete {.percent}
+upgrades.shieldstrength3.title,Fuerza 3
+options.audio.volumes.mastervolume,Volumen maestro
+upgrades.shieldbattlelongerafterdepletion.title,Potenciador al agotarse
+options.keybindings.text,"Edita la asignación de controles como prefieras.
+En general, las teclas de distintas secciones se pueden solapar sin problemas (por ejemplo, puedes usar las mismas teclas para mover al cuidador y el arma de la cúpula)."
+properties.shield.battleblastdamage,{} de daño explosivo por segundo
+loadout.mapsize.large.description,Un mapa grande para sesiones que pueden durar más de una hora.
+upgrades.drill4.desc,Refuerza el taladro para excavar más rápido.
+upgrades.drillbotsleepless.desc,Brocaquín trabajará mucho más antes de que le entre sueño.
+upgrades.swordlargeblade2.title,Hoja pesada 2
+upgrades.swordlongblade2.desc,Aumenta aún más la velocidad de la hoja y hace que rebote al golpear el borde.
+upgrades.prestigefinishnocobalt.title,Abandono del planeta
+worldmodifier.hardnessmoderated.desc,Hay pocas rocas extremadamente duras y blandas.
+upgrades.converterironduplication.desc,Multiplica el hierro.
+upgrades.prestigefinish.desc,Sal del planeta y vuelve a casa.
+upgrades.dome2health2.desc,Aumenta de forma permanente la salud estructural de la cúpula y la repara.
+upgrades.prestige.title,Prestigio
+upgrades.liftcarrykeeper1.desc,El ascensor aumenta la velocidad cuando estás dentro y te mueves hacia arriba.
+upgrades.repellentbattlehealthreduction.desc,"Debilita a todos los monstruos presentes, lo que reduce de inmediato la salud que les queda."
+upgrades.dome2.title,Cúpula espada
+worldmodifier.monsterfast.desc,Los monstruos son más rápidos.
+upgrades.condenserautocollect.desc,"Automatiza la recolección de agua, lo que elimina la necesidad de recogerla manualmente."
+upgrades.lift.title,Ascensor
+options.game.screenshake,Vibración de Pantalla
+options.keybindings.action.dome,Cúpula
+upgrades.swordstabexplodedamage.desc,Aumenta el daño de la bomba.
+level.gameover.stats.resourcesmined,Recursos extraídos
+worldmodifier.resourcepoorwater.desc,Este mundo tiene poca agua.
+upgrades.prospectionmeter.desc,Un medidor muestra la distancia hasta los recursos más cercanos. Se puede mejorar para mostrar también la dirección.
+upgrades.shredgadgettocobalt.title,Destruir y convertir en cobalto
+upgrades.swordelectrified.desc,Una corriente eléctrica recorre la hoja e inflige daño al rozar al enemigo.
+upgrades.artilleryflakexplosionradius2.desc,La explosión del Flak es más grande.
+upgrades.prospectionmeterwater1.title,Medidor de agua
+upgrades.minerwater.desc,Send water offworld to increase your prestige.
+options.video.graphicsmode,Modo gráfico
+upgrades.shieldbattlereflectspeedup.desc,"Los proyectiles reflejados adquieren mayor velocidad, lo que aumenta la posibilidad de golpear al atacante."
+properties.shield.battleblaststun,Explosión aturdidora: {}
+loadout.mode.hyperactive.desc,"Los monstruos se mueven más rápido, pero tienen menos salud."
+upgrades.swordstabexplode.desc,La espada suelta una bomba que explota al apuñalar al primer enemigo.
+upgrades.swordstabfast2.title,Puñalada rápida 2
+upgrades.converterefficientwater.desc,"La conversión de agua se vuelve más eficiente, pero lleva algo más de tiempo."
+upgrades.orchardduration1.desc,Los efectos de la fruta duran más.
+loadout.difficulty.title,Dificultad
+exhibition.level.heading,¿Sigues ahí?
+level.gameover.unlock.gamemode,Nuevo modo de juego
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Marchitar
+upgrades.teleporterteleportreactivate.title,Reactivar teletransporte personal
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,Audio
+upgrades.repellentovercharge.desc,Usa agua para sobrecargar tu tanque para producir la siguiente remesa de repelente con más rapidez.
+upgrades.domewavemeter.title,Medidor de proximidad de enemigos
+upgrades.prospectionmeterrange2.desc,Aumenta aún más el alcance de detección del medidor de prospección.
+upgrades.keeper2pinballreflectspeedup1.desc,"Las esferas reciben energía cuando se reflejan, lo que las acelera y les permite flotar durante más tiempo al reflejarse."
+upgrades.shieldoverchargestrength1.desc,Aumenta la cantidad de daño que absorbe el escudo sobrecargado.
+upgrades.repellentdelay1.desc,Aumenta el tiempo que falta hasta la siguiente oleada de monstruos.
+upgrades.repellentbattlelongerhealthreduction.title,Marchitar con intensidad
+upgrades.swordtargetlock.desc,"Al apuñalar, la espada va automáticamente a por el primer monstruo que fije como objetivo."
+upgrades.orchardovercharge.desc,Usa agua para sobrecargar el vergel y hacer que produzca fruta más rápido.
+upgrades.orchardbattlerootingmore.title,Raíces fuertes
+upgrades.swordextendlong2.desc,Mejora aún más la fuerza de puñalada y la capacidad de guiar la espada en pleno vuelo de forma más precisa.
+upgrades.swordstabfast1.title,Puñalada rápida 1
+upgrades.probelong1.desc,"Aumenta el alcance de la sonda, pero pierde una carga."
+upgrades.repellent.title,Repelente
+worldmodifier.monsterwavesspaced.desc,Hay más tiempo disponible entre oleadas de monstruos.
+upgrades.artilleryflakexplosionradius2.title,Radio del Flak 2
+properties.drillbot.amount,Taladrado: {} impactos
+upgrades.repellentdelay3.title,Retraso 3
+ending.appreciationmessage,"¡Esperamos que lo hayas pasado bien! Agradecemos los comentarios que puedas tener, haznos llegar tu opinión en Discord o los foros de Steam :)"
+properties.orchard.battlerootexplosion,Explosion damage {}
+upgrades.orchardduration3.desc,Duración máxima de los efectos de la fruta.
+upgrades.dome1damagereduction2.desc,Refuerza la superficie de la cúpula aún más para que reciba menos daño de los golpes cuerpo a cuerpo de los monstruos. El daño por proyectiles no se ve afectado.
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,Mejora la mochila propulsora para moverte más rápido.
+upgrades.jetpackspeed3.desc,Mejora la mochila propulsora para moverte más rápido.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+title.navbar.options,Configuración
+properties.repellent.battledamageovertime,Los monstruos reciben {} de daño por segundo
+upgrades.repellentoverchargestrength1.title,Sobrecargar retraso de oleada 1
+upgrades.repellentoverchargestrength1.desc,La sobrecarga también aumenta el tiempo que falta hasta la siguiente oleada de monstruos.
+upgrades.blastminingproductiontime1.desc,Reduce el tiempo necesario para crear una carga explosiva.
+properties.teleporter.teleportresourcescooldown,Duración del teletransporte de recursos: {} s
+upgrades.artilleryflakmultishot1.desc,Dispara más proyectiles.
+properties.converter.ironcobalttime,{} ciclos de tiempo de conversión
+options.title,CONFIGURACIÓN
+options.video.graphicsmode.window,Ventana
+properties.shield.battlereflectspeedup,Velocidad de los proyectiles reflejados: {.percent}
+upgrades.swordaimline.title,Línea de apuntado
+level.tutorial.drillbot.handling1,Mantén pulsado | para recoger de nuevo a Brocaquín.
+upgrades.probestage1.desc,"Mejora la sonda, en general."
+level.tutorial.drillbot.handling2,"Si está en el suelo, pulsa | para hacer que cambie de dirección."
+options.keybindings.rebinding.capture,Capturar
+properties.probe.range,Alcance: {} casillas
+properties.stunlaser.speed,Velocidad: {}
+properties.probe.impulsespeed,Velocidad de impulso: {}
+upgrades.domehealthmeter.title,Medidor de salud
+options.audio.music.frequency,Frecuencia (ciclos sin música)
+options.audio.volumes.soundvolume,Volumen del sonido
+properties.sword.slicebounceback,La espada rebota en el borde
+upgrades.jetpackspeed4.desc,Mejora la mochila propulsora para moverte más rápido.
+worldmodifier.monsterfragile.desc,Los monstruos tienen menos salud.
+level.gameover.prestige.score.personalbest,¡Tu nueva marca personal!
+properties.prestige.baseperwave,{} de prestigio básico por oleada
+loadout.choices.comingsoon,"Aún no está disponible, pero muy pronto."
+upgrades.doublelaser.desc,"Instala una segunda torreta láser, pero divide la potencia de fuego entre las dos."
+upgrades.jetpackstrength2.title,Fuerza de carga 2
+upgrades.keeper2bundlestopcenter.title,Centro de gravedad
+properties.keeper2.spherelifetimeperbounce,Vida útil adicional de la esfera por rebote {}s
+upgrades.converterefficientcobalt.desc,"La conversión de cobalto se vuelve más eficiente, pero lleva bastante más de tiempo."
+properties.orchard.buffduration,Duración del potenciador: {} ciclos
+upgrades.domesandrepair.title,Reparación con cobalto
+properties.keeper2.maxspeed,Velocidad máxima {}
+level.station.upgrademenu.cost,Coste
+upgrades.lasermove1.title,Velocidad de movimiento 1
+level.tutorial.sworddome.reflecting,Reflejar
+loadout.petoptions.title,¡Elige a tu mascota!
+level.station.upgrademenu.inventory,Inventario
+level.gameover.unlockpicker.title,SELECCIONA QUÉ DESBLOQUEAR
+level.gameover.proceedtounlock,Desbloquea un nuevo elemento
+upgrades.artilleryshotcooldown2.desc,Dispara más a menudo.
+level.gameover.keepgadget.title,Selecciona el artilugio que conservarás en tu siguiente sesión
+level.station.battle.navbar.shoot,Disparar
+upgrades.repellentbattlestrongerslowdown1.title,Estancamiento
+upgrades.dome2.desc,Cúpula potente con una espada dinámica que el cuidador puede utilizar para subyugar a los atacantes.
+loadout.difficulty.easy,Difícil
+upgrades.condenserautocollect.title,Autorrecolección
+upgrades.orchard.title,Vergel
+upgrades.keeper2pinballreflectspeedup2.desc,Las esferas se potencian intensamente cuando se reflejan.
+upgrades.laserstrength1.title,Potencia 1
+upgrades.lasermove2.title,Velocidad de movimiento 2
+upgrades.shieldbattlereflectshortuses.desc,Refleja más a menudo durante una cantidad aún más breve de tiempo.
+options.keybindings.action.keeper.drop,Soltar
+level.converter.popup.conversion.to,en
+upgrades.repellent.desc,"Instala un tanque que genera un líquido repelente de monstruos. Actívalo para esparcirlo por el exterior de la cúpula y, así, retrasar la siguiente oleada de ataques."
+properties.repellent.battlehealthreduction,Reducción de la salud de los monstruos: {.percent}
+loadout.mode.hyperactive,Rápidos y débiles
+upgrades.miner.title,Miner
+upgrades.converter.title,Conversor de recursos
+properties.condenser.waterstorage,Almacena {} de agua
+upgrades.jetpackstrength2.desc,Mejora la mochila propulsora para poder cargar con más recursos.
+level.station.navbar.exit,Salir
+options.accessibility.photosensitivity.explanation,Reduce el parpadeo de las luces.
+properties.orchard.overchargeadditionalabilityuses,{} usos adicionales de habilidad tras la sobrecarga
+worldmodifier.resourcepooriron.desc,Este mundo tiene poco hierro.
+level.gameover.backtomainmenu,Volver al menú principal
+upgrades.orchardbattlerooting.desc,Actívalas en batalla para que las raíces crezcan fuera de la cúpula y atrapen a cualquier monstruo de tamaño medio que las pise.
+upgrades.keeper2pinballreflect.desc,Refleja las esferas con un pequeño campo gravitatorio de alta potencia a tu alrededor.
+upgrades.laser.title,Láser
+options.game.tutorials.resettutorials,Reiniciar tutoriales
+properties.converter.ironirontime,{} ciclos de tiempo de conversión
+loadout.secondstage.start,Iniciar sesión
+upgrades.artilleryflakmultishot2.desc,Dispara más proyectiles.
+upgrades.swordreflection2.desc,Guarda aún más grande.
+upgrades.lasermove3.title,Velocidad de movimiento 3
+upgrades.lasermove1.desc,El láser se desplazará más rápido.
+properties.lift.orbs,{} orbes
+level.station.battle.navbar.move,Moverse
+upgrades.orchardjetpack2.title,Potenciador de velocidad de la mochila propulsora 2
+options.audio.music,Música
+worldmodifier.resourceunpredicatableiron.desc,Las agrupaciones de hierro están más repartidas y es más difícil predecir su posición.
+properties.dome.maxhealth,Salud: {} PS
+upgrades.condenserspeed1.title,Velocidad de producción 1
+properties.repellent.battleuses,Usos por batalla: {}
+upgrades.shieldstrength2.desc,Aumenta aún más la cantidad de daño que puede absorber el escudo de la cúpula.
+upgrades.drillbotbuffstrength2.title,Añadir Taurina
+upgrades.keeper2pinballreflectdamage2.desc,Las esferas reflejadas infligirán mucho más daño a la roca que golpeen a continuación.
+level.paused,En pausa
+level.tutorial.sworddome.stabbing,Apuñalar
+upgrades.stunlaserspeed1.title,Velocidad 1
+upgrades.domehealthmeter.desc,Muestra la salud estructural de la cúpula.
+upgrades.swordlargeblade1.desc,Ensancha y alarga la hoja para infligir más daño.
+pause.quitgame,Salir del juego
+level.station.battle.navbar.slice,Cortar 
+level.gameover.stats.timeplayed,Tiempo jugado
+properties.teleporter.teleportresources,Teletransportar recursos
+upgrades.drillbotstrength2.desc,Aumenta la potencia de excavación de Brocaquín.
+level.tutorial.drop.popup_2,Pulsa | para dejar caer uno. Mantén pulsado para soltar varios.
+level.gameover.keepgadget.keeping,Artefacto a Mantener: {gadget}
+level.tutorial.drop.popup_1,Los recursos que llevas te ralentizan.
+worldmodifier.maprugged.desc,La mina es dura e irregular.
+level.tutorial.onewayteleporter1,¡Acabas de encontrar un teletransportador de un solo sentido!
+upgrades.artilleryshotprediction.title,Predicción de disparo
+upgrades.keeper2bundle.desc,"Los minerales adheridos pueden dispararse como un haz, del mismo modo que se disparan las esferas cinéticas."
+level.tutorial.onewayteleporter2,Pulsa | para colocar el ojo.
+level.tutorial.onewayteleporter3,Pulsa de nuevo para teletransportarte de vuelta.
+properties.lift.capacity,Los orbes transportan {} recursos
+properties.shield.battleabilityduration,Duración de la habilidad: {} s
+level.tutorial.teleporter.carry2,Mantén pulsado | para recoger el portal cuando estés cerca.
+level.tutorial.teleporter.carry3,"Si pulsas |, te teletransportarás de vuelta."
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,Puedes mover el portal donde quieras.
+options.keybindings.cancel,Cancelar
+level.tutorial.probe.popup_1,Pulsa | para emitir un impulso de la sonda.
+upgrades.liftcarrykeeper2.desc,El ascensor aumentará aún más tu velocidad.
+level.tutorial.probe.popup_3,"Revela algunos recursos cercanos.
+Recárgala en el puesto."
+worldmodifier.resourcerichcobalt.desc,Este mundo tiene mucho cobalto.
+upgrades.keeper2pinballdamage4.desc,Mejora el daño que la esfera cinética inflige a las rocas al impactar. También mejora el daño de la minería rotativa.
+properties.sword.stabexplosive,Bomba en la punta
+properties.drillbot.turnaround,Da la vuelta al golpear un muro duro
+upgrades.shieldstrength1.title,Fuerza 1
+properties.repellent.overchargewavedelay,Retraso adicional de la oleada: {} ciclos
+upgrades.swordreflection3.title,Reflejo 3
+upgrades.dome1.desc,Cúpula estándar de minería equipada con un láser de precisión.
+level.tutorial.drillbot.carry,"Recoge a Brocaquín de su tanque y colócalo en la mina, donde empezará a cavar."
+upgrades.lift.desc,Instala un ascensor automático que lleva los recursos extraídos para su procesamiento en la cúpula.
+upgrades.dome1health2.desc,Aumenta de forma permanente la salud estructural de la cúpula.
+upgrades.converterefficientwater.title,Conversión de agua eficiente
+loadout.difficulty.hard.description,Ya te apañarás si pierdes la cúpula.
+upgrades.artillerymultishot2.title,Disparo en cadena 2
+upgrades.swordelectrified.title,Hoja electrificada
+upgrades.drillbotstrength3.desc,Aumenta la potencia de excavación de Brocaquín.
+upgrades.shieldbattleinvulnerable.title,Invulnerabilidad
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,Autonomía
+level.tutorial.teleporter.teleport1,"Cuando estés cerca del portal, pulsa | para teletransportarte de vuelta."
+level.tutorial.teleporter.teleport2,También puedes teletransportarte en la otra dirección.
+level.gameover.prestige.uploading.failed,Error al subir; prueba de nuevo
+upgrades.lasermove2.desc,El láser se mueve aún más deprisa.
+loadout.mapsize.title,Tamaño del mapa
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Explosivo 1
+upgrades.drillbotturnaround.desc,"Al toparse con un muro indestructible, Brocaquín dará la vuelta en vez de echarse la siesta."
+properties.dome.baserepair,Reparar: {} PS
+upgrades.condenserautoovercharge.desc,Mantiene tu artilugio principal siempre sobrecargado sin gastar agua. La producción de agua se retrasa tras la sobrecarga.
+upgrades.teleporterteleportresourcesback.desc,"El portal ahora puede teletransportar recursos, pero ya no puede transportarte a ti. Aun así, todavía puedes teletransportarte desde el domo hasta el portal."
+ending.wishlistonsteam,Añádelo a la lista de deseos en Steam
+properties.sword.reflection,Aumento del tamaño de la guarda
+upgrades.drillbotduplicate.desc,Brocaquín tiene un hermano mellizo llamado Brocán.
+level.converter.popup.conversion.convert,convertir
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} de agua por una unidad de hierro
+pause.options,Opciones
+upgrades.swordexplosivereflection.desc,Los proyectiles reflejados estallan cuando impactan contra algo.
+upgrades.shieldbattlereflectshortuses.title,Reflejo temporizado
+level.gameover.unlock.skin,¡Nuevo skin desbloqueado!
+level.gameover.stats.destroyedblocks,Bloques destruidos
+options.keybindings.action.keeper.gravityball,Cargar tiro
+upgrades.orchardjetpack1.title,Potenciador de velocidad de la mochila propulsora 1
+upgrades.keeper1.desc,Un profesional eficiente y hábil con una gran capacidad para la minería.
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,Potencia 3
+upgrades.orchardoverchargebuffduration.desc,Los efectos de la fruta durarán más tras sobrecargar el vergel.
+upgrades.stunlaserduration1.title,Aguante 1
+loadout.mode.maze.desc,"El mapa parece un laberinto, con muchos caminos, giros y callejones sin salida."
+properties.dome.healthfractionrepair,Repara un {.percent} de los PS totales.
+upgrades.jetpackstrength3.desc,Mejora la mochila propulsora para poder cargar con más recursos.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Movimiento detectado:
+upgrades.prospectionmetersand1.title,Medidor de cobalto
+upgrades.prospectionmeterwater1.desc,Muestra la distancia hasta los depósitos de agua más cercanos.
+upgrades.blastminingstickycharge.desc,Las cargas se pegan al primer muro que tocan y una explosión dirigida excava un túnel en él.
+options.video,Video
+title.navbar.updates,Novedades
+loadout.skin,Aspecto
+upgrades.shieldstrength2.title,Fuerza 2
+level.gameover.win.title,LA CÚPULA SE HA SALVADO
+level.station.navbar.battle,Combatir
+upgrades.converterirontocobalt.desc,Permite convertir el cobalto en hierro y viceversa.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,Nueva cúpula
+pause.gamepadcontrols.pickup,Recoger
+options.video.graphicsmode.photosensitive,Modo fotosensible
+upgrades.orchardduration2.desc,Los efectos de la fruta duran aún más.
+properties.dome.meleedamagereduction,Reducción de daño cuerpo a cuerpo del {.percent}
+upgrades.domesandrepairstrong.desc,Repara el daño de tu cúpula con cobalto.
+options.input,Entrada
+properties.keeper2.spherereload,Recarga de esfera {}s
+properties.blastmining.damage,Daño: {}
+upgrades.laserbend.title,Láser con cabeza giratoria
+upgrades.swordlargeblade3.desc,"Una hoja monstruosa. Muy potente, pero de movimientos lentos."
+loadout.domeoptions.title,¡Elige tu cúpula!
+upgrades.shieldoverchargeduration1.desc,Sobrecargar el escudo también prolongará cualquier habilidad de combate del escudo que uses en la siguiente oleada.
+upgrades.probelong1.title,Larga distancia
+options.keybindings.rebinding.inputprocessor,Pulsa una tecla nueva para esta acción.
+properties.teleporter.teleportduration,Duración del teletransporte: {} s
+upgrades.dome2health2.title,Salud 2
+upgrades.drillbotduplicate.title,Gemelo
+pause.quit.popup,"¿Seguro que quieres salir?
+Pulsa de nuevo para hacerlo.
+(Tus avances se quedan guardados)."
+upgrades.prospectionmetersand2.desc,Muestra la dirección de los depósitos de cobalto más cercanos.
+upgrades.probepersist1.desc,Añade un módulo de memoria a la sonda que marca la ubicación de los recursos durante más tiempo.
+upgrades.artilleryshotcooldown2.title,Tiempo de espera 2
+properties.keeper2.sphereadditionalfirsthitdamage,Daño adicional en el primer golpe {.percent}
+upgrades.shieldbattledestructionprevention.title,Última defensa
+level.gameover.unlock.pet,¡Nueva mascota desbloqueada!
+upgrades.repellentbattlelongerhealthreduction.desc,Prolonga y refuerza la debilitación de todos los monstruos presentes.
+ending.feedbackondiscord,Comentarios en Discord
+properties.keeper2.reflectnexthitdamage,Daño adicional de la esfera en el reflejo para el siguiente rebote {.percent}
+options.video.graphicsmode.borderlesswindow,Ventana sin bordes
+upgrades.keeper2pinballlifetime1.desc,"Estabiliza la esfera cinética, para que flote durante más tiempo."
+level.gadgetchoice.title,¡ELIGE UN ARTILUGIO!
+upgrades.keeper2bundle.title,Tirar paquete
+upgrades.relichunt.title,Cacería de Reliquias
+loadout.mode.doubleiron.desc,"Los depósitos de hierro son el doble de ricos, pero las mejoras también cuestan el doble de hierro."
+level.tutorial.repair.findcobalt,"Prueba a buscar algo de cobalto y úsalo para reparar la cúpula.
+Es un material raro y limitado."
+upgrades.keeper2pinballsplit.title,Split Spheres
+options.input.controls.text,Se juega mejor con mando.
+landing.proceed,Pulsa cualquier tecla o botón pata continuar
+upgrades.keeper2pinballmorespheres1.desc,"Añade un módulo adicional a tu generador de gravedad, para que pueda acoger más esferas cinéticas."
+upgrades.jetpackstrength4.desc,Mejora la mochila propulsora para poder cargar con más recursos.
+upgrades.orchardbattleshieldsecondlayer.desc,Hace crecer otra capa de escudo de proyectiles.
+level.converter.popup.conversion.time,más de {time} s
+properties.keeper1.maxspeed,Velocidad máxima: {}
+properties.laser.aimline,Línea de apuntado
+upgrades.shieldstrength3.desc,Aumenta aún más la cantidad de daño que puede absorber el escudo de la cúpula.
+upgrades.repellentovercharge.title,Sobrecargar repelente
+properties.drillbot.buffstrength,Velocidad tras comer: {.percent}
+worldmodifier.hardnesssofter.desc,Hay más rocas blandas en la mina.
+level.tutorial.pickup.popup_1,Pulsa | para recoger un recurso.
+level.tutorial.pickup.popup_3,Mantén pulsado para recoger varios.
+pause.gamepadcontrols.drop,Soltar
+level.tutorial.fruit.popup_1,Acaba de crecer tu primera fruta propulsora.
+level.tutorial.fruit.popup_2,"Cuando estés junto a ella, pulsa | para consumirla."
+worldmodifier.mapwide.desc,La mina es más ancha y menos profunda.
+upgrades.prestigefinishnocobalt.desc,Sal del planeta y vuelve a casa.
+upgrades.prospectionmeteriron2.title,Brújula de hierro
+upgrades.keeper2movement2.title,Movimiento gravitatorio 2
+options.keybindings.gamepad,Mando
+ending.backtomainmenu,Volver al menú principal
+level.tutorial.fullscreen.back,atrás
+upgrades.shield.title,Escudo
+upgrades.blastmining.title,Explosivos de minería
+upgrades.converterirontocobalt.title,Conversión de cobalto
+upgrades.swordstabfast1.desc,Apuñala más rápido y más a menudo.
+level.gameover.prestige.score.rankunchanged,Mismo puesto.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,El portal recupera la capacidad de teletransportarte.
+upgrades.orchardjetpack3.title,Potenciador de velocidad de la mochila propulsora 3
+level.gameover.unlock.mapsize,¡Nuevo tamaño de mapa desbloqueado!
+upgrades.domeresourcecounters.title,Inventario
+level.gameover.keepgadget.none,ninguno
+upgrades.stunlaserdamage1.desc,Añade una pequeña cantidad de daño al láser aturdidor.
+properties.repellent.battleabilityduration,Duración de la habilidad: {} s
+upgrades.prestigeiron.desc,Envía hierro; añade 1 punto al prestigio que obtienes con cada oleada.
+upgrades.teleporter.title,Teletransportador
+ending.teasemessage,Un pequeño adelanto de lo que está por venir:
+loadout.relichunt.modifiers,Elige los modificadores
+options.accessibility,Accesibilidad
+loadout.mapsize.small.description,Un mapa pequeño para sesiones cortas.
+upgrades.shieldbattleblastdamage.desc,Aumenta el daño y el efecto aturdidor de la electroexplosión.
+options.translation.community.desc,Estos idiomas son traducidos por nuestra chula comunidad. ¡Únete a ellos si quieres!
+upgrades.prospectionmeterwater2.desc,Muestra la dirección de los depósitos de agua más cercanos.
+upgrades.stunlaserdamage2.title,Daño 2
+options.keybindings.action.keeper.gadget1,Accesorio 1
+options.keybindings.action.keeper.gadget2,Accesorio 2
+properties.repellent.wavedelay,Retraso de la oleada: {} ciclos
+options.ok,Aceptar
+upgrades.swordblade1.desc,Mejora la fuerza de corte y la velocidad de la espada.
+upgrades.shieldoverchargeduration2.title,Sobrecargar duración de habilidad de combate 2
+properties.sword.slicedamage,Daño de corte: {} 
+properties.condenser.autocollect,Recolección automática
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,"Los paquetes de disparos se quedarán justo debajo de la cúpula, en lugar de pasar volando por el eje central."
+upgrades.orchardduration1.title,Duración 1
+upgrades.drillbotbuffstrength1.title,Premios nutritivos
+upgrades.liftcarrykeeper2.title,Ascensor del cuidador 2
+upgrades.shieldoverchargestrength2.desc,Aumenta aún más la cantidad de daño que absorbe el escudo sobrecargado.
+upgrades.repellentbattleslowdown.title,Debilitar
+properties.sword.aimline,Predicción de disparo
+upgrades.repellentoverchargestrength2.desc,Aumenta aún más el tiempo que falta hasta la siguiente oleada de monstruos.
+upgrades.teleporter.desc,Un teletransportador bidireccional con un puesto bajo la cúpula y un portal que puede colocarse y desplazarse por las minas.
+level.gameover.stats.monsterskilled,Monstruos asesinados
+upgrades.keeper2pinballreflect.title,Reflexión de la esfera
+upgrades.drillbotstrength3.title,Fuerza 3
+upgrades.shieldbattlereflectspeedup.title,Reflejo acelerado
+upgrades.probeswift1.title,Sonda rápida
+options.game.events.enableseasonal,habilitar el contenido de temporada
+upgrades.repellentbattledamageovertime.title,Vapores tóxicos
+upgrades.dome3health2.title,Salud 2
+loadout.mapsize.huge,Enorme
+properties.repellent.overchargebattleabilityduration,Duración de la habilidad adicional: {.percent}
+options.keybindings.action.keeper.gravitycollect,Cargar recogida
+loadout.miner.scores.title,Scores
+properties.lift.speed,Velocidad de los orbes: {}
+upgrades.drillbotstrength1.title,Fuerza 1
+level.tutorial.repellent.popup_2,"Cuando estés cerca, pulsa | para activarlo."
+level.tutorial.repellent.popup_1,El repelente está listo para retrasar la siguiente oleada.
+properties.orchard.growthtime,Tiempo de crecimiento: {} ciclos
+properties.keeper2.spherefractiondamage,Sphere Damage transcending Rock Hardness {.percent}
+properties.sword.brake,Agilidad de la espada: {}
+upgrades.artilleryflakmultishot2.title,Multidisparo del Flak 2
+upgrades.swordstabfast2.desc,Apuñala aún más rápido y más a menudo.
+upgrades.sword.desc,Una espada duradera que hace más daño cuanto más se aleja de la cúpula. Se puede disparar para apuñalar a los monstruos y tiene una guarda en la base que sirve de escudo y bloquea proyectiles.
+upgrades.artilleryflakmultishot1.title,Multidisparo del Flak 1
+upgrades.artilleryshotprediction.desc,Muestra una predicción de la trayectoria de la granada.
+upgrades.shieldbattlereflect.desc,Activa una habilidad de combate que refleja los proyectiles durante un breve periodo de tiempo.
+upgrades.orchardbattleshieldstrong.title,Escudos potentes
+upgrades.swordlongblade1.title,Hoja larga 1
+level.station.battle.navbar.stab,Apuñalar
+properties.converter.irontowater,{} de hierro por una unidad de agua
+upgrades.minoriron.title,Send Iron
+upgrades.keeper2bundleinfinite.desc,Los paquetes se mantendrán estables durante mucho tiempo.
+worldmodifier.resourcedesc,"Hay menos agrupaciones de hierro, pero son más grandes."
+loadout.keeper,CUIDADOR
+upgrades.drillbotstrength4.desc,Aumenta la potencia de excavación de Brocaquín.
+upgrades.swordstabexplodedamage.title,Daño de bomba
+upgrades.prospectionmeterwater2.title,Brújula de agua
+loadout.keeperoptions.title,¡Elige a tu cuidador!
+properties.prospectionmeter.range,Alcance: {} casillas
+upgrades.orchardbattleshield.title,Escudo de proyectiles
+loadout.mapsize.large,Grande
+properties.keeper2.reflectsphere,Reflejar las esferas entrantes
+upgrades.orchardbattlerooting.title,Raíces trampa
+properties.repellent.growthtime,Tiempo de producción: {} ciclos
+properties.converter.irontocobalt,{} de hierro por una unidad de cobalto
+upgrades.dome3health1.desc,Aumenta de forma permanente la salud estructural de la cúpula.
+upgrades.teleporterteleportresourcescooldown.title,Recarga del teletransportador
+upgrades.shieldovercharge.desc,Usa agua para sobrecargar el escudo de forma manual y que absorba más daño en la siguiente oleada.
+upgrades.stunlaserspeed2.title,Velocidad 2
+upgrades.drillbotbuff1.desc,"Crecen premios en el nido bajo la cúpula. Llévaselos a Brocaquín, que estará encantado de comérselos para recuperar energías."
+options.keybindings.action.dome.battle,Combate
+upgrades.orchardovercharge.title,Sobrecargar vergel
+properties.teleporter.teleportresourcesarea,Alcance del teletransporte: {} casillas
+upgrades.swordreflection1.desc,Aumenta el tamaño de la guarda y hace que refleje los proyectiles de energía.
+upgrades.blastminingblast2.title,Explosivo 2
+upgrades.swordreflection1.title,Reflejo 1
+upgrades.keeper2pinballlifetime2.desc,"Estabiliza la esfera cinética, para que flote durante más tiempo."
+options.keybindings.action.general.left,Izquierda
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Aumenta de forma permanente la salud estructural de la cúpula.
+upgrades.drill2.title,Fuerza del taladro 2
+options.keybindings.rebinding,Reasigna
+level.tutorial.assessor.carry.desc1_1,"Una vez encerrados en ti, te seguirán incluso si sueltas la llave de recogida."
+upgrades.keeper2pinballdamage1.title,Daño de la esfera cinética 1
+upgrades.stunlaserspeed2.desc,El láser aturdidor se mueve aún más rápido y sigue a los monstruos mientras se recarga.
+options.keybindings.title,ASIGNACIÓN DE CONTROLES
+upgrades.keeper2pinballmorespheres2.desc,"Añade un módulo adicional a tu generador de gravedad, para que pueda acoger más esferas cinéticas."
+level.gameover.prestige.uploading.finalfailed,¡No se ha podido subir la nueva puntuación!
+upgrades.blastminingblast1.desc,Aumenta la potencia de la explosión.
+upgrades.stunlaserduration2.desc,El láser aturdidor se recarga más rápido y dispara durante más tiempo.
+upgrades.prospectionmetersand1.desc,Muestra la distancia hasta los depósitos de cobalto más cercanos.
+pause.gamepadcontrols.move,Moverse
+properties.blastmining.bombs,Cargas Explosivas {}
+upgrades.drillbotstrength2.title,Fuerza 2
+loadout.prestige.cobalt.description,"El mapa no tiene cobalto y no puedes generarlo, pero empiezas con una buena cantidad."

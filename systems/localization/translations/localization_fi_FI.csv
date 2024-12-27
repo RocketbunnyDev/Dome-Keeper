@@ -1,0 +1,942 @@
+﻿key,fi_FI
+loadout.prestige.title,Valitse pelitilan variantti
+upgrades.shieldbattleelectroblast.title,Sähköräjähdys
+properties.orchard.battleshieldhp,Vahvuus: {} kp
+options.keybindings.action.general.move,Liiku
+options.video.stretchmode.rezised,Muutettu koko
+level.gameover.unlock.world,Uusi maailma avattu!
+upgrades.blastminingwaterless.desc,"Ei käytä tuotannossa enää vettä, mutta se kestää pidempään."
+properties.blastmining.growthtime,Tuotantoaika: {} sykliä
+properties.laser.stun,Tyrmäysvoima: {}
+exhibition.level.instruction,Jatka pelaamista painamalla mitä vain!
+pause.godot,Luotu Godotia käyttämällä
+upgrades.orchardjetpack2.desc,"Kasvata hedelmien nopeustehostetta, jotta voit liikkua entistä nopeammin."
+upgrades.artillery.title,Tykistö
+upgrades.condenser.desc,"Lisää kuvun alle koneen, joka tuottaa hitaasti vettä kondensaation avulla."
+properties.lift.keeperupwardsspeed,Vahtihissin nopeus: {}
+level.tutorial.fullscreen.continue,jatka
+upgrades.dome1damagereduction2.title,Karaistus 2
+upgrades.orchardduration2.title,Kesto 2
+upgrades.condenserautoovercharge.title,Automaattinen ylilataus
+upgrades.keeper2pinballreflectdamage2.title,Heijastevaurio 2
+loadout.title,VALITSE VARUSTEESI
+level.tutorial.teleporter_2,Käytä kaukosiirrinasemaa siirtyäksesi portaalille ja takaisin.
+options.keybindings.action.general.up,Ylös
+level.converter.popup.cancel,Peruuta
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,Aktivoi kyky suojan poistuttua
+loadout.prestige.normal,Tavallinen
+properties.sword.reflectprojectilesexplosive,Heijastetut energia-ammukset ovat räjähtäviä
+upgrades.swordlargeblade3.title,Raskas terä 3
+upgrades.orcharddrill2.title,Kaivuutehostus 2
+loadout.prestige.normal.description,Normaali mainetila.
+upgrades.keeper2pinballreflectdamage1.desc,"Heijastuneet kuulat aiheuttavat paljon enemmän vahinkoa kivelle, johon ne seuraavaksi osuvat."
+options.input.gamepad,Peliohjain
+loadout.choices.locked,Ei ole vielä avattu
+upgrades.condenserspeed1.desc,Vähentää yhden veden kondensaatiossa vaadittua aikaa.
+upgrades.shieldbattleinvulnerable.desc,"Laukaise aktiivinen taistelukyky, joka tekee kuvustasi vahingoittumattoman lyhyeksi aikaa."
+upgrades.domewavemeter.desc,Näyttää ajan vihamielisten elämänmuotojen seuraavaan hyökkäysaaltoon.
+upgrades.keeper2pinballreflectspeedup2.title,Ensiluokkainen heijaste
+upgrades.keeper2movement1.desc,Tehosta painovoimageneraattoriasi ja liiku nopeammin.
+upgrades.repellentoverchargeduration2.desc,Taistelukyky kestää ylilatauksen jälkeen pidempään seuraavassa aallossa.
+upgrades.laserhitprojectiles.desc,Laserin ampumat energia-ammukset hajoavat välittömästi.
+options.keybindings.action.keeper.pickup,Poimi
+upgrades.keeper2pinballdamage1.desc,"Kineettisistä kuulista aiheutuu kiville tuhoisampia vaurioita, ja lisäksi kuula aiheuttaa kiertoliikkeessä suurempaa, kaivuutöitä edistävää vahinkoa kivelle."
+upgrades.keeper2pinballdamage3.title,Kineettisen kuulan aiheuttama vaurio 3
+options.video.graphicsmode.enablevsync,Ota VSync käyttöön
+options.translation.community,"Yhteisökäännös, {completion} % valmis"
+loadout.difficult.harder,vaikeampi
+worldmodifier.resourcerichiron.desc,Maailmassa on paljon rautaa.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,Lähetä rautaa
+upgrades.stunlaserspeed1.desc,Tyrmäyslaser liikkuu nopeammin.
+upgrades.keeper2pinballdamage2.desc,"Kineettisistä kuulista aiheutuu kiville tuhoisampia vaurioita, ja lisäksi kuula aiheuttaa kiertoliikkeessä suurempaa, kaivuutöitä edistävää vahinkoa kivelle."
+upgrades.drill1.title,Poravoima 1
+upgrades.prospectionmetersand2.title,Kobolttikompassi
+upgrades.dome1health1.desc,Kasvata kupusi rakenteellista kuntoa pysyvästi.
+title.navbar.newgame,Uusi peli
+properties.repellent.overchargeduration,Kasvata karkotteen tuotantonopeutta {} sykliksi
+properties.sword.retractspeed,Vetonopeus: {} 
+upgrades.lasermove3.desc,Laserin liikenopeus on maksimissaan.
+upgrades.stunlaser.title,Tyrmäyslaser
+options.keybindings.action.general.use,Käytä
+worldmodifier.monsterfeeble.desc,Hirviöt ovat heikompia ja tekevät vähemmän vahinkoa.
+upgrades.shield.desc,"Asenna suoja, joka imee hieman vahinkoa. Latautuu automaattisesti."
+options.video.stretchmode.rezised.text,"Hahmontaa pelin näytön käyttäen natiivi- tai ikkunaresoluutiota.
+Näyttää terävältä, mutta ruudulla voi näkyä visuaalisia virheitä 1 pikselin levyisinä viivoina."
+upgrades.orchardbattlerootingexplosion.desc,"Aktivoi uudelleen räjäyttääksesi kaikki vankina olevat hirviöt, jotka tekevät sitten vahinkoa ympärilleen."
+loadout.mapsize.small,Pieni
+upgrades.probe.desc,"Lisää pukuusi luotaimen, joka lähettää laukaistuna lähellä olevat resurssit paljastavan pulssin. Täytyy ladata kuvun alla olevalla asemalla."
+upgrades.swordlongblade1.desc,Asentaa pidemmän ja ketterämmän terän.
+upgrades.dome1health1.title,Kunto 1
+upgrades.blastminingwaterless.title,Vedettömät panokset
+level.tutorial.assessor.carry,Gravitaatiosieppaus
+upgrades.liftspeed1.desc,Kuulat liikkuvat nopeammin.
+upgrades.shieldstrength1.desc,Lisää kuvun suojan imemän vahingon määrää.
+upgrades.orchardbattleshieldsecondlayer.title,Kaksinkertainen suoja
+upgrades.teleporterteleportresourcescooldown.desc,Kaukosiirrin voi siirtää resursseja useammin.
+options.input.gamepad.autoswitch,ensisijaisen peliohjaimen automaattinen tunnistus
+level.gameover.unlock.modifiers,Maailmamuokkaimet avattu!
+properties.sword.slicebrake,Nopeushidastus silpoessa: {.percent}
+loadout.difficulty.veryeasy,Normaali
+properties.sword.sliceacceleration,Miekan nopeus: {}
+options.input.gamepad.gamepadstickdeadzone.text,"Aseta arvo siten, ettei palkki välky, jos vain kosketat peukalosauvoihin niitä työntämättä.
+Jos työnnät peukalosauvaa, palkin pitäisi välkkyä sauvaa liikutettaessa."
+options.accessibility.highlightmonsters.explanation,Muodosta kirkas ääriviiva hirviöiden ympärille niiden näkymiseksi paremmin.
+properties.upgrade.gameover,Päätä pelikerta
+upgrades.blastminingstickycharge.title,Tarttuvat suuntapanokset
+upgrades.shieldoverchargestrength2.title,Yliladattu suojan voimakkuus 2
+upgrades.blastminingblast2.desc,Kasvattaa räjähdyksen voimakkuutta entisestään.
+upgrades.repellentbattlestrongerslowdown2.title,Vahva jähmetys
+upgrades.converter.desc,"Muuntaa resursseja, mikä auttaa resurssivarantojen tasapainottamisessa."
+level.gameover.continue,Jatka
+upgrades.repellentbattleslowdown.desc,"Levitä turruttavaa usvaa taistelun aikana, joka hidastaa kaikkia hirviöitä."
+loadout.mapsize.medium.description,Keskikokoinen kartta kunnon louhintasessioita varten.
+properties.orchard.overchargeadditionalbuffduration,{} s pidempään kestävä tehostus ylilatauksen jälkeen
+options.translation.community.title,Yhteisön kääntäjät
+upgrades.blastminingtriple.title,Kolmoislataus
+worldmodifier.hardnessextremes.desc,Erittäin kovia ja pehmeitä kiviä on paljon enemmän.
+level.station.battle.navbar.exit,Poistu
+upgrades.keeper2pinballlifetime2.title,Kineettisen kuulan elinikä 2
+upgrades.minoriron.desc,Send iron offworld to increase your prestige.
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,Muutto
+upgrades.converterefficientcobalt.title,Tehokas kobolttimuunnin
+upgrades.shieldbattledestructionprevention.desc,"Saa pitkä vahingoittumattomuusjakso, kun kupusi on tuhoutumassa.
+Suojasi ei lataudu sen jälkeen seuraavaan taisteluun.
+Viimeisen vastarinnan voi laukaista uudelleen vasta 2 suoritetun aallon jälkeen."
+upgrades.drill1.desc,Vahvista poraa kaivaaksesi nopeammin.
+level.gameover.retry,Aloita uusi pelikerta
+properties.orchard.overchargeduration,Hedelmien kasvunopeus kaksinkertaistuu {} sykliksi
+upgrades.dome2health1.title,Kunto 1
+level.tutorial.station.popup_4,Siirry taistelutilaan painamalla | ja puolusta sitä.
+level.gameover.stats.timeplayed.unit,min
+upgrades.repellentbattlestrongerslowdown2.desc,Usva hidastaa hirviöitä entistä enemmän ja kestää entistä pidempään.
+loadout.gadgetoptions.title,Valitse päävekotin.
+level.tutorial.station.popup_2,Siirry asemalle ja paina | astuaksesi sisään.
+upgrades.dome1damagereduction1.desc,"Karaise kuvun pintaa, jotta se kärsii vähemmän vahinkoa hirviöiden lähitaisteluhyökkäyksistä. Ammusvahinko pysyy entisellään."
+level.tutorial.station.popup_1,Kupusi on hyökkäyksen kohteena!
+upgrades.keeper2movement3.title,Gravitaatioliike 3
+upgrades.jetpackspeed1.desc,Paranna rakettireppua liikkuaksesi nopeammin.
+properties.converter.ironwatertime,{} syklin muunnosaika
+level.tutorial.sworddome.slicing.desc,"Mitä nopeammin miekka heiluu, sitä enemmän viiltovahinkoa se tekee."
+upgrades.liftorbs.desc,Asenna ylimääräinen nostokuula.
+upgrades.proberecharge.desc,Luotain lataa hitaasti itseään ajan myötä.
+loadout.gadget,VEKOTIN
+upgrades.drill4.title,Poravoima 4
+properties.probe.rechargetime,Täysi latausaika: {} sykliä 
+upgrades.keeper2pinballdamage4.title,Kineettisen kuulan aiheuttama vaurio 4
+options.game,Peli
+loadout.prestige.cobalt,Kiinteä koboltti
+options.input.vibration.strength,Värinän voimakkuus
+upgrades.liftcapacity1.desc,Kuulat kantavat enemmän resursseja.
+loadout.miner.title,Choose Your Run Options
+level.gameover.stats.difficulty,Vaikeustaso
+upgrades.repellentoverchargestrength2.title,Yliladattu aaltoviive 2
+upgrades.domesandrepairstrong.title,Vahva kobolttikorjaus
+upgrades.stunlaserduration1.desc,Tyrmäyslaser viilentyy nopeammin ja ampuu pidempään.
+level.gameover.prestige.score.rankimproved,"Paransit sijoitustasi, se on nyt {rank}."
+upgrades.stunlaserdamage2.desc,Kasvattaa tyrmäyslaserin tekemää vahinkoa.
+upgrades.drillbotstrength4.title,Voimakkuus 4
+level.gameover.prestige.title,MAINEPELI PÄÄTTYI
+loadout.secondstage.cancel,Peruuta
+upgrades.laseraimline.desc,Lisää tähtäin laseriin tähtäyskohdan näyttämiseksi.
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,"Tiivistin tuottaa ja varastoi kaksi vettä, ennen kuin se lakkaa toimimasta."
+upgrades.swordreflection2.title,Heijaste 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,Vahvista poraa kaivaaksesi nopeammin.
+properties.laser.hitprojectiles,Laser osuu energia-ammuksiin
+upgrades.dome1damagereduction1.title,Karaistus 1
+properties.sword.stabexplosivedamage,Pommivahinko: {}
+upgrades.drillbotturnaround.title,Edistynyt ehdollistus
+upgrades.keeper2movement1.title,Gravitaatioliike 1
+properties.orchard.battleroots,Kasvata {} juurta maahan
+upgrades.prospectionmeterrange2.title,Kantomatka 2
+upgrades.jetpackspeed4.title,Nopeus 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,Lisää seuraavan hirviöaallon viivettä entisestään.
+upgrades.orchard.desc,"Istuta kupuun puu, jossa kasvaa liikkumista ja kaivuuta tehostavia hedelmiä."
+upgrades.artilleryflakexplosionradius1.title,Ilmatorjuntasäde 1
+upgrades.shieldbattleelectroblast.desc,"Laukaise aktiivinen taistelukyky, joka luo lyhyeksi aikaa tappavan kenttätehosteen kupusi ympärille."
+upgrades.shredgadgettocobalt.desc,Silppua vekotin ja saa {amount} kobolttia.
+upgrades.prestigecobalt.title,Lähetä kobolttia
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,"Asentaa massiivisen terän. Se on hitaampi, mutta tekee raskasta vahinkoa."
+level.gameover.back,Takaisin
+options.cancel,Peruuta
+options.keybindings.action.dome.fire,Ammu 
+upgrades.swordstabshoot.title,Keihäs
+upgrades.blastminingtriple.desc,Tuottaa kolme pientä latausta yhden suuren sijaan.
+upgrades.orcharddrill1.title,Kaivuutehostus 1
+upgrades.swordextendlong2.title,Pitkä pisto 2
+upgrades.artilleryshotcooldown1.desc,Ammu useammin.
+upgrades.keeper2pinballdamagefraction.title,Kiven kovuuden nujerrus kineettisellä kuulalla
+upgrades.doublelaser.title,Tuplalaser
+upgrades.jetpackspeed3.title,Nopeus 3
+upgrades.minerwater.title,Send Water
+properties.orchard.battleabilityuses,Käyttöjä per taistelu: {}
+upgrades.liftorbs.title,Kuulat 1
+upgrades.repellentoverchargeduration1.title,Yliladattu taistelukyvyn kesto 1
+upgrades.drill3.desc,Vahvista poraa kaivaaksesi nopeammin.
+level.gameover.prestige.uploading.inprocess,ladataan pisteitä...
+loadout.abort,Keskeytä
+properties.shield.overchargestrength,Yliladattu vahvuus: {} kp
+level.station.navbar.upgrades,Parannukset
+upgrades.keeper2pinballsplit.desc,Halkaise lähestyvät kuulat kahtia ja lauo ne 90 asteen kulmassa alkuperäiseen suuntaan nähden.
+upgrades.proberecharge.title,Automaattilataaja
+properties.sword.stabrange,Kantama: {} 
+upgrades.liftspeed1.title,Nopeus
+upgrades.domewavecount.desc,"Asenna mittari, joka näyttää, kuinka monesta aallosta olet selvinnyt."
+level.converter.popup.title,Muunna resursseja
+pause.discord,Liity seuraamme Discordissa
+options.keybindings.action.general.back,Peruuta
+upgrades.prospectionmeterrange1.desc,Kasvattaa etsintämittarin havaitsemiskantamaa.
+upgrades.dome2badrepair1.desc,"Kupusi korjaa automaattisesti osan vahingosta, jos se kärsii sitä paljon taistelun aikana."
+upgrades.prestigecobalt.desc,"Lähetä kobolttia kotiin, lisää ansaitun maineen kerrointa jokaisesta aallosta."
+upgrades.domesandrepair.desc,Korjaa kupusi vauriot kobolttia käyttämällä.
+loadout.skinoptions.title,Valitse ulkoasu.
+loadout.difficulty.medium.description,Dome-pelin tarkoitettu vaikeustaso.
+loadout.difficulty.veryeasy.description,"Tila ei ole edelleenkään helppo, mutta se on muita vaikeustasoja rennompi."
+options.game.tutorials,Oppaat
+upgrades.orchardbattlerootingmore.desc,"Kasvata enemmän juuria, jotka kestävät pidempään."
+upgrades.probepersist1.title,Muistiluotain
+upgrades.keeper2pinballmorespheres2.title,Kuulavarainto 2
+upgrades.orchardjetpack3.desc,"Kasvata hedelmien nopeustehostetta, jotta voit liikkua äärimmäisen nopeasti."
+upgrades.probe.title,Luotain
+upgrades.sword.title,Miekka
+properties.shield.battledestructionprevention,Lisäkesto: {} s
+upgrades.shieldbattlereflect.title,Heijaste
+options.keybindings.rebinding.apply,Käytä
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,Tuplavarasto
+upgrades.relichunt.desc,Etsi syvälle haudattuja reliikkejä ja tuo ne takaisin kupuusi.
+loadout.mapsize.unlock.description,Voita pelikerta edellisellä kartan koolla avataksesi tämän kartan koon.
+properties.sword.stabdamage,Pistovahinko: {} 
+properties.keeper1.drillstrength,Poravoima: {}
+worldmodifier.mapwildbiomes.desc,Biomien rajat ovat todella epäsäännölliset.
+upgrades.condenser.title,Tiivistin
+upgrades.dome2badrepair2.title,Osumapalautuminen 2
+options.game.screenshake.shakewhenmining,Ravistus louhiessa
+upgrades.repellentdelay2.title,Viive 2
+level.tutorial.assessor.reflect.desc,Paina | heijastaaksesi kohti tulevat kineettiset kuulat pieneksi hetkeksi.
+properties.drillbot.buffamount,Porauksen tehostus: {} osumaa
+upgrades.laserstrength2.title,Teho 2
+upgrades.jetpackstrength3.title,Kantovoima 3
+options.keybindings.action.general,Yleiset
+level.gameover.unlock.gadgetability,Uusi vekottimen taistelukyky
+upgrades.jetpackstrength1.desc,Paranna rakettireppua kantaaksesi enemmän resursseja.
+upgrades.artillerymultishot1.desc,Ampuu useamman kranaatin laukausta kohti.
+properties.sword.reflectprojectiles,Heijasta energia-ammuksia
+upgrades.stunlaser.desc,"Asenna laser, joka tähtää ja tyrmää pieniä hirviöitä automaattisesti."
+upgrades.orchardbattleshieldstrong.desc,Ammussuojat ovat vahvempia. Saat myös lisäkyvyn ylilatausta käytettyäsi.
+upgrades.orchardjetpack1.desc,"Kasvata hedelmien nopeustehostetta, jotta voit liikkua nopeammin."
+upgrades.laser.desc,Kuvullasi liikkuva tarkkuuslaser. Luotiin alun perin asteroidien louhintaan.
+properties.shield.maxstrength,Vahvuus: {} kp
+options.keybindings.action.keeper,Vahti
+worldmodifier.resourceunpredicatablecobalt.desc,"Koboltti on enemmän hajallaan, ja sitä on vaikeampi ennakoida."
+title.navbar.quit,Poistu työpöydälle
+options.keybindings.rebinding.error.gamepad,Tätä ei voi asettaa peliohjaimen syötteeksi
+upgrades.repellentbattleslowdownstun1.desc,Käytä epävakaita itiöitä usvassa tyrmätäksesi hirviöt ja pysäytä ne paikoilleen lyhyeksi aikaa.
+upgrades.swordfastreflection.title,Kiihdytetty heijaste
+upgrades.stunlaserduration2.title,Tulituksen kesto 2
+level.gameover.lose.title,KUPU MENETETTIIN
+worldmodifier.resourcescatterediron.desc,"Rautaryppäitä on enemmän, mutta ne ovat pienempiä."
+properties.laser.dps,Vahinko: {}
+options.game.screenshake.shakeintensity,Ravistuksen voimakkuus
+worldmodifier.hardnessharder.desc,Kaivoksessa on enemmän kovempia kiviä.
+options.video.stretchmode,Venytystila
+worldmodifier.monsterhealthy.desc,Hirviöillä on enemmän kuntoa.
+level.gameover.stats.mapsize,Kartan koko
+loadout.mode.longtime,Pitkät syklit
+upgrades.swordreflection3.desc,Lisää väistinsuojan koon maksimiinsa.
+upgrades.repellentbattleslowdownstun2.desc,Käytä itiöitä useammin ja tyrmää hirviöt pidemmäksi aikaa.
+upgrades.teleporterteleportresourcesarea.title,Kaukosiirtimen alue
+upgrades.shieldoverchargeduration2.desc,Suojan taistelukyky on ylilatauksen jälkeen aktiivisena entistä pidempään seuraavan aallon aikana.
+upgrades.shieldoverchargestrength1.title,Yliladattu suojan voimakkuus 1
+upgrades.drillbotbuffstrength1.desc,Herkut antavat Drillbertille puhtia pidemmäksi aikaa.
+upgrades.orchardoverchargebuffduration.title,Yliladattu tehosteen kesto
+level.tutorial.assessor.spheres.desc3,Sen tehot latautuvat uudelleen jokaisella ponnahduksella.
+loadout.mode.longtime.desc,"Sinulla on tuplasti aikaa aaltojen välissä, mutta aallot ovat voimakkaampia."
+level.tutorial.assessor.spheres.desc2,Ammu kuula valitsemalla suunta ja vapauttamalla.
+upgrades.laserstrength1.desc,"Parantaa laserin tehoa, mutta se liikkuu hitaammin ampuessaan."
+level.tutorial.assessor.spheres.desc1,Pidä | painettuna ladataksesi kineettisen kuulan.
+upgrades.jetpackstrength4.title,Kantovoima 4
+upgrades.migration.desc,"Siirry maailmasta toiseen ja riisu jokainen resursseista ja reliikeistä, ennen kuin sinut jyrätään."
+upgrades.orcharddrill1.desc,"Kasvata hedelmien kaivuutehostusta, niin louhinta luonaa nopeammin."
+upgrades.keeper2pinballdamage3.desc,"Kineettisistä kuulista aiheutuu kiville tuhoisampia vaurioita, ja lisäksi kuula aiheuttaa kiertoliikkeessä suurempaa, kaivuutöitä edistävää vahinkoa kivelle."
+options.accessibility.highlightmonsters,Korosta hirviöt
+upgrades.prestigecobaltnocobalt.title,Lähetä kobolttia
+properties.keeper2.spherebasedamage,Kuulan aiheuttama perusvaurio {}
+upgrades.orcharddrill3.desc,"Kasvata hedelmien kaivuutehostetta, niin louhintatyö sujuu äärimmäisen nopeasti."
+properties.converter.cobalttoiron,{} kobolttia yhtä rautaa kohti
+level.tutorial.repair.usecobalt,Voit korjata kupuasi koboltilla. Se kuuluu kuvun teknologiapuun parannuksiin.
+upgrades.blastminingimpactdetonation.title,Osumaräjäytys
+upgrades.swordfastreflection.desc,Heijastetut ammukset lentävät takaisin nopeammin.
+upgrades.liftcapacity1.title,Kapasiteetti
+upgrades.artillery.desc,Sinko.
+properties.sword.electricdamage,Sähköistetyn miekan vahinko: {}
+level.station.upgrademenu.close,Sulje
+properties.shield.overchargebattleabilityduration,Lisäkyvyn kesto: {.percent}
+pause.title,TAUKO
+upgrades.artillerymultishot1title,Ketjulaukaus 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Lisäkyvyn kesto: {} s
+upgrades.orchardbattlerootingexplosion.title,Räjähtävä saalis
+upgrades.blastminingproductiontime1.title,Tuotantoaika
+options.video.stretchmode.scaled.text,"Renderöi pelin resoluution pysyvään arvoon ja skaalaa pelin tähän arvoon täsmääväksi.
+Kuvan pikselöityminen on mahdollista etenkin fonttien kohdalla, mutta visuaalisia väriviivavirheitä ei esiinny."
+upgrades.orchardduration3.title,Kesto 3
+upgrades.domewavecount.title,Syklimittari
+upgrades.shredgadgettoiron.title,Silppua raudaksi
+options.keybindings.apply,Käytä
+options.keybindings.restoredefault,Palauta oletukset
+upgrades.converterironduplication.title,Rautakopio
+title.navbar.credits,Krediitit
+level.gameover.unlock.gadget,Uusi vekotin
+upgrades.jetpackspeed2.title,Nopeus 2
+loadout.modeoptions.title,Valitse pelitila.
+properties.keeper2.spherebaselifetime,Kuulan elinikä {}
+options.video.stretchmode.scaled,Skaalattu
+properties.orchard.battleabilityduration,Kyvyn kesto: {} s
+upgrades.repellentbattleslowdownstun1.title,Halvaus
+loadout.difficulty.medium,Armoton
+options.audio.volumes,Äänenvoimakkuudet
+upgrades.keeper1.title,Insinööri
+upgrades.drillbotsleepless.title,Perusehdollistus
+upgrades.drillbot.title,Drillbert
+level.tutorial.assessor.carry.desc1,"Pidä | painettuna vetääksesi resursseja luoksesi, kunnes ne lukittuvat sinuun."
+level.tutorial.assessor.carry.desc2,Paina | pudottaaksesi resurssin.
+level.tutorial.drillbot.sleeping1,"Drillbert ottaa torkut tovin jälkeen tai kohdatessaan seinän, jota se ei pysty kaivamaan."
+level.tutorial.assessor.carry.desc3,"Jos tähtäät johonkin suuntaan pudottaessasi resurssia, se kiihtyy voimakkaasti."
+level.tutorial.drillbot.sleeping2,"Herätä se painamalla |, kun olet lähellä sitä."
+level.tutorial.drillbot.sleeping3,"Drillbert kääntyy toiseen suuntaan, kun painat | sen herättyä."
+properties.keeper2.totalspheres,Kuulat {}
+upgrades.shieldbattleblastdamage.title,Tappava räjähdys
+upgrades.domeresourcecounters.desc,Näyttää tällä hetkellä varastoitujen resurssien määrän.
+upgrades.swordextendlong1.desc,Parannettu pistovoima ja kyky ohjata sen lentoa.
+worldmodifier.resourcerichwater.desc,Maailmassa on paljon vettä.
+upgrades.drillbotstrength1.desc,Kasvattaa Drillbertin kaivuuvoimaa.
+upgrades.stunlaserautonomy1.desc,"Yksinkertainen tekoäly hallitsee tyrmäyslaseria jopa silloin, kun olet hallinta-aseman sisällä."
+properties.blastmining.radius,Räjähdyssäde: {} ruutua
+upgrades.jetpackstrength1.title,Kantovoima 1
+pause.gamepadcontrols.use,Käytä
+upgrades.laserstrength2.desc,"Parantaa laserin tehoa merkittävästi, mutta se liikkuu entistä hitaammin ampuessaan."
+properties.laser.movespeedwhilefiring,Nopeus ampuessa: {.percent}
+properties.probe.markerretention,Merkin kesto: {} s
+upgrades.swordexplosivereflection.title,Räjähtävä heijaste
+upgrades.condenserspeed2.desc,Vähentää entisestään yhden veden kondensaatiossa vaadittua aikaa.
+upgrades.condenserspeed2.title,Tuotantonopeus 2
+properties.stunlaser.firetime,Ampumisaika: {} s
+options.input.gamepad.gamepadstickdeadzone,Peukalosauvojen kuolleet alueet
+upgrades.keeper2movement2.desc,Tehosta painovoimageneraattoriasi ja liiku nopeammin.
+upgrades.shieldbattlelongerafterdepletion.desc,"Räjähdys kestää pidempään, jos se laukaistaan suojan loputtua."
+properties.laser.bend,Laser tähtää automaattisesti {} °
+level.station.upgrademenu.buy,Osta
+properties.drillbot.plantgrowthtime,Herkun kasvuaika: {} sykliä
+loadout.proceed,Jatka
+upgrades.repellentoverchargeduration1.desc,Tankkisi ylilataus pidentää myös minkä tahansa karkotteen taistelukykyä seuraavassa aallossa.
+upgrades.artilleryshotcooldown1.title,Palautuminen 1
+worldmodifier.resourceunpredicatablewater.desc,"Vesi on enemmän hajallaan, ja sitä on vaikeampi ennakoida."
+level.tutorial.blastmining.popup_1,"Ota räjähde ja pudota se kohtaan, josta haluat raivata kiviä."
+ending.thankyoumessage,Kiitos pelaamisesta!
+options.keybindings.rebinding.error.keyboard,Tätä ei voi asettaa näppäimistön syötteeksi
+upgrades.keeper2pinballdamagefraction.desc,Kineettinen kuula nujertaa kiven kovuuden ja vahingoittaa sitä tietyllä osalla kunnostaan.
+upgrades.swordlargeblade1.title,Raskas terä 1
+upgrades.shredgadgettoiron.desc,Silppua vekotin ja saa {amount} rautaa.
+upgrades.drillbot.desc,"Adoptoi ihastuttava olento, joka tykkää kaivamisesta. Kanna se kaivokseen ja pudota se kohtaan, jossa haluat sen työskentelevän. Käy tarkistamassa sitä, kun se ottaa työn aikana torkut."
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,Kunto 1
+title.navbar.updates.close,Sulje
+upgrades.swordaimline.desc,Lisää lasertähtäimen miekan pistoja varten.
+upgrades.shieldoverchargeduration1.title,Yliladattu taistelukyvyn kesto 1
+level.converter.popup.explanation,Aloita noukkimalla resurssimuunnos!
+upgrades.drillbotbuff1.title,Herkut
+title.navbar.credits.close,Sulje
+upgrades.keeper2movement3.desc,Tehosta painovoimageneraattoriasi ja liiku nopeammin.
+pause.quittotitlescreen,Poistu alkuruutuun
+loadout.prestige.countdown.description,Mainekerroin on aluksi korkea ja laskee sitten joka syklillä.
+upgrades.drill3.title,Poravoima 3
+upgrades.probestage1.title,Parannettu luotain
+properties.sword.stabarrowhead,Lisää nuolenpään kokoa
+loadout.mapsize.huge.description,Valtava kartta pisimpiä pelikertoja varten.
+properties.sword.stabspeed,Pistonopeus: {.percent} 
+level.tutorial.teleporter.take1,Kaukosiirtimelläsi on asema ja portaali. Voit siirtyä paikasta toiseen niiden välillä.
+worldmodifier.mapmaze.desc,Kaivos on sokkelo.
+level.tutorial.teleporter.take2,Tartu portaaliin ja aseta se mieleiseesi paikkaan.
+options.keybindings.action.dome.battleability1,Taistelutaito
+upgrades.laserbend.desc,"Asentaa pyöröpään laseriin, joka korjaa tähtäystä automaattisesti kohteen ollessa lähellä."
+options.video.graphicsmode.fullscreen,Koko ruutu
+options.keybindings.action.general.down,Alas
+level.tutorial.assessor.spheres,Kineettiset kuulat
+level.tutorial.mineraltree1,"Löysit juuri mineraalipuun siemenen. Siemenestä voi kasvaa ruutuihin juurtuva puu, joka kasvattaa resursseja juuriruutujensa resurssien mukaan.
+Voit istuttaa siemenen pudottamalla sen ruutuun."
+upgrades.blastmining.desc,"Lisää kuvun alle koneen, joka käyttää vettä räjähteiden tuotannossa. Kanna niitä kaivoksiin ja räjäytä vapauttamalla."
+properties.sword.stabcooldown,Piston palautuminen: {} s 
+upgrades.repellentoverchargestrength2.desc,Ylilataus pidentää viiveaikaa seuraavaan aaltoon.
+upgrades.probeswift1.desc,"Vaihda nopeaan lyhyenkantaman luotaimeen, jossa on monta latausta."
+properties.drillbot.buffextraamount,Lisäporaus: {} osumaa
+level.gameover.unlock.keeper,Uusi vahti
+upgrades.prospectionmeter.title,Etsintämittari
+upgrades.shieldbattleactivateondepletion.desc,"Vahingoittumattomuus aktivoi lisäajan automaattisesti, kun suoja loppuu."
+upgrades.dome2badrepair1.title,Osumapalautuminen 1
+upgrades.swordtargetlock.title,Kohdelukitus
+upgrades.laserhitprojectiles.title,Hajota ammukset
+upgrades.keeper2pinballreflectspeedup1.title,Paranneltu heijaste
+properties.shield.battleuses,Käyttöjä per taistelu: {}
+options.game.events,Tapahtumat
+upgrades.artilleryflakexplosionradius1.desc,Ilmatorjunnan räjähdys on suurempi.
+properties.keeper1.speedlosspercarry,Kantamisen hidastus: {}
+pause.gamepadcontrols.back,Takaisin
+level.gameover.unlocknewelementbutton,Valitse avattava
+upgrades.prospectionmeteriron2.desc,Näyttää etäisyyden lähimpiin rautaesiintymiin.
+upgrades.prestige.desc,"Ansaitse pisteitä lähettämällä kotiin mahdollisimman paljon resursseja, ennen kuin kupusi kaatuu tai poistut turvallisesti planeetalta."
+properties.prestige.multiplier,{} mainetta aaltokerrointa kohti
+options.input.controls,Komennot
+properties.sword.reflectionacceleration,Heijastetun ammuksen nopeus: {.percent}
+loadout.difficult.easier,helpompi
+upgrades.keeper2pinballreflectdamage1.title,Heijastevaurio 1
+properties.sword.extendspeed,Piston nopeus: {} 
+properties.keeper2.reflectspeedup,Kuulan nopeutus heijastuksella {.percent}
+loadout.mode.doubleiron,Tuplarauta
+upgrades.dome3.desc,Ei saatavilla esittelyversiossa.
+properties.condenser.growthtime,Tuotantoaika: {} sykliä
+options.game.languages,Kielet
+worldmodifier.mapwidebottom.desc,Kaivos on ensin kapea ja todella leveä syvemmälle mentäessä.
+loadout.mode.maze,Sokkelo
+upgrades.dome2health1.desc,Kasvata kupusi rakenteellista kuntoa pysyvästi ja korjaa se.
+properties.drillbot.drillstrength,Poravoima: {}
+upgrades.keeper2.desc,"Epätavallinen mainari, joka käyttää kokeellista painovoimateknologiaa."
+properties.orchard.battleshields,Suojakerrokset: {}
+level.tutorial.sworddome.reflecting.desc,Käytä miekan kilpeä ammusten pysäyttämiseen tai jopa niiden lähettämiseen takaisin kimpoamisen kautta.
+options.audio.volumes.musicvolume,Musiikin voimakkuus
+loadout.dome,KUPU
+upgrades.swordlongblade2.title,Pitkä terä 2
+upgrades.laseraimline.title,Lasertähtäin
+level.tutorial.assessor.bundle.desc1,Pidä | painettuna resursseja kantaessasi tukkulatingin syöttämiseksi.
+options.keybindings.keyboard,Näppäimistö
+level.tutorial.assessor.bundle.desc2,"Ammu tukku tähtäämällä ja vapauttamalla, ihan samaan tapaan kuin ammut kineettisiä kuuliakin."
+properties.prestige.score,{} mainetta
+worldmodifier.mapdeep.desc,Kaivos on syvempi ja kapeampi.
+upgrades.repellentbattleslowdownstun2.title,Vahva halvaus
+upgrades.keeper2pinballmorespheres1.title,Kuulavarainto 1
+upgrades.prestigewater.desc,"Lähetä vettä kotiin, lisää 1 pisteen ansaittua mainetta jokaisesta aallosta."
+properties.keeper2.bundlestopcenter,Keskipylvään painovoimakenttä
+upgrades.stunlaserdamage1.title,Vahinko 1
+upgrades.keeper2pinballlifetime1.title,Kineettisen kuulan elinikä 1
+properties.repellent.battleslowdown,Hirviöhidastus: {.percent}
+upgrades.swordextendlong1.title,Pitkä pisto 1
+level.gameover.stats.distancetravelled,Kuljettu matka
+properties.keeper2.reflectlifetime,Kuulan lisäelinikä heijastuessa {} s
+upgrades.blastminingimpactdetonation.desc,Räjähde räjähtää pintaan osuessaan.
+properties.keeper2.spheresplit,Halkaise lähestyvät kuulat
+options.keybindings.action.dome.upgrade,Parannukset
+worldmodifier.resourcepoorcobalt.desc,Maailmassa on vähän kobolttia.
+pause.resumegame,Jatka peliä
+level.gameover.unlock.difficulty,Uusi vaikeustaso avattu!
+properties.stunlaser.cooldown,Palautuminen: {} s
+options.keybindings.action.general.right,Oikea
+level.tutorial.assessor.mining.desc,Voit poistaa yksittäisen kiven viemällä pyörivän kineettisen kuulan sitä kohti.
+upgrades.teleporterteleportresourcesback.title,Resurssien kaukosiirto
+upgrades.dome1.title,Laserkupu
+upgrades.keeper2bundleinfinite.title,Kestotukku
+upgrades.repellentdelay1.title,Viive 1
+upgrades.miner.desc,"In worlds without monsters, you can concentrate on mining as many resources as you want without distraction."
+upgrades.repellentbattlestrongerslowdown1.desc,Usva hidastaa hirviöitä enemmän ja kestää pidempään.
+upgrades.teleporterteleportresourcesarea.desc,Portaali kaukosiirtää resursseja aiempaa suuremmalta alueelta.
+upgrades.dome3.title,Tykistökupu
+upgrades.swordstabshoot.desc,"Sen sijaan, että kaapeli vetäisi miekan takaisin, se latautuu ja ammutaan kuvusta keihään lailla."
+upgrades.repellentbattledamageovertime.desc,"Kaikki hirviöt kärsivät hieman vahinkoa joka sekunti, jonka myrkkyhöyryt ovat läsnä."
+upgrades.shieldbattleactivateondepletion.title,Aktivoi ehtyessä
+upgrades.artillerymultishot2.desc,Ampuu useamman kranaatin laukausta kohti.
+upgrades.dome1health2.title,Kunto 2
+worldmodifier.monsterlethal.desc,Hirviöt ovat tappavampia ja tekevät enemmän vahinkoa.
+loadout.pet,Lemmikki
+options.keybindings.action,Toiminto
+upgrades.orcharddrill3.title,Kaivuutehostus 3
+options.translation.title,VALITSE KIELI
+upgrades.prospectionmeterrange1.title,Kantomatka 1
+upgrades.dome2badrepair2.desc,"Kupusi korjaa automaattisesti suuremman osan vahingosta, jos se kärsii sitä paljon taistelun aikana."
+options.audio.volumes.ambiencevolume,Taustaäänten voimakkuus
+upgrades.prestigecobaltnocobalt.desc,Lähetä kobolttia kotiin; lisää ansaitun maineen kerrointa jokaisesta aallosta.
+worldmodifier.maparms.desc,Kaivos on hajanaisempi.
+loadout.prestige.countdown,Tasomittari
+upgrades.keeper2pinballdamage2.title,Kineettisen kuulan aiheuttama vaurio 2
+upgrades.jetpackspeed1.title,Nopeus 1
+upgrades.minerrefuel.title,Refuel
+upgrades.teleporterteleportduration1.title,Kaukosiirron kesto
+properties.blastmining.bombs,Latauksia: {}
+loadout.miner.fuel.title,Fuel
+exhibition.title.press.anything,Pelaa painamalla mitä vain
+loadout.mode,TILA
+level.tutorial.sworddome.slicing,Viillä
+properties.condenser.autoovercharge,Automaattinen ylilataus
+upgrades.teleporterteleportduration1.desc,Itsesi kaukosiirtäminen kestää vähemmän aikaa.
+upgrades.prestigewater.title,Lähetä vettä
+title.navbar.continue,Jatka
+upgrades.orchardbattleshield.desc,"Kasvata suoja, joka suojelee kupua ammuksilta."
+upgrades.liftcarrykeeper1.title,Vahtihissi 1
+options.input.controls.keybindings,Näppäinasetukset
+properties.keeper2.bundlespheres,Kuulatukku
+upgrades.shieldovercharge.title,Yliladattu suoja
+properties.condenser.overchargedelay,Tuotantoviive: {} sykliä
+upgrades.keeper2.title,Arvioija
+level.tutorial.assessor.mining,Kaivostoimintaa kiertoliikkeellä
+upgrades.repellentoverchargeduration2.title,Yliladattu taistelukyvyn kesto 2
+upgrades.swordblade1.title,Sivallusparannus
+properties.converter.irontoiron,{} rautaa yhtä rautaa kohti
+exhibition.level.description,Palataan päävalikkoon...
+level.tutorial.assessor.mining.desc2,Voit keskeyttää louhinnan ampumatta kuulia vapauttamalla suuntanäppäimet ensin.
+worldmodifier.monsterslow.desc,Hirviöt ovat hitaampia.
+upgrades.orcharddrill2.desc,"Kasvata hedelmien kaivuutehostusta, niin louhinta luonaa vielä nopeammin."
+loadout.difficulty.easy.description,Monella tapaa hieman anteeksiantavampi.
+upgrades.swordstabexplode.title,Pistopommitoimitus
+level.gameover.stats.additionalgadget,Lisävekotin
+upgrades.drillbotbuffstrength2.desc,"Herkun syötyään Drillbert työskentelee pidempään, ennen kuin se käy uneliaaksi."
+upgrades.laserstrength3.desc,"Parantaa laserin tehoa valtavasti, mutta se hädin tuskin liikkuu ampuessaan."
+loadout.mapsize.medium,Keskisuuri
+loadout.difficulty.hard,Itsepä pyysit
+level.gameover.stats.wavessurvived,Selvittyjä aaltoja
+properties.stunlaser.damage,Vahinko: {}
+options.keybindings.rebinding.cancel,Peruuta
+level.tutorial.sworddome.stabbing.desc,Pidennä miekkaa ja pistä sillä kaukaisia vihollisia.
+level.gameover.unlock.gamemodevariant,Uusi pelitilan variantti
+upgrades.prestigefinish.title,Poistu planeetalta
+properties.keeper2.bundleduration,Tukun elinikä {.percent}
+upgrades.shieldstrength3.title,Voimakkuus 3
+options.audio.volumes.mastervolume,Yleinen äänenvoimakkuus
+upgrades.shieldbattlelongerafterdepletion.title,Ehtymistehoste
+options.keybindings.text,"Muokkaa ohjausmääritykset haluamiksesi.
+Eri osioiden näppäimet voivat olla samoja ilman ongelmia (kuten vahdin ja kuvun aseen liikuttamisen määrittäminen samoille näppäimille)."
+properties.shield.battleblastdamage,{} räjähdysvahinkoa per sekunti
+loadout.mapsize.large.description,Suuri kartta yli tunnin kestäviä sessioita varten.
+upgrades.drill4.desc,Vahvista poraa kaivaaksesi nopeammin.
+upgrades.drillbotsleepless.desc,"Drillbert työskentelee pidempään, ennen kuin se käy uneliaaksi."
+upgrades.swordlargeblade2.title,Raskas terä 2
+upgrades.swordlongblade2.desc,"Lisää terän nopeutta entisestään, joka saa sen pompahtamaan takaisin reunan saavutettuaan."
+upgrades.prestigefinishnocobalt.title,Poistu planeetalta
+worldmodifier.hardnessmoderated.desc,Erittäin kovia ja pehmeitä kiviä on todella vähän.
+upgrades.converterironduplication.desc,Kopioi rautaa.
+upgrades.prestigefinish.desc,Poistu tältä planeetalta ja palaa kotiin.
+upgrades.dome2health2.desc,Kasvata kupusi rakenteellista kuntoa pysyvästi ja korjaa se.
+upgrades.prestige.title,Maine
+upgrades.liftcarrykeeper1.desc,"Hissi tehostaa nopeuttasi, kun liikut ylöspäin sen sisällä."
+upgrades.repellentbattlehealthreduction.desc,Heikentää kaikkia läsnäolevia hirviöitä vähentäen välittömästi niiden jäljellä olevaa kuntoa.
+upgrades.dome2.title,Miekkakupu
+worldmodifier.monsterfast.desc,Hirviöt ovat nopeampia.
+upgrades.condenserautocollect.desc,"Automatisoi veden keruun, jolloin sinun ei tarvitse tehdä sitä enää käsin."
+upgrades.lift.title,Hissi
+options.game.screenshake,Näytön ravistus
+options.keybindings.action.dome,Kupu
+upgrades.swordstabexplodedamage.desc,Lisää pommin vahinkoa.
+level.gameover.stats.resourcesmined,Louhittuja resursseja
+worldmodifier.resourcepoorwater.desc,Maailmassa on vähän vettä.
+upgrades.prospectionmeter.desc,Mittari näyttää etäisyyden läheisimpiin resursseihin. Voidaan parantaa näyttämään suunnan.
+upgrades.shredgadgettocobalt.title,Silppua koboltiksi
+upgrades.swordelectrified.desc,"Terää pitkin kulkee sähkövirta, joka tekee vahinkoa kosketuksesta."
+upgrades.artilleryflakexplosionradius2.desc,Ilmatorjunnan räjähdys on suurempi.
+upgrades.prospectionmeterwater1.title,Vesimittari
+upgrades.minerwater.desc,Send water offworld to increase your prestige.
+options.video.graphicsmode,Grafiikkatila
+upgrades.shieldbattlereflectspeedup.desc,"Heijastetut ammukset lentävät takaisin nopeammalla vauhdilla, mikä lisää niiden todennäköisyyttä osua hyökkääjään."
+properties.shield.battleblaststun,Räjähdystyrmäys: {}
+loadout.mode.hyperactive.desc,"Hirviöt liikkuvat paljon nopeammin, mutta ovat heikompia."
+upgrades.swordstabexplode.desc,"Miekka toimittaa pommin, joka räjähtää ensimmäisen miekan pistämän vihollisen kohdalla."
+upgrades.swordstabfast2.title,Nopea pisto 2
+upgrades.converterefficientwater.desc,"Veden muuntaminen on tehokkaampaa, mutta se kestää hieman kauemmin."
+upgrades.orchardduration1.desc,Hedelmän vaikutus kestää pidempään.
+loadout.difficulty.title,Vaikeustaso
+exhibition.level.heading,Oletko vielä siellä?
+level.gameover.unlock.gamemode,Uusi pelitila
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Näivetys
+upgrades.teleporterteleportreactivate.title,Palauta henkilökohtainen kaukosiirrin
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,Ääni
+upgrades.repellentovercharge.desc,"Käytä vettä, jotta voit yliladata tankkisi tuottamaan seuraavan karkotelastin nopeammin."
+upgrades.domewavemeter.title,Vihollisen läheisyysmittari
+upgrades.prospectionmeterrange2.desc,Kasvattaa etsintämittarin kantamaa entisestään.
+upgrades.keeper2pinballreflectspeedup1.desc,"Kuulat saavat virtaa heijastuessaan, mikä kiihdyttää niitä ja mahdollistaa niiden leijailemisen pidempään."
+upgrades.shieldoverchargestrength1.desc,"Kasvattaa vahingon määrää, jonka yliladattu suoja voi imeä."
+upgrades.repellentdelay1.desc,Lisää seuraavan hirviöaallon viivettä.
+upgrades.repellentbattlelongerhealthreduction.title,Voimakas näivetys
+upgrades.swordtargetlock.desc,Piston jälkeen miekka lukittuu automaattisesti ensimmäiseen kohteena olevaan hirviöön.
+upgrades.orchardovercharge.desc,"Ylilataa puutarha vettä käyttämällä, jotta hedelmien kasvu on nopeampaa."
+upgrades.orchardbattlerootingmore.title,Vahvat juuret
+upgrades.swordextendlong2.desc,Entisestään parannettu pistovoima ja tarkempi hallinta sen lentoradasta.
+upgrades.swordstabfast1.title,Nopea pisto 1
+upgrades.probelong1.desc,Kasvattaa luotaimen pulssin kantamaa yhden latauspaikan kustannuksella.
+upgrades.repellent.title,Karkote
+worldmodifier.monsterwavesspaced.desc,Hirviöaallot saapuvat harvemmin.
+upgrades.artilleryflakexplosionradius2.title,Ilmatorjuntasäde 2
+properties.drillbot.amount,Poraus: {} osumaa
+upgrades.repellentdelay3.title,Viive 3
+ending.appreciationmessage,"Toivottavasti olet nauttinut pelistä! Arvostamme palautettasi, joten kerro meille ajatuksesi Discordissa tai Steamin foorumeilla :)"
+properties.orchard.battlerootexplosion,Explosion damage {}
+upgrades.orchardduration3.desc,Hedelmän vaikutuksen pituus on maksimissaan.
+upgrades.dome1damagereduction2.desc,"Karaise kuvun pintaa lisää, jotta se kärsii vähemmän vahinkoa hirviöiden lähitaisteluhyökkäyksistä. Ammusvahinko pysyy entisellään."
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,Paranna rakettireppua liikkuaksesi nopeammin.
+upgrades.jetpackspeed3.desc,Paranna rakettireppua liikkuaksesi nopeammin.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,Asetukset
+properties.repellent.battledamageovertime,Hirviöt kärsivät {} vahinkoa sekunnissa
+upgrades.repellentoverchargestrength1.title,Yliladattu aaltoviive 1
+upgrades.repellentoverchargestrength1.desc,Ylilataus pidentää myös viiveaikaa seuraavaan aaltoon.
+upgrades.blastminingproductiontime1.desc,Vähentää räjähteiden tuotannon vaatimaa aikaa.
+properties.teleporter.teleportresourcescooldown,Resurssien kaukosiirron kesto: {} s
+upgrades.artilleryflakmultishot1.desc,Ammu enemmän ammuksia.
+properties.converter.ironcobalttime,{} syklin muunnosaika
+options.title,ASETUKSET
+options.video.graphicsmode.window,Ikkuna
+properties.shield.battlereflectspeedup,Heijastetun ammuksen nopeus: {.percent}
+upgrades.swordaimline.title,Tähtäyslinja
+level.tutorial.drillbot.handling1,Pidä | painettuna noukkiaksesi Drillbertin uudelleen.
+upgrades.probestage1.desc,Parantaa luotainta tehden siitä yleisesti ottaen paremman.
+level.tutorial.drillbot.handling2,"Paina | vaihtaaksesi sen suuntaa, jos se on maassa."
+options.keybindings.rebinding.capture,Määritä
+properties.prospectionmeter.range,Kantama: {} ruutua
+properties.stunlaser.speed,Nopeus: {}
+properties.probe.impulsespeed,Pulssinopeus: {}
+upgrades.domehealthmeter.title,Kuntomittari
+options.audio.music.frequency,Toistuvuustaajuus (kierrokset ilman musiikkia)
+options.audio.volumes.soundvolume,Äänten voimakkuus
+properties.sword.slicebounceback,Miekka pomppaa reunalta
+upgrades.jetpackspeed4.desc,Paranna rakettireppua liikkuaksesi nopeammin.
+worldmodifier.monsterfragile.desc,Hirviöillä on vähemmän kuntoa.
+level.gameover.prestige.score.personalbest,Henkilökohtainen ennätys!
+properties.prestige.baseperwave,{} perusmainetta aaltoa kohti
+loadout.choices.comingsoon,"Ei vielä valittavissa, mutta tulossa pian."
+upgrades.doublelaser.desc,"Asentaa toisen lasertykin, mutta tulivoima jaetaan niiden välillä."
+upgrades.jetpackstrength2.title,Kantovoima 2
+upgrades.keeper2bundlestopcenter.title,Gravitaatiokeskus
+properties.keeper2.spherelifetimeperbounce,Kuulan lisäelinikä ponnahdusta kohden {} s
+upgrades.converterefficientcobalt.desc,"Koboltin muuntaminen on todella tehokasta, mutta se kestää kauan."
+properties.orchard.buffduration,Tehostuksen kesto: {} sykliä
+upgrades.domesandrepair.title,Kobolttikorjaus
+properties.keeper1.maxspeed,Huippunopeus: {}
+level.station.upgrademenu.cost,Hinta
+upgrades.lasermove1.title,Liikenopeus 1
+level.tutorial.sworddome.reflecting,Kimpoaminen
+loadout.petoptions.title,Valitse lemmikki.
+level.station.upgrademenu.inventory,Tavaraluettelo
+level.gameover.unlockpicker.title,VALITSE AVATTAVA
+level.gameover.proceedtounlock,Avaa uusi elementti
+upgrades.artilleryshotcooldown2.desc,Ammu useammin.
+level.gameover.keepgadget.title,Valitse seuraavalle pelikerralle säilytettävä vekotin
+level.station.battle.navbar.shoot,Ammu
+upgrades.repellentbattlestrongerslowdown1.title,Jähmetys
+upgrades.dome2.desc,"Voimakas kupu dynaamisella miekalla, jota hallitsemalla vahdit voivat alistaa hyökkääjiä."
+loadout.difficulty.easy,Vaikea
+upgrades.condenserautocollect.title,Automaattikeräys
+upgrades.orchard.title,Puutarha
+upgrades.keeper2pinballreflectspeedup2.desc,Kuulat saavat hyvin voimakkaan latauksen heijastuessaan.
+upgrades.laserstrength1.title,Teho 1
+upgrades.lasermove2.title,Liikenopeus 2
+upgrades.shieldbattlereflectshortuses.desc,Heijasta useammin lyhyemmän aikaa.
+options.keybindings.action.keeper.drop,Pudota
+level.converter.popup.conversion.to,–
+upgrades.repellent.desc,"Asenna tankki, joka tuottaa hirviöitä karkottavaa nestettä. Aktivoi se ruiskuttaaksesi sitä kuvun ulkopuolelle, mikä viivästyttää seuraavaa hyökkääjäaaltoa."
+properties.repellent.battlehealthreduction,Hirviökunnon vähennys: {.percent}
+loadout.mode.hyperactive,Nopea ja heikko
+upgrades.miner.title,Miner
+upgrades.converter.title,Resurssimuunnin
+properties.condenser.waterstorage,Varastoi {} vettä
+upgrades.jetpackstrength2.desc,Paranna rakettireppua kantaaksesi enemmän resursseja.
+level.station.navbar.exit,Poistu
+options.accessibility.photosensitivity.explanation,Vähentää vilkkuvia valoja.
+properties.orchard.overchargeadditionalabilityuses,{} lisäkyvyn käyttökertaa ylilatauksen jälkeen
+worldmodifier.resourcepooriron.desc,Maailmassa on vähän rautaa.
+level.gameover.backtomainmenu,Takaisin päävalikkoon
+upgrades.orchardbattlerooting.desc,"Aktivoi taistelussa kasvattaaksesi kuvun ulkopuolelle juuria, jotka vangitsevat kaikki niille astuvat keskikokoiset hirviöt."
+upgrades.keeper2pinballreflect.desc,Heijasta kuulat ympäröimällä itsesi pienellä mutta suuritehoisella painovoimakentällä.
+upgrades.laser.title,Laser
+options.game.tutorials.resettutorials,Nollaa oppaat
+properties.converter.ironirontime,{} syklin muunnosaika
+loadout.secondstage.start,Aloita pelikerta
+upgrades.artilleryflakmultishot2.desc,Ammu enemmän ammuksia.
+upgrades.swordreflection2.desc,Entistä suurempi väistinsuoja.
+upgrades.lasermove3.title,Liikenopeus 3
+upgrades.lasermove1.desc,Laser liikkuu nopeammin.
+properties.lift.orbs,{} kuulaa
+level.station.battle.navbar.move,Liiku
+upgrades.orchardjetpack2.title,Rakettirepun nopeustehostus 2
+options.audio.music,Musiikki
+worldmodifier.resourceunpredicatableiron.desc,"Rautaryppäät ovat enemmän hajallaan, ja niitä on vaikeampi ennakoida."
+properties.dome.maxhealth,Kunto {} kp
+upgrades.condenserspeed1.title,Tuotantonopeus 1
+properties.repellent.battleuses,Käyttöjä per taistelu: {}
+upgrades.shieldstrength2.desc,Lisää entisestään kuvun suojan imemän vahingon määrää.
+upgrades.drillbotbuffstrength2.title,Tauriinilisä
+upgrades.keeper2pinballreflectdamage2.desc,"Heijastuneet kuulat aiheuttavat paljon enemmän vahinkoa kivelle, johon ne seuraavaksi osuvat."
+level.paused,Tauotettu
+level.tutorial.sworddome.stabbing,Pistä
+upgrades.stunlaserspeed1.title,Nopeus 1
+upgrades.domehealthmeter.desc,Näyttää kuvun rakenteellisen kunnon.
+upgrades.swordlargeblade1.desc,"Leventää ja pidentää miekkaa, tekee lisää vahinkoa."
+pause.quitgame,Poistu pelistä
+level.station.battle.navbar.slice,Sivalla 
+level.gameover.stats.timeplayed,Peliaika
+properties.teleporter.teleportresources,Resurssien kaukosiirto
+upgrades.drillbotstrength2.desc,Kasvattaa Drillbertin kaivuuvoimaa.
+level.tutorial.drop.popup_2,Pudota yksi painamalla |. Pudota monta pitämällä painettuna.
+level.gameover.keepgadget.keeping,Vekotin säilytettäväksi: {gadget}
+level.tutorial.drop.popup_1,Kannetut resurssit hidastavat sinua.
+worldmodifier.maprugged.desc,Kaivos on rosoinen ja epäsäännöllinen.
+level.tutorial.onewayteleporter1,Löysit juuri yksisuuntaisen kaukosiirtimen!
+properties.sword.aimline,Tähtäyksen ennakointi
+upgrades.keeper2bundle.desc,Kiinnittyneet mineraalit voi laukoa ilmaan yhtenä nippuna ihan samaan tapaan kuin ammut kineettisiä kuuliakin.
+level.tutorial.onewayteleporter2,Paina | asettaaksesi silmän.
+level.tutorial.onewayteleporter3,Kaukosiirry sille takaisin painamalla uudelleen.
+properties.lift.capacity,Kuulat kantavat {} resurssia
+properties.shield.battleabilityduration,Kyvyn kesto: {} s
+level.tutorial.teleporter.carry2,"Poimi portaali uudelleen painamalla |, kun olet sen lähellä."
+level.tutorial.teleporter.carry3,"Jos painat |, sinut kaukosiirretään takaisin."
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,Voit siirtää portaalin minne ikinä haluat.
+options.keybindings.cancel,Peruuta
+level.tutorial.probe.popup_1,Paina | lähettääksesi luotainpulssin.
+upgrades.liftcarrykeeper2.desc,Hissi tehostaa nopeuttasi entisestään.
+level.tutorial.probe.popup_3,"Se paljastaa osan lähistön resursseista.
+Lataa se asemalla."
+worldmodifier.resourcerichcobalt.desc,Maailmassa on paljon kobolttia.
+upgrades.keeper2pinballdamage4.desc,"Kineettisistä kuulista aiheutuu kiville tuhoisampia vaurioita, ja lisäksi kuula aiheuttaa kiertoliikkeessä suurempaa, kaivuutöitä edistävää vahinkoa kivelle."
+properties.sword.stabexplosive,Kärkipommi asetettu
+properties.drillbot.turnaround,Kääntyy ympäri kovaan seinään osuttuaan
+upgrades.shieldstrength1.title,Voimakkuus 1
+properties.repellent.overchargewavedelay,Lisäaaltoviive: {} sykliä
+upgrades.swordreflection3.title,Heijaste 3
+upgrades.dome1.desc,Normaali louhintakupu tarkkuuslaserilla varustettuna.
+level.tutorial.drillbot.carry,"Ota Drillbert tankistaan ja aseta se kaivokseen, jossa sen pitäisi kaivaa."
+upgrades.lift.desc,"Asenna automatisoitu hissi, joka tuo louhitut resurssit kupuun käsiteltäviksi."
+upgrades.dome1health2.desc,Kasvata kupusi rakenteellista kuntoa pysyvästi.
+upgrades.converterefficientwater.title,Tehokas vesimuunnin
+loadout.difficulty.hard.description,Omapa on kupusi.
+upgrades.artillerymultishot2.title,Ketjulaukaus 2
+upgrades.swordelectrified.title,Energiaterä
+upgrades.drillbotstrength3.desc,Kasvattaa Drillbertin kaivuuvoimaa.
+upgrades.shieldbattleinvulnerable.title,Haavoittumattomuus
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,Autonomia
+level.tutorial.teleporter.teleport1,"Kun olet lähellä portaalia, paina | kaukosiirtyäksesi takaisin."
+level.tutorial.teleporter.teleport2,Voit kaukosiirtyä myös vastakkaiseen suuntaan.
+level.gameover.prestige.uploading.failed,"lataus epäonnistui, yritä uudelleen"
+upgrades.lasermove2.desc,Laser liikkuu entistä nopeammin.
+loadout.mapsize.title,Kartan koko
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Räjäytys 1
+upgrades.drillbotturnaround.desc,"Tuhoutumattoman seinän kohdattuaan Drillbert kääntyy ympäri sen sijaan, että se ottaisi tirsat."
+properties.dome.baserepair,Korjaa {} kp
+upgrades.condenserautoovercharge.desc,Pidä päävekottimesi pysyvästi yliladattuna vettä käyttämättä. Tiivistimen vedentuotanto viivästyy ylilatauksen jälkeen.
+upgrades.teleporterteleportresourcesback.desc,"Portaali kaukosiirtää nyt resursseja, mutta et voi enää siirtää itseäsi takaisin. Voit silti tehdä kaukosiirron kuvulta portaaliin."
+ending.wishlistonsteam,Aseta toivelistalle Steamissa
+properties.sword.reflection,Lisää väistinsuojan kokoa
+upgrades.drillbotduplicate.desc,"Drillbert saa identtisen kaksosen, Drilliamin."
+level.converter.popup.conversion.convert,muunna
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} vettä yhtä rautaa kohti
+title.navbar.options,Asetukset
+upgrades.swordexplosivereflection.desc,Heijastetut ammukset räjähtävät osuessaan johonkin.
+upgrades.shieldbattlereflectshortuses.title,Ajoitettu heijaste
+level.gameover.unlock.skin,Uusi skini avattu!
+level.gameover.stats.destroyedblocks,Tuhottuja lohkoja
+options.keybindings.action.keeper.gravityball,Ammuslatinki
+upgrades.orchardjetpack1.title,Rakettirepun nopeustehostus 1
+upgrades.keeper1.desc,Taitava ja tehokas ammattilainen loistavilla louhintataidoilla.
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,Teho 3
+upgrades.orchardoverchargebuffduration.desc,"Hedelmän vaikutus kestää pidempään, kun puutarha on yliladattu."
+upgrades.stunlaserduration1.title,Tulituksen kesto 1
+loadout.mode.maze.desc,"Kartta on sokkelomainen ja sisältä runsaasti haaroja, umpikujia ja käänteitä."
+properties.dome.healthfractionrepair,Korjaa {.percent} kokonais-kp:stä
+upgrades.jetpackstrength3.desc,Paranna rakettireppua kantaaksesi enemmän resursseja.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Liike havaittu:
+upgrades.prospectionmetersand1.title,Kobolttimittari
+upgrades.prospectionmeterwater1.desc,Näyttää etäisyyden lähimpiin vesiesiintymiin.
+upgrades.blastminingstickycharge.desc,Räjähteet tarttuvat ensimmäiseen osumaansa seinään ja räjäyttävät siihen tunnelin ympyrämäisen räjähdyksen sijaan.
+options.video,Video
+title.navbar.updates,Päivitykset
+loadout.skin,Ulkoasu
+upgrades.shieldstrength2.title,Voimakkuus 2
+level.gameover.win.title,KUPUSI PELASTUI
+level.station.navbar.battle,Taistele
+upgrades.converterirontocobalt.desc,Sallii koboltin muuntamisen raudaksi ja toisinpäin.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,Uusi kupu
+pause.gamepadcontrols.pickup,Nouki
+options.video.graphicsmode.photosensitive,Valonherkkyystila
+upgrades.orchardduration2.desc,Hedelmän vaikutus kestää vieläkin pidempään.
+properties.dome.meleedamagereduction,Lähitaisteluvahingon vähennys {.percent}
+upgrades.domesandrepairstrong.desc,Korjaa kupusi vauriot kobolttia käyttämällä.
+options.input,Syöte
+properties.keeper2.spherereload,Kuulan uudelleenlataukseen {} s
+properties.blastmining.damage,Vahinko: {}
+upgrades.laserbend.title,Pyöröpäälaser
+upgrades.swordlargeblade3.desc,"Hirviömäinen terä. Todella voimakas, mutta erittäin hidas."
+loadout.domeoptions.title,Valitse kupu.
+upgrades.shieldoverchargeduration1.desc,"Suojan ylilataaminen pidentää myös mitä tahansa suojan taistelukykyä, jota käytät seuraavan aallon aikana."
+upgrades.probelong1.title,Pitkä kantama
+options.keybindings.rebinding.inputprocessor,Paina uutta näppäintä tälle toiminnolle
+properties.teleporter.teleportduration,Kaukosiirron kesto: {} s
+upgrades.dome2health2.title,Kunto 2
+upgrades.drillbotduplicate.title,Sisarus
+pause.quit.popup,"Haluatko varmasti lopettaa?
+Tee se painamalla uudelleen.
+(edistymisesi on tallennettu)"
+upgrades.prospectionmetersand2.desc,Näyttää suunnan lähimpiin kobolttiesiintymiin.
+upgrades.probepersist1.desc,"Lisää luotaimeen muistimoduulin, joka merkitsee resurssien sijainnin pidemmäksi aikaa."
+upgrades.artilleryshotcooldown2.title,Palautuminen 2
+properties.keeper2.sphereadditionalfirsthitdamage,Lisävaurio ensimmäisestä osumasta {.percent}
+upgrades.shieldbattledestructionprevention.title,Viimeinen vastarinta
+level.gameover.unlock.pet,Uusi lemmikki avattu!
+upgrades.repellentbattlelongerhealthreduction.desc,Pidentää ja voimistaa kaikkien läsnäolevien hirviöiden näivetystä.
+ending.feedbackondiscord,Discord-palaute
+properties.keeper2.reflectnexthitdamage,Heijastuneen kuulan aiheuttama lisävaurio seuraavalla ponnahduksella {.percent}
+options.video.graphicsmode.borderlesswindow,Reunaton ikkuna
+upgrades.keeper2pinballlifetime1.desc,"Vakauta kineettinen kuula, niin se leijailee kauemmin."
+level.gadgetchoice.title,NOUKI VEKOTIN!
+upgrades.keeper2bundle.title,Tukkulaukaus
+upgrades.relichunt.title,Reliikkijahti
+loadout.mode.doubleiron.desc,"Rautaesiintymät on kaksi kertaa rikkaampia, mutta päivitykset maksavat myös tuplasti enemmän rautaa."
+level.tutorial.repair.findcobalt,"Yritä etsiä kobolttia. Voit korjata sillä kupuasi.
+Se on harvinaista ja rajallista."
+upgrades.keeper2pinballsplit.title,Halkaise kuulia
+options.input.controls.text,Peliohjaimen käyttö on suositeltua.
+landing.proceed,Jatka painamalla mitä vain
+upgrades.keeper2pinballmorespheres1.desc,"Lisää painovoimageneraattoriisi lisämoduuli, jotta se voi haalia enemmän kineettisiä kuulia."
+upgrades.jetpackstrength4.desc,Paranna rakettireppua kantaaksesi enemmän resursseja.
+upgrades.orchardbattleshieldsecondlayer.desc,Kasvata toinen kerros ammussuojalle.
+level.converter.popup.conversion.time,yli {time} sykliä
+properties.keeper2.maxspeed,Huippunopeus: {}
+properties.laser.aimline,Tähtäyslinja
+upgrades.shieldstrength3.desc,Lisää entisestään kuvun suojan imemän vahingon määrää.
+upgrades.repellentovercharge.title,Yliladattu karkote
+properties.drillbot.buffstrength,Nopeuden tehostus: {.percent}
+worldmodifier.hardnesssofter.desc,Kaivoksessa on enemmän pehmeämpiä kiviä.
+level.tutorial.pickup.popup_1,Paina | noukkiaksesi resurssin.
+level.tutorial.pickup.popup_3,Nouki monta pitämällä painettuna.
+pause.gamepadcontrols.drop,Pudota
+level.tutorial.fruit.popup_1,Ensimmäinen polttoainehedelmä kasvoi juuri.
+level.tutorial.fruit.popup_2,"Kun olet sen vieressä, paina | syödäksesi sen."
+worldmodifier.mapwide.desc,Kaivos on leveämpi ja matalampi.
+upgrades.prestigefinishnocobalt.desc,Poistu tältä planeetalta ja palaa kotiin.
+upgrades.prospectionmeteriron2.title,Rautakompassi
+upgrades.keeper2movement2.title,Gravitaatioliike 2
+options.keybindings.gamepad,Peliohjain
+ending.backtomainmenu,Takaisin päävalikkoon
+level.tutorial.fullscreen.back,takaisin
+upgrades.shield.title,Suoja
+upgrades.blastmining.title,Räjähdelouhinta
+upgrades.converterirontocobalt.title,Kobolttimuunnin
+upgrades.swordstabfast1.desc,Pistä nopeammin ja useammin.
+level.gameover.prestige.score.rankunchanged,Sijoitus ei muuttunut.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,Portaali saa sinun siirtämiskyvyn takaisin.
+upgrades.orchardjetpack3.title,Rakettirepun nopeustehostus 3
+level.gameover.unlock.mapsize,Uusi kartan koko avattu!
+upgrades.domeresourcecounters.title,Tavaraluettelo
+level.gameover.keepgadget.none,ei yhtäkään
+upgrades.stunlaserdamage1.desc,Lisää pienen määrän vahinkoa tyrmäyslaseriin.
+properties.repellent.battleabilityduration,Kyvyn kesto: {} s
+upgrades.prestigeiron.desc,"Lähetä rautaa kotiin, lisää 1 pisteen ansaittua mainetta jokaisesta aallosta."
+upgrades.teleporter.title,Kaukosiirrin
+ending.teasemessage,Pieni katsaus tulevaan:
+loadout.relichunt.modifiers,Valitse muokkaimet
+options.accessibility,Esteettömyys
+loadout.mapsize.small.description,Pieni kartta lyhyitä sessioita varten.
+upgrades.shieldbattleblastdamage.desc,Kasvattaa sähköräjähdyksen vahinkoa ja tyrmäysvaikutusta.
+options.translation.community.desc,"Ihastuttava yhteisömme on kääntänyt pelin eri kielille. Jos kääntäminen kiinnostaa, liity ihmeessä joukkoon!"
+upgrades.prospectionmeterwater2.desc,Näyttää suunnan lähimpiin vesiesiintymiin.
+upgrades.stunlaserdamage2.title,Vahinko 2
+options.keybindings.action.keeper.gadget1,Vekotin 1
+options.keybindings.action.keeper.gadget2,Vekotin 2
+properties.repellent.wavedelay,Aaltoviive: {} sykliä
+options.ok,OK
+upgrades.swordblade1.desc,Parantaa sivalluksen voimaa ja miekan nopeutta.
+upgrades.shieldoverchargeduration2.title,Yliladattu taistelukyvyn kesto 2
+properties.sword.slicedamage,Silpomisvahinko: {} 
+properties.condenser.autocollect,Automaattikeräys
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,"Laukaistut tukut jäävät aivan kuvun alle sen sijaan, että ne lentäisivät keskiakselin ohitse."
+upgrades.orchardduration1.title,Kesto 1
+upgrades.drillbotbuffstrength1.title,Ravinteikkaat herkut
+upgrades.liftcarrykeeper2.title,Vahtihissi 2
+upgrades.shieldoverchargestrength2.desc,"Kasvattaa entisestään vahingon määrää, jonka yliladattu suoja voi imeä."
+upgrades.repellentbattleslowdown.title,Heikennys
+upgrades.artilleryshotprediction.title,Laukausennustin
+upgrades.repellentdelay3.desc,Lisää seuraavan hirviöaallon viivettä entisestään.
+upgrades.teleporter.desc,Kaksisuuntainen kaukosiirrin kuvun alla olevalla asemalla ja kaivokseen asetettavalla ja siellä siirreltävällä portaalilla.
+level.gameover.stats.monsterskilled,Tapettuja hirviöitä
+upgrades.keeper2pinballreflect.title,Kuulan heijastus
+upgrades.drillbotstrength3.title,Voimakkuus 3
+upgrades.shieldbattlereflectspeedup.title,Kiihdytetty heijaste
+upgrades.probeswift1.title,Nopea luotain
+options.game.events.enableseasonal,ota kausisisältö käyttöön
+upgrades.repellentbattledamageovertime.title,Myrkkyhöyryt
+upgrades.dome3health2.title,Kunto 2
+loadout.mapsize.huge,Valtava
+properties.repellent.overchargebattleabilityduration,Lisäkyvyn kesto: {.percent}
+options.keybindings.action.keeper.gravitycollect,Sieppauslatinki
+loadout.miner.scores.title,Scores
+properties.lift.speed,Kuulan nopeus: {}
+upgrades.drillbotstrength1.title,Voimakkuus 1
+level.tutorial.repellent.popup_2,"Aktivoi se painamalla |, kun olet sen vieressä."
+level.tutorial.repellent.popup_1,Karkote on valmiina viivästyttämään seuraavaa aaltoa.
+properties.orchard.growthtime,Kasvuaika: {} sykliä
+properties.keeper2.spherefractiondamage,Kuulan aiheuttama vaurio nujertaa kiven kovuutta {.percent}
+properties.sword.brake,Miekan ketteryys: {}
+upgrades.artilleryflakmultishot2.title,Ilmatorjuntasarja 2
+upgrades.swordstabfast2.desc,Pistä entistä nopeammin ja useammin.
+upgrades.sword.desc,"Kestävä miekka tekee sitä enemmän vahinkoa, mitä pidemmälle se liikkuu kuvulla silpoessa. Sen voi ampua hirviöitä kohti, ja siinä on ammuksia torjuva väistinsuoja."
+upgrades.artilleryflakmultishot1.title,Ilmatorjuntasarja 1
+upgrades.artilleryshotprediction.desc,Näyttää laukaistun kranaatin oletetun lentoradan.
+upgrades.shieldbattlereflect.desc,"Laukaise aktiivinen taistelukyky, joka heijastaa lyhyen aikaa kohti tulevia ammuksia."
+upgrades.orchardbattleshieldstrong.title,Vahvat suojat
+upgrades.swordlongblade1.title,Pitkä terä 1
+level.station.battle.navbar.stab,Pistä
+properties.converter.irontowater,{} rautaa yhtä vettä kohti
+upgrades.minoriron.title,Send Iron
+upgrades.keeper2bundleinfinite.desc,Tukut pysyvät vakaina erittäin pitkän aikaa.
+worldmodifier.resourcedesc,"Rautaryppäät ovat harvassa, mutta ne ovat todella suuria."
+loadout.keeper,VAHTI
+upgrades.drillbotstrength4.desc,Kasvattaa Drillbertin kaivuuvoimaa.
+upgrades.swordstabexplodedamage.title,Pommivahinko
+upgrades.prospectionmeterwater2.title,Vesikompassi
+loadout.keeperoptions.title,Valitse vahti.
+properties.probe.range,{} ruudun kantama
+upgrades.orchardbattleshield.title,Ammussuoja
+loadout.mapsize.large,Suuri
+properties.keeper2.reflectsphere,Heijasta lähestyvät kuulat
+upgrades.orchardbattlerooting.title,Juuriansat
+properties.repellent.growthtime,Tuotantoaika: {} sykliä
+properties.converter.irontocobalt,{} rautaa yhtä kobolttia kohti
+upgrades.dome3health1.desc,Kasvata kupusi rakenteellista kuntoa pysyvästi.
+upgrades.teleporterteleportresourcescooldown.title,Kaukosiirtimen palautuminen
+upgrades.shieldovercharge.desc,"Ylilataa suoja manuaalisesti vettä käyttämällä, jotta se imee enemmän vahinkoa seuraavan aallon aikana."
+upgrades.stunlaserspeed2.title,Nopeus 2
+upgrades.drillbotbuff1.desc,"Herkut kasvavat kuvun alla olevassa pesässä. Vie ne Drillbertille, joka syö ne mielellään puhtia saadakseen."
+options.keybindings.action.dome.battle,Taistelu
+upgrades.orchardovercharge.title,Yliladattu puutarha
+properties.teleporter.teleportresourcesarea,Kaukosiirron kantama: {} ruutua
+upgrades.swordreflection1.desc,Lisää väistinsuojan kokoa ja saa sen heijastamaan energia-ammuksia.
+upgrades.blastminingblast2.title,Räjäytys 2
+upgrades.swordreflection1.title,Heijaste 1
+upgrades.keeper2pinballlifetime2.desc,"Vakauta kineettinen kuula, niin se leijailee kauemmin."
+options.keybindings.action.general.left,Vasen
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Kasvata kupusi rakenteellista kuntoa pysyvästi.
+upgrades.drill2.title,Poravoima 2
+options.keybindings.rebinding,Uudelleenmääritys
+level.tutorial.assessor.carry.desc1_1,"Kun resurssit ovat lukittuneet sinuun, ne seuraavat sinua vaikka vapauttaisit sieppausnäppäimen."
+upgrades.keeper2pinballdamage1.title,Kineettisen kuulan aiheuttama vaurio 1
+upgrades.stunlaserspeed2.desc,Tyrmäyslaser liikkuu entistä nopeammin ja jatkaa hirviöiden seuraamista viilennyksen aikana.
+options.keybindings.title,KOMENTOJEN MÄÄRITYKSET
+upgrades.keeper2pinballmorespheres2.desc,"Lisää painovoimageneraattoriisi lisämoduuli, jotta se voi haalia enemmän kineettisiä kuulia."
+level.gameover.prestige.uploading.finalfailed,"uuden tuloksen lataus epäonnistui, pahoittelut!"
+upgrades.blastminingblast1.desc,Kasvattaa räjähdyksen voimakkuutta.
+upgrades.stunlaserduration2.desc,Tyrmäyslaser viilentyy nopeammin ja ampuu pidempään.
+upgrades.prospectionmetersand1.desc,Näyttää etäisyyden lähimpiin kobolttiesiintymiin.
+pause.gamepadcontrols.move,Liiku
+properties.probe.charges,Latauksia: {}
+upgrades.drillbotstrength2.title,Voimakkuus 2
+loadout.prestige.cobalt.description,"Kartalla ei ole kobolttia, eikä sitä voi luoda, mutta sinulla on sitä runsaasti alussa."

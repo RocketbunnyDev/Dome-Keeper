@@ -1,0 +1,143 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://gui/panels/panel_outside.tres" type="StyleBox" id=2]
+[ext_resource path="res://gui/fonts/FontHeading.tres" type="DynamicFont" id=3]
+[ext_resource path="res://gui/fonts/hungarian/FontSmall.tres" type="DynamicFont" id=4]
+[ext_resource path="res://stages/loadout/ColonizationPopup.gd" type="Script" id=5]
+
+[node name="ColonizationPopup" type="CenterContainer"]
+visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+theme = ExtResource( 1 )
+script = ExtResource( 5 )
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+margin_left = 560.0
+margin_top = 310.0
+margin_right = 1360.0
+margin_bottom = 770.0
+rect_min_size = Vector2( 800, 460 )
+custom_styles/panel = ExtResource( 2 )
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer"]
+margin_left = 32.0
+margin_top = 32.0
+margin_right = 969.0
+margin_bottom = 484.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 921.0
+margin_bottom = 436.0
+
+[node name="PanelTitleLabel" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_right = 905.0
+margin_bottom = 65.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 3 )
+text = "loadout.miner.title"
+align = 1
+
+[node name="HBoxContainer3" type="GridContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 81.0
+margin_right = 905.0
+margin_bottom = 211.0
+custom_constants/hseparation = 32
+columns = 2
+
+[node name="OptionScoresButton" type="CheckBox" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer3"]
+margin_right = 323.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+size_flags_vertical = 4
+text = "loadout.miner.scores.title"
+align = 1
+
+[node name="Label1" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer3"]
+margin_left = 355.0
+margin_top = 16.0
+margin_right = 905.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 550, 0 )
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "loadout.miner.scores"
+autowrap = true
+
+[node name="OptionFuelButton" type="CheckBox" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer3"]
+margin_top = 73.0
+margin_right = 323.0
+margin_bottom = 130.0
+size_flags_horizontal = 3
+size_flags_vertical = 4
+text = "loadout.miner.fuel.title"
+align = 1
+
+[node name="Label2" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer3"]
+margin_left = 355.0
+margin_top = 89.0
+margin_right = 905.0
+margin_bottom = 113.0
+rect_min_size = Vector2( 550, 0 )
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "loadout.miner.fuel"
+autowrap = true
+
+[node name="ModeExplanationLabel" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 227.0
+margin_right = 905.0
+margin_bottom = 307.0
+rect_min_size = Vector2( 500, 80 )
+size_flags_horizontal = 3
+align = 1
+autowrap = true
+
+[node name="HSeparator" type="HSeparator" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 323.0
+margin_right = 905.0
+margin_bottom = 347.0
+size_flags_vertical = 10
+
+[node name="PanelTitleLabel2" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer"]
+visible = false
+margin_top = 194.0
+margin_right = 521.0
+margin_bottom = 259.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 3 )
+text = "Difficulty"
+align = 1
+
+[node name="HSeparator2" type="HSeparator" parent="PanelContainer/MarginContainer/VBoxContainer"]
+visible = false
+margin_top = 275.0
+margin_right = 521.0
+margin_bottom = 299.0
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 363.0
+margin_right = 905.0
+margin_bottom = 420.0
+
+[node name="CancelButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+margin_right = 444.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+text = "loadout.secondstage.cancel"
+
+[node name="StartButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+margin_left = 460.0
+margin_right = 905.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+text = "loadout.secondstage.start"
+
+[node name="Tween" type="Tween" parent="."]
+
+[connection signal="toggled" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer3/OptionScoresButton" to="." method="_on_OptionScoresButton_toggled"]
+[connection signal="toggled" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer3/OptionFuelButton" to="." method="_on_OptionFuelButton_toggled"]

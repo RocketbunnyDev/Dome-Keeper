@@ -1,0 +1,67 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://content/sounds/Locations/Probe/ProbeSound.wav" type="AudioStream" id=1]
+[ext_resource path="res://content/gadgets/probe/ProbeImpulse.gd" type="Script" id=3]
+[ext_resource path="res://content/sounds/Locations/CellarRelic/RelicSockedIntoDome.wav" type="AudioStream" id=4]
+
+[sub_resource type="Gradient" id=1]
+offsets = PoolRealArray( 0.184638, 0.206795, 0.57164, 1 )
+colors = PoolColorArray( 0.0941176, 0.74902, 0.627451, 1, 0.0313726, 0.270588, 0.627451, 1, 0.0313726, 0.270588, 0.627451, 1, 0.12549, 0.207843, 0.627451, 0 )
+
+[sub_resource type="GradientTexture" id=2]
+gradient = SubResource( 1 )
+
+[sub_resource type="ParticlesMaterial" id=3]
+emission_shape = 5
+emission_ring_radius = 10.0
+emission_ring_inner_radius = 10.0
+emission_ring_height = 1.0
+emission_ring_axis = Vector3( 0, 0, 1 )
+flag_disable_z = true
+gravity = Vector3( 0, 0, 0 )
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+tangential_accel = 2000.0
+scale = 2.0
+color_ramp = SubResource( 2 )
+
+[node name="ProbeImpulse" type="Node2D"]
+script = ExtResource( 3 )
+
+[node name="Particles2D" type="Particles2D" parent="."]
+modulate = Color( 1, 1, 1, 0.392157 )
+amount = 200
+lifetime = 0.1
+process_material = SubResource( 3 )
+
+[node name="ProbeSound" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 1 )
+volume_db = 2.853
+pitch_scale = 0.95
+max_distance = 300.0
+bus = "Sounds"
+
+[node name="EchoIronSound" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 4 )
+volume_db = 2.853
+pitch_scale = 1.69
+max_distance = 300.0
+bus = "Sounds"
+
+[node name="EchoWaterSound" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 4 )
+volume_db = 2.853
+pitch_scale = 1.98
+max_distance = 300.0
+bus = "Sounds"
+
+[node name="EchoSandSound" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 4 )
+volume_db = 2.853
+pitch_scale = 2.52
+max_distance = 300.0
+bus = "Sounds"
+
+[node name="Tween" type="Tween" parent="."]
+
+[connection signal="tween_all_completed" from="Tween" to="." method="_on_Tween_tween_all_completed"]

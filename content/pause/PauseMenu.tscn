@@ -1,0 +1,538 @@
+[gd_scene load_steps=13 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://gui/LoadingSpinner.tscn" type="PackedScene" id=2]
+[ext_resource path="res://gui/fonts/FontHeading.tres" type="DynamicFont" id=3]
+[ext_resource path="res://stages/intro/Bippinbits_logo-01.svg" type="Texture" id=4]
+[ext_resource path="res://icon_color.png" type="Texture" id=5]
+[ext_resource path="res://content/pause/FeedbackPopup.gd" type="Script" id=6]
+[ext_resource path="res://content/pause/PauseMenu.gd" type="Script" id=7]
+[ext_resource path="res://gui/fonts/FontNormal.tres" type="DynamicFont" id=8]
+[ext_resource path="res://gui/gamepad_controller.png" type="Texture" id=9]
+[ext_resource path="res://gui/panels/panel_outside.tres" type="StyleBox" id=10]
+[ext_resource path="res://gui/keyboard_controller.png" type="Texture" id=11]
+[ext_resource path="res://gui/buttons/Action.tscn" type="PackedScene" id=12]
+
+[node name="PauseMenu" type="CanvasLayer"]
+layer = 4
+script = ExtResource( 7 )
+
+[node name="ColorRect" type="ColorRect" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -1.0
+margin_right = -1.0
+color = Color( 0, 0, 0, 1 )
+
+[node name="SupportBox" type="MarginContainer" parent="."]
+margin_right = 330.0
+margin_bottom = 254.0
+theme = ExtResource( 1 )
+
+[node name="PanelContainer" type="PanelContainer" parent="SupportBox"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 621.0
+margin_bottom = 609.0
+size_flags_vertical = 0
+theme = ExtResource( 1 )
+custom_styles/panel = ExtResource( 10 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="SupportBox/PanelContainer"]
+margin_left = 32.0
+margin_top = 32.0
+margin_right = 573.0
+margin_bottom = 561.0
+
+[node name="Gamepad" type="TextureRect" parent="SupportBox/PanelContainer/VBoxContainer"]
+margin_right = 541.0
+margin_bottom = 160.0
+rect_min_size = Vector2( 280, 160 )
+texture = ExtResource( 9 )
+expand = true
+stretch_mode = 6
+
+[node name="Keyboard" type="TextureRect" parent="SupportBox/PanelContainer/VBoxContainer"]
+visible = false
+margin_top = 176.0
+margin_right = 280.0
+margin_bottom = 336.0
+rect_min_size = Vector2( 280, 160 )
+texture = ExtResource( 11 )
+expand = true
+stretch_mode = 6
+
+[node name="Dome" type="GridContainer" parent="SupportBox/PanelContainer/VBoxContainer"]
+margin_top = 176.0
+margin_right = 541.0
+margin_bottom = 283.0
+custom_constants/hseparation = 40
+columns = 2
+
+[node name="ActionUse" parent="SupportBox/PanelContainer/VBoxContainer/Dome" instance=ExtResource( 12 )]
+margin_right = 16.0
+margin_bottom = 25.0
+action = "keeper_use"
+
+[node name="Use" type="Label" parent="SupportBox/PanelContainer/VBoxContainer/Dome"]
+margin_left = 56.0
+margin_right = 521.0
+margin_bottom = 25.0
+size_flags_vertical = 3
+text = "options.keybindings.action.general.use"
+valign = 1
+
+[node name="ActionFire" parent="SupportBox/PanelContainer/VBoxContainer/Dome" instance=ExtResource( 12 )]
+margin_top = 41.0
+margin_right = 16.0
+margin_bottom = 66.0
+action = "dome_fire"
+
+[node name="Fire" type="Label" parent="SupportBox/PanelContainer/VBoxContainer/Dome"]
+margin_left = 56.0
+margin_top = 41.0
+margin_right = 521.0
+margin_bottom = 66.0
+size_flags_vertical = 3
+text = "options.keybindings.action.dome.fire"
+valign = 1
+
+[node name="DomeMovement" type="HBoxContainer" parent="SupportBox/PanelContainer/VBoxContainer/Dome"]
+margin_top = 82.0
+margin_right = 16.0
+margin_bottom = 107.0
+
+[node name="ActionDomeMoveLeft2" parent="SupportBox/PanelContainer/VBoxContainer/Dome/DomeMovement" instance=ExtResource( 12 )]
+margin_right = 0.0
+margin_bottom = 25.0
+action = "ui_left"
+
+[node name="ActionDomeMoveRight" parent="SupportBox/PanelContainer/VBoxContainer/Dome/DomeMovement" groups=["hide_for_gamepad"] instance=ExtResource( 12 )]
+margin_left = 16.0
+margin_right = 16.0
+margin_bottom = 25.0
+action = "ui_right"
+
+[node name="DomeMove" type="Label" parent="SupportBox/PanelContainer/VBoxContainer/Dome"]
+margin_left = 56.0
+margin_top = 82.0
+margin_right = 521.0
+margin_bottom = 107.0
+size_flags_vertical = 3
+text = "options.keybindings.action.general.move"
+valign = 1
+
+[node name="Mine" type="GridContainer" parent="SupportBox/PanelContainer/VBoxContainer"]
+margin_top = 299.0
+margin_right = 541.0
+margin_bottom = 529.0
+custom_constants/hseparation = 40
+columns = 2
+
+[node name="ActionUse2" parent="SupportBox/PanelContainer/VBoxContainer/Mine" instance=ExtResource( 12 )]
+margin_right = 8.0
+margin_bottom = 25.0
+action = "keeper_use"
+
+[node name="Use2" type="Label" parent="SupportBox/PanelContainer/VBoxContainer/Mine"]
+margin_left = 48.0
+margin_right = 541.0
+margin_bottom = 25.0
+size_flags_vertical = 3
+text = "options.keybindings.action.general.use"
+valign = 1
+
+[node name="KeeperMovement" type="GridContainer" parent="SupportBox/PanelContainer/VBoxContainer/Mine"]
+margin_top = 41.0
+margin_right = 8.0
+margin_bottom = 66.0
+custom_constants/vseparation = 4
+custom_constants/hseparation = 4
+columns = 3
+
+[node name="Control" type="Control" parent="SupportBox/PanelContainer/VBoxContainer/Mine/KeeperMovement"]
+
+[node name="ActionKeeperMoveUp" parent="SupportBox/PanelContainer/VBoxContainer/Mine/KeeperMovement" groups=["hide_for_gamepad"] instance=ExtResource( 12 )]
+margin_left = 4.0
+margin_right = 4.0
+margin_bottom = 0.0
+action = "ui_up"
+
+[node name="Control2" type="Control" parent="SupportBox/PanelContainer/VBoxContainer/Mine/KeeperMovement"]
+margin_left = 8.0
+margin_right = 8.0
+
+[node name="ActionKeeperMoveLeft" parent="SupportBox/PanelContainer/VBoxContainer/Mine/KeeperMovement" instance=ExtResource( 12 )]
+margin_top = 4.0
+margin_right = 0.0
+margin_bottom = 4.0
+action = "ui_left"
+
+[node name="ActionKeeperMoveDown" parent="SupportBox/PanelContainer/VBoxContainer/Mine/KeeperMovement" groups=["hide_for_gamepad"] instance=ExtResource( 12 )]
+margin_left = 4.0
+margin_top = 4.0
+margin_right = 4.0
+margin_bottom = 4.0
+action = "ui_down"
+
+[node name="ActionKeeperMoveRight" parent="SupportBox/PanelContainer/VBoxContainer/Mine/KeeperMovement" groups=["hide_for_gamepad"] instance=ExtResource( 12 )]
+margin_left = 8.0
+margin_top = 4.0
+margin_right = 8.0
+margin_bottom = 4.0
+action = "ui_right"
+
+[node name="KeeperMove" type="Label" parent="SupportBox/PanelContainer/VBoxContainer/Mine"]
+margin_left = 48.0
+margin_top = 41.0
+margin_right = 541.0
+margin_bottom = 66.0
+size_flags_vertical = 3
+text = "options.keybindings.action.general.move"
+valign = 1
+
+[node name="ActionGadget1" parent="SupportBox/PanelContainer/VBoxContainer/Mine" instance=ExtResource( 12 )]
+margin_top = 82.0
+margin_right = 8.0
+margin_bottom = 107.0
+action = "keeper_gadget1"
+
+[node name="Gadget1" type="Label" parent="SupportBox/PanelContainer/VBoxContainer/Mine"]
+margin_left = 48.0
+margin_top = 82.0
+margin_right = 541.0
+margin_bottom = 107.0
+size_flags_vertical = 3
+text = "options.keybindings.action.keeper.gadget1"
+valign = 1
+
+[node name="ActionGadget2" parent="SupportBox/PanelContainer/VBoxContainer/Mine" instance=ExtResource( 12 )]
+margin_top = 123.0
+margin_right = 8.0
+margin_bottom = 148.0
+action = "keeper_gadget2"
+
+[node name="Gadget2" type="Label" parent="SupportBox/PanelContainer/VBoxContainer/Mine"]
+margin_left = 48.0
+margin_top = 123.0
+margin_right = 541.0
+margin_bottom = 148.0
+size_flags_vertical = 3
+text = "options.keybindings.action.keeper.gadget2"
+valign = 1
+
+[node name="ActionPickup" parent="SupportBox/PanelContainer/VBoxContainer/Mine" instance=ExtResource( 12 )]
+margin_top = 164.0
+margin_right = 8.0
+margin_bottom = 189.0
+action = "keeper1_pickup"
+
+[node name="Pickup" type="Label" parent="SupportBox/PanelContainer/VBoxContainer/Mine"]
+margin_left = 48.0
+margin_top = 164.0
+margin_right = 541.0
+margin_bottom = 189.0
+size_flags_vertical = 3
+text = "options.keybindings.action.keeper.pickup"
+valign = 1
+
+[node name="ActionDrop" parent="SupportBox/PanelContainer/VBoxContainer/Mine" instance=ExtResource( 12 )]
+margin_top = 205.0
+margin_right = 8.0
+margin_bottom = 230.0
+action = "keeper1_drop"
+
+[node name="Drop" type="Label" parent="SupportBox/PanelContainer/VBoxContainer/Mine"]
+margin_left = 48.0
+margin_top = 205.0
+margin_right = 541.0
+margin_bottom = 230.0
+size_flags_vertical = 3
+text = "options.keybindings.action.keeper.drop"
+valign = 1
+
+[node name="BippinbitsBox" type="MarginContainer" parent="."]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -265.0
+margin_bottom = 152.0
+grow_horizontal = 0
+theme = ExtResource( 1 )
+
+[node name="VBoxContainer" type="VBoxContainer" parent="BippinbitsBox"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 249.0
+margin_bottom = 189.0
+
+[node name="TextureRect" type="TextureRect" parent="BippinbitsBox/VBoxContainer" groups=["unstyled"]]
+margin_right = 233.0
+margin_bottom = 100.0
+rect_min_size = Vector2( 0, 100 )
+texture = ExtResource( 4 )
+expand = true
+stretch_mode = 6
+
+[node name="ButtonDiscord" type="Button" parent="BippinbitsBox/VBoxContainer"]
+margin_top = 116.0
+margin_right = 233.0
+margin_bottom = 173.0
+focus_neighbour_left = NodePath("../../../MenuPanel/VBoxContainer/ButtonResume")
+text = "pause.discord"
+
+[node name="GodotBox" type="MarginContainer" parent="."]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -248.0
+margin_top = -146.0
+grow_horizontal = 0
+grow_vertical = 0
+theme = ExtResource( 1 )
+
+[node name="VBox" type="VBoxContainer" parent="GodotBox"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 232.0
+margin_bottom = 157.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextureRect" type="TextureRect" parent="GodotBox/VBox" groups=["unstyled"]]
+margin_right = 216.0
+margin_bottom = 100.0
+texture = ExtResource( 5 )
+stretch_mode = 4
+
+[node name="Label" type="Label" parent="GodotBox/VBox"]
+margin_top = 116.0
+margin_right = 216.0
+margin_bottom = 141.0
+text = "pause.godot"
+align = 1
+
+[node name="MenuPanel" type="PanelContainer" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -158.0
+margin_top = -188.0
+margin_right = 159.0
+margin_bottom = 160.0
+grow_horizontal = 2
+grow_vertical = 2
+rect_pivot_offset = Vector2( 200, 200 )
+theme = ExtResource( 1 )
+custom_styles/panel = ExtResource( 10 )
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MenuPanel"]
+margin_left = 32.0
+margin_top = 32.0
+margin_right = 319.0
+margin_bottom = 389.0
+
+[node name="Label" type="Label" parent="MenuPanel/VBoxContainer"]
+margin_right = 287.0
+margin_bottom = 65.0
+custom_fonts/font = ExtResource( 3 )
+text = "pause.title"
+align = 1
+
+[node name="ButtonResume" type="Button" parent="MenuPanel/VBoxContainer"]
+margin_top = 81.0
+margin_right = 287.0
+margin_bottom = 138.0
+focus_neighbour_right = NodePath("../../../BippinbitsBox/VBoxContainer/ButtonDiscord")
+text = "pause.resumegame"
+
+[node name="ButtonOptions" type="Button" parent="MenuPanel/VBoxContainer"]
+margin_top = 154.0
+margin_right = 287.0
+margin_bottom = 211.0
+focus_neighbour_right = NodePath("../../../BippinbitsBox/VBoxContainer/ButtonDiscord")
+text = "pause.options"
+
+[node name="ButtonBackToTitle" type="Button" parent="MenuPanel/VBoxContainer"]
+margin_top = 227.0
+margin_right = 287.0
+margin_bottom = 284.0
+focus_neighbour_right = NodePath("../../../BippinbitsBox/VBoxContainer/ButtonDiscord")
+text = "pause.quittotitlescreen"
+
+[node name="ReallyQuitToTitlePopup" type="PanelContainer" parent="MenuPanel/VBoxContainer/ButtonBackToTitle"]
+margin_left = 313.5
+margin_top = -26.0
+margin_right = 723.5
+margin_bottom = 83.0
+
+[node name="MarginContainer" type="MarginContainer" parent="MenuPanel/VBoxContainer/ButtonBackToTitle/ReallyQuitToTitlePopup"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 398.0
+margin_bottom = 97.0
+
+[node name="Label" type="Label" parent="MenuPanel/VBoxContainer/ButtonBackToTitle/ReallyQuitToTitlePopup/MarginContainer"]
+margin_left = 16.0
+margin_top = 30.0
+margin_right = 370.0
+margin_bottom = 55.0
+text = "pause.quit.popup"
+
+[node name="ButtonQuitGame" type="Button" parent="MenuPanel/VBoxContainer"]
+margin_top = 300.0
+margin_right = 287.0
+margin_bottom = 357.0
+focus_neighbour_right = NodePath("../../../BippinbitsBox/VBoxContainer/ButtonDiscord")
+text = "pause.quitgame"
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="FeedbackPopup" type="CenterContainer" parent="."]
+visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource( 1 )
+script = ExtResource( 6 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="PanelContainer" type="PanelContainer" parent="FeedbackPopup"]
+margin_left = 948.0
+margin_top = 528.0
+margin_right = 972.0
+margin_bottom = 552.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="FeedbackPopup/PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 612.0
+margin_bottom = 635.0
+
+[node name="Label" type="Label" parent="FeedbackPopup/PanelContainer/VBoxContainer"]
+margin_right = 600.0
+margin_bottom = 64.0
+theme = ExtResource( 1 )
+custom_fonts/font = ExtResource( 3 )
+text = "Send Feedback"
+
+[node name="Label2" type="Label" parent="FeedbackPopup/PanelContainer/VBoxContainer"]
+margin_top = 70.0
+margin_right = 600.0
+margin_bottom = 229.0
+text = "Would you like to share something with us?
+You can always come to our discord server, to talk to us directly.
+However, you can also use this to send us a message, but we can only respond in discord, of course."
+autowrap = true
+
+[node name="Content" type="TextEdit" parent="FeedbackPopup/PanelContainer/VBoxContainer"]
+margin_top = 235.0
+margin_right = 600.0
+margin_bottom = 535.0
+rect_min_size = Vector2( 600, 300 )
+
+[node name="HBoxContainer" type="HBoxContainer" parent="FeedbackPopup/PanelContainer/VBoxContainer"]
+margin_top = 541.0
+margin_right = 600.0
+margin_bottom = 593.0
+
+[node name="CancelButton" type="Button" parent="FeedbackPopup/PanelContainer/VBoxContainer/HBoxContainer"]
+margin_right = 192.0
+margin_bottom = 52.0
+size_flags_horizontal = 3
+text = "cancel"
+
+[node name="SubmitButton" type="Button" parent="FeedbackPopup/PanelContainer/VBoxContainer/HBoxContainer"]
+margin_left = 204.0
+margin_right = 396.0
+margin_bottom = 52.0
+size_flags_horizontal = 3
+text = "submit"
+
+[node name="LoadingSpinner" parent="FeedbackPopup/PanelContainer/VBoxContainer/HBoxContainer" instance=ExtResource( 2 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = 408.0
+margin_right = 600.0
+margin_bottom = 52.0
+size_flags_horizontal = 3
+
+[node name="ErrorLabel" type="Label" parent="FeedbackPopup/PanelContainer/VBoxContainer"]
+margin_top = 599.0
+margin_right = 600.0
+margin_bottom = 623.0
+
+[node name="SubmitFeedback" type="HTTPRequest" parent="FeedbackPopup"]
+
+[node name="SuccessPopup" type="PanelContainer" parent="FeedbackPopup"]
+margin_left = 948.0
+margin_top = 528.0
+margin_right = 972.0
+margin_bottom = 552.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="FeedbackPopup/SuccessPopup"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 537.0
+margin_bottom = 245.0
+
+[node name="Label" type="Label" parent="FeedbackPopup/SuccessPopup/VBoxContainer"]
+margin_right = 525.0
+margin_bottom = 64.0
+custom_fonts/font = ExtResource( 3 )
+text = "Feedback sent"
+
+[node name="Label2" type="Label" parent="FeedbackPopup/SuccessPopup/VBoxContainer"]
+margin_top = 70.0
+margin_right = 525.0
+margin_bottom = 175.0
+text = "Thank you for sending the feedback. We will read and carefully consider it. 
+You can always join our discord server to discuss it."
+autowrap = true
+
+[node name="ButtonOkay" type="Button" parent="FeedbackPopup/SuccessPopup/VBoxContainer"]
+margin_top = 181.0
+margin_right = 525.0
+margin_bottom = 233.0
+text = "okay"
+
+[node name="VersionBox" type="MarginContainer" parent="."]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_top = -57.0
+margin_right = 32.0
+grow_vertical = 0
+theme = ExtResource( 1 )
+
+[node name="VersionLabel" type="Label" parent="VersionBox"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 16.0
+margin_bottom = 41.0
+grow_vertical = 0
+custom_fonts/font = ExtResource( 8 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ConfirmationTween" type="Tween" parent="."]
+
+[connection signal="pressed" from="BippinbitsBox/VBoxContainer/ButtonDiscord" to="." method="_on_ButtonDiscord_pressed"]
+[connection signal="pressed" from="MenuPanel/VBoxContainer/ButtonResume" to="." method="_on_ButtonResume_pressed"]
+[connection signal="pressed" from="MenuPanel/VBoxContainer/ButtonOptions" to="." method="_on_ButtonOptions_pressed"]
+[connection signal="focus_exited" from="MenuPanel/VBoxContainer/ButtonBackToTitle" to="." method="exitQuitConfirmation"]
+[connection signal="pressed" from="MenuPanel/VBoxContainer/ButtonBackToTitle" to="." method="_on_ButtonBackToTitle_pressed"]
+[connection signal="focus_exited" from="MenuPanel/VBoxContainer/ButtonQuitGame" to="." method="exitQuitConfirmation"]
+[connection signal="pressed" from="MenuPanel/VBoxContainer/ButtonQuitGame" to="." method="_on_ButtonQuitGame_pressed"]
+[connection signal="pressed" from="FeedbackPopup/PanelContainer/VBoxContainer/HBoxContainer/CancelButton" to="FeedbackPopup" method="_on_CancelButton_pressed"]
+[connection signal="pressed" from="FeedbackPopup/PanelContainer/VBoxContainer/HBoxContainer/SubmitButton" to="FeedbackPopup" method="_on_SubmitButton_pressed"]
+[connection signal="request_completed" from="FeedbackPopup/SubmitFeedback" to="FeedbackPopup" method="_on_SubmitFeedback_request_completed"]
+[connection signal="pressed" from="FeedbackPopup/SuccessPopup/VBoxContainer/ButtonOkay" to="FeedbackPopup" method="_on_ButtonOkay_pressed"]

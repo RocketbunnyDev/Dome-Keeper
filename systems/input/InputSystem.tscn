@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://systems/input/InputSystem.gd" type="Script" id=1]
+[ext_resource path="res://systems/input/InputProcessor.gd" type="Script" id=2]
+
+[node name="InputSystem" type="Node"]
+pause_mode = 2
+script = ExtResource( 1 )
+
+[node name="RootProcessor" type="Node" parent="."]
+script = ExtResource( 2 )

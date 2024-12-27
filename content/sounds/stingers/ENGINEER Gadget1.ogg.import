@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ENGINEER Gadget1.ogg-ab9f15d2c92b7b7135549ed77be6d437.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/stingers/ENGINEER Gadget1.ogg"
+dest_files=[ "res://.import/ENGINEER Gadget1.ogg-ab9f15d2c92b7b7135549ed77be6d437.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

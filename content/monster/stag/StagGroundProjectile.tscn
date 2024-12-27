@@ -1,0 +1,56 @@
+[gd_scene load_steps=15 format=2]
+
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=1]
+[ext_resource path="res://systems/audio/Sound.gd" type="Script" id=2]
+[ext_resource path="res://content/shared/projectiles/DirectProjectile.gd" type="Script" id=3]
+[ext_resource path="res://content/sounds/monster/walker/DomePunch01_01.wav" type="AudioStream" id=4]
+[ext_resource path="res://content/sounds/monster/flyer/sfx_impact_Projectile02.wav" type="AudioStream" id=5]
+[ext_resource path="res://content/sounds/monster/walker/DomePunch01_02.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/sounds/monster/flyer/sfx_impact_Projectile03.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/sounds/monster/flyer/sfx_impact_Projectile.wav" type="AudioStream" id=8]
+[ext_resource path="res://content/monster/stag/spriteframes-GroundProjectile.tres" type="SpriteFrames" id=9]
+[ext_resource path="res://content/sounds/monster/walker/DomePunch02_05.wav" type="AudioStream" id=10]
+[ext_resource path="res://content/sounds/monster/walker/DomePunch02_03.wav" type="AudioStream" id=11]
+[ext_resource path="res://content/sounds/monster/walker/DomePunch02_04.wav" type="AudioStream" id=12]
+[ext_resource path="res://content/sounds/monster/walker/DomePunch02_06.wav" type="AudioStream" id=13]
+
+[sub_resource type="CircleShape2D" id=127]
+radius = 5.0
+
+[node name="Projectile" type="Area2D" groups=["projectile"]]
+z_index = 61
+collision_layer = 256
+collision_mask = 0
+script = ExtResource( 3 )
+rotation_offset = 0.0
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+position = Vector2( -20, 0 )
+frames = ExtResource( 9 )
+animation = "start"
+speed_scale = 2.0
+
+[node name="ImpactSound" type="AudioStreamPlayer" parent="."]
+volume_db = -10.78
+pitch_scale = 0.61
+bus = "World"
+script = ExtResource( 2 )
+randomPitch = 0.11
+streams = [ ExtResource( 5 ), ExtResource( 7 ), ExtResource( 8 ) ]
+
+[node name="Sound" parent="ImpactSound" instance=ExtResource( 1 )]
+volume_db = 4.602
+pitch_scale = 1.17
+bus = "World"
+streams = [ ExtResource( 4 ), ExtResource( 11 ), ExtResource( 12 ), ExtResource( 10 ), ExtResource( 13 ) ]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource( 127 )
+
+[node name="ShieldedSound" parent="." instance=ExtResource( 1 )]
+pitch_scale = 1.39
+bus = "World"
+streams = [ ExtResource( 4 ), ExtResource( 6 ) ]
+
+[connection signal="area_entered" from="." to="." method="_on_Projectile_area_entered"]
+[connection signal="animation_finished" from="Sprite" to="." method="_on_Sprite_animation_finished"]

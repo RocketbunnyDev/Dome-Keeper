@@ -1,0 +1,30 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://content/dome/dome1/Dome1.tscn" type="PackedScene" id=1]
+[ext_resource path="res://content/dome/dome2/Dome2.tscn" type="PackedScene" id=2]
+[ext_resource path="res://test/primarygadgets/RenderPosition.gd" type="Script" id=3]
+
+[node name="RenderPosition" type="Node2D"]
+script = ExtResource( 3 )
+
+[node name="Dome1_1" parent="." instance=ExtResource( 1 )]
+position = Vector2( -179, -90 )
+
+[node name="Dome1_2" parent="." instance=ExtResource( 1 )]
+position = Vector2( -2, -91 )
+
+[node name="Dome1_3" parent="." instance=ExtResource( 1 )]
+position = Vector2( 174, -87 )
+
+[node name="Dome2_1" parent="." instance=ExtResource( 2 )]
+position = Vector2( -181, 69 )
+
+[node name="Dome2_2" parent="." instance=ExtResource( 2 )]
+position = Vector2( -1, 76 )
+
+[node name="Dome2_3" parent="." instance=ExtResource( 2 )]
+position = Vector2( 177, 73 )
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
+zoom = Vector2( 0.5, 0.5 )

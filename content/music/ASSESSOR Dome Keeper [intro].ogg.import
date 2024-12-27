@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ASSESSOR Dome Keeper [intro].ogg-1e4e66b2d303b0bf8ad744b2c841e57d.oggstr"
+
+[deps]
+
+source_file="res://content/music/ASSESSOR Dome Keeper [intro].ogg"
+dest_files=[ "res://.import/ASSESSOR Dome Keeper [intro].ogg-1e4e66b2d303b0bf8ad744b2c841e57d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

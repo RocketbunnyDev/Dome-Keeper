@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SHIFTERCHARGE.wav-8c9484ff2753dda10055ce23349ce2d0.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/shifter/SHIFTERCHARGE.wav"
+dest_files=[ "res://.import/SHIFTERCHARGE.wav-8c9484ff2753dda10055ce23349ce2d0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

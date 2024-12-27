@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/stag wave.wav-d50b1d62754a2d3fac9d7d8681b6c5c6.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/Stag/stag wave.wav"
+dest_files=[ "res://.import/stag wave.wav-d50b1d62754a2d3fac9d7d8681b6c5c6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

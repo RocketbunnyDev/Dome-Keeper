@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ShieldReflect.wav-45be7fc74689a73915417c785fdd7711.sample"
+
+[deps]
+
+source_file="res://content/sounds/ShieldReflect.wav"
+dest_files=[ "res://.import/ShieldReflect.wav-45be7fc74689a73915417c785fdd7711.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Repellantready.mp3-e9944c3eff0292598937fa33e23500e5.mp3str"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Repellent/Repellantready.mp3"
+dest_files=[ "res://.import/Repellantready.mp3-e9944c3eff0292598937fa33e23500e5.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

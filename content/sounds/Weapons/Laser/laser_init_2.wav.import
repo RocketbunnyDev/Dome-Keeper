@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/laser_init_2.wav-c26a01cdb51cbc6a5fd4172595ca1045.sample"
+
+[deps]
+
+source_file="res://content/sounds/Weapons/Laser/laser_init_2.wav"
+dest_files=[ "res://.import/laser_init_2.wav-c26a01cdb51cbc6a5fd4172595ca1045.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,152 @@
+[gd_scene load_steps=23 format=2]
+
+[ext_resource path="res://content/shared/HighlightShader.material" type="Material" id=1]
+[ext_resource path="res://content/gadgets/blastMining/focussed.png" type="Texture" id=2]
+[ext_resource path="res://content/gadgets/blastMining/carried.png" type="Texture" id=3]
+[ext_resource path="res://content/gadgets/blastMining/mine-Sheet.png" type="Texture" id=4]
+[ext_resource path="res://content/gadgets/blastMining/Mine.gd" type="Script" id=5]
+[ext_resource path="res://content/sounds/Locations/BlastMiner/ActivateCountdown.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/sounds/Locations/BlastMiner/CountDownTick.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/gadgets/blastMining/mine_adhesion.png" type="Texture" id=8]
+
+[sub_resource type="AtlasTexture" id=12]
+atlas = ExtResource( 4 )
+region = Rect2( 28, 0, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=6]
+atlas = ExtResource( 4 )
+region = Rect2( 42, 0, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=10]
+atlas = ExtResource( 4 )
+region = Rect2( 0, 0, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=11]
+atlas = ExtResource( 4 )
+region = Rect2( 0, 13, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=7]
+atlas = ExtResource( 4 )
+region = Rect2( 28, 0, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=8]
+atlas = ExtResource( 4 )
+region = Rect2( 28, 13, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=3]
+atlas = ExtResource( 4 )
+region = Rect2( 0, 0, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=13]
+atlas = ExtResource( 4 )
+region = Rect2( 14, 0, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=14]
+atlas = ExtResource( 4 )
+region = Rect2( 14, 13, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=4]
+atlas = ExtResource( 4 )
+region = Rect2( 42, 0, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=5]
+atlas = ExtResource( 4 )
+region = Rect2( 42, 13, 14, 13 )
+
+[sub_resource type="AtlasTexture" id=9]
+atlas = ExtResource( 4 )
+region = Rect2( 14, 0, 14, 13 )
+
+[sub_resource type="SpriteFrames" id=2]
+animations = [ {
+"frames": [ SubResource( 12 ) ],
+"loop": false,
+"name": "normal_2",
+"speed": 0.0
+}, {
+"frames": [ SubResource( 6 ) ],
+"loop": false,
+"name": "normal_3",
+"speed": 0.0
+}, {
+"frames": [ SubResource( 10 ), SubResource( 11 ) ],
+"loop": true,
+"name": "activated_0",
+"speed": 8.0
+}, {
+"frames": [ SubResource( 7 ), SubResource( 8 ) ],
+"loop": true,
+"name": "activated_2",
+"speed": 8.0
+}, {
+"frames": [ SubResource( 3 ) ],
+"loop": false,
+"name": "normal_0",
+"speed": 0.0
+}, {
+"frames": [ SubResource( 13 ), SubResource( 14 ) ],
+"loop": true,
+"name": "activated_1",
+"speed": 8.0
+}, {
+"frames": [ SubResource( 4 ), SubResource( 5 ) ],
+"loop": true,
+"name": "activated_3",
+"speed": 8.0
+}, {
+"frames": [ SubResource( 9 ) ],
+"loop": false,
+"name": "normal_1",
+"speed": 0.0
+} ]
+
+[sub_resource type="CircleShape2D" id=1]
+radius = 5.0
+
+[node name="Mine" type="RigidBody2D" groups=["saveable"]]
+z_index = 23
+collision_layer = 554
+collision_mask = 2
+contacts_reported = 1
+contact_monitor = true
+can_sleep = false
+angular_damp = 5.0
+script = ExtResource( 5 )
+carryableType = "gadget"
+
+[node name="Adhesion" type="Sprite" parent="."]
+texture = ExtResource( 8 )
+offset = Vector2( 6, 0 )
+hframes = 4
+frame = 3
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+frames = SubResource( 2 )
+animation = "normal_3"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+visible = false
+shape = SubResource( 1 )
+
+[node name="CarrySprite" type="Sprite" parent="."]
+texture = ExtResource( 3 )
+
+[node name="FocusSprite" type="Sprite" parent="."]
+material = ExtResource( 1 )
+z_index = 30
+texture = ExtResource( 2 )
+
+[node name="ActivateSound" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 6 )
+volume_db = 6.19
+max_distance = 400.0
+bus = "Sounds"
+
+[node name="CountdownSound" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 7 )
+volume_db = -7.464
+pitch_scale = 1.26
+max_distance = 400.0
+bus = "Sounds"
+
+[connection signal="body_entered" from="." to="." method="_on_Mine_body_entered"]

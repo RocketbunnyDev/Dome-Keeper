@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/TechUpgrade.wav-30dee5f16cebd33d7fb7a2c6cb30cdf6.sample"
+
+[deps]
+
+source_file="res://content/sounds/UI/TechUpgrade.wav"
+dest_files=[ "res://.import/TechUpgrade.wav-30dee5f16cebd33d7fb7a2c6cb30cdf6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

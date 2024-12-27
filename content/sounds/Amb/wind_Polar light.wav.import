@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/wind_Polar light.wav-87c48a3e3587329079efcd56ef091aa1.sample"
+
+[deps]
+
+source_file="res://content/sounds/Amb/wind_Polar light.wav"
+dest_files=[ "res://.import/wind_Polar light.wav-87c48a3e3587329079efcd56ef091aa1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

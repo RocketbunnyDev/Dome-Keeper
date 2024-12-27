@@ -1,0 +1,187 @@
+[gd_scene load_steps=42 format=2]
+
+[ext_resource path="res://content/monster/worm/Rock.gd" type="Script" id=1]
+[ext_resource path="res://content/sounds/monster/worm/RocksDestroy_3.wav" type="AudioStream" id=2]
+[ext_resource path="res://content/monster/FlashMaterial.tres" type="Material" id=3]
+[ext_resource path="res://content/sounds/monster/walker/DomePunch02_04.wav" type="AudioStream" id=4]
+[ext_resource path="res://systems/audio/Sound.gd" type="Script" id=5]
+[ext_resource path="res://content/sounds/monster/walker/DomePunch02_06.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/sounds/monster/walker/DomePunch02_03.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/sounds/monster/worm/RocksDestroy_4.wav" type="AudioStream" id=8]
+[ext_resource path="res://content/sounds/monster/worm/RocksDestroy_1.wav" type="AudioStream" id=9]
+[ext_resource path="res://content/sounds/monster/worm/RocksDestroy_2.wav" type="AudioStream" id=10]
+[ext_resource path="res://content/monster/worm/projectile_sheet.png" type="Texture" id=11]
+[ext_resource path="res://content/sounds/monster/snd_hard_01.wav" type="AudioStream" id=12]
+
+[sub_resource type="AtlasTexture" id=48]
+atlas = ExtResource( 11 )
+region = Rect2( 0, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=49]
+atlas = ExtResource( 11 )
+region = Rect2( 32, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=50]
+atlas = ExtResource( 11 )
+region = Rect2( 64, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=51]
+atlas = ExtResource( 11 )
+region = Rect2( 96, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=52]
+atlas = ExtResource( 11 )
+region = Rect2( 128, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=53]
+atlas = ExtResource( 11 )
+region = Rect2( 160, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=54]
+atlas = ExtResource( 11 )
+region = Rect2( 192, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=55]
+atlas = ExtResource( 11 )
+region = Rect2( 224, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=56]
+atlas = ExtResource( 11 )
+region = Rect2( 256, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=38]
+atlas = ExtResource( 11 )
+region = Rect2( 0, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=39]
+atlas = ExtResource( 11 )
+region = Rect2( 32, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=40]
+atlas = ExtResource( 11 )
+region = Rect2( 64, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=41]
+atlas = ExtResource( 11 )
+region = Rect2( 96, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=42]
+atlas = ExtResource( 11 )
+region = Rect2( 128, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=43]
+atlas = ExtResource( 11 )
+region = Rect2( 160, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=44]
+atlas = ExtResource( 11 )
+region = Rect2( 192, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=45]
+atlas = ExtResource( 11 )
+region = Rect2( 224, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=46]
+atlas = ExtResource( 11 )
+region = Rect2( 256, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=47]
+atlas = ExtResource( 11 )
+region = Rect2( 288, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=30]
+atlas = ExtResource( 11 )
+region = Rect2( 0, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=31]
+atlas = ExtResource( 11 )
+region = Rect2( 32, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=32]
+atlas = ExtResource( 11 )
+region = Rect2( 64, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=33]
+atlas = ExtResource( 11 )
+region = Rect2( 96, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=34]
+atlas = ExtResource( 11 )
+region = Rect2( 128, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=35]
+atlas = ExtResource( 11 )
+region = Rect2( 160, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=36]
+atlas = ExtResource( 11 )
+region = Rect2( 192, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=37]
+atlas = ExtResource( 11 )
+region = Rect2( 224, 64, 32, 32 )
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ SubResource( 48 ), SubResource( 49 ), SubResource( 50 ), SubResource( 51 ), SubResource( 52 ), SubResource( 53 ), SubResource( 54 ), SubResource( 55 ), SubResource( 56 ) ],
+"loop": false,
+"name": "destroyed",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 38 ), SubResource( 39 ), SubResource( 40 ), SubResource( 41 ), SubResource( 42 ), SubResource( 43 ), SubResource( 44 ), SubResource( 45 ), SubResource( 46 ), SubResource( 47 ) ],
+"loop": true,
+"name": "flying",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 30 ), SubResource( 31 ), SubResource( 32 ), SubResource( 33 ), SubResource( 34 ), SubResource( 35 ), SubResource( 36 ), SubResource( 37 ) ],
+"loop": false,
+"name": "hit",
+"speed": 10.0
+} ]
+
+[sub_resource type="CircleShape2D" id=29]
+radius = 8.60233
+
+[node name="Rock" type="Area2D" groups=["monster", "pauseL"]]
+collision_layer = 384
+collision_mask = 0
+script = ExtResource( 1 )
+techId = "rock"
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+material = ExtResource( 3 )
+frames = SubResource( 1 )
+animation = "flying"
+
+[node name="DieSoundImpact" type="AudioStreamPlayer" parent="."]
+volume_db = 10.403
+pitch_scale = 1.3
+bus = "World"
+script = ExtResource( 5 )
+streams = [ ExtResource( 7 ), ExtResource( 4 ), ExtResource( 6 ) ]
+
+[node name="DieSoundImpact2" type="AudioStreamPlayer" parent="DieSoundImpact"]
+volume_db = -8.004
+pitch_scale = 0.95
+bus = "World"
+script = ExtResource( 5 )
+streams = [ ExtResource( 12 ) ]
+
+[node name="DieSoundDestroyed" type="AudioStreamPlayer" parent="."]
+volume_db = -1.156
+pitch_scale = 1.32
+bus = "World"
+script = ExtResource( 5 )
+streams = [ ExtResource( 9 ), ExtResource( 10 ), ExtResource( 2 ), ExtResource( 8 ) ]
+
+[node name="HitboxDefault" type="CollisionShape2D" parent="."]
+rotation = 0.574213
+shape = SubResource( 29 )
+
+[node name="ShootPosition" type="Position2D" parent="."]
+__meta__ = {
+"_gizmo_extents_": 3.0
+}
+
+[connection signal="area_entered" from="." to="." method="_on_Rock_area_entered"]
+[connection signal="animation_finished" from="Sprite" to="." method="_on_Sprite_animation_finished"]

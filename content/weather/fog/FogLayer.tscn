@@ -1,0 +1,24 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://content/weather/fog/mist.tres" type="Material" id=1]
+[ext_resource path="res://content/weather/fog/mist.png" type="Texture" id=2]
+[ext_resource path="res://content/weather/fog/mistparticle.tres" type="Material" id=3]
+[ext_resource path="res://content/weather/fog/FogLayer.gd" type="Script" id=4]
+
+[node name="FogLayer" type="Sprite" groups=["pauseL", "weather"]]
+modulate = Color( 0.439216, 0.666667, 0.784314, 1 )
+material = ExtResource( 1 )
+position = Vector2( 0, -97 )
+texture = ExtResource( 2 )
+region_rect = Rect2( 0, 0, 250, 1280 )
+script = ExtResource( 4 )
+
+[node name="Particles2D" type="Particles2D" parent="."]
+position = Vector2( 0, 3 )
+amount = 200
+lifetime = 20.0
+preprocess = 20.0
+visibility_rect = Rect2( -640, -640, 1280, 1280 )
+process_material = ExtResource( 3 )
+
+[node name="Tween" type="Tween" parent="."]

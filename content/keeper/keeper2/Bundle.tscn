@@ -1,0 +1,58 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://content/keeper/keeper2/Bundle.gd" type="Script" id=1]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=2]
+[ext_resource path="res://content/sounds/keeper2/Bundleamb.wav" type="AudioStream" id=3]
+[ext_resource path="res://content/keeper/keeper2/BundleCenter.gd" type="Script" id=4]
+[ext_resource path="res://content/sounds/keeper2/hoppy_03.wav" type="AudioStream" id=5]
+
+[node name="Bundle" type="Node2D" groups=["bundle"]]
+script = ExtResource( 1 )
+
+[node name="Line2D" type="Line2D" parent="."]
+visible = false
+z_index = 999
+width = 4.0
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+visible = false
+z_index = 999
+polygon = PoolVector2Array( -3, 3, 3, 3, 3, -3, -3, -3 )
+
+[node name="Polygon2D2" type="Polygon2D" parent="."]
+visible = false
+z_index = 999
+color = Color( 0.101961, 0.6, 0.286275, 1 )
+polygon = PoolVector2Array( 0, 4, 4, 0, 0, -4, -4, 0 )
+
+[node name="Line2D2" type="Line2D" parent="."]
+visible = false
+z_index = 999
+width = 2.0
+default_color = Color( 0.796078, 0.141176, 0.662745, 1 )
+
+[node name="Line3" type="Line2D" parent="."]
+visible = false
+z_index = 999
+width = 1.0
+default_color = Color( 0.141176, 0.796078, 0.458824, 1 )
+
+[node name="BundleCenter" type="Position2D" parent="."]
+script = ExtResource( 4 )
+
+[node name="Amb" parent="BundleCenter" instance=ExtResource( 2 )]
+stream = ExtResource( 3 )
+bus = "Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 24.0
+fadeInTime = 1.0
+fadeOutTime = 2.0
+loop = true
+doppler = 0.5
+
+[node name="DissolveSound" parent="BundleCenter" instance=ExtResource( 2 )]
+stream = ExtResource( 5 )
+volume_db = -5.244
+pitch_scale = 1.7

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/RocksDestroy_4.wav-28bf6d4019d61b2026b56d33b5643c9e.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/worm/RocksDestroy_4.wav"
+dest_files=[ "res://.import/RocksDestroy_4.wav-28bf6d4019d61b2026b56d33b5643c9e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

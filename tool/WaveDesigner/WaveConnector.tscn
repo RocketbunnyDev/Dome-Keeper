@@ -1,0 +1,29 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://gui/panels/panel_inside.tres" type="StyleBox" id=1]
+[ext_resource path="res://tool/WaveDesigner/WaveConnector.gd" type="Script" id=2]
+
+[node name="WaveConnector" type="PanelContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_right = -1830.0
+margin_bottom = -980.0
+grow_horizontal = 2
+rect_min_size = Vector2( 90, 100 )
+focus_mode = 1
+size_flags_horizontal = 4
+size_flags_vertical = 4
+custom_styles/panel = ExtResource( 1 )
+script = ExtResource( 2 )
+
+[node name="Title" type="Label" parent="."]
+margin_left = 12.0
+margin_top = 43.0
+margin_right = 78.0
+margin_bottom = 57.0
+text = "next"
+align = 1
+
+[connection signal="gui_input" from="." to="." method="_on_WaveElement_gui_input"]
+[connection signal="mouse_entered" from="." to="." method="_on_WaveElement_mouse_entered"]
+[connection signal="mouse_exited" from="." to="." method="_on_WaveElement_mouse_exited"]

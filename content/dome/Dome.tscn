@@ -1,0 +1,834 @@
+[gd_scene load_steps=118 format=2]
+
+[ext_resource path="res://content/dome/Dome.gd" type="Script" id=1]
+[ext_resource path="res://content/dome/cellar/keller_front.png" type="Texture" id=2]
+[ext_resource path="res://content/worlds/ProjectileTargets.gd" type="Script" id=3]
+[ext_resource path="res://icon.png" type="Texture" id=4]
+[ext_resource path="res://content/dome/dome1/dome/dome01_shine.png" type="Texture" id=5]
+[ext_resource path="res://content/dome/ArtifactDropPoint.gd" type="Script" id=6]
+[ext_resource path="res://content/dome/dome1/dome/dome01_back_alpha.png" type="Texture" id=7]
+[ext_resource path="res://content/dome/dome1/dome/dome01_front.png" type="Texture" id=8]
+[ext_resource path="res://content/dome/collapse/collapse-sheet.png" type="Texture" id=9]
+[ext_resource path="res://content/dome/cellar/keller_back.png" type="Texture" id=10]
+[ext_resource path="res://content/dome/cellar/relic_lock-Sheet+gif.png" type="Texture" id=11]
+[ext_resource path="res://content/dome/dome1/dome/damaged4.png" type="Texture" id=12]
+[ext_resource path="res://content/dome/RelicDropPoint.gd" type="Script" id=13]
+[ext_resource path="res://content/shared/AmbienceFade.gd" type="Script" id=14]
+[ext_resource path="res://content/sounds/Locations/CellarRelic/RelicSockedIntoDome.wav" type="AudioStream" id=15]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=16]
+[ext_resource path="res://content/dome/cellar/spinning_sphere-Sheet.png" type="Texture" id=17]
+[ext_resource path="res://content/sounds/Locations/CellarRelic/EnergyHum.wav" type="AudioStream" id=18]
+[ext_resource path="res://content/dome/damage_mask/cracks_overlay.gd" type="Script" id=19]
+[ext_resource path="res://content/dome/damage_mask/damage_mask_material.tres" type="Material" id=20]
+[ext_resource path="res://content/dome/EggDropPoint.gd" type="Script" id=21]
+[ext_resource path="res://content/dome/CupolaPath.gd" type="Script" id=22]
+[ext_resource path="res://content/dome/collapse/CollapseShards.tscn" type="PackedScene" id=23]
+[ext_resource path="res://content/dome/Shield.gd" type="Script" id=24]
+[ext_resource path="res://content/sounds/Locations/DomeShield/Dome_DamageField.wav" type="AudioStream" id=25]
+[ext_resource path="res://content/sounds/Locations/DomeShield/Shield_reflect_02.wav" type="AudioStream" id=26]
+[ext_resource path="res://content/sounds/Locations/DomeShield/Dome_Invunerable.wav" type="AudioStream" id=27]
+[ext_resource path="res://content/sounds/Locations/DomeShield/Shield_reflect_01.wav" type="AudioStream" id=28]
+[ext_resource path="res://content/sounds/Locations/DomeShield/Damagefield_Loop.wav" type="AudioStream" id=29]
+[ext_resource path="res://content/sounds/Locations/DomeShield/Damagefield_Outro.wav" type="AudioStream" id=30]
+[ext_resource path="res://content/gadgets/shield/reflect_glow.gdshader" type="Shader" id=31]
+[ext_resource path="res://content/sounds/ShieldReflect.wav" type="AudioStream" id=32]
+[ext_resource path="res://content/gadgets/shield/forcefield.png" type="Texture" id=33]
+[ext_resource path="res://content/gadgets/shield/forcefieldglow.png" type="Texture" id=34]
+[ext_resource path="res://content/gadgets/shield/reflect_particles.gdshader" type="Shader" id=35]
+[ext_resource path="res://content/gadgets/shield/invulnerable.gdshader" type="Shader" id=36]
+[ext_resource path="res://content/gadgets/shield/invulnerable.png" type="Texture" id=37]
+
+[sub_resource type="AtlasTexture" id=6]
+atlas = ExtResource( 11 )
+region = Rect2( 0, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=7]
+atlas = ExtResource( 11 )
+region = Rect2( 107, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=8]
+atlas = ExtResource( 11 )
+region = Rect2( 214, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=9]
+atlas = ExtResource( 11 )
+region = Rect2( 321, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=10]
+atlas = ExtResource( 11 )
+region = Rect2( 428, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=11]
+atlas = ExtResource( 11 )
+region = Rect2( 535, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=12]
+atlas = ExtResource( 11 )
+region = Rect2( 642, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=13]
+atlas = ExtResource( 11 )
+region = Rect2( 749, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=14]
+atlas = ExtResource( 11 )
+region = Rect2( 856, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=15]
+atlas = ExtResource( 11 )
+region = Rect2( 963, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=16]
+atlas = ExtResource( 11 )
+region = Rect2( 1070, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=17]
+atlas = ExtResource( 11 )
+region = Rect2( 1177, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=18]
+atlas = ExtResource( 11 )
+region = Rect2( 1284, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=19]
+atlas = ExtResource( 11 )
+region = Rect2( 1391, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=20]
+atlas = ExtResource( 11 )
+region = Rect2( 1498, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=21]
+atlas = ExtResource( 11 )
+region = Rect2( 1605, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=22]
+atlas = ExtResource( 11 )
+region = Rect2( 1712, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=23]
+atlas = ExtResource( 11 )
+region = Rect2( 1819, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=24]
+atlas = ExtResource( 11 )
+region = Rect2( 1926, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=25]
+atlas = ExtResource( 11 )
+region = Rect2( 2033, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=26]
+atlas = ExtResource( 11 )
+region = Rect2( 2140, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=27]
+atlas = ExtResource( 11 )
+region = Rect2( 2247, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=28]
+atlas = ExtResource( 11 )
+region = Rect2( 2354, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=29]
+atlas = ExtResource( 11 )
+region = Rect2( 2461, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=30]
+atlas = ExtResource( 11 )
+region = Rect2( 2568, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=31]
+atlas = ExtResource( 11 )
+region = Rect2( 2675, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=32]
+atlas = ExtResource( 11 )
+region = Rect2( 2782, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=33]
+atlas = ExtResource( 11 )
+region = Rect2( 2889, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=34]
+atlas = ExtResource( 11 )
+region = Rect2( 2996, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=35]
+atlas = ExtResource( 11 )
+region = Rect2( 3103, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=36]
+atlas = ExtResource( 11 )
+region = Rect2( 3210, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=37]
+atlas = ExtResource( 11 )
+region = Rect2( 3317, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=38]
+atlas = ExtResource( 11 )
+region = Rect2( 3424, 0, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=40]
+atlas = ExtResource( 11 )
+region = Rect2( 0, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=41]
+atlas = ExtResource( 11 )
+region = Rect2( 107, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=42]
+atlas = ExtResource( 11 )
+region = Rect2( 214, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=43]
+atlas = ExtResource( 11 )
+region = Rect2( 321, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=44]
+atlas = ExtResource( 11 )
+region = Rect2( 428, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=45]
+atlas = ExtResource( 11 )
+region = Rect2( 535, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=46]
+atlas = ExtResource( 11 )
+region = Rect2( 642, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=47]
+atlas = ExtResource( 11 )
+region = Rect2( 749, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=48]
+atlas = ExtResource( 11 )
+region = Rect2( 856, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=49]
+atlas = ExtResource( 11 )
+region = Rect2( 963, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=50]
+atlas = ExtResource( 11 )
+region = Rect2( 1070, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=51]
+atlas = ExtResource( 11 )
+region = Rect2( 1177, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=52]
+atlas = ExtResource( 11 )
+region = Rect2( 1284, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=53]
+atlas = ExtResource( 11 )
+region = Rect2( 1391, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=54]
+atlas = ExtResource( 11 )
+region = Rect2( 1498, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=55]
+atlas = ExtResource( 11 )
+region = Rect2( 1605, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=56]
+atlas = ExtResource( 11 )
+region = Rect2( 1712, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=57]
+atlas = ExtResource( 11 )
+region = Rect2( 1819, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=58]
+atlas = ExtResource( 11 )
+region = Rect2( 1926, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=59]
+atlas = ExtResource( 11 )
+region = Rect2( 2033, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=60]
+atlas = ExtResource( 11 )
+region = Rect2( 2140, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=61]
+atlas = ExtResource( 11 )
+region = Rect2( 2247, 21, 107, 21 )
+
+[sub_resource type="AtlasTexture" id=62]
+atlas = ExtResource( 11 )
+region = Rect2( 2354, 21, 107, 21 )
+
+[sub_resource type="SpriteFrames" id=39]
+animations = [ {
+"frames": [ SubResource( 6 ), SubResource( 7 ), SubResource( 8 ), SubResource( 9 ), SubResource( 10 ), SubResource( 11 ), SubResource( 12 ), SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ), SubResource( 17 ), SubResource( 18 ), SubResource( 19 ), SubResource( 20 ), SubResource( 21 ), SubResource( 22 ), SubResource( 23 ), SubResource( 24 ), SubResource( 25 ), SubResource( 26 ), SubResource( 27 ), SubResource( 28 ), SubResource( 29 ), SubResource( 30 ), SubResource( 31 ), SubResource( 32 ), SubResource( 33 ), SubResource( 34 ), SubResource( 35 ), SubResource( 36 ), SubResource( 37 ), SubResource( 38 ) ],
+"loop": false,
+"name": "activate",
+"speed": 12.0
+}, {
+"frames": [  ],
+"loop": false,
+"name": "none",
+"speed": 5.0
+}, {
+"frames": [ SubResource( 40 ), SubResource( 41 ), SubResource( 42 ), SubResource( 43 ), SubResource( 44 ), SubResource( 45 ), SubResource( 46 ), SubResource( 47 ), SubResource( 48 ), SubResource( 49 ), SubResource( 50 ), SubResource( 51 ), SubResource( 52 ), SubResource( 53 ), SubResource( 54 ), SubResource( 55 ), SubResource( 56 ), SubResource( 57 ), SubResource( 58 ), SubResource( 59 ), SubResource( 60 ), SubResource( 61 ), SubResource( 62 ) ],
+"loop": true,
+"name": "running",
+"speed": 12.0
+} ]
+
+[sub_resource type="AtlasTexture" id=63]
+atlas = ExtResource( 17 )
+region = Rect2( 0, 0, 7, 7 )
+
+[sub_resource type="AtlasTexture" id=64]
+atlas = ExtResource( 17 )
+region = Rect2( 7, 0, 7, 7 )
+
+[sub_resource type="AtlasTexture" id=65]
+atlas = ExtResource( 17 )
+region = Rect2( 14, 0, 7, 7 )
+
+[sub_resource type="AtlasTexture" id=66]
+atlas = ExtResource( 17 )
+region = Rect2( 21, 0, 7, 7 )
+
+[sub_resource type="AtlasTexture" id=67]
+atlas = ExtResource( 17 )
+region = Rect2( 28, 0, 7, 7 )
+
+[sub_resource type="AtlasTexture" id=68]
+atlas = ExtResource( 17 )
+region = Rect2( 35, 0, 7, 7 )
+
+[sub_resource type="AtlasTexture" id=69]
+atlas = ExtResource( 17 )
+region = Rect2( 42, 0, 7, 7 )
+
+[sub_resource type="SpriteFrames" id=70]
+animations = [ {
+"frames": [  ],
+"loop": false,
+"name": "none",
+"speed": 5.0
+}, {
+"frames": [ SubResource( 63 ), SubResource( 64 ), SubResource( 65 ), SubResource( 66 ), SubResource( 67 ), SubResource( 68 ), SubResource( 69 ) ],
+"loop": true,
+"name": "spinning",
+"speed": 12.0
+} ]
+
+[sub_resource type="CircleShape2D" id=1]
+radius = 20.5061
+
+[sub_resource type="CircleShape2D" id=85]
+radius = 20.5061
+
+[sub_resource type="CircleShape2D" id=86]
+radius = 21.0238
+
+[sub_resource type="PhysicsMaterial" id=5]
+friction = 0.0
+
+[sub_resource type="ShaderMaterial" id=76]
+shader = ExtResource( 35 )
+
+[sub_resource type="Curve" id=81]
+_data = [ Vector2( 0, 0.5 ), 0.0, 0.0, 0, 0, Vector2( 0.5, 1 ), 0.0, 0.0, 0, 0, Vector2( 1, 0.509091 ), 0.0, 0.0, 0, 0 ]
+
+[sub_resource type="ShaderMaterial" id=78]
+shader = ExtResource( 31 )
+
+[sub_resource type="Curve" id=79]
+_data = [ Vector2( 0, 0.490909 ), 0.0, 0.0, 0, 0, Vector2( 0.5, 1 ), 0.0, 0.0, 0, 0, Vector2( 1, 0.490909 ), 0.0, 0.0, 0, 0 ]
+
+[sub_resource type="Gradient" id=80]
+offsets = PoolRealArray( 0, 0.142373, 0.501695, 0.840678, 1 )
+colors = PoolColorArray( 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0 )
+
+[sub_resource type="OpenSimplexNoise" id=82]
+
+[sub_resource type="NoiseTexture" id=83]
+seamless = true
+as_normalmap = true
+noise = SubResource( 82 )
+
+[sub_resource type="ShaderMaterial" id=84]
+shader = ExtResource( 36 )
+shader_param/stretch = Vector2( 0.3, 0.75 )
+shader_param/noise_texture = SubResource( 83 )
+
+[sub_resource type="ParticlesMaterial" id=71]
+lifetime_randomness = 0.53
+emission_shape = 2
+emission_box_extents = Vector3( 60, 1, 1 )
+flag_disable_z = true
+gravity = Vector3( 0, -5, 0 )
+initial_velocity = 8.0
+initial_velocity_random = 0.5
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+linear_accel = 5.0
+linear_accel_random = 1.0
+damping = 6.0
+
+[sub_resource type="RectangleShape2D" id=4]
+extents = Vector2( 21.5, 2 )
+
+[sub_resource type="RectangleShape2D" id=3]
+extents = Vector2( 20.75, 2 )
+
+[node name="Dome" type="Node2D" groups=["lostL"]]
+z_index = 2
+script = ExtResource( 1 )
+
+[node name="Ambience" type="AudioStreamPlayer" parent="."]
+bus = "Ambience"
+script = ExtResource( 14 )
+
+[node name="ObeliskContainer" type="Node2D" parent="."]
+position = Vector2( 99, -16 )
+
+[node name="Background" type="Sprite" parent="."]
+position = Vector2( 0, -21 )
+texture = ExtResource( 7 )
+
+[node name="Foreground" type="Sprite" parent="."]
+position = Vector2( 0, -21 )
+z_index = 30
+texture = ExtResource( 8 )
+
+[node name="ForegroundTransparent" type="Sprite" parent="Foreground"]
+position = Vector2( 1, -17 )
+z_index = 1
+texture = ExtResource( 5 )
+
+[node name="Cellar" type="Sprite" parent="."]
+position = Vector2( 0, 26 )
+z_index = -1
+texture = ExtResource( 10 )
+
+[node name="CellarFront" type="Sprite" parent="Cellar"]
+position = Vector2( 0, 3 )
+z_index = 30
+texture = ExtResource( 2 )
+
+[node name="Border" type="StaticBody2D" parent="Cellar"]
+visible = false
+position = Vector2( 0, -32 )
+z_index = 99
+collision_layer = 9
+collision_mask = 9
+
+[node name="Left" type="CollisionPolygon2D" parent="Cellar/Border"]
+polygon = PoolVector2Array( -75, 18, -75, 91, -17, 91, -12, 87, -12, 53, -16, 49, -56, 47, -60, 33, -60, 19 )
+
+[node name="Right" type="CollisionPolygon2D" parent="Cellar/Border"]
+polygon = PoolVector2Array( 74, 18, 74, 91, 16, 91, 12, 87, 12, 53, 16, 49, 55, 47, 59, 33, 59, 19 )
+
+[node name="RelicActivation" type="AnimatedSprite" parent="Cellar"]
+position = Vector2( -1, -4 )
+frames = SubResource( 39 )
+animation = "none"
+
+[node name="Inserted" parent="Cellar/RelicActivation" instance=ExtResource( 16 )]
+stream = ExtResource( 15 )
+bus = "World"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="Ambience" parent="Cellar/RelicActivation" instance=ExtResource( 16 )]
+stream = ExtResource( 18 )
+volume_db = -6.0
+bus = "Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 60.0
+minAudibleDistance = 20.0
+fadeInTime = 1.0
+loop = true
+
+[node name="SpinningRelic" type="AnimatedSprite" parent="Cellar"]
+position = Vector2( 0, -5 )
+frames = SubResource( 70 )
+animation = "none"
+
+[node name="ContainerLeft" type="Node2D" parent="Cellar"]
+position = Vector2( -35, 14 )
+
+[node name="ContainerRight" type="Node2D" parent="Cellar"]
+position = Vector2( 35, 14 )
+
+[node name="WeaponContainer" type="Position2D" parent="."]
+position = Vector2( 0, -55 )
+z_index = 60
+
+[node name="WartContainer" type="Node2D" parent="."]
+position = Vector2( -23, -35 )
+z_index = 61
+
+[node name="PrimaryGadgetContainer" type="Node2D" parent="."]
+position = Vector2( -61, 0 )
+
+[node name="ArtifactDropPoint" type="Area2D" parent="."]
+visible = false
+position = Vector2( -0.5, 20.5 )
+collision_layer = 0
+collision_mask = 64
+script = ExtResource( 6 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="ArtifactDropPoint"]
+shape = SubResource( 1 )
+
+[node name="RelicDropPoint" type="Area2D" parent="."]
+visible = false
+position = Vector2( -0.5, 20.5 )
+collision_layer = 0
+collision_mask = 64
+script = ExtResource( 13 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="RelicDropPoint"]
+shape = SubResource( 85 )
+
+[node name="EggDropPoint" type="Area2D" parent="."]
+position = Vector2( -25, -1 )
+collision_layer = 0
+collision_mask = 64
+script = ExtResource( 21 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="EggDropPoint"]
+position = Vector2( 23, -13 )
+shape = SubResource( 86 )
+
+[node name="Tween" type="Tween" parent="EggDropPoint"]
+
+[node name="CupolaPath" type="Path2D" parent="."]
+z_index = 60
+curve = null
+script = ExtResource( 22 )
+
+[node name="RotationCenter" type="Position2D" parent="CupolaPath"]
+position = Vector2( 0, -12 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="DomeBorder" type="StaticBody2D" parent="."]
+visible = false
+z_index = 99
+collision_layer = 9
+collision_mask = 8
+physics_material_override = SubResource( 5 )
+
+[node name="DomeShape" type="CollisionPolygon2D" parent="DomeBorder"]
+
+[node name="FloorLeft" type="CollisionPolygon2D" parent="DomeBorder"]
+polygon = PoolVector2Array( -20, 2, -16, 4, -14, 12, -14, 15, -75, 11, -75, 2 )
+
+[node name="FloorRight" type="CollisionPolygon2D" parent="DomeBorder"]
+polygon = PoolVector2Array( 19, 2, 15, 4, 14, 12, 14, 15, 74, 11, 74, 2 )
+
+[node name="HealParticles" type="Particles2D" parent="."]
+position = Vector2( -72, -51 )
+emitting = false
+amount = 300
+lifetime = 0.1
+
+[node name="Shield" type="Sprite" parent="." groups=["pauseL"]]
+z_index = 37
+hframes = 2
+script = ExtResource( 24 )
+
+[node name="OverchargeShield" type="Sprite" parent="Shield"]
+show_behind_parent = true
+hframes = 2
+frame = 1
+
+[node name="Blast" type="Area2D" parent="Shield"]
+z_index = 2
+collision_layer = 0
+collision_mask = 128
+input_pickable = false
+monitoring = false
+monitorable = false
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Shield/Blast"]
+
+[node name="BlastSound" parent="Shield/Blast" instance=ExtResource( 16 )]
+stream = ExtResource( 25 )
+bus = "Dome"
+
+[node name="BlastLoopSound" parent="Shield/Blast" instance=ExtResource( 16 )]
+stream = ExtResource( 29 )
+volume_db = -3.943
+bus = "Dome"
+
+[node name="BlastEndSound" parent="Shield/Blast" instance=ExtResource( 16 )]
+stream = ExtResource( 30 )
+bus = "Dome"
+
+[node name="BlastSprite" type="Sprite" parent="Shield/Blast"]
+hframes = 25
+vframes = 3
+frame = 12
+
+[node name="Reflect" type="Area2D" parent="Shield"]
+visible = false
+z_index = 2
+collision_layer = 0
+collision_mask = 256
+input_pickable = false
+monitoring = false
+monitorable = false
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Shield/Reflect"]
+
+[node name="ReflectSprite" type="Sprite" parent="Shield/Reflect"]
+offset = Vector2( 282, 16 )
+hframes = 25
+vframes = 3
+
+[node name="Particles" type="Line2D" parent="Shield/Reflect/ReflectSprite"]
+material = SubResource( 76 )
+position = Vector2( -1, -22 )
+points = PoolVector2Array( -81, 21, -79, 5, -72, -8, -62, -19, -48, -29, -31, -36, -13, -39, 1, -40, 14, -39, 32, -36, 47, -30, 63, -20, 75, -8, 82, 6, 83, 21 )
+width = 8.0
+width_curve = SubResource( 81 )
+default_color = Color( 1, 1, 1, 1 )
+texture = ExtResource( 33 )
+texture_mode = 1
+joint_mode = 1
+
+[node name="Glow" type="Line2D" parent="Shield/Reflect/ReflectSprite"]
+material = SubResource( 78 )
+position = Vector2( -1, -22 )
+points = PoolVector2Array( -81, 21, -79, 5, -72, -8, -62, -19, -48, -29, -31, -36, -13, -39, 1, -40, 14, -39, 32, -36, 47, -30, 63, -20, 75, -8, 82, 6, 83, 21 )
+width = 32.0
+width_curve = SubResource( 79 )
+default_color = Color( 1, 1, 1, 1 )
+gradient = SubResource( 80 )
+texture = ExtResource( 34 )
+texture_mode = 1
+joint_mode = 1
+
+[node name="ReflectSound" parent="Shield/Reflect" instance=ExtResource( 16 )]
+stream = ExtResource( 28 )
+bus = "Dome"
+
+[node name="InitiateReflectSound" parent="Shield/Reflect" instance=ExtResource( 16 )]
+stream = ExtResource( 32 )
+volume_db = -4.807
+bus = "Dome"
+
+[node name="ReflectProjectileSound2" parent="Shield/Reflect" instance=ExtResource( 16 )]
+stream = ExtResource( 26 )
+pitch_scale = 1.7
+bus = "Dome"
+
+[node name="Tween" type="Tween" parent="Shield/Reflect"]
+
+[node name="Invulnerable" type="Node2D" parent="Shield"]
+
+[node name="InvulnerableSprite" type="Sprite" parent="Shield/Invulnerable"]
+hframes = 6
+vframes = 3
+
+[node name="Shield" type="Polygon2D" parent="Shield/Invulnerable/InvulnerableSprite"]
+material = SubResource( 84 )
+texture = ExtResource( 37 )
+
+[node name="InvulnerableSound" parent="Shield/Invulnerable" instance=ExtResource( 16 )]
+stream = ExtResource( 27 )
+bus = "Dome"
+
+[node name="Tween" type="Tween" parent="Shield"]
+
+[node name="CollapseParticles" type="Particles2D" parent="."]
+position = Vector2( 0, -3 )
+emitting = false
+amount = 60
+lifetime = 6.0
+preprocess = 1.0
+randomness = 0.63
+process_material = SubResource( 71 )
+
+[node name="CollapseSprite" type="Sprite" parent="."]
+position = Vector2( -149, -158 )
+texture = ExtResource( 9 )
+centered = false
+hframes = 4
+vframes = 3
+
+[node name="CollapseShards" parent="." instance=ExtResource( 23 )]
+
+[node name="CracksOverlay" type="Node2D" parent="."]
+z_index = 32
+script = ExtResource( 19 )
+
+[node name="Viewport" type="Viewport" parent="CracksOverlay"]
+size = Vector2( 149, 66 )
+render_target_v_flip = true
+render_target_update_mode = 3
+gui_disable_input = true
+
+[node name="Black" type="Sprite" parent="CracksOverlay/Viewport"]
+modulate = Color( 0, 0, 0, 1 )
+scale = Vector2( 5, 2.75 )
+texture = ExtResource( 4 )
+
+[node name="Camera2D" type="Camera2D" parent="CracksOverlay/Viewport"]
+current = true
+
+[node name="Cracks" type="Sprite" parent="CracksOverlay"]
+material = ExtResource( 20 )
+position = Vector2( 0, -22 )
+texture = ExtResource( 12 )
+
+[node name="TrapDoor" type="StaticBody2D" parent="."]
+position = Vector2( 0, 12 )
+collision_layer = 2
+collision_mask = 2
+
+[node name="Shape" type="CollisionShape2D" parent="TrapDoor"]
+position = Vector2( -0.5, -9 )
+shape = SubResource( 4 )
+one_way_collision = true
+one_way_collision_margin = 0.0
+
+[node name="DomeExternalDoor1" type="StaticBody2D" parent="."]
+position = Vector2( 0, 5 )
+collision_layer = 0
+collision_mask = 512
+
+[node name="Shape" type="CollisionShape2D" parent="DomeExternalDoor1"]
+position = Vector2( -0.5, -2 )
+rotation = 3.14159
+shape = SubResource( 4 )
+one_way_collision = true
+one_way_collision_margin = 0.0
+
+[node name="DomeExternalDoor2" type="StaticBody2D" parent="."]
+visible = false
+position = Vector2( 0, 5 )
+collision_layer = 0
+collision_mask = 514
+
+[node name="CellarRight" type="CollisionShape2D" parent="DomeExternalDoor2"]
+position = Vector2( 20, 26 )
+rotation = -1.5708
+shape = SubResource( 3 )
+one_way_collision = true
+one_way_collision_margin = 0.0
+
+[node name="DomeExternalDoor3" type="StaticBody2D" parent="."]
+visible = false
+position = Vector2( 0, 5 )
+collision_layer = 0
+collision_mask = 514
+
+[node name="CellarLeft" type="CollisionShape2D" parent="DomeExternalDoor3"]
+position = Vector2( -20, 28.25 )
+rotation = 1.57079
+shape = SubResource( 3 )
+one_way_collision = true
+one_way_collision_margin = 0.0
+
+[node name="PiercePoints" type="Node2D" parent="."]
+
+[node name="Left" type="Position2D" parent="PiercePoints"]
+position = Vector2( -44, -46 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Right" type="Position2D" parent="PiercePoints"]
+position = Vector2( 46, -45 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="FrontAttackPoints" type="Node2D" parent="."]
+
+[node name="LeftPoint1" type="Position2D" parent="FrontAttackPoints"]
+position = Vector2( -42, -18 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="RightPoint1" type="Position2D" parent="FrontAttackPoints"]
+position = Vector2( 47, -18 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="CenterPoint1" type="Position2D" parent="FrontAttackPoints"]
+position = Vector2( 0, -22 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="MeleeTargets" type="Node2D" parent="."]
+
+[node name="Left" type="Path2D" parent="MeleeTargets"]
+curve = null
+
+[node name="Right" type="Path2D" parent="MeleeTargets"]
+curve = null
+
+[node name="Top" type="Path2D" parent="MeleeTargets"]
+curve = null
+
+[node name="ProjectileTargets" type="Node2D" parent="."]
+visible = false
+script = ExtResource( 3 )
+
+[node name="Position1" type="Position2D" parent="ProjectileTargets"]
+position = Vector2( -48, -25 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position2" type="Position2D" parent="ProjectileTargets"]
+position = Vector2( -21, -47 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position3" type="Position2D" parent="ProjectileTargets"]
+position = Vector2( 18, -47 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position4" type="Position2D" parent="ProjectileTargets"]
+position = Vector2( 52, -23 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="EntranceDome" type="Position2D" parent="."]
+position = Vector2( 0, 5 )
+__meta__ = {
+"_gizmo_extents_": 5.0
+}
+
+[node name="EntranceCellar" type="Position2D" parent="."]
+position = Vector2( 0, 47 )
+__meta__ = {
+"_gizmo_extents_": 5.0
+}
+
+[connection signal="animation_finished" from="Cellar/RelicActivation" to="." method="_on_RelicActivation_animation_finished"]
+[connection signal="area_entered" from="ArtifactDropPoint" to="ArtifactDropPoint" method="_on_ArtifactDropPoint_area_entered"]
+[connection signal="area_entered" from="RelicDropPoint" to="RelicDropPoint" method="_on_RelicDropPoint_area_entered"]
+[connection signal="relic_recovered" from="RelicDropPoint" to="." method="_on_RelicDropPoint_relic_recovered"]
+[connection signal="area_entered" from="EggDropPoint" to="EggDropPoint" method="_on_EggDropPoint_area_entered"]
+[connection signal="area_entered" from="Shield/Blast" to="Shield" method="_on_BlastArea_area_entered"]
+[connection signal="area_exited" from="Shield/Blast" to="Shield" method="_on_BlastArea_area_exited"]
+[connection signal="area_entered" from="Shield/Reflect" to="Shield" method="_on_ReflectArea_area_entered"]
+[connection signal="area_exited" from="Shield/Reflect" to="Shield" method="_on_ReflectArea_area_exited"]

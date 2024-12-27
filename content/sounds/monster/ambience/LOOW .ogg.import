@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/LOOW .ogg-70dd0dc36d512349e783b5421a3e8927.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/LOOW .ogg"
+dest_files=[ "res://.import/LOOW .ogg-70dd0dc36d512349e783b5421a3e8927.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,941 @@
+﻿key,sv_SE
+loadout.prestige.title,Välj Spelläge
+upgrades.shieldbattleelectroblast.title,Elektrisk stöt
+properties.orchard.battleshieldhp,Styrka {} hälsa
+level.station.battle.navbar.move,Styr
+options.video.stretchmode.rezised,Storleksändrad
+level.gameover.unlock.world,Ny värld upplåst!
+upgrades.blastminingwaterless.desc,"Du behöver inte vatten för att göra sprängladdningar längre, men det tar längre tid."
+properties.blastmining.growthtime,Produktionstid {} cykler
+properties.laser.stun,Lamslagningsstyrka {}
+exhibition.level.instruction,Tryck på vad som helst för att fortsätta spela!
+pause.godot,Tillverkat med Godot
+upgrades.orchardjetpack2.desc,Ökar fruktens hastighetsboost så att du kan röra dig ännu snabbare.
+upgrades.artillery.title,Artilleri
+upgrades.condenser.desc,Lägger till en maskin under kupolen som sakta producerar vatten genom kondensering.
+properties.lift.keeperupwardsspeed,Väktarens hisshastighet {}
+level.tutorial.fullscreen.continue,fortsätt
+upgrades.dome1damagereduction2.title,Härdning 2
+upgrades.orchardduration2.title,Varaktighet 2
+upgrades.condenserautoovercharge.title,Automatisk snabbladdning
+upgrades.keeper2pinballreflectdamage2.title,Reflektionsskada 2
+loadout.title,VÄLJ UTRUSTNING
+level.tutorial.teleporter_2,Använd teleporteringsstationen för att teleportera dig till portalen och vice versa.
+options.keybindings.action.general.up,Upp
+level.converter.popup.cancel,Avbryt
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,Aktivera förmåga vid sköldintrång
+loadout.prestige.normal,Vanligt
+properties.sword.reflectprojectilesexplosive,Reflekterade energiprojektiler blir explosiva
+upgrades.swordlargeblade3.title,Tung klinga 3
+upgrades.orcharddrill2.title,Brytningsboost 2
+loadout.prestige.normal.description,Skicka resurser bort från planeten för att öka din prestige bland väktarna.
+upgrades.keeper2pinballreflectdamage1.desc,Reflekterade sfärer ger mer skada på stenen de träffar härnäst.
+options.input.gamepad,Handkontroll
+loadout.choices.locked,Inte upplåst
+upgrades.condenserspeed1.desc,Reducerar tiden det tar att producera vatten.
+upgrades.shieldbattleinvulnerable.desc,Aktivera en aktiv stridsförmåga som gör kupolen osårbar en kort stund.
+upgrades.domewavemeter.desc,Visar tiden tills nästa våg fiender anfaller.
+upgrades.keeper2pinballreflectspeedup2.title,Överlägsen reflektion
+upgrades.keeper2movement1.desc,Förbättra din gravitationsgenerator för att röra dig snabbare.
+upgrades.repellentoverchargeduration2.desc,Efter snabbladdning varar stridsförmågan längre i nästa våg.
+upgrades.laserhitprojectiles.desc,Energiprojektiler löses upp omedelbart när lasern träffar dem.
+options.keybindings.action.keeper.pickup,Ta upp
+upgrades.keeper2pinballdamage1.desc,Förbättra skadan som kinetisk sfär skapar vid stenträff. Förbättrar även roterande gruvskada.
+upgrades.keeper2pinballdamage3.title,Kinetisk sfärskada 3
+options.video.graphicsmode.enablevsync,Aktivera VSync
+options.translation.community,"Gemenskapsöversättning, {completion} % klar"
+loadout.difficult.harder,svårare
+worldmodifier.resourcerichiron.desc,Världen har mycket järn.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,Skicka järn
+upgrades.stunlaserspeed1.desc,Chocklasern rör sig snabbare.
+upgrades.keeper2pinballdamage2.desc,Förbättra skadan som kinetisk sfär skapar vid stenträff. Förbättrar även roterande gruvskada.
+upgrades.drill1.title,Borrstyrka 1
+upgrades.prospectionmetersand2.title,Koboltkompass
+upgrades.dome1health1.desc,Ökar din kupols maxhälsa permanent.
+title.navbar.newgame,Nytt spel
+properties.repellent.overchargeduration,Producera avskräckningsmedel snabbare i {} cykler
+properties.sword.retractspeed,Infällningshastighet {} 
+upgrades.lasermove3.desc,Maxhastighet för lasern.
+upgrades.stunlaser.title,Chocklaser
+pause.gamepadcontrols.use,Använd
+worldmodifier.monsterfeeble.desc,Monstren är svagare och gör mindre skada.
+upgrades.shield.desc,Installera en sköld som absorberar en del skada. Laddas upp automatiskt.
+options.video.stretchmode.rezised.text,"Renderar spelet i skärmens eller fönstrets standardupplösning.
+Ger skarp bild, men visuella fel i form av 1 pixel breda linjer kan dyka upp."
+upgrades.orchardbattlerootingexplosion.desc,Aktivera igen för att få alla fångade monster att explodera och göra skada kring sig.
+loadout.mapsize.small,Liten
+upgrades.probe.desc,Ger din dräkt en sond som skickar ut en puls som avslöjar resurser i närheten när den aktiveras. Måste laddas i stationen under kupolen.
+upgrades.swordlongblade1.desc,Installerar en längre och snabbare klinga.
+upgrades.dome1health1.title,Hälsa 1
+upgrades.blastminingwaterless.title,Vattenlösa laddningar
+level.tutorial.assessor.carry,Gravitationsinsamling
+upgrades.liftspeed1.desc,Hisskloten rör sig snabbare.
+upgrades.shieldstrength1.desc,Stärker kupolskölden så att den kan absorbera mer skada.
+upgrades.orchardbattleshieldsecondlayer.title,Dubbelsköld
+upgrades.teleporterteleportresourcescooldown.desc,Portalen kan teleportera resurser oftare.
+options.input.gamepad.autoswitch,automatisk identifiering av föredragen handkontroll
+level.gameover.unlock.modifiers,Världsmodifiering upplåst!
+properties.sword.slicebrake,Hastighetstapp vid skärning {.percent}
+loadout.difficulty.veryeasy,Normalt
+properties.sword.sliceacceleration,Svärdhastighet {}
+options.input.gamepad.gamepadstickdeadzone.text,"Ställ in värdet så att mätaren inte rör sig om du bara snuddar vid spakarna utan att förflytta dem.
+Om du flyttar spaken ska mätaren röra sig."
+options.accessibility.highlightmonsters.explanation,"Skapar en skarp siluett omkring monstren, så att de blir lättare att se."
+properties.upgrade.gameover,Avsluta spelomgången
+upgrades.blastminingstickycharge.title,Klibbiga riktade laddningar
+upgrades.shieldoverchargestrength2.title,Extraladda sköldstyrka 2
+upgrades.blastminingblast2.desc,Ökar sprängstyrkan mer.
+upgrades.repellentbattlestrongerslowdown2.title,Stark Bedövning
+upgrades.converter.desc,Kan omvandla resurser för att hjälpa dig balansera resursförrådet.
+level.gameover.continue,Fortsätt
+upgrades.repellentbattleslowdown.desc,Spreja en bedövande dimma som saktar ner alla monster.
+loadout.mapsize.medium.description,En normalstor karta för en ordentlig spelomgång.
+properties.orchard.overchargeadditionalbuffduration,{} sek längre bonustid efter extraladdning
+options.translation.community.title,Communityöversättningar
+upgrades.blastminingtriple.title,Trippla laddningar
+worldmodifier.hardnessextremes.desc,Det finns många fler extremt hårda och mjuka stenar.
+level.station.upgrademenu.close,Stäng
+upgrades.keeper2pinballlifetime2.title,Livstid för kinetisk sfär 2
+upgrades.minoriron.desc,Send iron offworld to increase your prestige.
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,Migration
+upgrades.converterefficientcobalt.title,Effektiv koboltomvandling
+upgrades.shieldbattledestructionprevention.desc,"Få en lång periods osårbarhet när kupolen är på väg att förstöras.
+Efter det laddas inte skölden upp inför nästa strid. Sista chansen kan bara aktiveras igen efter 2 avklarade vågor.
+"
+upgrades.drill1.desc,Förstärker borren så du gräver snabbare.
+level.gameover.retry,Påbörja en ny spelomgång
+properties.orchard.overchargeduration,Frukter växer dubbelt så snabbt i {} cykler
+upgrades.dome2health1.title,Hälsa 1
+level.tutorial.station.popup_4,Tryck sedan på | för att aktivera stridsläge och försvara den.
+level.gameover.stats.timeplayed.unit,min
+upgrades.repellentbattlestrongerslowdown2.desc,Dimman saktar ner monstren ännu mer och varar längre.
+loadout.gadgetoptions.title,Välj primär pryl!
+level.tutorial.station.popup_2,Gå till stationen och tryck på | för att gå in i den.
+upgrades.dome1damagereduction1.desc,Härdar kupolens yta så den tar mindre skada från monsters närstridsattacker. Projektilskada påverkas inte.
+level.tutorial.station.popup_1,Kupolen är under attack!
+upgrades.keeper2movement3.title,Gravitationsrörelse 3
+upgrades.jetpackspeed1.desc,Förbättrar jetpacken så du rör dig snabbare.
+properties.converter.ironwatertime,{} cyklers konverteringstid
+level.tutorial.sworddome.slicing.desc,"Ju snabbare svärdet svingas, desto högre blir huggskadan."
+upgrades.liftorbs.desc,Lägger till ytterligare ett hissklot.
+upgrades.proberecharge.desc,Sonden laddas långsamt på egen hand över tid.
+loadout.gadget,PRYL
+upgrades.drill4.title,Borrstyrka 4
+properties.probe.rechargetime,Tid till full laddning {} cykler 
+upgrades.keeper2pinballdamage4.title,Kinetisk sfärskada 4
+options.game,Spel
+loadout.prestige.cobalt,Förbestämd kobolt
+options.input.vibration.strength,Vibrationsstyrka
+upgrades.liftcapacity1.desc,Hisskloten kan transportera mer resurser.
+loadout.miner.title,Choose Your Run Options
+level.gameover.stats.difficulty,Svårighetsgrad
+upgrades.repellentoverchargestrength1.title,Extraladda vågfördröjning 1
+upgrades.domesandrepairstrong.title,Stark koboltreparation
+upgrades.stunlaserduration1.desc,Chocklasern laddas upp snabbare och skjuter under längre tid.
+level.gameover.prestige.score.rankimproved,Du höjde din rang till {rank}.
+upgrades.stunlaserdamage2.desc,Ökar skadan som chocklasern gör.
+upgrades.drillbotstrength4.title,Styrka 4
+level.gameover.prestige.title,PRESTIGEOMGÅNG AVKLARAD
+loadout.secondstage.cancel,Avbryt
+upgrades.laseraimline.desc,"Lägger till en siktlinje till laser vapnet, som tydligt visar vart det siktar."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,Kondensatorn producerar och lagrar två vatten innan den stannar.
+upgrades.swordreflection2.title,Reflektion 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,Förstärker borren så du gräver snabbare.
+properties.laser.hitprojectiles,Lasern träffar energiprojektiler
+upgrades.dome1damagereduction1.title,Härdning 1
+properties.sword.stabexplosivedamage,Bombskada {}
+upgrades.drillbotturnaround.title,Avancerad jobbträning
+upgrades.keeper2movement1.title,Gravitationsrörelse 1
+properties.orchard.battleroots,Odla {} rötter på marken
+upgrades.prospectionmeterrange2.title,Räckvidd 2
+upgrades.jetpackspeed4.title,Hastighet 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,Fördröjer nästa våg med monster ännu mer.
+upgrades.orchard.desc,Plantera ett träd i kupolen som får frukter som gör dig snabbare och din brytning starkare.
+upgrades.artilleryflakexplosionradius1.title,Explosionsradie 1
+upgrades.shieldbattleelectroblast.desc,Aktivera en aktiv stridsförmåga som skapar ett livsfarligt fält runt kupolen en kort stund.
+upgrades.shredgadgettocobalt.desc,Bryt ner prylen och få {amount} kobolt.
+upgrades.prestigecobalt.title,Skicka kobolt
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,Installera en massiv klinga. Den är mindre men gör rejäl skada.
+level.gameover.back,Tillbaka
+loadout.abort,Avbryt
+options.keybindings.action.dome.fire,Skjut 
+upgrades.swordstabshoot.title,Spjut
+upgrades.blastminingtriple.desc,Producerar 3 små laddningar istället för en stor.
+upgrades.orcharddrill1.title,Brytningsboost 1
+upgrades.swordextendlong2.title,Långt hugg 2
+upgrades.artilleryshotcooldown1.desc,Skjut oftare.
+upgrades.keeper2pinballdamagefraction.title,Överskridande hårdhet för kinetisk sfär
+upgrades.doublelaser.title,Dubbel laser
+upgrades.jetpackspeed3.title,Hastighet 3
+upgrades.minerwater.title,Send Water
+properties.orchard.battleabilityuses,Användningar per strid {}
+upgrades.liftorbs.title,Hissklot 1
+upgrades.repellentoverchargeduration1.title,Extraladda stridsförmågans varaktighet 1
+upgrades.drill3.desc,Förstärker borren så du gräver snabbare.
+level.gameover.prestige.uploading.inprocess,laddar upp poäng…
+options.cancel,Avbryt
+properties.shield.overchargestrength,Extraladdningsstyrka {} hälsa
+level.station.navbar.upgrades,Uppgraderingar
+upgrades.keeper2pinballsplit.desc,"Split incoming spheres into two, launching them perpendicular to the original."
+upgrades.proberecharge.title,Autouppladdning
+properties.sword.stabrange,Räckvidd {} 
+upgrades.liftspeed1.title,Hastighet
+upgrades.domewavecount.desc,Installera en räknare som visar hur många vågor du överlevt.
+level.converter.popup.title,Ombandla resurser
+pause.discord,Prata med oss på Discord
+options.keybindings.action.general.back,Avbryt
+upgrades.prospectionmeterrange1.desc,Ger resursmätaren längre räckvidd.
+upgrades.dome2badrepair1.desc,Din kupol reparerar sig automatiskt en aning om den tar mycket skada i en strid.
+upgrades.prestigecobalt.desc,Skicka tillbaka kobolt. Det här ökar prestigepoängsmultiplikatorn du får varje våg.
+upgrades.domesandrepair.desc,Reparera din kupol med kobolt.
+loadout.skinoptions.title,Välj utseende!
+loadout.difficulty.medium.description,Kupolens svårighetsgrad.
+loadout.difficulty.veryeasy.description,"Inte lätt, men mer avkopplat än de andra svårighetsgraderna."
+options.game.tutorials,Genomgångar
+upgrades.orchardbattlerootingmore.desc,Fler rötter som varar längre.
+upgrades.probepersist1.title,Minnessond
+upgrades.keeper2pinballmorespheres2.title,Sfärförsörjning 2
+upgrades.orchardjetpack3.desc,Ökar fruktens hastighetsboost så att du kan röra dig extremt fort.
+upgrades.probe.title,Sond
+upgrades.sword.title,Svärd
+properties.shield.battledestructionprevention,Extra Varaktighet {} sek
+upgrades.shieldbattlereflect.title,Reflektion
+options.keybindings.action.general.use,Använda
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,Dubbel lagring
+upgrades.relichunt.desc,Hitta reliken djupt under marken och ta tillbaka den till din kupol.
+loadout.mapsize.unlock.description,Klara en spelomgång med den förra kartstorleken för att låsa upp denna storleken.
+properties.sword.stabdamage,Huggskada {} 
+properties.keeper1.drillstrength,Borrstyrka {}
+worldmodifier.mapwildbiomes.desc,Miljögränserna är väldigt oregelbundna.
+upgrades.condenser.title,Kondensator
+upgrades.dome2badrepair2.title,Återhämtning 2
+options.game.screenshake.shakewhenmining,Skaka vid grävning
+upgrades.repellentdelay2.title,Fördröjning 2
+level.tutorial.assessor.reflect.desc,Tryck|för att reflektera inkommande kinetiska sfärer under en kort tid.
+properties.drillbot.buffamount,{} energifyllda borrträffar
+upgrades.laserstrength2.title,Kraft 2
+upgrades.jetpackstrength3.title,Bärstyrka 3
+options.keybindings.action.general,Allmänt
+level.gameover.unlock.gadgetability,Ny stridsförmåga till pryl
+upgrades.jetpackstrength1.desc,Förbättrar jetpacken så du kan bära mer resurser.
+upgrades.artillerymultishot1.desc,Skjuter iväg flera granater per skott.
+properties.sword.reflectprojectiles,Reflektera energiprojektiler
+upgrades.stunlaser.desc,Installera en laser som automatiskt lamslår små monster.
+upgrades.orchardbattleshieldstrong.desc,Projektilsköldarna är starkare. Du får även en ytterligare förmågeanvändning efter att du använt överladdningen.
+upgrades.orchardjetpack1.desc,Ökar fruktens hastighetsboost så att du kan röra dig snabbare.
+upgrades.laser.desc,En precisionslaser som rör sig längs din kupol.
+properties.shield.maxstrength,Styrka {} hälsa
+options.keybindings.action.keeper,Väktare
+worldmodifier.resourceunpredicatablecobalt.desc,Kobolt är mer utspridd och svårare att förutse.
+title.navbar.quit,Avsluta till skrivbordet
+options.keybindings.rebinding.error.gamepad,Kan inte ställa in detta som handkontrollsinmatning
+upgrades.repellentbattleslowdownstun1.desc,Använd instabila sporer i dimman för att lamslå monster och stoppa dem under kort tid.
+upgrades.swordfastreflection.title,Accelererad reflektion
+upgrades.stunlaserduration2.title,Eldgivningstid 2
+level.gameover.lose.title,DU HAR FÖRLORAT KUPOLEN
+worldmodifier.resourcescatterediron.desc,"Det finns fler järnådror, men de är mindre."
+properties.laser.dps,Skada {}
+options.game.screenshake.shakeintensity,Skakningsintensitet
+worldmodifier.hardnessharder.desc,Det finns fler hårda stenar i gruvan.
+options.video.stretchmode,Utsträckningsläge
+worldmodifier.monsterhealthy.desc,Monstren har mer hälsa.
+level.gameover.stats.mapsize,Kartstorlek
+loadout.mode.longtime,Långa cykler
+upgrades.swordreflection3.desc,Maximalt stor sköldplatta.
+upgrades.repellentbattleslowdownstun2.desc,Använd sporer oftare och lamslå monstren längre.
+upgrades.teleporterteleportresourcesarea.title,Teleporteringsområde
+upgrades.shieldoverchargeduration2.desc,Efter snabbladdning är sköldens stridsförmågor aktiva ännu längre i nästa våg.
+upgrades.shieldoverchargestrength1.title,Extraladda sköldstyrka 1
+upgrades.drillbotbuffstrength1.desc,Godis ger Borris energi längre.
+upgrades.orchardoverchargebuffduration.title,Överladdningseffekttid
+level.tutorial.assessor.spheres.desc3,Laddar kraft med varje studs.
+loadout.mode.longtime.desc,"Du har dubbelt så lång tid mellan vågorna, men vågorna är starkare."
+level.tutorial.assessor.spheres.desc2,Välj riktning och släpp för att skjuta sfären.
+upgrades.laserstrength1.desc,"Stärker din laser, men den rör sig långsammare när den skjuter."
+level.tutorial.assessor.spheres.desc1,Håll|för att ladda kinetisk sfär.
+upgrades.jetpackstrength4.title,Bärstyrka 4
+upgrades.migration.desc,Migrera från värld till värld och samla på dig resurser och reliker innan du blir överväldigad.
+upgrades.orcharddrill1.desc,Ökar fruktens brytningsboost så att du kan bryta snabbare.
+upgrades.keeper2pinballdamage3.desc,Förbättra skadan som kinetisk sfär skapar vid stenträff. Förbättrar även roterande gruvskada.
+options.accessibility.highlightmonsters,Förtydliga Monster
+upgrades.prestigecobaltnocobalt.title,Skicka kobolt
+properties.keeper2.spherebasedamage,Sfärens basskada {}
+upgrades.orcharddrill3.desc,Ökar fruktens brytningsboost så att du kan bryta extremt snabbt.
+properties.converter.cobalttoiron,{} kobolt till 1 järn
+level.tutorial.repair.usecobalt,Du kan använda kobolt för att reparera kupolen. Det är en uppgradering i kupolteknikträdet.
+upgrades.blastminingimpactdetonation.title,Kollisionsdetonation
+upgrades.swordfastreflection.desc,Reflekterade projektiler flyger tillbaka snabbare.
+upgrades.liftcapacity1.title,Kapacitet
+upgrades.artillery.desc,Bazookan i Worms.
+properties.sword.electricdamage,Skada med elektriskt svärd {}
+level.station.battle.navbar.exit,Stäng
+properties.repellent.overchargebattleabilityduration,Extra förmågetid {.percent}
+pause.title,PAUS
+upgrades.artillerymultishot1title,Kedjeskott 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Ytterligare varaktighet för förmågan {} sek
+upgrades.orchardbattlerootingexplosion.title,Explosivt villebråd
+upgrades.blastminingproductiontime1.title,Produktionstid
+options.video.stretchmode.scaled.text,"Återger spelet i en bestämd upplösning och skalar det för din upplösning. Kan vara pixlat, särskilt teckensnitt, men det finns inga visuella linjefel."
+upgrades.orchardduration3.title,Varaktighet 3
+upgrades.domewavecount.title,Cykelräknare
+upgrades.shredgadgettoiron.title,Bryt ner till Järn
+options.keybindings.rebinding.apply,Tillämpa
+options.keybindings.restoredefault,Återställ standard
+upgrades.converterironduplication.title,Järnduplicering
+title.navbar.credits,Medverkande
+level.gameover.unlock.gadget,Ny pryl
+upgrades.jetpackspeed2.title,Hastighet 2
+loadout.modeoptions.title,Välj spelläge!
+properties.keeper2.spherebaselifetime,Sfärlivstid {}
+options.video.stretchmode.scaled,Skalat
+properties.repellent.battleabilityduration,Föremågetid {} sek
+upgrades.repellentbattleslowdownstun1.title,Paralysering
+loadout.difficulty.medium,Brutalt
+options.audio.volumes,Volym
+upgrades.keeper1.title,Ingenjör
+upgrades.drillbotsleepless.title,Jobbträning
+upgrades.drillbot.title,Borris
+level.tutorial.assessor.carry.desc1,Håll|för att dra in resurser tills de blir låsta på dig.
+level.tutorial.assessor.carry.desc2,Tryck|för att släppa en resurs.
+level.tutorial.drillbot.sleeping1,Borris går in i viloläge efter tag och när den stöter på väggar den inte kommer igenom.
+level.tutorial.assessor.carry.desc3,Om du siktar i en riktning medan du släpper en resurs accelereras den tungt.
+level.tutorial.drillbot.sleeping2,Tryck på | när du är nära för att väcka den.
+level.tutorial.drillbot.sleeping3,Du kan vända på den genom att trycka på | när den är vaken.
+properties.keeper2.totalspheres,Sfärer {}
+upgrades.shieldbattleblastdamage.title,Dödlig stöt
+upgrades.domeresourcecounters.desc,Visar hur mycket resurser du lagrat.
+upgrades.swordextendlong1.desc,Starkare hugg och möjlighet att styra svärdet i luften.
+worldmodifier.resourcerichwater.desc,Världen har mycket vatten.
+upgrades.drillbotstrength1.desc,Ger Borris högre grävstyrka.
+upgrades.stunlaserautonomy1.desc,En enkel AI styr chocklasern även när du inte är i kontrollstationen.
+properties.blastmining.radius,Explosionsradie {} rutor
+upgrades.jetpackstrength1.title,Bärstyrka 1
+options.keybindings.apply,Tillämpa
+upgrades.laserstrength2.desc,"Stärker din laser ordentligt, men den rör sig ännu långsammare när den skjuter."
+properties.laser.movespeedwhilefiring,Hastighet vid eldgivning {.percent}
+properties.probe.markerretention,Markörlås {} sek
+upgrades.swordexplosivereflection.title,Explosiv reflektion
+upgrades.condenserspeed2.desc,Reducerar tiden det tar att producera vatten ytterligare.
+upgrades.condenserspeed2.title,Produktionshastighet 2
+properties.stunlaser.firetime,Eldgivningstid {} sek
+options.input.gamepad.gamepadstickdeadzone,Död zon för styrspakar
+upgrades.keeper2movement2.desc,Förbättra din gravitationsgenerator för att röra dig snabbare.
+upgrades.shieldbattlelongerafterdepletion.desc,Stöten varar längre om den aktiveras när fienden brutit igenom skölden.
+properties.laser.bend,Lasern autosiktar {}°
+level.station.upgrademenu.buy,Köp
+properties.drillbot.plantgrowthtime,Växttid för godis {} cykler
+loadout.proceed,Fortsätt
+upgrades.repellentoverchargeduration1.desc,Att extraladda din tank kommer också öka effekten av en tillgänglig Avskräckande Gas stridsförmåga för nästa våg.
+upgrades.artilleryshotcooldown1.title,Återhämtningstid 1
+worldmodifier.resourceunpredicatablewater.desc,Vatten är mer utspritt och svårare att förutse.
+level.tutorial.blastmining.popup_1,Ta sprängladdningen och släpp den där du vill rensa undan stenar.
+ending.thankyoumessage,Tack för att du spelade!
+options.keybindings.rebinding.error.keyboard,Kan inte ställa in detta som tangentbordsinmatning
+upgrades.keeper2pinballdamagefraction.desc,The kinetic sphere transcends rock hardness and damages the rock by a fixed fraction of its health.
+upgrades.swordlargeblade1.title,Tung klinga 1
+upgrades.shredgadgettoiron.desc,Bryt ner prylen och få {amount} järn.
+upgrades.drillbot.desc,Adoptera en liten krabat som älskar att gräva. Bär den till gruvan och släpp den där du vill att den ska jobba. Du får titta till den då och då för att väcka den om den somnar på jobbet.
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,Hälsa 1
+level.station.navbar.exit,Stäng
+upgrades.swordaimline.desc,Lägger till ett lasersikte för att rikta in svärdshugg.
+upgrades.shieldoverchargeduration1.title,Extraladda stridsförmågans varaktighet 1
+level.converter.popup.explanation,Välj en resursomvandling att påbörja!
+upgrades.drillbotbuff1.title,Godis
+title.navbar.updates.close,Stäng
+upgrades.keeper2movement3.desc,Förbättra din gravitationsgenerator för att röra dig snabbare.
+pause.quittotitlescreen,Avsluta till titelskärmen
+loadout.prestige.countdown.description,Prestigemultiplikatorn startar högt och minskar varje cykel.
+upgrades.drill3.title,Borrstyrka 3
+upgrades.probestage1.title,Förbättrad sond
+properties.sword.stabarrowhead,Större pilhuvud
+loadout.mapsize.huge.description,En enorm karta för de allra längsta spelomgångarna.
+properties.sword.stabspeed,Hugghastighet {.percent} 
+level.tutorial.teleporter.take1,Din teleporter har en station och en portal. Du kan teleportera mellan dem.
+worldmodifier.mapmaze.desc,Gruvan är en labyrint.
+level.tutorial.teleporter.take2,Ta portalen och placera den var du vill.
+options.keybindings.action.dome.battleability1,Stridsförmåga
+upgrades.laserbend.desc,Gör lasern svängbar så att den automatiskt korrigerar siktet om den kommer nära.
+options.video.graphicsmode.fullscreen,Helskärm
+options.keybindings.action.general.down,Ner
+level.tutorial.assessor.spheres,Kinetiska sfärer
+level.tutorial.mineraltree1,"Du har precis hittat ett frö för mineralträd. Det kan växa till ett träd som rotar sig på brickor. Resurser växer beroende på resurserna för de rotade brickorna. 
+Släpp det på en bricka för att plantera fröet."
+upgrades.blastmining.desc,Lägger till en maskin under kupolen som använder vatten för att skapa sprängladdningar. Bär in dem i gruvan och släpp för att detonera.
+properties.sword.stabcooldown,Förläng väntetiden {} sek 
+upgrades.repellentoverchargestrength2.desc,Ökar ytterligare fördröjningen till nästa våg efter en Snabbladdning.
+upgrades.probeswift1.desc,Byter till en snabb sond med kort räckvidd och många laddningar.
+properties.drillbot.buffextraamount,{} extra borrträffar
+level.gameover.unlock.keeper,Ny väktare
+upgrades.prospectionmeter.title,Resursmätare
+upgrades.shieldbattleactivateondepletion.desc,Osårbarhet aktiveras automatiskt en extra gång när fienden bryter igenom skölden.
+upgrades.dome2badrepair1.title,Återhämtning 1
+upgrades.swordtargetlock.title,Mållåsning
+upgrades.laserhitprojectiles.title,Lös upp projektiler
+upgrades.keeper2pinballreflectspeedup1.title,Förbättrad reflektion
+properties.shield.battleuses,Användningar per strid {}
+options.game.events,Händelser
+upgrades.artilleryflakexplosionradius1.desc,Explosionen blir större.
+properties.keeper1.speedlosspercarry,Viktbegränsning {}
+pause.gamepadcontrols.back,Tillbaka
+level.gameover.unlocknewelementbutton,Lås upp ett alternativ
+upgrades.prospectionmeteriron2.desc,Visar åt vilket håll närmaste järnåder ligger.
+upgrades.prestige.desc,Få poäng genom att skicka hem så mycket resurser du kan innan din kupol faller eller du tryggt lämnar planeten.
+properties.prestige.multiplier,{} prestige per vågmultiplikator
+options.input.controls,Styrning
+properties.sword.reflectionacceleration,Hastighet på reflekterade projektiler {.percent}
+loadout.difficult.easier,lättare
+upgrades.keeper2pinballreflectdamage1.title,Reflektionsskada 1
+properties.sword.extendspeed,Höj hastigheten {} 
+properties.keeper2.reflectspeedup,Snabbare sfär vid reflektion {.percent}
+loadout.mode.doubleiron,Dubbelt järn
+upgrades.dome3.desc,inte tillgänglig i demon
+properties.condenser.growthtime,Produktionstid {} cykler
+options.game.languages,Språk
+worldmodifier.mapwidebottom.desc,Gruvan är tunn till en början men blir bredare ju djupare man kommer.
+loadout.mode.maze,Labyrint
+upgrades.dome2health1.desc,Ökar din kupols maxskick permanent och reparerar den.
+properties.drillbot.drillstrength,Borrstyrka {}
+upgrades.keeper2.desc,En otraditionell gruvarbetare med experimentell gravitationsteknik.
+properties.orchard.battleshields,Sköldlager {}
+level.tutorial.sworddome.reflecting.desc,Använd svärdets sköldplatta för att stoppa projektiler eller till och med reflektera dem tillbaka.
+options.audio.volumes.musicvolume,Musikvolym
+loadout.dome,KUPOL
+upgrades.swordlongblade2.title,Lång klinga 2
+upgrades.laseraimline.title,Lasersikte
+level.tutorial.assessor.bundle.desc1,Håll|medan du bär resurser för att ladda ett paket.
+options.keybindings.keyboard,Tangentbord
+level.tutorial.assessor.bundle.desc2,Sikta och släpp för att skjuta den på samma sätt som du skjuter kinetiska sfärer.
+properties.prestige.score,{} prestige
+worldmodifier.mapdeep.desc,Gruvan är djup och inte särskilt bred.
+upgrades.repellentbattleslowdownstun2.title,Stark paralysering
+upgrades.keeper2pinballmorespheres1.title,Sfärförsörjning 1
+upgrades.prestigewater.desc,Skicka tillbaka vatten. Du får 1 mer prestige varje våg.
+properties.keeper2.bundlestopcenter,Gravitationsfält i mittkolumn
+upgrades.stunlaserdamage1.title,Skada 1
+upgrades.keeper2pinballlifetime1.title,Livstid för kinetisk sfär 1
+properties.repellent.battleslowdown,Monsterfördröjning {.percent}
+upgrades.swordextendlong1.title,Långt hugg 1
+level.gameover.stats.distancetravelled,Förflyttningsavstånd
+properties.keeper2.reflectlifetime,Ytterligare sfärlivstid vid reflektion {}s
+upgrades.blastminingimpactdetonation.desc,Sprängladdningen exploderar när den kommer i kontakt med en yta.
+properties.keeper2.spheresplit,Split Incoming Spheres
+options.keybindings.action.dome.upgrade,Uppgraderingar
+worldmodifier.resourcepoorcobalt.desc,Världen har lite kobolt.
+pause.resumegame,Fortsätt spela
+level.gameover.unlock.difficulty,Ny svårighetsgrad upplåst!
+properties.stunlaser.cooldown,Väntetid {} sek
+options.keybindings.action.general.right,Höger
+level.tutorial.assessor.mining.desc,För att ta bort en enda sten kan du kan flytta den roterande kinetiska sfären på den.
+upgrades.teleporterteleportresourcesback.title,Teleportera resurser
+upgrades.dome1.title,Laserkupol
+upgrades.keeper2bundleinfinite.title,Tåligt paket
+upgrades.repellentdelay1.title,Fördröjning 1
+upgrades.miner.desc,"In worlds without monsters, you can concentrate on mining as many resources as you want without distraction."
+upgrades.repellentbattlestrongerslowdown1.desc,Dimman saktar ner monster mer och varar längre.
+upgrades.teleporterteleportresourcesarea.desc,Portalen teleporterar resurser från ett större område än tidigare.
+upgrades.dome3.title,Artillerikupol
+upgrades.swordstabshoot.desc,"Istället för att dras iväg med en kabel laddas svärdet upp och skjuts iväg från kupolen, som ett spjut."
+upgrades.repellentbattledamageovertime.desc,Alla monster tar lite skada för varje sekund giftångorna består.
+upgrades.shieldbattleactivateondepletion.title,Aktivera vid intrång
+upgrades.artillerymultishot2.desc,Skjuter iväg flera granater per skott.
+upgrades.dome1health2.title,Hälsa 2
+worldmodifier.monsterlethal.desc,Monstren är farligare och gör mer skada.
+loadout.pet,Husdjur
+options.keybindings.action,Handling
+upgrades.orcharddrill3.title,Brytningsboost 3
+options.translation.title,VÄLJ SPRÅK
+upgrades.prospectionmeterrange1.title,Räckvidd 1
+upgrades.dome2badrepair2.desc,Din kupol reparerar sig automatiskt ytterligare om den tar mycket skada i strid.
+options.audio.volumes.ambiencevolume,Bakgrundsvolym
+upgrades.prestigecobaltnocobalt.desc,Skicka tillbaka kobolt. Det här ökar prestigepoängsmultiplikatorn du får varje våg.
+worldmodifier.maparms.desc,Gruvan är mer splittrad.
+loadout.prestige.countdown,Nedräkning
+upgrades.keeper2pinballdamage2.title,Kinetisk sfärskada 2
+upgrades.jetpackspeed1.title,Hastighet 1
+upgrades.minerrefuel.title,Refuel
+upgrades.teleporterteleportduration1.title,Teleporteringstid
+properties.blastmining.bombs,Laddningar {}
+loadout.miner.fuel.title,Fuel
+exhibition.title.press.anything,Tryck på vad som helst för att spela
+loadout.mode,LÄGE
+level.tutorial.sworddome.slicing,Skära
+properties.condenser.autoovercharge,Automatisk Extraladdning
+upgrades.teleporterteleportduration1.desc,Det tar kortare tid för dig att teleportera dig
+upgrades.prestigewater.title,Skicka vatten
+title.navbar.continue,Fortsätt
+upgrades.orchardbattleshield.desc,Skapar en sköld som skyddar kupolen från projektiler.
+upgrades.liftcarrykeeper1.title,Väktarhiss 1
+options.input.controls.keybindings,Tangenter
+properties.keeper2.bundlespheres,Paketsfärer
+upgrades.shieldovercharge.title,Extraladda sköld
+properties.condenser.overchargedelay,Produktionsfördröjning {} cykler
+upgrades.keeper2.title,Utvärderare
+level.tutorial.assessor.mining,Roterande brytning
+upgrades.repellentoverchargeduration2.title,Extraladda stridsförmågans varaktighet 2
+upgrades.swordblade1.title,Förbättrade hugg
+properties.converter.irontoiron,{} järn till 1 järn
+exhibition.level.description,Återgår till huvudmenyn om…
+level.tutorial.assessor.mining.desc2,Du kan sluta bryta utan att skjuta en sfär genom att först släppa riktade nycklar.
+worldmodifier.monsterslow.desc,Monstren är långsammare.
+upgrades.orcharddrill2.desc,Ökar fruktens brytningsboost så att du kan bryta ännu snabbare.
+loadout.difficulty.easy.description,Lite mer förlåtande på många sätt och vis.
+upgrades.swordstabexplode.title,Huggbomb
+level.gameover.stats.additionalgadget,Extrapryl
+upgrades.drillbotbuffstrength2.desc,Efter att ha fått godis blir inte Borris trött på länge.
+upgrades.laserstrength3.desc,"Stärker din laser enormt, men den rör sig knappt när den skjuter."
+loadout.mapsize.medium,Medelstor
+loadout.difficulty.hard,Du bad om det
+level.gameover.stats.wavessurvived,Vågor överlevda
+properties.stunlaser.damage,Skada {}
+options.keybindings.rebinding.cancel,Avbryt
+level.tutorial.sworddome.stabbing.desc,Förläng svärdet och hugg fiender länge bort.
+level.gameover.unlock.gamemodevariant,Ny spellägesvariant
+upgrades.prestigefinish.title,Lämna planet
+properties.keeper2.bundleduration,Paketets livstid {.percent}
+upgrades.shieldstrength3.title,Styrka 3
+options.audio.volumes.mastervolume,Huvudvolym
+upgrades.shieldbattlelongerafterdepletion.title,Intrångsbonus
+options.keybindings.text,"Redigera kontrollkonfigurationen så den passar dig.
+I allmänhet kan tangenter från olika sektioner överlappa utan problem (t.ex. om du använder samma tangenter för att förflytta din väktare som kupolvapnet)."
+properties.shield.battleblastdamage,{} sprängskada per sekund
+loadout.mapsize.large.description,En större karta för spelomgångar som varar längre än en timma.
+upgrades.drill4.desc,Förstärker borren så du gräver snabbare.
+upgrades.drillbotsleepless.desc,Borris orkar jobba längre utan att bli trött.
+upgrades.swordlargeblade2.title,Tung klinga 2
+upgrades.swordlongblade2.desc,Gör klingan ännu snabbare så att den studsar när den träffar kanten.
+upgrades.prestigefinishnocobalt.title,Lämna planet
+worldmodifier.hardnessmoderated.desc,Det finns väldigt få extremt hårda och mjuka stenar.
+upgrades.converterironduplication.desc,Multiplicera järn.
+upgrades.prestigefinish.desc,Lämna planeten och åk hem.
+upgrades.dome2health2.desc,Ökar din kupols maxskick permanent och reparerar den.
+upgrades.prestige.title,Prestige
+upgrades.liftcarrykeeper1.desc,Hissen gör dig snabbare när du rör dig uppåt i den.
+upgrades.repellentbattlehealthreduction.desc,Försvagar alla monster och minskar deras återstående hälsa omedelbart.
+upgrades.dome2.title,Svärdskupol
+worldmodifier.monsterfast.desc,Monstren är snabbare.
+upgrades.condenserautocollect.desc,Automatiserar vatteninsamlingen så att du inte behöver plocka upp det manuellt.
+upgrades.lift.title,Hiss
+options.game.screenshake,Skärmskakning
+options.keybindings.action.dome,Kupol
+upgrades.swordstabexplodedamage.desc,Ökar bombskadan.
+level.gameover.stats.resourcesmined,Resurser Brutna
+worldmodifier.resourcepoorwater.desc,Världen har lite vatten.
+upgrades.prospectionmeter.desc,En mätare som visar avståndet till de närmaste resurserna. Kan uppgraderas för att även indikera riktning.
+upgrades.shredgadgettocobalt.title,Bryt ner till Kobolt
+upgrades.swordelectrified.desc,Det går ström genom klingan så den gör skada vid beröring.
+upgrades.artilleryflakexplosionradius2.desc,Explosionen blir större.
+upgrades.prospectionmeterwater1.title,Vattenmätare
+upgrades.minerwater.desc,Send water offworld to increase your prestige.
+options.video.graphicsmode,Grafikläge
+upgrades.shieldbattlereflectspeedup.desc,"Reflekterade projektiler flyger tillbaka med högre hastighet, vilket förbättrar chansen att träffa anfallaren."
+properties.shield.battleblaststun,Lamslående sprängning {}
+loadout.mode.hyperactive.desc,Monster är mycket snabbare men har mindre hälsa.
+upgrades.swordstabexplode.desc,Svärdet utrustas med en bomb som sprängs vid den första fiende svärdet hugger.
+upgrades.swordstabfast2.title,Snabbt hugg 2
+upgrades.converterefficientwater.desc,Vattenomvandlingen blir mer effektiv men tar lite längre tid.
+upgrades.orchardduration1.desc,Fruktens effekter varar längre.
+loadout.difficulty.title,Svårighetsgrad
+exhibition.level.heading,Är du kvar?
+level.gameover.unlock.gamemode,Nytt spelläge
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Försvagning
+upgrades.teleporterteleportreactivate.title,Återaktivera personlig teleportör
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,Ljud
+upgrades.repellentovercharge.desc,Använd vatten för att extraladda din nästa dos Avskräckande Gas.
+upgrades.domewavemeter.title,Fiendeindikator
+upgrades.prospectionmeterrange2.desc,Ger resursmätaren ännu längre räckvidd.
+upgrades.keeper2pinballreflectspeedup1.desc,Sfärer drivs när de de reflekteras vilket kan accellerera dem och låta dem sväva längre vid reflektion.
+upgrades.shieldoverchargestrength1.desc,Stärker den överladdade kupolskölden så att den kan absorbera mer skada.
+upgrades.repellentdelay1.desc,Fördröjer nästa våg med monster mer.
+upgrades.repellentbattlelongerhealthreduction.title,Intensiv försvagning
+upgrades.swordtargetlock.desc,När svärdet hugger låser det sig på det första monster det stöter på.
+upgrades.orchardovercharge.desc,"Använd vatten för att överladda din fruktträdgård, vilket gör att det går snabbare att producera frukt."
+upgrades.orchardbattlerootingmore.title,Starka rötter
+upgrades.swordextendlong2.desc,Ökar huggstyrkan ännu mer och gör styrningen i luften mer exakt.
+upgrades.swordstabfast1.title,Snabbt hugg 1
+upgrades.probelong1.desc,"Ökar sondens räckvidd, men tar bort en laddningsplats."
+upgrades.repellent.title,Avskräckningsmedel
+worldmodifier.monsterwavesspaced.desc,Monstervågorna kommer inte lika ofta.
+upgrades.artilleryflakexplosionradius2.title,Explosionsradie 2
+properties.drillbot.amount,{} borrträffar
+upgrades.repellentdelay3.title,Fördröjning 3
+ending.appreciationmessage,"Vi hoppas att du hade kul! Vi uppskattar all feedback, så berätta vad du tycker på Discord eller Steams forum :)"
+properties.orchard.battlerootexplosion,Explosion damage {}
+upgrades.orchardduration3.desc,Maxlängden för frukteffekter.
+upgrades.dome1damagereduction2.desc,Härdar kupolens yta så att den tar mindre skada från monstrens närstrids arracker. Skada från projektilattacker påverkas inte.
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,Förbättrar jetpacken så du rör dig snabbare.
+upgrades.jetpackspeed3.desc,Förbättrar jetpacken så du rör dig snabbare.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,Alternativ
+properties.repellent.battledamageovertime,Monster tar {} skada per sekund
+upgrades.repellentoverchargestrength2.title,Extraladda vågfördröjning 1
+upgrades.repellentoverchargestrength1.desc,Snabbladdning ökar också fördröjningen på nästa våg.
+upgrades.blastminingproductiontime1.desc,Minskar tiden det tar att skapa sprängladdningar.
+properties.teleporter.teleportresourcescooldown,Resursers teleporteringstid {} sek
+upgrades.artilleryflakmultishot1.desc,Skjut fler projektiler.
+properties.converter.ironcobalttime,{} cyklers konverteringstid
+options.title,ALTERNATIV
+options.video.graphicsmode.window,Fönster
+properties.shield.battlereflectspeedup,Hastighet på reflekterade projektiler {.percent}
+upgrades.swordaimline.title,Sikteslinje
+level.tutorial.drillbot.handling1,Tryck på | för att plocka upp Borris igen.
+upgrades.probestage1.desc,Förbättrar sonden så den blir allmänt bättre.
+level.tutorial.drillbot.handling2,Tryck på | så byter den riktning om den befinner sig på marken.
+options.keybindings.rebinding.capture,Mata in
+properties.prospectionmeter.range,Räckvidd {} rutor
+properties.stunlaser.speed,Hastighet {}
+properties.probe.impulsespeed,Pinghastighet {}
+upgrades.domehealthmeter.title,Hälsomätare
+options.audio.music.frequency,Frekvens (cykler utan musik)
+options.audio.volumes.soundvolume,Ljudeffektsvolym
+properties.sword.slicebounceback,Svärdstuds på kanten
+upgrades.jetpackspeed4.desc,Förbättrar jetpacken så du rör dig snabbare.
+worldmodifier.monsterfragile.desc,Monstren har mindre hälsa.
+level.gameover.prestige.score.personalbest,Nytt personbästa!
+properties.prestige.baseperwave,{} grundprestige per våg
+loadout.choices.comingsoon,Inte tillgängligt än men kommer snart.
+upgrades.doublelaser.desc,"Installerar ett andra lasertorn, men delar eldkraften mellan dem."
+upgrades.jetpackstrength2.title,Bärstyrka 2
+upgrades.keeper2bundlestopcenter.title,Gravitationscenter
+properties.keeper2.spherelifetimeperbounce,Ytterligare sfärlivstid per studs {}s
+upgrades.converterefficientcobalt.desc,Koboltomvandlingen blir mer effektiv men tar lång tid.
+properties.orchard.buffduration,Bonuslängd {} cykler
+upgrades.domesandrepair.title,Koboltreparation
+properties.keeper1.maxspeed,Topphastighet {}
+level.station.upgrademenu.cost,Kostnad
+upgrades.lasermove1.title,Rörelsehastighet 1
+level.tutorial.sworddome.reflecting,Reflektera
+loadout.petoptions.title,Välj husdjur!
+level.station.upgrademenu.inventory,Förråd
+level.gameover.unlockpicker.title,LÅS UPP ETT ALTERATIV
+level.gameover.proceedtounlock,Lås upp någonting nytt
+upgrades.artilleryshotcooldown2.desc,Skjut oftare.
+level.gameover.keepgadget.title,Välj en pryl att behålla till nästa spelomgång
+level.station.battle.navbar.shoot,Skjut
+upgrades.repellentbattlestrongerslowdown1.title,Stagnation
+upgrades.dome2.desc,Kraftfull kupol med ett dynamiskt svärd som väktare kan använda för att dominera fiender.
+loadout.difficulty.easy,Svårt
+upgrades.condenserautocollect.title,Automatisk insamling
+upgrades.orchard.title,Fruktträdgård
+upgrades.keeper2pinballreflectspeedup2.desc,Sfärer drivs intensivt när de reflekteras.
+upgrades.laserstrength1.title,Kraft 1
+upgrades.lasermove2.title,Rörelsehastighet 2
+upgrades.shieldbattlereflectshortuses.desc,Reflektera oftare under en kortare stund.
+options.keybindings.action.keeper.drop,Släpp
+level.converter.popup.conversion.to,till
+upgrades.repellent.desc,Installera en tank med monsteravskräckningsmedel. Aktivera den för att spreja utanför kupolen och fördröja nästa våg med fiender.
+properties.repellent.battlehealthreduction,Reduktion av monsterhälsa {.percent}
+loadout.mode.hyperactive,Snabba och Sköra
+upgrades.miner.title,Miner
+upgrades.converter.title,Resursomvandlare
+properties.condenser.waterstorage,Lagrar {} vatten
+upgrades.jetpackstrength2.desc,Förbättrar jetpacken så du kan bära mer resurser.
+title.navbar.credits.close,Stäng
+options.accessibility.photosensitivity.explanation,Minskar blinkande ljus.
+properties.orchard.overchargeadditionalabilityuses,{} extra förmågeanvändningar efter extraladdning
+worldmodifier.resourcepooriron.desc,Världen har lite järn.
+level.gameover.backtomainmenu,Tillbaka till huvudmenyn
+upgrades.orchardbattlerooting.desc,Aktivera i strid för att få rötter som fångar alla mellanstora monster som kliver på dem att växa utanför kupolen.
+upgrades.keeper2pinballreflect.desc,Reflekterar sfärer med små kraftfulla gravitationsfält runt sig själva.
+upgrades.laser.title,Laser
+options.game.tutorials.resettutorials,Återställ genomgångar
+properties.converter.ironirontime,{} cyklers konverteringstid
+loadout.secondstage.start,Påbörja spelomgång
+upgrades.artilleryflakmultishot2.desc,Skjut fler projektiler.
+upgrades.swordreflection2.desc,Ännu större sköldplatta.
+upgrades.lasermove3.title,Rörelsehastighet 3
+upgrades.lasermove1.desc,Lasern rör sig snabbare.
+properties.lift.orbs,{} Hissklot
+options.keybindings.action.general.move,Flytta
+upgrades.orchardjetpack2.title,Jetpackhastighetboost 2
+options.audio.music,Musik
+worldmodifier.resourceunpredicatableiron.desc,Järnådror är mer utspridda och svårare att förutse.
+properties.dome.maxhealth,Skick {} hälsa
+upgrades.condenserspeed1.title,Produktionshastighet 1
+properties.repellent.battleuses,Användningar per strid {}
+upgrades.shieldstrength2.desc,Stärker kupolskölden ytterligare så att den kan absorbera ännu mer skada.
+upgrades.drillbotbuffstrength2.title,Taurintillskott
+upgrades.keeper2pinballreflectdamage2.desc,Reflekterade sfärer ger mer skada på stenen de träffar härnäst.
+level.paused,Pausat
+level.tutorial.sworddome.stabbing,Hugga
+upgrades.stunlaserspeed1.title,Hastighet 1
+upgrades.domehealthmeter.desc,Visar kupolens hälsa.
+upgrades.swordlargeblade1.desc,Gör klingan längre och bredare så den gör mer skada.
+pause.quitgame,Avsluta spelet
+level.station.battle.navbar.slice,Skär 
+level.gameover.stats.timeplayed,Speltid
+properties.teleporter.teleportresources,Teleportera resurser
+upgrades.drillbotstrength2.desc,Ger Borris högre grävstyrka.
+level.tutorial.drop.popup_2,Tryck på | för att släppa en. Håll in för att släppa flera.
+level.gameover.keepgadget.keeping,Pryl att behålla: {gadget}
+level.tutorial.drop.popup_1,Du rör dig långsammare när du bär resurser.
+worldmodifier.maprugged.desc,Gruvan är grov och oregelbunden.
+level.tutorial.onewayteleporter1,Du har hittat en envägsteleporterare!
+properties.sword.aimline,Sikthjälpmedel
+upgrades.keeper2bundle.desc,Bifogade mineraler kan skjutas som ett paket på samma sätt som du skjuter kinetiska sfärer.
+level.tutorial.onewayteleporter2,Tryck på | för att placera ögat.
+level.tutorial.onewayteleporter3,Tryck igen för att teleportera tillbaka till det.
+properties.lift.capacity,Hissklot bär {} resurser
+properties.orchard.battleabilityduration,Föremågans verkningstid {} sek
+level.tutorial.teleporter.carry2,Håll in | för att plocka upp portalen igen när du står i närheten av den.
+level.tutorial.teleporter.carry3,Om du trycker på | teleporteras du tillbaka.
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,Du kan flytta portalen vart du vill.
+options.keybindings.cancel,Avbryt
+level.tutorial.probe.popup_1,Tryck på | för att skicka en sondping.
+upgrades.liftcarrykeeper2.desc,Hissen snabbar på dig ännu mer.
+level.tutorial.probe.popup_3,"Den avslöjar resurser i närheten.
+Ladda upp den på stationen."
+worldmodifier.resourcerichcobalt.desc,Världen har mycket kobolt.
+upgrades.keeper2pinballdamage4.desc,Förbättra skadan som kinetisk sfär skapar vid stenträff. Förbättrar även roterande gruvskada.
+properties.sword.stabexplosive,Monterad spetsbomb
+properties.drillbot.turnaround,Vänd om vid hårda väggar
+upgrades.shieldstrength1.title,Styrka 1
+properties.repellent.overchargewavedelay,Extra vågfördröjning {} cykler
+upgrades.swordreflection3.title,Reflektion 3
+upgrades.dome1.desc,Standard gruvdriftskupol utrustad med en precisionslaser.
+level.tutorial.drillbot.carry,Ta Borris från tanken och ställ den i gruvan där du vill att den ska gräva.
+upgrades.lift.desc,Installera en automatisk hiss som automatiskt transporterar resurser för behandling i kupolen.
+upgrades.dome1health2.desc,Ökar din kupols maxhälsa permanent.
+upgrades.converterefficientwater.title,Effektiv vattenomvandling
+loadout.difficulty.hard.description,Den som gapar efter mycket…
+upgrades.artillerymultishot2.title,Kedjeskott 2
+upgrades.swordelectrified.title,Elektrifierad klinga
+upgrades.drillbotstrength3.desc,Ger Borris högre grävstyrka.
+upgrades.shieldbattleinvulnerable.title,Osårbarhet
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,Autonomi
+level.tutorial.teleporter.teleport1,Tryck på | när du är nära portalen för att teleportera tillbaka.
+level.tutorial.teleporter.teleport2,Du kan även teleportera i den andra riktningen.
+level.gameover.prestige.uploading.failed,"uppladdningen misslyckades, försöker igen"
+upgrades.lasermove2.desc,Lasern rör sig ännu snabbare.
+loadout.mapsize.title,Kartstorlek
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Sprängning 1
+upgrades.drillbotturnaround.desc,Borris vänder om i stället för att somna vid oförstörbara väggar.
+properties.dome.baserepair,Reparera {} hälsa
+upgrades.condenserautoovercharge.desc,Håller din primära pryl permanent extraladdad utan att förbruka vatten. Kondensatorns vattenproduktion försenas efter extraladdning.
+upgrades.teleporterteleportresourcesback.desc,Portalen kan nu teleportera material men kan inte längre användas att ta sig tillbaka. Du kan dock fortfarande använda den för att ta dig från Domen till Portalen.
+ending.wishlistonsteam,Lägg till på Steams önskelista
+properties.sword.reflection,Större sköldplatta
+upgrades.drillbotduplicate.desc,"Borris får en identisk tvilling, Borre."
+level.converter.popup.conversion.convert,omvandling
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} vatten till 1 järn
+title.navbar.options,Alternativ
+upgrades.swordexplosivereflection.desc,Reflekterade projektiler exploderar när de träffar något.
+upgrades.shieldbattlereflectshortuses.title,Tajmad reflektion
+level.gameover.unlock.skin,Nytt skin upplåst!
+level.gameover.stats.destroyedblocks,Förstörda Block
+options.keybindings.action.keeper.gravityball,Laddningsskott
+upgrades.orchardjetpack1.title,Jetpackhastighetboost 1
+upgrades.keeper1.desc,Ett skickligt och effektivt proffs som är expert på gruvdrift.
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,Kraft 3
+upgrades.orchardoverchargebuffduration.desc,Frukteffekterna varar längre när du har överladdat fruktträdgården.
+upgrades.stunlaserduration1.title,Eldgivningstid 1
+loadout.mode.maze.desc,"Kartan är upplagd som en labyrint, med många förgreningar och återvändsgränder."
+properties.dome.healthfractionrepair,Reparera {.percent} av den totala hälsan
+upgrades.jetpackstrength3.desc,Förbättrar jetpacken så du kan bära mer resurser.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,rörelse upptäckt:
+upgrades.prospectionmetersand1.title,Koboltmätare
+upgrades.prospectionmeterwater1.desc,Visar avståndet till närmaste vattensamling.
+upgrades.blastminingstickycharge.desc,Laddningarna fastnar på den första vägg de rör vid och spränger en tunnel genom den istället för en cirkulär explosion.
+options.video,Bild
+title.navbar.updates,Uppdateringar
+loadout.skin,Utseende
+upgrades.shieldstrength2.title,Styrka 2
+level.gameover.win.title,DU HAR RÄDDAT KUPOLEN
+level.station.navbar.battle,Strid
+upgrades.converterirontocobalt.desc,Låter dig omvandla kobolt till järn och vice versa.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,Ny kupol
+pause.gamepadcontrols.pickup,Plocka upp
+options.video.graphicsmode.photosensitive,Ljuskänslighetsläge
+upgrades.orchardduration2.desc,Fruktens effekter varar ännu längre.
+properties.dome.meleedamagereduction,Reduktion av närstridsskada {.percent}
+upgrades.domesandrepairstrong.desc,Reparera din kupol med kobolt.
+options.input,Inmatning
+properties.keeper2.spherereload,Sfäromladdning om {}
+properties.blastmining.damage,Skada {}
+upgrades.laserbend.title,Svängbar laser
+upgrades.swordlargeblade3.desc,"En monstruös klinga. Väldigt stark, men rör sig långsamt."
+loadout.domeoptions.title,Välj kupol!
+upgrades.shieldoverchargeduration1.desc,När du extraladdar skölden förlängs även sköldens stridsförmågor i nästa våg.
+upgrades.probelong1.title,Lång räckvidd
+options.keybindings.rebinding.inputprocessor,Tryck på en ny tangent för den här handlingen
+properties.teleporter.teleportduration,Teleporteringstid {} sek
+upgrades.dome2health2.title,Hälsa 2
+upgrades.drillbotduplicate.title,Syskon
+pause.quit.popup,"Vill du avsluta?
+Tryck igen för att göra det.
+(Dina framsteg sparas.)"
+upgrades.prospectionmetersand2.desc,Visar åt vilket håll närmaste koboltåder ligger.
+upgrades.probepersist1.desc,Ger sonden en minnesmodul som markerar resursers plats längre.
+upgrades.artilleryshotcooldown2.title,Återhämtningstid 2
+properties.keeper2.sphereadditionalfirsthitdamage,Ytterligare skada första träffen {.percent}
+upgrades.shieldbattledestructionprevention.title,Sista chansen
+level.gameover.unlock.pet,Nytt husdjur upplåst!
+upgrades.repellentbattlelongerhealthreduction.desc,Förlänger och stärker alla närvarande monsters försvagning.
+ending.feedbackondiscord,Lämna feedback på Discord
+properties.keeper2.reflectnexthitdamage,Ytterligare sfärskada vid reflektion för nästa studs {.percent}
+options.video.graphicsmode.borderlesswindow,Kantlöst fönster
+upgrades.keeper2pinballlifetime1.desc,Stabilisera den kinetiska sfären så att den svävar längre.
+level.gadgetchoice.title,VÄLJ EN PRYL!
+upgrades.keeper2bundle.title,Paketskott
+upgrades.relichunt.title,Relikjakt
+loadout.mode.doubleiron.desc,"Järnfyndigheter är dubbelt så stora, men uppgraderingar kostar också dubbelt så mycket järn."
+level.tutorial.repair.findcobalt,"Se om du kan hitta kobolt. Du kan reparera kupolen med det.
+Det är sällsynt och finns bara i begränsad mängd."
+upgrades.keeper2pinballsplit.title,Split Spheres
+options.input.controls.text,Spelas bäst med handkontroll.
+landing.proceed,Tryck på vad som helst för att fortsätta
+upgrades.keeper2pinballmorespheres2.desc,Lägg till en modul till i din gravitationsgenerator så att den kan bära fler kinetiska sfärer.
+upgrades.jetpackstrength4.desc,Förbättrar jetpacken så du kan bära mer resurser.
+upgrades.orchardbattleshieldsecondlayer.desc,Få ett till sköldlager.
+level.converter.popup.conversion.time,över {time} cykler
+properties.keeper2.maxspeed,Topphastighet {}
+properties.laser.aimline,Sikteslinje
+upgrades.shieldstrength3.desc,Stärker kupolskölden ytterligare så att den kan absorbera ännu mer skada.
+upgrades.repellentovercharge.title,Extraladda avskräckningsmedel
+properties.drillbot.buffstrength,Energifylld påskyndare {.percent}
+worldmodifier.hardnesssofter.desc,Det finns fler mjuka stenar i gruvan.
+level.tutorial.pickup.popup_1,Tryck på | för att plocka upp resurser.
+level.tutorial.pickup.popup_3,Håll in för att plocka upp flera.
+pause.gamepadcontrols.drop,Släpp
+level.tutorial.fruit.popup_1,Du har odlat din första bränslefrukt.
+level.tutorial.fruit.popup_2,Tryck på | när du står bredvid den för att äta den.
+worldmodifier.mapwide.desc,Gruvan är bred och inte särskilt djup.
+upgrades.prestigefinishnocobalt.desc,Lämna planeten och åk hem.
+upgrades.prospectionmeteriron2.title,Järnkompass
+upgrades.keeper2movement2.title,Gravitationsrörelse 2
+options.keybindings.gamepad,Handkontroll
+ending.backtomainmenu,Tillbaka till huvudmenyn
+level.tutorial.fullscreen.back,tillbaka
+upgrades.shield.title,Sköld
+upgrades.blastmining.title,Sprängbrytning
+upgrades.converterirontocobalt.title,Koboltomvandling
+upgrades.swordstabfast1.desc,Hugg snabbare och oftare.
+level.gameover.prestige.score.rankunchanged,Ingen ändring i rang.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,Portalen får tillbaka förmågan att teleportera dig.
+upgrades.orchardjetpack3.title,Jetpackhastighetboost 3
+level.gameover.unlock.mapsize,Ny kartstorlek upplåst!
+upgrades.domeresourcecounters.title,Förråd
+level.gameover.keepgadget.none,ingen
+upgrades.stunlaserdamage1.desc,Gör att chocklasern gör en aning skada.
+properties.shield.battleabilityduration,Föremågas Varaktighet {} sek
+upgrades.prestigeiron.desc,Skicka tillbaka järn. Du får 1 mer prestige varje våg.
+upgrades.teleporter.title,Teleportör
+ending.teasemessage,Liten smygtitt på vad som kommer:
+loadout.relichunt.modifiers,Välj modifikationer
+options.accessibility,Tillgänglighet
+loadout.mapsize.small.description,En liten karta för kortare spelomgångar.
+upgrades.shieldbattleblastdamage.desc,Gör mer skada och starkare lamslagning med den elektriska stöten.
+options.translation.community.desc,Dessa språk översätts av vår kära community. Du kan också delta om du vill!
+upgrades.prospectionmeterwater2.desc,Visar åt vilket håll närmaste vattensamling ligger.
+upgrades.stunlaserdamage2.title,Skada 2
+options.keybindings.action.keeper.gadget1,Pryl 1
+options.keybindings.action.keeper.gadget2,Pryl 2
+properties.repellent.wavedelay,Vågfördröjning {} cykler
+options.ok,OK
+upgrades.swordblade1.desc,Gör att svärdet hugger hårdare och snabbare.
+upgrades.shieldoverchargeduration2.title,Extraladda stridsförmågans varaktighet 2
+properties.sword.slicedamage,Skärskada {} 
+properties.condenser.autocollect,Automatisk insamling
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,Skottpaket finns precis under kupolen istället för att flyga förbi den centrala axeln.
+upgrades.orchardduration1.title,Varaktighet 1
+upgrades.drillbotbuffstrength1.title,Nyttigt godis
+upgrades.liftcarrykeeper2.title,Väktarhiss 2
+upgrades.shieldoverchargestrength2.desc,Stärker den extraladdade kupolskölden så att den kan absorbera ännu mer skada.
+upgrades.repellentbattleslowdown.title,Bedöva
+upgrades.artilleryshotprediction.title,Skottförutseende
+upgrades.repellentdelay3.desc,Fördröjer nästa våg med monster ännu mer.
+upgrades.teleporter.desc,En tvåvägsteleportör med en station under kupolen och en portal som kan placeras ut och flyttas runt i gruvan.
+level.gameover.stats.monsterskilled,Monster dödade
+upgrades.keeper2pinballreflect.title,Sfärreflektion
+upgrades.drillbotstrength3.title,Styrka 3
+upgrades.shieldbattlereflectspeedup.title,Accelererad reflektion
+upgrades.probeswift1.title,Snabbsond
+options.game.events.enableseasonal,aktivera säsongsinnehåll
+upgrades.repellentbattledamageovertime.title,Giftiga ångor
+upgrades.dome3health2.title,Hälsa 2
+loadout.mapsize.huge,Gigantisk
+properties.shield.overchargebattleabilityduration,Ytterligare varaktighet för förmågan {.percent}
+options.keybindings.action.keeper.gravitycollect,Laddningsinsamling
+loadout.miner.scores.title,Scores
+properties.lift.speed,Hissklothastighet {}
+upgrades.drillbotstrength1.title,Styrka 1
+level.tutorial.repellent.popup_2,Tryck på | när du är nära för att aktivera den.
+level.tutorial.repellent.popup_1,Avskräckningsmedlet är redo att fördröja nästa våg.
+properties.orchard.growthtime,Växttid {} cykler
+properties.keeper2.spherefractiondamage,Sphere Damage transcending Rock Hardness {.percent}
+properties.sword.brake,Svärdsmidighet {}
+upgrades.artilleryflakmultishot2.title,Multiskott 2
+upgrades.swordstabfast2.desc,Hugg ännu snabbare och oftare.
+upgrades.sword.desc,Ett tåligt svärd som gör mer skada ju längre det svingas. Det kan skjutas iväg för att spetsa monster och har en sköldbas som blockerar projektiler.
+upgrades.artilleryflakmultishot1.title,Multiskott 1
+upgrades.artilleryshotprediction.desc,Visar en avfyrad granats förväntade bana.
+upgrades.shieldbattlereflect.desc,Aktivera en aktiv stridsförmåga som reflekterar fiendens projektiler en kort stund.
+upgrades.orchardbattleshieldstrong.title,Starka sköldar
+upgrades.swordlongblade1.title,Lång klinga 1
+level.station.battle.navbar.stab,Hugg
+properties.converter.irontowater,{} järn till 1 vatten
+upgrades.minoriron.title,Send Iron
+upgrades.keeper2bundleinfinite.desc,Paket förblir stabila under lång tid.
+worldmodifier.resourcedesc,"Det finns bara några få järnådror, men de är väldigt stora."
+loadout.keeper,VÄKTARE
+upgrades.drillbotstrength4.desc,Ger Borris högre grävstyrka.
+upgrades.swordstabexplodedamage.title,Bombskada
+upgrades.prospectionmeterwater2.title,Vattenkompass
+loadout.keeperoptions.title,Välj väktare!
+properties.probe.range,{} rutors räckvidd
+upgrades.orchardbattleshield.title,Projektilsköld
+loadout.mapsize.large,Stor
+properties.keeper2.reflectsphere,Reflektera inkommande sfärer
+upgrades.orchardbattlerooting.title,Rotfällor
+properties.repellent.growthtime,Produktionstid {} cykler
+properties.converter.irontocobalt,{} järn till 1 kobolt
+upgrades.dome3health1.desc,Ökar din kupols maxhälsa permanent.
+upgrades.teleporterteleportresourcescooldown.title,Teleporteringsväntetid
+upgrades.shieldovercharge.desc,Använd vatten för att manuellt extraladda skölden så att den absorberar mer skada under nästa våg.
+upgrades.stunlaserspeed2.title,Hastighet 2
+upgrades.drillbotbuff1.desc,Godis växer i boet under kupolen. Ta dem till Borris så slukar han dem för att få energi.
+options.keybindings.action.dome.battle,Strid
+upgrades.orchardovercharge.title,Överladda fruktträdgård
+properties.teleporter.teleportresourcesarea,Teleporteringsräckvidd {} rutor
+upgrades.swordreflection1.desc,Gör sköldplattan större och får den att reflektera energiprojektiler.
+upgrades.blastminingblast2.title,Sprängning 2
+upgrades.swordreflection1.title,Reflektion 1
+upgrades.keeper2pinballlifetime2.desc,Stabilisera den kinetiska sfären så att den svävar längre.
+options.keybindings.action.general.left,Vänster
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Ökar din kupols maxhälsa permanent.
+upgrades.drill2.title,Borrstyrka 2
+options.keybindings.rebinding,Ändrar inställning
+level.tutorial.assessor.carry.desc1_1,När de blir låsta på dig följer de dig även om du släpper samlingsnyckeln.
+upgrades.keeper2pinballdamage1.title,Kinetisk sfärskada 1
+upgrades.stunlaserspeed2.desc,Chocklasern rör sig ännu snabbare och fortsätter spåra monster när den laddas upp.
+options.keybindings.title,KONTROLLKONFIGURATION
+upgrades.keeper2pinballmorespheres1.desc,Lägg till en modul till i din gravitationsgenerator så att den kan ta fler kinetiska sfärer.
+level.gameover.prestige.uploading.finalfailed,"tyvärr, kunde inte ladda upp nya poängen!"
+upgrades.blastminingblast1.desc,Ökar sprängstyrkan.
+upgrades.stunlaserduration2.desc,Chocklaser laddas upp snabbare och skjuter under längre tid.
+upgrades.prospectionmetersand1.desc,Visar avståndet till närmaste koboltåder.
+pause.gamepadcontrols.move,Styr
+properties.probe.charges,Laddningar {}
+upgrades.drillbotstrength2.title,Styrka 2
+loadout.prestige.cobalt.description,"Kartan har ingen kobolt och du kan inte generera mer, men du börjar med en hel del."

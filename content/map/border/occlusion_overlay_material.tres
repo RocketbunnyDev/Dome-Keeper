@@ -1,0 +1,14 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=2]
+
+[ext_resource path="res://content/map/border/mixshader.gdshader" type="Shader" id=1]
+[ext_resource path="res://systems/style/palettes/index_palette.png" type="Texture" id=2]
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/hide_tr = null
+shader_param/hide_tl = null
+shader_param/hide_br = null
+shader_param/hide_bl = null
+shader_param/frame_coords = null
+shader_param/sheet_size = Vector2( 12, 12 )
+shader_param/palette = ExtResource( 2 )

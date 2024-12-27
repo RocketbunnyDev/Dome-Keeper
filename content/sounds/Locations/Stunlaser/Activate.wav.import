@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Activate.wav-6873791280014a9b202db489a9890db5.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Stunlaser/Activate.wav"
+dest_files=[ "res://.import/Activate.wav-6873791280014a9b202db489a9890db5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

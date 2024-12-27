@@ -1,0 +1,205 @@
+[gd_scene load_steps=40 format=2]
+
+[ext_resource path="res://content/caves/dronecave/DroneCave.gd" type="Script" id=1]
+[ext_resource path="res://content/caves/dronecave/alpha.png" type="Texture" id=2]
+[ext_resource path="res://content/caves/dronecave/dronecave_sheet.png" type="Texture" id=3]
+[ext_resource path="res://content/shared/drops/ResourceGrabber.tscn" type="PackedScene" id=4]
+[ext_resource path="res://content/gadgets/transportdrone/DroneHub.gd" type="Script" id=5]
+[ext_resource path="res://content/sounds/Amb/DroneAmb.wav" type="AudioStream" id=6]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=7]
+[ext_resource path="res://content/gadgets/transportdrone/TransportDroneAnimations.tres" type="SpriteFrames" id=8]
+[ext_resource path="res://content/sounds/carryline-break.wav" type="AudioStream" id=9]
+[ext_resource path="res://content/sounds/Locations/Transportdrone/DoorOpenDrone.wav" type="AudioStream" id=10]
+
+
+[sub_resource type="AtlasTexture" id=37]
+atlas = ExtResource( 3 )
+region = Rect2( 0, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=38]
+atlas = ExtResource( 3 )
+region = Rect2( 25, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=39]
+atlas = ExtResource( 3 )
+region = Rect2( 50, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=40]
+atlas = ExtResource( 3 )
+region = Rect2( 75, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=41]
+atlas = ExtResource( 3 )
+region = Rect2( 100, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=42]
+atlas = ExtResource( 3 )
+region = Rect2( 125, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=43]
+atlas = ExtResource( 3 )
+region = Rect2( 150, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=44]
+atlas = ExtResource( 3 )
+region = Rect2( 175, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=45]
+atlas = ExtResource( 3 )
+region = Rect2( 200, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=46]
+atlas = ExtResource( 3 )
+region = Rect2( 225, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=47]
+atlas = ExtResource( 3 )
+region = Rect2( 250, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=48]
+atlas = ExtResource( 3 )
+region = Rect2( 275, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=49]
+atlas = ExtResource( 3 )
+region = Rect2( 300, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=50]
+atlas = ExtResource( 3 )
+region = Rect2( 325, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=51]
+atlas = ExtResource( 3 )
+region = Rect2( 350, 42, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=52]
+atlas = ExtResource( 3 )
+region = Rect2( 300, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=53]
+atlas = ExtResource( 3 )
+region = Rect2( 0, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=54]
+atlas = ExtResource( 3 )
+region = Rect2( 25, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=55]
+atlas = ExtResource( 3 )
+region = Rect2( 50, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=56]
+atlas = ExtResource( 3 )
+region = Rect2( 75, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=57]
+atlas = ExtResource( 3 )
+region = Rect2( 100, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=58]
+atlas = ExtResource( 3 )
+region = Rect2( 125, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=59]
+atlas = ExtResource( 3 )
+region = Rect2( 150, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=60]
+atlas = ExtResource( 3 )
+region = Rect2( 175, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=61]
+atlas = ExtResource( 3 )
+region = Rect2( 200, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=62]
+atlas = ExtResource( 3 )
+region = Rect2( 225, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=63]
+atlas = ExtResource( 3 )
+region = Rect2( 250, 21, 25, 21 )
+
+[sub_resource type="AtlasTexture" id=64]
+atlas = ExtResource( 3 )
+region = Rect2( 275, 21, 25, 21 )
+
+[sub_resource type="SpriteFrames" id=23]
+animations = [ {
+"frames": [ SubResource( 37 ), SubResource( 38 ), SubResource( 39 ), SubResource( 40 ), SubResource( 41 ), SubResource( 42 ), SubResource( 43 ), SubResource( 44 ), SubResource( 45 ), SubResource( 46 ), SubResource( 47 ), SubResource( 48 ), SubResource( 49 ), SubResource( 50 ), SubResource( 51 ), SubResource( 52 ) ],
+"loop": false,
+"name": "opening",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 53 ), SubResource( 54 ), SubResource( 55 ), SubResource( 56 ), SubResource( 57 ), SubResource( 58 ), SubResource( 59 ), SubResource( 60 ), SubResource( 61 ), SubResource( 62 ), SubResource( 63 ), SubResource( 64 ) ],
+"loop": true,
+"name": "default",
+"speed": 10.0
+} ]
+
+[node name="DroneCave" type="Node2D" groups=["saveable", "unstyled"]]
+z_index = -40
+script = ExtResource( 1 )
+biome = "green"
+
+[node name="Sprites" type="Control" parent="."]
+margin_right = 24.0
+margin_bottom = 24.0
+
+[node name="Background" type="Sprite" parent="."]
+position = Vector2( 12, 13 )
+texture = ExtResource( 3 )
+hframes = 15
+vframes = 3
+
+[node name="DroneTakenSound" parent="Background" instance=ExtResource( 7 )]
+volume_db = 5.193
+pitch_scale = 1.22
+bus = "Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+streams = [ ExtResource( 9 ) ]
+
+[node name="AmbSound" parent="Background" instance=ExtResource( 7 )]
+stream = ExtResource( 6 )
+volume_db = -2.235
+pitch_scale = 0.69
+bus = "Mine"
+randomVolume = 0.0
+maxAudibleDistance = 120.0
+minAudibleDistance = 36.0
+fadeInTime = 0.1
+fadeOutTime = 3.0
+loop = true
+
+[node name="Drone" type="AnimatedSprite" parent="."]
+position = Vector2( 13, 9 )
+frames = ExtResource( 8 )
+animation = "idle"
+
+[node name="Door" type="AnimatedSprite" parent="."]
+position = Vector2( 12, 13 )
+frames = SubResource( 23 )
+frame = 5
+playing = true
+
+[node name="ResourceGrabber" parent="." instance=ExtResource( 4 )]
+position = Vector2( 13, 14 )
+dropType = "water"
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="AlphaMap" type="Sprite" parent="."]
+visible = false
+position = Vector2( 12, 15 )
+texture = ExtResource( 2 )
+
+[node name="DroneHub" type="Node2D" parent="."]
+script = ExtResource( 5 )
+
+[node name="DoorOpenSound" parent="." instance=ExtResource( 7 )]
+stream = ExtResource( 10 )
+volume_db = 8.739
+
+[connection signal="animation_finished" from="Door" to="." method="_on_Door_animation_finished"]
+[connection signal="grabbed_resource" from="ResourceGrabber" to="." method="_on_ResourceGrabber_grabbed_resource"]

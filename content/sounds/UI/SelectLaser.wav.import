@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SelectLaser.wav-ec34e0087fc784840e7bc89d1d64e265.sample"
+
+[deps]
+
+source_file="res://content/sounds/UI/SelectLaser.wav"
+dest_files=[ "res://.import/SelectLaser.wav-ec34e0087fc784840e7bc89d1d64e265.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

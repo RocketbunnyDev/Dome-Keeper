@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/no_ammo.wav-cf3d3a0d22230f648329861c63a4c85c.sample"
+
+[deps]
+
+source_file="res://content/sounds/Weapons/obelisk/no_ammo.wav"
+dest_files=[ "res://.import/no_ammo.wav-cf3d3a0d22230f648329861c63a4c85c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

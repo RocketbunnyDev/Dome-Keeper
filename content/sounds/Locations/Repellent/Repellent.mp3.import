@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Repellent.mp3-67bf7b5534ac4e4a4813a5696d1a3543.mp3str"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Repellent/Repellent.mp3"
+dest_files=[ "res://.import/Repellent.mp3-67bf7b5534ac4e4a4813a5696d1a3543.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

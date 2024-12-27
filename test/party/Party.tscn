@@ -1,0 +1,226 @@
+[gd_scene load_steps=32 format=2]
+
+[ext_resource path="res://content/monster/walker/monster1_stun2.png" type="Texture" id=1]
+[ext_resource path="res://content/monster/walker/monster1_stun0.png" type="Texture" id=2]
+[ext_resource path="res://content/monster/walker/monster1_stun3.png" type="Texture" id=3]
+[ext_resource path="res://content/monster/walker/monster1_stun1.png" type="Texture" id=4]
+[ext_resource path="res://test/party/welt15.png" type="Texture" id=5]
+[ext_resource path="res://content/keeper/keeper1/player1/player_links1.png" type="Texture" id=6]
+[ext_resource path="res://content/keeper/keeper1/player1/player_rechts0.png" type="Texture" id=7]
+[ext_resource path="res://content/keeper/keeper1/player1/player_rechts1.png" type="Texture" id=8]
+[ext_resource path="res://content/keeper/keeper1/player1/player_links0.png" type="Texture" id=9]
+[ext_resource path="res://content/weapons/laser/Laser.tscn" type="PackedScene" id=23]
+[ext_resource path="res://test/party/Party.gd" type="Script" id=24]
+[ext_resource path="res://content/keeper/keeper1/player1/player_up0.png" type="Texture" id=25]
+[ext_resource path="res://content/keeper/keeper1/player1/player_up1.png" type="Texture" id=26]
+[ext_resource path="res://content/keeper/keeper1/player1/player_down1.png" type="Texture" id=27]
+[ext_resource path="res://content/keeper/keeper1/player1/player_down0.png" type="Texture" id=28]
+[ext_resource path="res://content/gadgets/blastMining/mine_explosion1.png" type="Texture" id=29]
+[ext_resource path="res://content/gadgets/blastMining/mine_explosion3.png" type="Texture" id=30]
+[ext_resource path="res://content/gadgets/blastMining/mine_explosion2.png" type="Texture" id=31]
+[ext_resource path="res://content/gadgets/blastMining/mine_explosion4.png" type="Texture" id=32]
+[ext_resource path="res://content/gadgets/blastMining/mine_explosion7.png" type="Texture" id=33]
+[ext_resource path="res://content/gadgets/blastMining/mine_explosion5.png" type="Texture" id=34]
+[ext_resource path="res://content/gadgets/blastMining/mine_explosion0.png" type="Texture" id=35]
+[ext_resource path="res://content/gadgets/blastMining/mine_explosion6.png" type="Texture" id=36]
+[ext_resource path="res://test/party/BombSpawn1.gd" type="Script" id=37]
+
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 2 ), ExtResource( 4 ), ExtResource( 1 ), ExtResource( 3 ) ],
+"loop": true,
+"name": "default",
+"speed": 10.0
+} ]
+
+[sub_resource type="SpriteFrames" id=2]
+animations = [ {
+"frames": [ ExtResource( 9 ), ExtResource( 6 ), ExtResource( 9 ), ExtResource( 6 ), ExtResource( 9 ), ExtResource( 6 ), ExtResource( 28 ), ExtResource( 27 ), ExtResource( 7 ), ExtResource( 8 ), ExtResource( 7 ), ExtResource( 8 ), ExtResource( 7 ), ExtResource( 8 ), ExtResource( 25 ), ExtResource( 26 ) ],
+"loop": true,
+"name": "default",
+"speed": 5.0
+} ]
+
+[sub_resource type="CanvasItemMaterial" id=3]
+blend_mode = 1
+
+[sub_resource type="Curve" id=4]
+max_value = 30.0
+_data = [ Vector2( 0, 0 ), 0.0, -18.0149, 0, 0, Vector2( 0.693419, 4.6875 ), -32.6748, -32.6748, 0, 0, Vector2( 1, 0 ), 9.36998, 0.0, 0, 0 ]
+
+[sub_resource type="Gradient" id=5]
+offsets = PoolRealArray( 0.189935, 0.672078, 1 )
+colors = PoolColorArray( 0.815686, 0.505882, 0.34902, 1, 0.329412, 0.305882, 0.407843, 1, 0.329412, 0.305882, 0.407843, 0 )
+
+[sub_resource type="Animation" id=8]
+length = 0.8
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("Laser1:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.2, 0.6, 0.8 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, -15.0, 15.0, 0.0 ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("Laser2:rotation_degrees")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.2, 0.6, 0.8 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, 15.0, -15.0, 0.0 ]
+}
+
+[sub_resource type="SpriteFrames" id=9]
+animations = [ {
+"frames": [ ExtResource( 35 ), ExtResource( 29 ), ExtResource( 31 ), ExtResource( 30 ), ExtResource( 32 ), ExtResource( 34 ), ExtResource( 36 ), ExtResource( 33 ) ],
+"loop": false,
+"name": "default",
+"speed": 10.0
+} ]
+
+[node name="Party" type="Node2D"]
+script = ExtResource( 24 )
+
+[node name="welt15" type="Sprite" parent="."]
+position = Vector2( 5, -22 )
+texture = ExtResource( 5 )
+
+[node name="Dancer1" type="AnimatedSprite" parent="."]
+position = Vector2( -150, 30 )
+frames = SubResource( 1 )
+playing = true
+
+[node name="Dancer2" type="AnimatedSprite" parent="."]
+position = Vector2( -85, 33 )
+frames = SubResource( 1 )
+frame = 3
+playing = true
+
+[node name="Dancer3" type="AnimatedSprite" parent="."]
+position = Vector2( -110, 32 )
+frames = SubResource( 1 )
+frame = 3
+playing = true
+flip_h = true
+
+[node name="Dancer7" type="AnimatedSprite" parent="."]
+position = Vector2( -43, 39 )
+frames = SubResource( 1 )
+frame = 3
+playing = true
+flip_h = true
+
+[node name="Dancer4" type="AnimatedSprite" parent="."]
+position = Vector2( 72, 40 )
+frames = SubResource( 1 )
+frame = 3
+playing = true
+
+[node name="Dancer5" type="AnimatedSprite" parent="."]
+position = Vector2( 154, 40 )
+frames = SubResource( 1 )
+frame = 3
+playing = true
+flip_h = true
+
+[node name="Dancer6" type="AnimatedSprite" parent="."]
+position = Vector2( 129, 41 )
+frames = SubResource( 1 )
+frame = 3
+playing = true
+flip_h = true
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2( 4, -25 )
+current = true
+zoom = Vector2( 0.2, 0.2 )
+
+[node name="Laser1" parent="." instance=ExtResource( 23 )]
+position = Vector2( -29, 55 )
+rotation = -0.149892
+
+[node name="Laser2" parent="." instance=ExtResource( 23 )]
+position = Vector2( 57, 56 )
+rotation = 0.149892
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+position = Vector2( -2, 31 )
+frames = SubResource( 2 )
+frame = 4
+playing = true
+
+[node name="Trail" type="CPUParticles2D" parent="AnimatedSprite"]
+show_behind_parent = true
+material = SubResource( 3 )
+position = Vector2( 0, 2 )
+amount = 12
+lifetime = 2.0
+lifetime_randomness = 0.5
+local_coords = false
+emission_shape = 1
+emission_sphere_radius = 1.0
+direction = Vector2( 0, 1 )
+spread = 15.0
+gravity = Vector2( 0, -2 )
+initial_velocity = 18.0
+initial_velocity_random = 0.4
+damping_curve = SubResource( 4 )
+color_ramp = SubResource( 5 )
+
+[node name="AnimatedSprite2" type="AnimatedSprite" parent="."]
+position = Vector2( 17, 31 )
+frames = SubResource( 2 )
+frame = 4
+playing = true
+flip_h = true
+
+[node name="Trail" type="CPUParticles2D" parent="AnimatedSprite2"]
+show_behind_parent = true
+material = SubResource( 3 )
+position = Vector2( 0, 2 )
+amount = 12
+lifetime = 2.0
+lifetime_randomness = 0.5
+local_coords = false
+emission_shape = 1
+emission_sphere_radius = 1.0
+direction = Vector2( 0, 1 )
+spread = 15.0
+gravity = Vector2( 0, -2 )
+initial_velocity = 18.0
+initial_velocity_random = 0.4
+damping_curve = SubResource( 4 )
+color_ramp = SubResource( 5 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+playback_speed = 0.5
+anims/aa = SubResource( 8 )
+
+[node name="Ex1" type="AnimatedSprite" parent="."]
+visible = false
+position = Vector2( -128, -52 )
+frames = SubResource( 9 )
+frame = 7
+
+[node name="BombSpawn1" type="Position2D" parent="."]
+position = Vector2( -160, 38 )
+script = ExtResource( 37 )
+
+[node name="Tween" type="Tween" parent="BombSpawn1"]
+
+[node name="BombSpawn2" type="Position2D" parent="."]
+position = Vector2( 169, 39 )
+script = ExtResource( 37 )
+
+[node name="Tween" type="Tween" parent="BombSpawn2"]

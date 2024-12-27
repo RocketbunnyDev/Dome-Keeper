@@ -1,0 +1,13 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://game/map/border/tile_fade_border.png" type="Texture" id=1]
+[ext_resource path="res://game/map/border/fade_material.tres" type="Material" id=2]
+[ext_resource path="res://game/map/border/FadeSprite.gd" type="Script" id=5]
+
+[node name="FadeSprite" type="Sprite"]
+visible = false
+material = ExtResource( 2 )
+z_index = -40
+texture = ExtResource( 1 )
+region_rect = Rect2( 0, 0, 16, 16 )
+script = ExtResource( 5 )

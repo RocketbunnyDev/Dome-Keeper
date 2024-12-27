@@ -1,0 +1,51 @@
+[gd_scene format=2]
+
+[node name="PetPositions" type="Node2D"]
+
+[node name="Position1_1_right" type="Position2D" parent="."]
+position = Vector2( -17, -16 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position1_2" type="Position2D" parent="."]
+position = Vector2( -5, -57 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position1_3_left" type="Position2D" parent="."]
+position = Vector2( -4, -15 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position1_4_left" type="Position2D" parent="."]
+position = Vector2( 19, -24 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position2_1_left" type="Position2D" parent="."]
+position = Vector2( -54, 5 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position2_2_left" type="Position2D" parent="."]
+position = Vector2( 15, 5 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position2_3_left" type="Position2D" parent="."]
+position = Vector2( 15, 5 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}
+
+[node name="Position2_4_left" type="Position2D" parent="."]
+position = Vector2( -22, 3 )
+__meta__ = {
+"_gizmo_extents_": 2.0
+}

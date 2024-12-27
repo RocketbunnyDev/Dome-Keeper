@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/receiverupgraded.wav-5c83bce9f2c0b5e548ee8a615aad8b1b.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Converter/receiverupgraded.wav"
+dest_files=[ "res://.import/receiverupgraded.wav-5c83bce9f2c0b5e548ee8a615aad8b1b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Irontest_02.wav-b35a255ed9abaf9af15b69d158c87e8b.sample"
+
+[deps]
+
+source_file="res://content/sounds/drops/Irontest_02.wav"
+dest_files=[ "res://.import/Irontest_02.wav-b35a255ed9abaf9af15b69d158c87e8b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

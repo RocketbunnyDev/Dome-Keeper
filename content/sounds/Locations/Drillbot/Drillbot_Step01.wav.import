@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Drillbot_Step01.wav-cca1a78dd90b78c626d2695684f9a1fd.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Drillbot/Drillbot_Step01.wav"
+dest_files=[ "res://.import/Drillbot_Step01.wav-cca1a78dd90b78c626d2695684f9a1fd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

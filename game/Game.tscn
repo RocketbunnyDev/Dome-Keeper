@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://game/Game.gd" type="Script" id=1]
+
+[node name="Game" type="Node"]
+script = ExtResource( 1 )
+build = 0
+devMode = false
+tracking = false
+lockToSteam = true
+version = "2.3.2"
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]

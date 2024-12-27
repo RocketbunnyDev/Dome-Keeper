@@ -1,0 +1,213 @@
+[gd_scene load_steps=40 format=2]
+
+[ext_resource path="res://content/sounds/Locations/Converter/receiverdone.wav" type="AudioStream" id=1]
+[ext_resource path="res://content/gadgets/converter/Converter.gd" type="Script" id=2]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=3]
+[ext_resource path="res://content/gadgets/converter/converter-Sheet.png" type="Texture" id=4]
+[ext_resource path="res://content/gadgets/converter/processing_overlay.png" type="Texture" id=5]
+[ext_resource path="res://content/icons/icon_iron.png" type="Texture" id=6]
+[ext_resource path="res://content/sounds/Locations/Converter/Reciever_v3_04.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/sounds/Locations/Converter/receiverStart.wav" type="AudioStream" id=8]
+[ext_resource path="res://content/sounds/Locations/Converter/receiverupgraded.wav" type="AudioStream" id=9]
+[ext_resource path="res://content/shared/Usable.tscn" type="PackedScene" id=15]
+
+[sub_resource type="AtlasTexture" id=9]
+atlas = ExtResource( 4 )
+region = Rect2( 0, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=10]
+atlas = ExtResource( 4 )
+region = Rect2( 34, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=11]
+atlas = ExtResource( 4 )
+region = Rect2( 68, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=12]
+atlas = ExtResource( 4 )
+region = Rect2( 102, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=13]
+atlas = ExtResource( 4 )
+region = Rect2( 136, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=14]
+atlas = ExtResource( 4 )
+region = Rect2( 170, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=15]
+atlas = ExtResource( 4 )
+region = Rect2( 204, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=16]
+atlas = ExtResource( 4 )
+region = Rect2( 238, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=17]
+atlas = ExtResource( 4 )
+region = Rect2( 272, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=18]
+atlas = ExtResource( 4 )
+region = Rect2( 306, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=19]
+atlas = ExtResource( 4 )
+region = Rect2( 340, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=20]
+atlas = ExtResource( 4 )
+region = Rect2( 374, 25, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=8]
+atlas = ExtResource( 4 )
+region = Rect2( 0, 0, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=21]
+atlas = ExtResource( 4 )
+region = Rect2( 0, 75, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=22]
+atlas = ExtResource( 4 )
+region = Rect2( 34, 75, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=23]
+atlas = ExtResource( 4 )
+region = Rect2( 68, 75, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=24]
+atlas = ExtResource( 4 )
+region = Rect2( 102, 75, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=25]
+atlas = ExtResource( 4 )
+region = Rect2( 136, 75, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=26]
+atlas = ExtResource( 4 )
+region = Rect2( 170, 75, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=27]
+atlas = ExtResource( 4 )
+region = Rect2( 204, 75, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=28]
+atlas = ExtResource( 4 )
+region = Rect2( 238, 75, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=29]
+atlas = ExtResource( 4 )
+region = Rect2( 272, 75, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=30]
+atlas = ExtResource( 4 )
+region = Rect2( 306, 75, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=3]
+atlas = ExtResource( 4 )
+region = Rect2( 0, 50, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=4]
+atlas = ExtResource( 4 )
+region = Rect2( 34, 50, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=5]
+atlas = ExtResource( 4 )
+region = Rect2( 68, 50, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=6]
+atlas = ExtResource( 4 )
+region = Rect2( 102, 50, 34, 25 )
+
+[sub_resource type="AtlasTexture" id=7]
+atlas = ExtResource( 4 )
+region = Rect2( 136, 50, 34, 25 )
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ SubResource( 9 ), SubResource( 10 ), SubResource( 11 ), SubResource( 12 ), SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ), SubResource( 17 ), SubResource( 18 ), SubResource( 19 ), SubResource( 20 ) ],
+"loop": true,
+"name": "active",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 8 ) ],
+"loop": false,
+"name": "idle",
+"speed": 1.0
+}, {
+"frames": [ SubResource( 21 ), SubResource( 22 ), SubResource( 23 ), SubResource( 24 ), SubResource( 25 ), SubResource( 26 ), SubResource( 27 ), SubResource( 28 ), SubResource( 29 ), SubResource( 30 ) ],
+"loop": true,
+"name": "ready",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 3 ), SubResource( 4 ), SubResource( 5 ), SubResource( 6 ), SubResource( 7 ) ],
+"loop": false,
+"name": "release",
+"speed": 10.0
+} ]
+
+[node name="Converter" type="Node2D" groups=["saveable"]]
+script = ExtResource( 2 )
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+position = Vector2( 4, -10 )
+frames = SubResource( 1 )
+animation = "ready"
+
+[node name="Overlay" type="Sprite" parent="."]
+position = Vector2( 4, -8 )
+texture = ExtResource( 5 )
+
+[node name="ResourcePosition" type="Position2D" parent="."]
+position = Vector2( 4, -7 )
+__meta__ = {
+"_gizmo_extents_": 3.0
+}
+
+[node name="Resource" type="Sprite" parent="ResourcePosition"]
+scale = Vector2( 0.33, 0.33 )
+texture = ExtResource( 6 )
+
+[node name="Usable" parent="." instance=ExtResource( 15 )]
+position = Vector2( 4, -7 )
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+layer = 3
+
+[node name="ActiveAmb" parent="." instance=ExtResource( 3 )]
+stream = ExtResource( 7 )
+volume_db = -12.235
+pitch_scale = 1.03
+bus = "Dome"
+randomPitch = 0.0
+maxAudibleDistance = 50.0
+minAudibleDistance = 30.0
+loop = true
+
+[node name="ActiveUpgradedAmb" parent="." instance=ExtResource( 3 )]
+stream = ExtResource( 9 )
+volume_db = -10.487
+pitch_scale = 1.03
+bus = "Dome"
+randomPitch = 0.0
+maxAudibleDistance = 50.0
+minAudibleDistance = 30.0
+loop = true
+
+[node name="FinishedSound" parent="." instance=ExtResource( 3 )]
+stream = ExtResource( 1 )
+volume_db = 4.807
+pitch_scale = 2.0
+bus = "Dome"
+randomPitch = 0.0
+maxAudibleDistance = 150.0
+minAudibleDistance = 50.0
+
+[node name="StartSound" parent="." instance=ExtResource( 3 )]
+pitch_scale = 2.0
+bus = "Dome"
+maxAudibleDistance = 150.0
+minAudibleDistance = 50.0
+streams = [ ExtResource( 8 ) ]
+
+[connection signal="animation_finished" from="Sprite" to="." method="_on_Sprite_animation_finished"]

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Roots.wav-e6c260d983d11ac1069d938d2b4180aa.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Orchard/Roots.wav"
+dest_files=[ "res://.import/Roots.wav-e6c260d983d11ac1069d938d2b4180aa.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

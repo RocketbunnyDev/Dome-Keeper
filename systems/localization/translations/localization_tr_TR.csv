@@ -1,0 +1,942 @@
+﻿key,tr_TR
+loadout.prestige.title,Bir Mod Türü Seç
+upgrades.shieldbattleelectroblast.title,Elektrikli Patlama
+properties.orchard.battleshieldhp,Güç {} sp
+pause.gamepadcontrols.move,Taşı
+options.video.stretchmode.rezised,Yeniden Boyutlandırılmış
+level.gameover.unlock.world,Yeni dünyanın kilidi açıldı!
+upgrades.blastminingwaterless.desc,Patlama yaratmak için artık su kullanılmaz ancak yaratma süresi uzar.
+properties.blastmining.growthtime,Yapım Süresi {} döngü
+properties.laser.stun,Sersemletme Gücü {}
+exhibition.level.instruction,Oynamaya devam etmek için bir tuşa bas!
+pause.godot,Godot ile yapıldı
+upgrades.orchardjetpack2.desc,Meyvenin verdiği hız etkisini arttırarak daha da hızlı hareket etmeni sağlar.
+upgrades.artillery.title,Ağır Silahlar
+upgrades.condenser.desc,Kubbenin altına yoğuşma yoluyla yavaş yavaş su üreten bir makine ekle.
+properties.lift.keeperupwardsspeed,Muhafız Asansörü Hızı {}
+level.tutorial.fullscreen.continue,devam et
+upgrades.dome1damagereduction2.title,Sertleştirme 2
+upgrades.orchardduration2.title,Süre 2
+upgrades.condenserautoovercharge.title,Otomatik Güçlendirme
+upgrades.keeper2pinballreflectdamage2.title,Yansıtma Hasarı 2
+loadout.title,TEÇHİZATINI SEÇ
+level.tutorial.teleporter_2,"Geçide ışınlanmak için Işınlayıcı İstasyonu'nu, Işınlayıcı İstasyonu'na ışınlanmak için geçidi kullan."
+options.keybindings.action.general.up,Yukarı
+level.converter.popup.cancel,İptal
+properties.keeper.domefuel,Yakıt Ekle {}
+properties.shield.battleactivateondepletion,Kalkan tükenince yeteneği etkinleştir
+loadout.prestige.normal,Olağan
+properties.sword.reflectprojectilesexplosive,Geri Ateşlenen Devinimli Menzilli Saldırılar patlayıcı etkiye sahiptir
+upgrades.swordlargeblade3.title,Okkalı Kılıç 3
+upgrades.orcharddrill2.title,Madencilik Takviyesi 2
+loadout.prestige.normal.description,Olağan saygınlık modu.
+upgrades.keeper2pinballreflectdamage1.desc,Yansıtılmış küreler çarptıkları sonraki kayaya çok daha fazla hasar verirler.
+options.input.gamepad,Oyun Kumandası
+loadout.choices.locked,Henüz kilidi açılmadı
+upgrades.condenserspeed1.desc,Yoğuşmayla bir su üretmek için gerekli süreyi kısaltır.
+upgrades.shieldbattleinvulnerable.desc,Kubbeni kısa süreliğine dokunulmaz kılan aktif bir savaş yeteneğini tetikle.
+upgrades.domewavemeter.desc,Düşman yaşam formlarının bir sonraki akınına ne kadar kaldığını gösterir.
+upgrades.keeper2pinballreflectspeedup2.title,Yüksek Geri Ateşleme
+upgrades.keeper2movement1.desc,Daha hızlı hareket etmek için yer çekimi üreticiyi geliştir.
+upgrades.repellentoverchargeduration2.desc,"Güçlendirdikten sonra, bir sonraki akında savaş yeteneğinin süresi uzar."
+upgrades.laserhitprojectiles.desc,Devinimli menzilli saldırılara lazerle ateş etmek saldırıları anında yok eder.
+options.keybindings.action.keeper.pickup,Al
+upgrades.keeper2pinballdamage1.desc,Çarpma anında kinetik kürenin kayalara verdiği hasarı iyileştir. Ayrıca döner madencilik hasarını iyileştirir.
+upgrades.keeper2pinballdamage3.title,Kinetik Küre Hasarı 3
+options.video.graphicsmode.enablevsync,Dikey Eşitlemeyi Etkinleştir
+options.translation.community,Topluluk çevirisi %{completion} tamamlandı
+loadout.difficult.harder,daha zor
+worldmodifier.resourcerichiron.desc,Bu dünyada çok demir var.
+loadout.miner.fuel,Muhafızların hareket paketini suyla doldurma ihtiyacını etkinleştirir.
+upgrades.prestigeiron.title,Demir Gönder
+upgrades.stunlaserspeed1.desc,Sersemletme lazeri daha hızlı hareket eder.
+upgrades.keeper2pinballdamage2.desc,Çarpma anında kinetik kürenin kayalara verdiği hasarı iyileştir. Ayrıca döner madencilik hasarını iyileştirir.
+upgrades.drill1.title,Matkap Gücü 1
+upgrades.prospectionmetersand2.title,Kobalt Pusulası
+upgrades.dome1health1.desc,Kubbenin yapısal sağlamlığını kalıcı olarak arttır.
+title.navbar.newgame,Yeni Oyun
+properties.repellent.overchargeduration,Canavarsavar üretimini {} döngü boyunca hızlandır
+properties.sword.retractspeed,Geri Çekme Hızı {} 
+upgrades.lasermove3.desc,Maksimum lazer hareket hızı.
+upgrades.stunlaser.title,Sersemletme Lazeri
+options.keybindings.action.general.use,Kullan
+worldmodifier.monsterfeeble.desc,Canavarlar daha çelimsiz ve daha az hasar veriyor.
+upgrades.shield.desc,"Hasarın bir miktarını emecek, gücünü kendiliğinden tazeleyen bir kalkan ekle."
+options.video.stretchmode.rezised.text,"Oyunu tam ekranda veya pencereli ekran çözünürlüğünde görüntüler.
+Grafikler keskinleşir ancak 1 piksel genişliğinde çizgilerden oluşan görüntü hataları belirebilir."
+upgrades.orchardbattlerootingexplosion.desc,Tuzağa düşmüş tüm canavarları patlatmak için tekrar tetikle. Patlayan canavarlar etraflarına hasar verir.
+loadout.mapsize.small,Küçük
+upgrades.probe.desc,"Kostümüne, tetiklendiğinde titreşim göndererek yakınlardaki kaynakların yerini ortaya çıkaran bir sonda ekler. Kubbenin altındaki istasyonda şarj edilmesi gerekir."
+upgrades.swordlongblade1.desc,Daha uzun ve çevik bir kılıç ekle.
+upgrades.dome1health1.title,Sağlamlık 1
+upgrades.blastminingwaterless.title,Susuz Patlama Yaratma
+level.tutorial.assessor.carry,Yerçekimi Toplama
+upgrades.liftspeed1.desc,Küreler daha hızlı hareket eder.
+upgrades.shieldstrength1.desc,Kubbe kalkanının emebileceği hasar miktarını arttırır.
+upgrades.orchardbattleshieldsecondlayer.title,Çifte Katmanlı Kalkan
+upgrades.teleporterteleportresourcescooldown.desc,"Geçit, kaynakları daha sık ışınlayabilir."
+options.input.gamepad.autoswitch,tercih edilen oyun kumandasının otomatik tespiti
+level.gameover.unlock.modifiers,Dünya değiştiricilerin kilidi açıldı!
+properties.sword.slicebrake,Biçme Sırasında Hız Kaybı {.percent}
+loadout.difficulty.veryeasy,Normal
+properties.sword.sliceacceleration,Kılıç Hızı {}
+options.input.gamepad.gamepadstickdeadzone.text,"Göstergenin, kontrol çubuğunun ufak hareketleriyle hareket etmemesi için bir değer ayarla.
+Kontrol çubuğunun ittirilmesiyle gösterge hareket etmelidir."
+options.accessibility.highlightmonsters.explanation,Daha iyi görülmeleri için canavarların etrafında parlak bir hat oluştur.
+properties.upgrade.gameover,Oyunu Bitir
+upgrades.blastminingstickycharge.title,Yapışkan ve Yönlü Patlamalar
+upgrades.shieldoverchargestrength2.title,Kalkanı Gücünü Arttır 2
+upgrades.blastminingblast2.desc,Patlama şiddetini daha da arttırır.
+upgrades.repellentbattlestrongerslowdown2.title,Güçlü Hareketsizlik
+upgrades.converter.desc,Kaynakları dönüştürerek envanterindeki kaynakların sayısını dengede tutabilirsin.
+loadout.proceed,İlerle
+upgrades.repellentbattleslowdown.desc,Savaş sırasında tüm canavarları yavaşlatan bir sersemletici püskürt.
+loadout.mapsize.medium.description,"İyi bir maden kazma oyununa uygun tasarlanmış, ortalama boyutta bir harita."
+properties.orchard.overchargeadditionalbuffduration,Büyütmeden sonra {}sn ek güçlendirme süresi
+options.translation.community.title,Topluluk Çevirileri
+upgrades.blastminingtriple.title,Üçlü Patlamalar
+worldmodifier.hardnessextremes.desc,Çok sert ve çok yumuşak kaya sayısı daha fazla.
+level.station.battle.navbar.exit,Çıkış
+upgrades.keeper2pinballlifetime2.title,Kinetik Küre Yaşam Süresi 2
+upgrades.minoriron.desc,Prestijini artırmak için demiri dünyanın dışına gönder.
+properties.dome.autohealamount,{} sp'yi geri yükle
+upgrades.migration.title,Göç
+upgrades.converterefficientcobalt.title,Verimli Kobalt Dönüşümü
+upgrades.shieldbattledestructionprevention.desc,"Kubben yıkılmak üzereyken uzun süreli dokunulmazlığa sahip ol.
+Kalkanın daha sonraki savaş için güç kazanmayacak. Son savunma ancak 2 canavar akını daha atlatıldıktan sonra tekrar tetiklenebilir.
+"
+upgrades.drill1.desc,Daha hızlı kazmak için matkabı güçlendir.
+level.gameover.retry,Başka bir oyuna başla
+properties.orchard.overchargeduration,Meyve büyüme hızı {} döngü boyunca iki katına çıkar
+upgrades.dome2health1.title,Sağlamlık 1
+level.tutorial.station.popup_4,| tuşuna basarak savaş modunu başlat ve kubbeni savun.
+level.gameover.stats.timeplayed.unit,dk
+upgrades.repellentbattlestrongerslowdown2.desc,"Sis, canavarları çok daha fazla yavaşlatır ve etkisi daha da uzun sürer."
+loadout.gadgetoptions.title,Birincil Cihazını seç!
+level.tutorial.station.popup_2,"Kontrol merkezine git, | tuşuna basarak kullan."
+upgrades.dome1damagereduction1.desc,Kubbenin yüzeyini canavarların yakın saldırılarından daha az hasar alacak şekilde sertleştir. Menzilli saldırı hasarını azaltmaz.
+level.tutorial.station.popup_1,Kubben saldırı altında!
+upgrades.keeper2movement3.title,Yer Çekimsel Hareket 3
+upgrades.jetpackspeed1.desc,Daha hızlı hareket etmek için sırt roketini geliştir.
+properties.converter.ironwatertime,Dönüşüm süresi {} döngü
+level.tutorial.sworddome.slicing.desc,Kılıç ne kadar hızlı savrulursa biçme hasarı o kadar çok olur.
+upgrades.liftorbs.desc,Ek bir asansör küresi kur.
+upgrades.proberecharge.desc,"Sonda, zamanla yavaş yavaş kendiliğinden şarj olur."
+loadout.gadget,CİHAZ
+upgrades.drill4.title,Matkap Gücü 4
+properties.probe.rechargetime,Şarj Doldurma Süresi {} döngü 
+upgrades.keeper2pinballdamage4.title,Kinetik Küre Hasarı 4
+options.game,Oyun
+loadout.prestige.cobalt,Sabit Kobalt Miktarı
+options.input.vibration.strength,Titreşim Gücü
+upgrades.liftcapacity1.desc,Küreler daha çok kaynak taşıyabilir.
+loadout.miner.title,Koşu Seçeneklerini Seç
+level.gameover.stats.difficulty,Zorluk
+upgrades.repellentoverchargestrength2.title,Akın Ertelemeyi Uzat 2
+upgrades.domesandrepairstrong.title,Güçlü Kobalt Tamiri
+upgrades.stunlaserduration1.desc,Sersemletme lazerinin bir sonraki atış için bekleme süresi azalır ve daha uzun ateş eder.
+level.gameover.prestige.score.rankimproved,{rank}. sıraya yükseldin.
+upgrades.stunlaserdamage2.desc,Sersemletme lazerinin verdiği hasarı arttırır.
+upgrades.drillbotstrength4.title,Güç 4
+level.gameover.prestige.title,SAYGINLIK OYUNU BİTTİ
+loadout.secondstage.cancel,İptal
+upgrades.laseraimline.desc,"Lazere, nişan alınan yeri gösteren hedef görüşü ekle."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,Yoğuşturucu çalışmayı durdurmadan önce iki su üretir ve depolar.
+upgrades.swordreflection2.title,Geri Ateşleme 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,Daha hızlı kazmak için matkabı güçlendir.
+properties.laser.hitprojectiles,lazer devinimli menzilli saldırılara ateş eder
+upgrades.dome1damagereduction1.title,Sertleştirme 1
+properties.sword.stabexplosivedamage,Bomba Hasarı {}
+upgrades.drillbotturnaround.title,Gelişmiş İyileştirme
+upgrades.keeper2movement1.title,Yer Çekimsel Hareket 1
+properties.orchard.battleroots,Zeminde {} Kök büyüt
+upgrades.prospectionmeterrange2.title,Menzil 2
+upgrades.jetpackspeed4.title,Hız 4
+upgrades.miner.title,Madenci
+upgrades.repellentdelay2.desc,Bir sonraki canavar akınının ertelenme süresini daha da arttırır.
+upgrades.orchard.desc,"Kubbene, hareketlerini hızlandıracak ve maden çıkarma gücünü arttıracak meyveler veren bir ağaç dik."
+upgrades.artilleryflakexplosionradius1.title,Hava Savunma Etki Alanı 1
+upgrades.shieldbattleelectroblast.desc,Kubbenin etrafında kısa süreliğine ölümcül alan etkisi yaratan aktif bir savaş yeteneğini tetikle.
+upgrades.shredgadgettocobalt.desc,Cihazı parçala ve {amount} kobalt al.
+upgrades.prestigecobalt.title,Kobalt Gönder
+properties.orchard.drillbuff,Maden Çıkarma Gücü Arttırma {}
+upgrades.swordlargeblade2.desc,Daha yavaş ancak ağır hasar veren büyük bir kılıç ekle.
+level.gameover.back,Geri
+options.cancel,İptal
+options.keybindings.action.dome.fire,Ateş 
+upgrades.swordstabshoot.title,Mızrak
+upgrades.blastminingtriple.desc,Büyük bir patlama yerine 3 küçük patlama yapar.
+upgrades.orcharddrill1.title,Madencilik Takviyesi 1
+upgrades.swordextendlong2.title,Uzun Saplama 2
+upgrades.artilleryshotcooldown1.desc,Daha sık ateş et.
+upgrades.keeper2pinballdamagefraction.title,Kinetik Küre Sertlik Aşkınlığı
+upgrades.doublelaser.title,Çift Lazer
+upgrades.jetpackspeed3.title,Hız 3
+upgrades.prestigewater.title,Su Gönder
+properties.orchard.battleabilityuses,Savaş Başı {} Kullanım
+upgrades.liftorbs.title,Küreler 1
+upgrades.repellentoverchargeduration1.title,Savaş Yeteneği Süresini Uzat 1
+upgrades.drill3.desc,Daha hızlı kazmak için matkabı güçlendir.
+level.gameover.prestige.uploading.inprocess,puan yükleniyor...
+loadout.abort,İptal Et
+properties.shield.overchargestrength,Kalkanın Gücünü {}sp Arttır
+level.station.navbar.upgrades,Geliştirmeler
+upgrades.keeper2pinballsplit.desc,Gelen küreleri ikiye bölerek orijinale dikey olarak fırlatır.
+upgrades.proberecharge.title,Otomatik Şarj
+properties.sword.stabrange,Menzil {} 
+upgrades.liftspeed1.title,Hız
+upgrades.domewavecount.desc,Kaç akından sağ çıktığını gösteren bir sayaç kur.
+level.converter.popup.title,Kaynakları Dönüştür
+pause.discord,Discord'da bize katıl
+options.keybindings.action.general.back,İptal
+upgrades.prospectionmeterrange1.desc,Maden arama göstergesinin algı menzilini arttırır.
+upgrades.dome2badrepair1.desc,Kubben bir savaş sırasında çok hasar alırsa bu hasarın bir kısmını kendiliğinden onarır.
+upgrades.prestigecobalt.desc,"Yuvana kobalt gönder, her akında kazandığın saygınlık puanı çarpanını arttırır."
+upgrades.domesandrepair.desc,Kubbenin aldığı hasarı kobaltla onar.
+loadout.skinoptions.title,Kaplamanı Seç!
+loadout.difficulty.medium.description,Kubbenin tasarlanmış zorluğu.
+loadout.difficulty.veryeasy.description,"Kolay değil, yalnızca diğer zorluk seviyelerinden daha rahat."
+options.game.tutorials,Eğitimler
+upgrades.orchardbattlerootingmore.desc,Daha uzun süre dayanacak daha çok kök yetiştir.
+upgrades.probepersist1.title,Hafızalı Sonda
+upgrades.keeper2pinballmorespheres2.title,Küre İkmali 2
+upgrades.orchardjetpack3.desc,Meyvenin verdiği hız etkisini arttırarak çok hızlı hareket etmeni sağlar.
+upgrades.probe.title,Sonda
+upgrades.sword.title,Kılıç
+properties.shield.battledestructionprevention,Ek Süre {}sn
+upgrades.shieldbattlereflect.title,Geri Ateşleme
+pause.gamepadcontrols.use,Kullan
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,İki Kat Depolama
+upgrades.relichunt.desc,Derinlere gömülü eseri bul ve onu kubbene geri getir.
+loadout.mapsize.unlock.description,Bu harita boyutunun kilidini açmak için önceki harita boyutunda bir oyunu kazan.
+properties.sword.stabdamage,Saplama Hasarı {} 
+properties.keeper1.drillstrength,Matkap Gücü {}
+worldmodifier.mapwildbiomes.desc,Bu biyomun kenarları çok düzensiz.
+upgrades.condenser.title,Yoğuşturucu
+upgrades.dome2badrepair2.title,Darbe Telafisi 2
+options.game.screenshake.shakewhenmining,Maden Kazarken Titre
+upgrades.repellentdelay2.title,Erteleme 2
+level.tutorial.assessor.reflect.desc,Gelen kinetik küreleri kısasüreliğine geri ateşlemek için | tuşuna bas.
+properties.drillbot.buffamount,Canlanmanın Verdiği Delme {} vuruş
+upgrades.laserstrength2.title,Lazer Gücü 2
+upgrades.jetpackstrength3.title,Taşıma Gücü 3
+options.keybindings.action.general,Genel
+level.gameover.unlock.gadgetability,Yeni Cihaz Savaş Yeteneği
+upgrades.jetpackstrength1.desc,Daha çok kaynak taşımak için sırt roketini geliştir.
+upgrades.artillerymultishot1.desc,Bir atışta birden çok bomba fırlatır.
+properties.sword.reflectprojectiles,Devinimli Menzilli Saldırıları Geri Ateşle
+upgrades.stunlaser.desc,Küçük canavarları kendiliğinden hedef alan ve sersemleten bir lazer ekle.
+upgrades.orchardbattleshieldstrong.desc,"Menzilli saldırı kalkanları güçlenir, ayrıca güçlendirme kullanıldıktan sonra ek bir yetenek kullanımı kazandırır."
+upgrades.orchardjetpack1.desc,Meyvenin verdiği hız etkisini arttırarak daha hızlı hareket etmeni sağlar.
+upgrades.laser.desc,"Kubben boyunca hareket eden, aslen göktaşlarından maden çıkarmak için üretilmiş hassas bir lazer."
+properties.shield.maxstrength,Güç {} sp
+options.keybindings.action.keeper,Muhafız
+worldmodifier.resourceunpredicatablecobalt.desc,Kobalt daha dağınık ve yerini tahmin etmek zor.
+title.navbar.quit,Masaüstüne Dön
+options.keybindings.rebinding.error.gamepad,Bunu bir oyun kumandası düğmesi olarak belirleyemezsin
+upgrades.repellentbattleslowdownstun1.desc,Sisteki uçucu sporlarla canavarları felç et ve kısa bir süreliğine oldukları yerde kalmalarını sağla.
+upgrades.swordfastreflection.title,Hızlandırılmış Geri Ateşleme
+upgrades.stunlaserduration2.title,Ateş Devamlılığı 2
+level.gameover.lose.title,KUBBENİ KAYBETTİN
+worldmodifier.resourcescatterediron.desc,Etrafta daha çok demir yığını var ancak daha küçükler.
+properties.laser.dps,Hasar {}
+options.game.screenshake.shakeintensity,Titreme Şiddeti
+worldmodifier.hardnessharder.desc,Bu madende daha sert kaya sayısı fazla.
+options.video.stretchmode,Genişletme Modu
+worldmodifier.monsterhealthy.desc,Canavarların sağlık puanı daha fazla.
+level.gameover.stats.mapsize,Harita Boyutu
+loadout.mode.longtime,Uzun Döngüler
+upgrades.swordreflection3.desc,Maksimum alt taban kalkanı boyutu.
+upgrades.repellentbattleslowdownstun2.desc,Uçucu sporları daha sık kullan ve canavarları daha uzun süreliğine felç et.
+upgrades.teleporterteleportresourcesarea.title,Işınlanma Alanı
+upgrades.shieldoverchargeduration2.desc,"Kalkanı güçlendirdikten sonra kullanacağın kalkan savaş yeteneği, bir sonraki akında çok daha uzun süre etkin kalır."
+upgrades.shieldoverchargestrength1.title,Kalkanın Gücünü Arttır 1
+upgrades.drillbotbuffstrength1.desc,"Yemişler, Drillbert'ı daha uzun süre canlı tutar."
+upgrades.orchardoverchargebuffduration.title,Güçlendirme Süresi
+level.tutorial.assessor.spheres.desc3,Her sıçramada gücünü yeniden arttırır.
+loadout.mode.longtime.desc,Akınlar arasındaki süre iki katına çıkar ancak akınlar çok daha şiddetli olur.
+level.tutorial.assessor.spheres.desc2,Bir yön seçin ve küreyi ateşlemek için bırakın.
+upgrades.laserstrength1.desc,Lazerin gücünü arttırır ancak lazer ateşlenirken daha yavaş hareket eder.
+level.tutorial.assessor.spheres.desc1,Kinetik bir küreyi şarj etmek için | basılı tutun.
+upgrades.jetpackstrength4.title,Taşıma Gücü 4
+upgrades.migration.desc,"Bir dünyadan başka bir dünyaya göç et, istilaya uğramadan her birinin kaynaklarını ve eserlerini yağmala."
+upgrades.orcharddrill1.desc,Meyve madenciliği desteğini artırarak biraz daha hızlı madencilik yapmanı sağlar.
+upgrades.keeper2pinballdamage3.desc,Çarpma anında kinetik kürenin kayalara verdiği hasarı iyileştir. Ayrıca döner madencilik hasarını iyileştirir.
+options.accessibility.highlightmonsters,Canavarları Vurgula
+upgrades.prestigecobaltnocobalt.title,Kobalt Gönder
+properties.keeper2.spherebasedamage,Küre Taban Hasarı {}
+upgrades.orcharddrill3.desc,Meyve madenciliği desteğini artırarak çok daha hızlı madencilik yapmanı sağlar.
+properties.converter.cobalttoiron,Bir demir için {} kobalt
+level.tutorial.repair.usecobalt,Kobalt kullanarak kubbeni onarabilirsin. Bu geliştirmeyi kubbe teknoloji ağacında bulabilirsin.
+upgrades.blastminingimpactdetonation.title,Darbe Patlaması
+upgrades.swordfastreflection.desc,Menzilli saldırılar daha hızlı geri ateşlenir.
+upgrades.liftcapacity1.title,Kapasite
+upgrades.artillery.desc,Roketatar
+properties.sword.electricdamage,Elektrikli Kılıç Hasarı {}
+level.station.upgrademenu.close,Kapat
+properties.shield.overchargebattleabilityduration,Ek Yetenek Süresi {.percent}
+pause.title,DURAKLAT
+upgrades.artillerymultishot1title,Zincirleme Atış 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Ek Yetenek Süresi {}sn
+upgrades.orchardbattlerootingexplosion.title,Patlayan Av
+upgrades.blastminingproductiontime1.title,Yapım Süresi
+options.video.stretchmode.scaled.text,"Oyunu sabit bir çözünürlükte işler ve çözünürlüğünüze göre ölçeklendirir.
+Özellikle yazı tiplerinde pikseller olabilir, ancak görsel çizgi hataları yoktur."
+upgrades.orchardduration3.title,Süre 3
+upgrades.domewavecount.title,Döngü Sayacı
+upgrades.shredgadgettoiron.title,Parçalayarak Demir Al
+options.keybindings.rebinding.apply,Uygula
+options.keybindings.restoredefault,Varsayılana Dön
+upgrades.converterironduplication.title,Demiri İki Katına Çıkar
+title.navbar.credits,Emeği Geçenler
+level.gameover.unlock.gadget,Yeni Cihaz
+upgrades.jetpackspeed2.title,Hız 2
+loadout.modeoptions.title,Oyun Modunu seç
+properties.keeper2.spherebaselifetime,Küre Ömrü {}
+options.video.stretchmode.scaled,Ölçeklendirilmiş
+properties.orchard.battleabilityduration,Yetenek Süresi {}sn
+upgrades.repellentbattleslowdownstun1.title,Felç
+loadout.difficulty.medium,Acımasız
+options.audio.volumes,Ses Ayarları
+upgrades.keeper1.title,Mühendis
+upgrades.drillbotsleepless.title,Temel İyileştirme
+upgrades.drillbot.title,Drillbert
+level.tutorial.assessor.carry.desc1,Sana kilitlenene kadar kaynakları çekmek için | basılı tut.
+level.tutorial.assessor.carry.desc2,Bir kaynağı bırakmak için | tuşuna bas.
+level.tutorial.drillbot.sleeping1,"Drillbert, kazamadığı bir duvarla karşılaşınca veya bir süre eylemsiz kalırsa uykuya dalar."
+level.tutorial.assessor.carry.desc3,Bir kaynağı düşürürken bir yöne doğru nişan aldığınızda büyük ölçüde hızlanacaktır.
+level.tutorial.drillbot.sleeping2,Yakınındayken | tuşuna basarak Drillbert'ı uyandır.
+level.tutorial.drillbot.sleeping3,Canlandığında | düğmesine basarak kendi çevresinde dönmesini sağlayabilirsin.
+properties.keeper2.totalspheres,Küreler {}
+upgrades.shieldbattleblastdamage.title,Ölümcül Patlama
+upgrades.domeresourcecounters.desc,Halihazırda elde edilmiş kaynakların miktarını gösterir.
+upgrades.swordextendlong1.desc,Güçlendirilmiş saplama ve uçuş halinde arttırılmış yönlendirme yeteneği sağlar.
+worldmodifier.resourcerichwater.desc,Bu dünyada çok su var.
+upgrades.drillbotstrength1.desc,Drillbert'ın kazma gücünü arttırır.
+upgrades.stunlaserautonomy1.desc,Basit bir yapay zekâ kontrol merkezinde olmasan da sersemletme lazerini kontrol eder.
+properties.blastmining.radius,Patlama çapı {} kare
+upgrades.jetpackstrength1.title,Taşıma Gücü 1
+options.keybindings.apply,Uygula
+upgrades.laserstrength2.desc,Lazerin gücünü büyük ölçüde arttırır ancak lazer ateşlenirken çok daha yavaş hareket eder.
+properties.laser.movespeedwhilefiring,Ateş Ederken Lazer Hızı {.percent}
+properties.probe.markerretention,İşaret Belleği {}sn
+upgrades.swordexplosivereflection.title,Patlayıcı Geri Ateşleme
+upgrades.condenserspeed2.desc,Yoğuşmayla bir su oluşturmak için gerekli süreyi daha da kısaltır.
+upgrades.condenserspeed2.title,Üretim Hızı 2
+properties.stunlaser.firetime,Ateş Süresi {}sn
+options.input.gamepad.gamepadstickdeadzone,Kontrol çubuğunun aktif olmadığı alan
+upgrades.keeper2movement2.desc,Daha hızlı hareket etmek için yer çekimi üreticiyi geliştir.
+upgrades.shieldbattlelongerafterdepletion.desc,Kalkan süresi dolduktan sonra patlama tetiklendiyse daha uzun sürer.
+properties.laser.bend,lazer otomatik nişanı {}
+level.station.upgrademenu.buy,Satın Al
+properties.drillbot.plantgrowthtime,Yemiş Büyüme Süresi {} döngü
+level.gameover.continue,Devam Et
+upgrades.repellentoverchargeduration1.desc,"Hazneyi su kullanarak güçlendirmek, aynı zamanda bir sonraki akında kullanacağın itici savaş yeteneğinin süresini uzatır."
+upgrades.artilleryshotcooldown1.title,Bekleme Süresi 1
+worldmodifier.resourceunpredicatablewater.desc,Su daha dağınık ve yerini tahmin etmek zor.
+level.tutorial.blastmining.popup_1,Patlayıcıyı al ve kayaları yok etmek istediğin yere bırak.
+ending.thankyoumessage,Oynadığın için teşekkürler!
+options.keybindings.rebinding.error.keyboard,Bunu bir klavye tuşu olarak belirleyemezsin
+upgrades.keeper2pinballdamagefraction.desc,"Kinetik küre, kaya sert yapısını aşar ve kayaya sağlamlığının sabit bir oranı kadar hasar verir."
+upgrades.swordlargeblade1.title,Okkalı Kılıç 1
+upgrades.shredgadgettoiron.desc,Cihazı parçala ve {amount} demir al.
+upgrades.drillbot.desc,Maden kazmaya bayılan tatlı bir yaratık sahiplen. Onu madene taşı ve kazmasını istediğin yere bırak. İş üstünde uyuyakaldığında onu uyandırmak için yanına dön.
+properties.dome.autohealdamagethreshold,{} sp'den daha fazla hasar aldığında etkinleştir
+upgrades.dome3health1.title,Sağlamlık 1
+title.navbar.updates.close,Kapat
+upgrades.swordaimline.desc,Kılıcın saplanacağı noktayı belirleyen bir lazer görüşü ekle.
+upgrades.shieldoverchargeduration1.title,Savaş Yeteneği Süresini Uzat 1
+level.converter.popup.explanation,Başlamak için bir kaynak dönüşümü seç!
+upgrades.drillbotbuff1.title,Yemişler
+title.navbar.credits.close,Kapat
+upgrades.keeper2movement3.desc,Daha hızlı hareket etmek için yer çekimi üreticiyi geliştir.
+pause.quittotitlescreen,Ana Menüye Dön
+loadout.prestige.countdown.description,Saygınlık çarpanı yüksek başlar ve her döngüde azalır.
+upgrades.drill3.title,Matkap Gücü 3
+upgrades.probestage1.title,Geliştirilmiş Sonda
+properties.sword.stabarrowhead,Ok Ucunu Büyüt
+loadout.mapsize.huge.description,En uzun oyunlar için devasa bir harita.
+properties.sword.stabspeed,Saplama Hızı {.percent} 
+level.tutorial.teleporter.take1,Işınlayıcının bir istasyonu ve portalı vardır. Bunlar arasında ışınlanabilirsin.
+worldmodifier.mapmaze.desc,Bu maden ocağı bir labirent.
+level.tutorial.teleporter.take2,Portalı tut ve istediğin yere yerleştir.
+options.keybindings.action.dome.battleability1,Savaş Yeteneği
+upgrades.laserbend.desc,"Lazere, hedef yaklaşırsa aldığın nişanı kendiliğinden düzelten bir döner baş ekle."
+options.video.graphicsmode.fullscreen,Tam Ekran
+options.keybindings.action.general.down,Aşağı
+level.tutorial.assessor.spheres,Kinetik Küreler
+level.tutorial.mineraltree1,"Bir mineral ağacı tohumu buldun. Bu tohum, kökleri kareye doğru büyüyen bir ağaca dönüşebilir ve kökle çevrelenen karelerin kaynaklarına bağlı olarak kaynaklar büyütür.
+Tohumu ekmek için bir karenin üzerine bırak."
+upgrades.blastmining.desc,Kubbenin altına su kullanarak patlamalar yaratacak bir makine ekle. Onu madenlere taşı ve bırakarak patlat.
+properties.sword.stabcooldown,Uzatma Bekleme Süresi {}sn 
+upgrades.repellentoverchargestrength2.desc,"Güçlendirdikten sonra, bir sonraki akına kadar olan ertelenme süresini daha da uzatır."
+upgrades.probeswift1.desc,"Çokça şarj yuvasına sahip, hızlı ancak kısa menzilli bir sonda kullan."
+properties.drillbot.buffextraamount,Ek Delme {} vuruş
+level.gameover.unlock.keeper,Yeni Muhafız
+upgrades.prospectionmeter.title,Maden Arama Göstergesi
+upgrades.shieldbattleactivateondepletion.desc,Kalkan süresi bittiğinde dokunulmazlık kendiliğinden ek süreyi etkinleştirir.
+upgrades.dome2badrepair1.title,Darbe Telafisi 1
+upgrades.swordtargetlock.title,Hedef Kilitleme
+upgrades.laserhitprojectiles.title,Menzilli Saldırıları Yok Et
+upgrades.keeper2pinballreflectspeedup1.title,Geliştirilmiş Geri Ateşleme
+properties.shield.battleuses,Savaş Başı {} Kullanım
+options.game.events,Etkinlikler
+upgrades.artilleryflakexplosionradius1.desc,Hava savunma patlaması daha geniş alana etki eder.
+properties.keeper1.speedlosspercarry,Taşıma Yavaşlaması {}
+pause.gamepadcontrols.back,Geri
+level.gameover.unlocknewelementbutton,Kilidini aç
+upgrades.prospectionmeteriron2.desc,En yakın demir yataklarının yönünü gösterir.
+upgrades.prestige.desc,Kubben yıkılmadan veya gezegeni güvenle terk etmeden yuvana olabildiğince çok kaynak göndererek puan kazan.
+properties.prestige.multiplier,Akın başına {} Saygınlık Çarpanı
+options.input.controls,Kontroller
+properties.sword.reflectionacceleration,Geri Ateşlenen Menzilli Saldırı Hızı {.percent}
+loadout.difficult.easier,daha kolay
+upgrades.keeper2pinballreflectdamage1.title,Yansıtma Hasarı 1
+properties.sword.extendspeed,Uzatma Hızı {} 
+properties.keeper2.reflectspeedup,Geri Ateşlemedeki Küre Hızı {.percent}
+loadout.mode.doubleiron,Çift Demir
+upgrades.dome3.desc,demoda mevcut değil
+properties.condenser.growthtime,Yapım Süresi {} döngü
+options.game.languages,Diller
+worldmodifier.mapwidebottom.desc,Maden ocağının girişi dar ama derine indikçe genişliyor.
+loadout.mode.maze,Labirent
+upgrades.dome2health1.desc,Kubbenin yapısal sağlamlığını kalıcı olarak arttır ve kubbeyi onar.
+properties.drillbot.drillstrength,Matkap Gücü {}
+upgrades.keeper2.desc,Deneysel yerçekimi teknolojisi kullanan sıradışı bir madenci.
+properties.orchard.battleshields,Kalkan Katmanları {}
+level.tutorial.sworddome.reflecting.desc,Menzilli saldırıları durdurmak hatta onları yansıtmak için kılıcın alt taban kalkanını kullan.
+options.audio.volumes.musicvolume,Müzik Sesi
+loadout.dome,KUBBE
+upgrades.swordlongblade2.title,Uzun Kılıç 2
+upgrades.laseraimline.title,Lazer Görüşü
+level.tutorial.assessor.bundle.desc1,Bir paketi şarj etmek için kaynakları taşırken | basılı tut.
+options.keybindings.keyboard,Klavye
+level.tutorial.assessor.bundle.desc2,Kinetik bir küreyi ateşlediğin gibi nişan al ve serbest bırak.
+properties.prestige.score,{} Saygınlık
+worldmodifier.mapdeep.desc,Maden ocağı daha derin ve dar.
+upgrades.repellentbattleslowdownstun2.title,Güçlü Felç
+upgrades.keeper2pinballmorespheres1.title,Küre İkmali 1
+upgrades.prestigewater.desc,"Yuvana su gönder, her akında kazandığın saygınlığa 1 puan ekler."
+properties.keeper2.bundlestopcenter,Merkez Sütun Yerçekimi Alanı
+upgrades.stunlaserdamage1.title,Hasar 1
+upgrades.keeper2pinballlifetime1.title,Kinetik Küre Yaşam Süresi 1
+properties.repellent.battleslowdown,Canavar Yavaşlatma {.percent}
+upgrades.swordextendlong1.title,Uzun Saplama 1
+level.gameover.stats.distancetravelled,Seyahat Edilen Mesafe
+properties.keeper2.reflectlifetime,Geri Ateşlemedeki Ek Küre Ömrü {}s
+upgrades.blastminingimpactdetonation.desc,Bir yüzeyle temas halindeyken patlama yaşanır.
+properties.keeper2.spheresplit,Gelen Küreleri Böl
+options.keybindings.action.dome.upgrade,Geliştirmeler
+worldmodifier.resourcepoorcobalt.desc,Bu dünyada az kobalt var.
+pause.resumegame,Oyuna Devam Et
+level.gameover.unlock.difficulty,Yeni zorluk seviyesinin kilidi açıldı!
+properties.stunlaser.cooldown,Bekleme Süresi {}sn
+options.keybindings.action.general.right,Sağ
+level.tutorial.assessor.mining.desc,"Tek bir kayayı çıkarmak için, dönen kinetik küreyi ona doğru hareket ettirebilirsiniz."
+upgrades.teleporterteleportresourcesback.title,Kaynakları Işınlama
+upgrades.dome1.title,Lazerli Kubbe
+upgrades.keeper2bundleinfinite.title,Sağlam Paket
+upgrades.repellentdelay1.title,Erteleme 1
+upgrades.miner.desc,Canavarların olmadığı dünyalarda dikkatin dağılmadan mümkün olduğunca çok kaynak çıkarmaya konsantre olabilirsin.
+upgrades.repellentbattlestrongerslowdown1.desc,"Sis, canavarları daha da yavaşlatır ve etkisi daha uzun sürer."
+upgrades.teleporterteleportresourcesarea.desc,"Geçit, öncesine göre daha geniş bir alandan kaynak ışınlayabilir."
+upgrades.dome3.title,Toplu Kubbe
+upgrades.swordstabshoot.desc,"Kılıç, bir kabloyla geri çekilmek yerine gerilerek kubbeden mızrak gibi fırlatılır."
+upgrades.repellentbattledamageovertime.desc,"Tüm canavarlar, zehirli duman etkili olduğu her saniye ufak bir miktar hasar alır."
+upgrades.shieldbattleactivateondepletion.title,Tükenirken Etkinleştir
+upgrades.artillerymultishot2.desc,Bir atışta birden çok bomba fırlatır.
+upgrades.dome1health2.title,Sağlamlık 2
+worldmodifier.monsterlethal.desc,Canavarlar daha ölümcül ve daha çok hasar veriyor.
+loadout.pet,Evcil hayvan
+options.keybindings.action.general.move,Hareket
+upgrades.orcharddrill3.title,Madencilik Takviyesi 3
+options.translation.title,DİLİNİ SEÇ
+upgrades.prospectionmeterrange1.title,Menzil 1
+upgrades.dome2badrepair2.desc,Kubben bir savaş sırasında çok hasar alırsa bu hasarın daha büyük bir kısmını kendiliğinden onarır.
+options.audio.volumes.ambiencevolume,Ortam Sesi
+upgrades.prestigecobaltnocobalt.desc,"Yuvana kobalt gönder, her akında kazandığın saygınlık puanı çarpanını arttırır."
+worldmodifier.maparms.desc,Bu maden ocağında daha çok yarık var.
+loadout.prestige.countdown,Geri sayım
+upgrades.keeper2pinballdamage2.title,Kinetik Küre Hasarı 2
+upgrades.jetpackspeed1.title,Hız 1
+upgrades.minerrefuel.title,Yakıt İkmali
+upgrades.teleporterteleportduration1.title,Işınlanma Süresi
+properties.probe.charges,Şarj {}
+loadout.miner.fuel.title,Tam
+exhibition.title.press.anything,Oynamak için bir tuşa bas
+loadout.mode,MOD
+level.tutorial.sworddome.slicing,Biç
+properties.condenser.autoovercharge,Otomatikleştirilmiş Fazla Güçlendirme
+upgrades.teleporterteleportduration1.desc,Kendini ışınlamak daha kısa sürer.
+upgrades.minerwater.title,Su Gönder
+title.navbar.continue,Devam Et
+upgrades.orchardbattleshield.desc,Kubbeyi menzilli saldırılardan koruyan bir kubbe kalkanı geliştir.
+upgrades.liftcarrykeeper1.title,Muhafız Asansörü 1
+options.input.controls.keybindings,Tuş Atamaları
+properties.keeper2.bundlespheres,Paket Küreler
+upgrades.shieldovercharge.title,Kalkanı Güçlendir
+properties.condenser.overchargedelay,Yapım Gecikmesi {} döngü
+upgrades.keeper2.title,Uzman Madenci
+level.tutorial.assessor.mining,Döner Madencilik
+upgrades.repellentoverchargeduration2.title,Savaş Yeteneği Süresini Uzat 2
+upgrades.swordblade1.title,Biçme Geliştirmesi
+properties.converter.irontoiron,Bir demir için {} demir
+exhibition.level.description,... içinde ana menüye dönülüyor
+level.tutorial.assessor.mining.desc2,İlk önce yön tuşlarını bırakarak bir küre ateşlemeden madenciliği durdurabilirsin.
+worldmodifier.monsterslow.desc,Canavarlar daha yavaş.
+upgrades.orcharddrill2.desc,Meyve madenciliği desteğini artırarak daha da hızlı madencilik yapmanı sağlar.
+loadout.difficulty.easy.description,Birçok açıdan daha kolay.
+upgrades.swordstabexplode.title,Bombalı Saplama
+level.gameover.stats.additionalgadget,Ek Cihaz
+upgrades.drillbotbuffstrength2.desc,"Yemiş tükettikten sonra Drillbert, uykusu gelmeden çok daha uzun süre çalışır."
+upgrades.laserstrength3.desc,Lazerin gücünü fazlasıyla arttırır ancak lazer ateşlenirken çok az hareket eder.
+loadout.mapsize.medium,Orta
+loadout.difficulty.hard,Bunu kendin istedin.
+level.gameover.stats.wavessurvived,Sağ Çıkılan Akınlar
+properties.stunlaser.damage,Hasar {}
+options.keybindings.rebinding.cancel,İptal
+level.tutorial.sworddome.stabbing.desc,Kılıcı uzat ve uzaktaki düşmanlara kılıç sapla.
+level.gameover.unlock.gamemodevariant,Yeni Oyun Modu Türü
+upgrades.prestigefinish.title,Gezegeni Terk Et
+properties.keeper2.bundleduration,Paket Ömrü {.percent}
+upgrades.shieldstrength3.title,Güç 3
+options.audio.volumes.mastervolume,Ana Ses
+upgrades.shieldbattlelongerafterdepletion.title,Tükenme Güçlenmesi
+options.keybindings.text,"Kontrolleri dileğin gibi eşleştir.
+Farklı bölümlerden tuşlar genellikle sorunsuz bir şekilde örtüşür (muhafızını ve kubbe silahını hareket ettirmek için aynı tuşları kullanabilirsin)."
+properties.shield.battleblastdamage,Saniye başı {} patlama hasarı
+loadout.mapsize.large.description,Bir saatten fazla sürecek oyunlar için büyük bir harita.
+upgrades.drill4.desc,Daha hızlı kazmak için matkabı güçlendir.
+upgrades.drillbotsleepless.desc,"Drillbert, uykusu gelmeden çok daha uzun süre çalışır."
+upgrades.swordlargeblade2.title,Okkalı Kılıç 2
+upgrades.swordlongblade2.desc,"Kılıç hızını daha da arttırır, kılıç yere vurduğunda geri seker."
+upgrades.prestigefinishnocobalt.title,Gezegeni Terk Et
+worldmodifier.hardnessmoderated.desc,Çok sert ve çok yumuşak kaya sayısı hayli az.
+upgrades.converterironduplication.desc,Demiri çoğalt.
+upgrades.prestigefinish.desc,Bu gezegeni terk et ve yuvana dön.
+upgrades.dome2health2.desc,Kubbenin yapısal sağlamlığını kalıcı olarak arttır ve kubbeyi onar.
+upgrades.prestige.title,Saygınlık
+upgrades.liftcarrykeeper1.desc,"Asansör, içinde yukarı doğru hareket ederken hızını arttırır."
+upgrades.repellentbattlehealthreduction.desc,Mevcut tüm canavarları güçsüzleştirir ve kalan canlarını anında azaltır.
+upgrades.dome2.title,Kılıçlı Kubbe
+worldmodifier.monsterfast.desc,Canavarlar daha hızlı.
+upgrades.condenserautocollect.desc,"Oluşan su, almana gerek kalmadan kendiliğinden toplanır."
+upgrades.lift.title,Asansör
+options.game.screenshake,Ekran Titremesi
+options.keybindings.action.dome,Kubbe
+upgrades.swordstabexplodedamage.desc,Bomba hasarını arttırır.
+level.gameover.stats.resourcesmined,Çıkarılan Kaynaklar
+worldmodifier.resourcepoorwater.desc,Bu dünyada az su var.
+upgrades.prospectionmeter.desc,En yakın kaynaklara olan mesafeyi görmeni sağlayan bir gösterge. Ayrıca yönü de göstermesi için geliştirilebilir.
+upgrades.shredgadgettocobalt.title,Parçalayarak Kobalt Al
+upgrades.swordelectrified.desc,Kılıçtaki elektrik akımı dokunduğu an hedefe hasar verir.
+upgrades.artilleryflakexplosionradius2.desc,Hava savunma patlaması daha geniş alana etki eder.
+upgrades.prospectionmeterwater1.title,Su Göstergesi
+upgrades.minerwater.desc,Prestijini artırmak için suyu dünyanın dışına gönder.
+options.video.graphicsmode,Görüntüleme Modu
+upgrades.shieldbattlereflectspeedup.desc,Menzilli saldırılar daha hızlı geri ateşlenir ve saldırgana isabet etme şansları artar.
+properties.shield.battleblaststun,Patlama Sersemletmesi {}
+loadout.mode.hyperactive.desc,Canavarlar daha hızlı hareket eder ama canları daha azdır.
+upgrades.swordstabexplode.desc,"Kılıcın ucuna bağlı bir bomba bulunur; bu bomba, kılıcın saplandığı ilk düşmanın üstünde patlar."
+upgrades.swordstabfast2.title,Hızlı Saplama 2
+upgrades.converterefficientwater.desc,Su dönüşümleri daha verimlidir ancak daha uzun sürer.
+upgrades.orchardduration1.desc,Meyvenin etkileri daha uzun sürer.
+loadout.difficulty.title,Zorluk
+exhibition.level.heading,Hâlâ orada mısın?
+level.gameover.unlock.gamemode,Yeni Oyun Modu
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Güçsüzleştirme
+upgrades.teleporterteleportreactivate.title,Kişisel Işınlanmayı Tekrar Aktif Hale Getir
+loadout.miner.scores,"20 döngüden sonra yüksek bir puana ulaşmak için kaynakları bir roketle gezegenden gönder. Prestij moduyla aynı, ancak bunda canavarlar yok."
+options.audio,Ses
+upgrades.repellentovercharge.desc,"Hazneyi su kullanarak güçlendirmek, bir sonraki itici sıvı deposunu daha hızlı üretmeni sağlar."
+upgrades.domewavemeter.title,Düşman Yakınlık Göstergesi
+upgrades.prospectionmeterrange2.desc,Maden arama göstergesinin algı menzilini daha da arttırır.
+upgrades.keeper2pinballreflectspeedup1.desc,"Küreler geri ateşlendiklerinde güç kazanırlar, bu da hızlanmalarına ve daha uzn süre hareket halinde kalmalarını sağlar."
+upgrades.shieldoverchargestrength1.desc,Güçlendirilmiş kalkanın emeceği hasarı arttırır.
+upgrades.repellentdelay1.desc,Bir sonraki canavar akınının ertelenme süresini arttırır.
+upgrades.repellentbattlelongerhealthreduction.title,Yoğun Güçsüzleştirme
+upgrades.swordtargetlock.desc,Kılıç saplanmak üzere ateşlendiğinde hedef aldığı ilk canavara kendiliğinden kilitlenir.
+upgrades.orchardovercharge.desc,"Meyve ağacını güçlendirmek için su kullan, böylece ağaç daha sık meyve verir."
+upgrades.orchardbattlerootingmore.title,Güçlü Kökler
+upgrades.swordextendlong2.desc,Daha da güçlendirilmiş saplama ve uçuş halinde daha hassas kontrol sağlar.
+upgrades.swordstabfast1.title,Hızlı Saplama 1
+upgrades.probelong1.desc,Sonda titreşiminin menzili artar ancak bir şarj yuvası eksilir.
+upgrades.repellent.title,Canavarsavar
+worldmodifier.monsterwavesspaced.desc,Canavar akınları arasındaki süre fazla.
+upgrades.artilleryflakexplosionradius2.title,Hava Savunma Etki Alanı 2
+properties.drillbot.amount,Delme {} vuruş
+upgrades.repellentdelay3.title,Erteleme 3
+ending.appreciationmessage,"Umarız eğlenmişsindir! Geribildirimlere her zaman açığız, lütfen düşüncelerini Discord veya Steam Forumlarından paylaş :)"
+properties.orchard.battlerootexplosion,Patlama Hasarı {}
+upgrades.orchardduration3.desc,Maksimum meyve etki süresi.
+upgrades.dome1damagereduction2.desc,Kubbenin yüzeyini canavarların yakın saldırılarından daha az hasar alacak şekilde daha fazla sertleştir.
+properties.orchard.speedbuff,Hareket Hızı Arttırma {}
+upgrades.jetpackspeed2.desc,Daha hızlı hareket etmek için sırt roketini geliştir.
+upgrades.jetpackspeed3.desc,Daha hızlı hareket etmek için sırt roketini geliştir.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,Seçenekler
+properties.repellent.battledamageovertime,Canavarlar saniyede {} hasar alır
+upgrades.repellentoverchargestrength1.title,Akın Ertelemeyi Uzat 1
+upgrades.repellentoverchargestrength1.desc,"Güçlendirmek, aynı zamanda bir sonraki akına kadar olan ertelenme süresini uzatır."
+upgrades.blastminingproductiontime1.desc,Patlama yaratmak için gereken süreyi azaltır.
+properties.teleporter.teleportresourcescooldown,Kaynak Işınlama Süresi {}sn
+upgrades.artilleryflakmultishot1.desc,Menzilli saldırıların miktarını arttır.
+properties.converter.ironcobalttime,Dönüşüm süresi {} döngü
+options.title,SEÇENEKLER
+options.video.graphicsmode.window,Pencere
+properties.shield.battlereflectspeedup,Geri Ateşlenen Menzilli Saldırı Hızı {.percent}
+upgrades.swordaimline.title,Nişan Çizgisi
+level.tutorial.drillbot.handling1,| tuşuna basarak Drillbert'ı tekrar al.
+upgrades.probestage1.desc,Sondayı genel olarak geliştirir.
+level.tutorial.drillbot.handling2,Zemindeyse | tuşuna basarak yönünü değiştir.
+options.keybindings.rebinding.capture,Gir
+properties.probe.range,Menzil {} kare
+properties.stunlaser.speed,Hız {}
+properties.probe.impulsespeed,Sinyal Hızı {}
+upgrades.domehealthmeter.title,Sağlamlık Göstergesi
+options.audio.music.frequency,Frekans (müziksiz döngüler)
+options.audio.volumes.soundvolume,Ses Efektleri
+properties.sword.slicebounceback,Kılıç Yere Vurduğunda Geri Seker
+upgrades.jetpackspeed4.desc,Daha hızlı hareket etmek için sırt roketini geliştir.
+worldmodifier.monsterfragile.desc,Canavarların sağlık puanı daha az.
+level.gameover.prestige.score.personalbest,Yeni rekorun!
+properties.prestige.baseperwave,Akın başına {} temel Saygınlık
+loadout.choices.comingsoon,Henüz yok ama yakında gelecek.
+upgrades.doublelaser.desc,İkinci bir lazer kulesi kurar ancak ateş gücünü iki lazer arasında böler.
+upgrades.jetpackstrength2.title,Taşıma Gücü 2
+upgrades.keeper2bundlestopcenter.title,Yerçekimi Merkezi
+properties.keeper2.spherelifetimeperbounce,Her sıçramada Ek Küre Ömrü {}s
+upgrades.converterefficientcobalt.desc,Kobalt dönüşümleri çok daha verimlidir ancak hayli uzun sürer.
+properties.orchard.buffduration,Güçlendirme süresi {} döngü
+upgrades.domesandrepair.title,Kobalt Tamiri
+properties.keeper1.maxspeed,En Yüksek Hız {}
+level.station.upgrademenu.cost,Bedel
+upgrades.lasermove1.title,Hareket Hızı 1
+level.tutorial.sworddome.reflecting,Yansıt
+loadout.petoptions.title,Evcil hayvanını seç!
+level.station.upgrademenu.inventory,Envanter
+level.gameover.unlockpicker.title,KİLİDİNİ AÇ
+level.gameover.proceedtounlock,Yeni bir elementin kilidini aç
+upgrades.artilleryshotcooldown2.desc,Daha sık ateş et.
+level.gameover.keepgadget.title,Bir sonraki oyun için yanında bulunduracağın bir cihaz seç
+level.station.battle.navbar.shoot,Ateş
+upgrades.repellentbattlestrongerslowdown1.title,Hareketsizlik
+upgrades.dome2.desc,"Muhafızların, saldırganları alt etmek için kullanabileceği hareketli bir kılıca sahip güçlü bir kubbe."
+loadout.difficulty.easy,Zor
+upgrades.condenserautocollect.title,Otomatik Toplama
+upgrades.orchard.title,Meyve Ağacı
+upgrades.keeper2pinballreflectspeedup2.desc,Geri ateşlendiklerinde küreler yoğun bir şekilde güçleniler.
+upgrades.laserstrength1.title,Lazer Gücü 1
+upgrades.lasermove2.title,Hareket Hızı 2
+upgrades.shieldbattlereflectshortuses.desc,Daha kısa bir süreliğine daha sık geri ateşle.
+options.keybindings.action.keeper.drop,Bırak
+level.converter.popup.conversion.to,dönüştürmek
+upgrades.repellent.desc,Canavar itici sıvı üreten bir hazne kur. Sıvıyı kubbenin dışına püskürterek canavar akınlarını geciktirmek için hazneyi etkinleştir.
+properties.repellent.battlehealthreduction,Canavar Canı Azaltma {.percent}
+loadout.mode.hyperactive,Hızlı ve Çelimsiz
+loadout.prestige.miner,Miner
+upgrades.converter.title,Kaynak Dönüştürücü
+properties.condenser.waterstorage,{} su depolar
+upgrades.jetpackstrength2.desc,Daha çok kaynak taşımak için sırt roketini geliştir.
+level.station.navbar.exit,Çıkış
+options.accessibility.photosensitivity.explanation,Işık titremelerini azaltır.
+properties.orchard.overchargeadditionalabilityuses,Büyütmeden sonra {} ek yetenek kullanma
+worldmodifier.resourcepooriron.desc,Bu dünyada az demir var.
+level.gameover.backtomainmenu,Ana menüye dön
+upgrades.orchardbattlerooting.desc,Savaş sırasında etkinleştirerek kubbenin dışına uzayan kökler büyüt. Bu kökler onlara basan orta büyüklükteki her canavarı tuzağa düşürür.
+upgrades.keeper2pinballreflect.desc,"Etrafında yüksek güçlü, küçük bir yer çekimi alanıyla küreleri yansıt."
+upgrades.laser.title,Lazer
+options.game.tutorials.resettutorials,Eğitimleri Sıfırla
+properties.converter.ironirontime,Dönüşüm süresi {} döngü
+loadout.secondstage.start,Oyuna Başla
+upgrades.artilleryflakmultishot2.desc,Menzilli saldırıların miktarını arttır.
+upgrades.swordreflection2.desc,Daha da geniş alt taban kalkanı verir.
+upgrades.lasermove3.title,Hareket Hızı 3
+upgrades.lasermove1.desc,Lazer daha hızlı hareket eder.
+properties.lift.orbs,{} Küre
+level.station.battle.navbar.move,Hareket
+upgrades.orchardjetpack2.title,Sırt Roketi Hızlandırması 2
+options.audio.music,Müzik
+worldmodifier.resourceunpredicatableiron.desc,Demir yığınları daha dağınık ve yerini tahmin etmek zor.
+properties.dome.maxhealth,Sağlamlık {}sp
+upgrades.condenserspeed1.title,Üretim Hızı 1
+properties.repellent.battleuses,Savaş Başı {} Kullanım
+upgrades.shieldstrength2.desc,Kubbe kalkanının emebileceği hasar miktarını daha da arttırır.
+upgrades.drillbotbuffstrength2.title,Taurin Takviyesi
+upgrades.keeper2pinballreflectdamage2.desc,Yansıtılmış küreler çarptıkları sonraki kayaya çok daha fazla hasar verirler.
+level.paused,Duraklatıldı
+level.tutorial.sworddome.stabbing,Sapla
+upgrades.stunlaserspeed1.title,Hız 1
+upgrades.domehealthmeter.desc,Kubbenin yapısal sağlamlığını gösterir.
+upgrades.swordlargeblade1.desc,Kılıcı genişletip uzatarak hasarını arttır.
+pause.quitgame,Oyundan Çık
+level.station.battle.navbar.slice,Biç 
+level.gameover.stats.timeplayed,Oynanan Süre
+properties.teleporter.teleportresources,Kaynakları Işınla
+upgrades.drillbotstrength2.desc,Drillbert'ın kazma gücünü arttırır.
+level.tutorial.drop.popup_2,"| tuşuna basarak bir kaynağı, basılı tutarak birden çok kaynağı bırak."
+level.gameover.keepgadget.keeping,Bulundurulacak cihaz: {gadget}
+level.tutorial.drop.popup_1,Taşınan kaynaklar seni yavaşlatır.
+worldmodifier.maprugged.desc,Maden ocağı sert ve engebeli.
+level.tutorial.onewayteleporter1,Tek yönlü bir ışınlayıcı buldun!
+properties.sword.aimline,Öngörülen Nişan
+upgrades.keeper2bundle.desc,"Bağlı mineraller, kinetik küreleri ateşlediğin gibi bir grup halinde ateşlenebilir."
+level.tutorial.onewayteleporter2,Gözü yerleştirmek için | tuşuna bas.
+level.tutorial.onewayteleporter3,Geri ışınlanmak için tekrar bas.
+properties.lift.capacity,Küre {} kaynak taşır
+properties.shield.battleabilityduration,Yetenek Süresi {}sn
+level.tutorial.teleporter.carry2,Yakınındayken | tuşuna basarak geçidi tekrar tut.
+level.tutorial.teleporter.carry3,| tuşuna basarsan geri ışınlanırsın.
+upgrades.minerrefuel.desc,"Suyu yakıta dönüştür ve kubbenin yakıt deposunu doldurmak için kullan, böylece muhafızına yakıt ikmali yapabilirsin."
+level.tutorial.teleporter.carry1,Geçidi istediğin yere yerleştirebilirsin.
+options.keybindings.cancel,İptal
+level.tutorial.probe.popup_1,Bir sonda sinyali göndermek için | tuşuna bas.
+upgrades.liftcarrykeeper2.desc,"Asansör, hızını daha da arttırır."
+level.tutorial.probe.popup_3,"Yakınlardaki bazı kaynakların yerini açığa çıkarır.
+Kontrol merkezini kullanarak yeniden şarj et."
+worldmodifier.resourcerichcobalt.desc,Bu dünyada çok kobalt var.
+upgrades.keeper2pinballdamage4.desc,Çarpma anında kinetik kürenin kayalara verdiği hasarı iyileştir. Ayrıca döner madencilik hasarını iyileştirir.
+properties.sword.stabexplosive,Uç Bombası Takıldı
+properties.drillbot.turnaround,Sert bir duvara vururken etrafında dön
+upgrades.shieldstrength1.title,Güç 1
+properties.repellent.overchargewavedelay,Ek Akın Erteleme {} döngü
+upgrades.swordreflection3.title,Geri Ateşleme 3
+upgrades.dome1.desc,Hassas bir lazerle donatılmış standart maden kubbesi.
+level.tutorial.drillbot.carry,Drillbert'ı haznesinden çıkar ve madende kazmasını istediğin yere yerleştir.
+upgrades.lift.desc,"Kubbeye, işlenmek üzere çıkarılmış kaynakları taşıyacak özdevinimli bir asansör kur."
+upgrades.dome1health2.desc,Kubbenin yapısal sağlamlığını kalıcı olarak arttır.
+upgrades.converterefficientwater.title,Verimli Su Dönüşümü
+loadout.difficulty.hard.description,"Eh, demek Kubbeni kaybetmek istiyorsun."
+upgrades.artillerymultishot2.title,Zincirleme Atış 2
+upgrades.swordelectrified.title,Elektrikli Kılıç
+upgrades.drillbotstrength3.desc,Drillbert'ın kazma gücünü arttırır.
+upgrades.shieldbattleinvulnerable.title,Dokunulmazlık
+upgrades.keeper2rotationalmining2.title,Gelişmiş Döner Madencilik
+upgrades.stunlaserautonomy1.title,Bağımsızlık
+level.tutorial.teleporter.teleport1,"Portala yakın olduğunda, geri ışınlanmak için | düğmesine bas."
+level.tutorial.teleporter.teleport2,Diğer yönde de ışınlanabilirsin.
+level.gameover.prestige.uploading.failed,"yükleme başarısız, tekrar deneniyor"
+upgrades.lasermove2.desc,Lazer daha da hızlı hareket eder.
+loadout.mapsize.title,Harita Boyutu
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Patlama 1
+upgrades.drillbotturnaround.desc,"Drillbert, yıkılmaz bir duvarla karşılaşırsa uyuklamak yerine geri döner."
+properties.dome.baserepair,{}sp onar
+upgrades.condenserautoovercharge.desc,Birincil cihazını su tüketmeden kalıcı olarak fazladan güçle doldurur. Fazla güçle doldurulduktan sonra yoğuşturucunun su üretimi ertelenir.
+upgrades.teleporterteleportresourcesback.desc,Geçit artık kaynakları ışınlayabilir ancak seni ışınlayamaz. Yine de kubbeden geçide ışınlanabilirsin.
+ending.wishlistonsteam,Steam'de İstek Listesi'ne ekle
+properties.sword.reflection,Alt Taban Kalkanı Boyutunu Arttır
+upgrades.drillbotduplicate.desc,Drillbert'ın Drilliam adında bir ikizi olur.
+level.converter.popup.conversion.convert,için
+leaderboard.loading,loading...
+properties.converter.watertoiron,Bir demir için {} su
+title.navbar.options,Seçenekler
+upgrades.swordexplosivereflection.desc,Geri ateşlenen menzilli saldırılar bir cisme çarpınca patlar.
+upgrades.shieldbattlereflectshortuses.title,Süreli Geri Ateşleme
+level.gameover.unlock.skin,Yeni dış görünümün kilidi açıldı!
+level.gameover.stats.destroyedblocks,Yok Edilen Blok
+options.keybindings.action.keeper.gravityball,Şarj Atış
+upgrades.orchardjetpack1.title,Sırt Roketi Hızlandırması 1
+upgrades.keeper1.desc,Mükemmel madencilik yeteneklerine sahip becerikli bir muhafız.
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,Lazer Gücü 3
+upgrades.orchardoverchargebuffduration.desc,Meyve ağacını büyüttükten sonra meyve etkileri daha uzun sürer.
+upgrades.stunlaserduration1.title,Ateş Devamlılığı 1
+loadout.mode.maze.desc,"Bu harita tıpkı bir labirent gibi çok sapaklı, çıkmaz yollarla ve kıvrımlarla dolu."
+properties.dome.healthfractionrepair,Toplam sp'nin {.percent} kadarını onar
+upgrades.jetpackstrength3.desc,Daha çok kaynak taşımak için sırt roketini geliştir.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Algılanan hareket:
+upgrades.prospectionmetersand1.title,Kobalt Göstergesi
+upgrades.prospectionmeterwater1.desc,En yakın su kaynaklarına olan mesafeyi gösterir.
+upgrades.blastminingstickycharge.desc,Dokunduğu ilk duvara yapışarak dairesel bir patlama yaratmak yerine duvarın içerisine tünel açacak şekilde patlar.
+options.video,Görüntü
+title.navbar.updates,Güncellemeler
+loadout.skin,Kaplama
+upgrades.shieldstrength2.title,Güç 2
+level.gameover.win.title,KUBBENİ KURTARDIN
+level.station.navbar.battle,Savaş
+upgrades.converterirontocobalt.desc,"Kobaltı demire, demiri de kobalta dönüştürmene olanak sağlar."
+upgrades.keeper2rotationalmining2.desc,Kaya sertliğini aşarak döner madenciliğin verdiği hasarı arttırır.
+level.gameover.unlock.dome,Yeni Kubbe
+pause.gamepadcontrols.pickup,Al
+options.video.graphicsmode.photosensitive,Işığa Duyarlılık Modu
+upgrades.orchardduration2.desc,Meyvenin etkileri daha da uzun sürer.
+properties.dome.meleedamagereduction,Yakın Saldırı Hasarı Azaltma {.percent}
+upgrades.domesandrepairstrong.desc,Kubbenin aldığı hasarı kobaltla onar.
+options.input,Aygıt Girişi
+properties.keeper2.spherereload,Küre Yeniden Yükleme {} s
+properties.blastmining.damage,Hasar {}
+upgrades.laserbend.title,Döner Başlı Lazer
+upgrades.swordlargeblade3.desc,"Yavaş ancak çok güçlü, devasa bir kılıç."
+loadout.domeoptions.title,Kubbeni seç!
+upgrades.shieldoverchargeduration1.desc,"Kalkanını güçlendirmek, aynı zamanda bir sonraki akında kullanacağın kalkan savaş yeteneğinin süresini uzatır."
+upgrades.probelong1.title,Uzun Menzil
+options.keybindings.rebinding.inputprocessor,Bu eylem için yeni bir tuş ata
+properties.teleporter.teleportduration,Işınlanma Süresi {}sn
+upgrades.dome2health2.title,Sağlamlık 2
+upgrades.drillbotduplicate.title,Kardeş
+pause.quit.popup,"Çıkmak istediğine emin misin?
+Çıkmak için tekrar bas.
+(ilerlemen kaydedildi)"
+upgrades.prospectionmetersand2.desc,En yakın kobalt kaynaklarının yönünü gösterir.
+upgrades.probepersist1.desc,Sondana kaynakların yerini daha uzun süre işaretleyecek bir hafıza modülü ekle.
+upgrades.artilleryshotcooldown2.title,Bekleme Süresi 2
+properties.keeper2.sphereadditionalfirsthitdamage,Ek İlk Darbe Hasarı {.percent}
+upgrades.shieldbattledestructionprevention.title,Son Savunma
+level.gameover.unlock.pet,Yeni evcil hayvanın kilidi açıldı!
+upgrades.repellentbattlelongerhealthreduction.desc,Mevcut tüm canavarların güçsüzleştirmesini uzatır ve şiddetlendirir.
+ending.feedbackondiscord,Discord'dan geribildirim ver
+properties.keeper2.reflectnexthitdamage,Sonraki Zıplama için Geri Ateşlemedeki Ek Küre Hasarı {.percent}
+options.video.graphicsmode.borderlesswindow,Kenarlıksız Pencere
+upgrades.keeper2pinballlifetime1.desc,Kinetik küreyi daha uzun süre durması için stabilize et.
+level.gadgetchoice.title,BİR CİHAZ SEÇ
+upgrades.keeper2bundle.title,Toplu Atış
+upgrades.relichunt.title,Eser Avı
+loadout.mode.doubleiron.desc,Demir yatakları iki kat daha zengindir ama geliştirme bedelleri de iki kat fazla demirdir.
+level.tutorial.repair.findcobalt,"Biraz kobalt bulmaya çalış, onunla kubbeni onarabilirsin.
+Ender bulunan sınırlı bir kaynaktır."
+upgrades.keeper2pinballsplit.title,Bölünmüş Küreler
+options.input.controls.text,Oyunu en iyi şekliyle deneyimlemek için oyun kumandasıyla oyna.
+landing.proceed,Devam etmek için bir tuşa bas
+upgrades.keeper2pinballmorespheres1.desc,Yer çekimi üreticine ek bir modül ekleyerek daha fazla kinetik küre yakalamasını sağla.
+upgrades.jetpackstrength4.desc,Daha çok kaynak taşımak için sırt roketini geliştir.
+upgrades.orchardbattleshieldsecondlayer.desc,Menzilli saldırı kalkanına bir katman daha ekle.
+level.converter.popup.conversion.time,{time} süreden fazla
+properties.keeper2.maxspeed,En Yüksek Hız {}
+properties.laser.aimline,Nişan Çizgisi
+upgrades.shieldstrength3.desc,Kubbe kalkanının emebileceği hasar miktarını daha da arttırır.
+upgrades.repellentovercharge.title,Canavarsavar'ını Güçlendir
+properties.drillbot.buffstrength,Canlanmanın Verdiği Hızlanma {.percent}
+worldmodifier.hardnesssofter.desc,Bu madende daha yumuşak kaya sayısı fazla.
+level.tutorial.pickup.popup_1,Bir kaynağı almak için | tuşuna bas.
+level.tutorial.pickup.popup_3,Birden çok almak için basılı tut.
+pause.gamepadcontrols.drop,Bırak
+level.tutorial.fruit.popup_1,Ağacın ilk savıcı meyvesini verdi.
+level.tutorial.fruit.popup_2,Yanındayken | tuşuna basarak tüket.
+worldmodifier.mapwide.desc,Maden ocağı daha geniş ve sığ.
+upgrades.prestigefinishnocobalt.desc,Bu gezegeni terk et ve yuvana dön.
+upgrades.prospectionmeteriron2.title,Demir Pusulası
+upgrades.keeper2movement2.title,Yer Çekimsel Hareket 2
+options.keybindings.gamepad,Oyun Kumandası
+ending.backtomainmenu,Ana menüye dön
+level.tutorial.fullscreen.back,geri dön
+upgrades.shield.title,Kalkan
+upgrades.blastmining.title,Patlamayla Maden Kazma
+upgrades.converterirontocobalt.title,Kobalt Dönüşümü
+upgrades.swordstabfast1.desc,Daha sık ve hızlı sapla.
+level.gameover.prestige.score.rankunchanged,Sıralamada değişiklik yok.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,Geçit seni ışınlama yeteneğini geri kazanır.
+upgrades.orchardjetpack3.title,Sırt Roketi Hızlandırması 3
+level.gameover.unlock.mapsize,Yeni harita boyutunun kilidi açıldı!
+upgrades.domeresourcecounters.title,Envanter
+level.gameover.keepgadget.none,yok
+upgrades.stunlaserdamage1.desc,Sersemletme lazerinin verdiği hasar ufak bir miktar artar.
+properties.repellent.battleabilityduration,Yetenek Süresi {}sn
+upgrades.prestigeiron.desc,"Yuvana demir gönder, her akında kazandığın saygınlığa 1 puan ekler."
+upgrades.teleporter.title,Işınlayıcı
+ending.teasemessage,Geleceklerin minik bir ön gösterimi:
+loadout.relichunt.modifiers,Değiştiricilerini Seç
+options.accessibility,Erişilebilirlik
+loadout.mapsize.small.description,Daha kısa oyunlar için küçük bir harita.
+upgrades.shieldbattleblastdamage.desc,Elektrikli patlamanın hasarını ve sersemletme etkisini arttırır.
+options.translation.community.desc,Bu dillere çeviri güzel topluluğumuz tarafından yapılıyor. İstersen onlara katılabilirsin
+upgrades.prospectionmeterwater2.desc,En yakın su kaynaklarının yönünü gösterir.
+upgrades.stunlaserdamage2.title,Hasar 2
+options.keybindings.action.keeper.gadget1,Cihaz 1
+options.keybindings.action.keeper.gadget2,Cihaz 2
+properties.repellent.wavedelay,Akın Erteleme {} döngü
+options.ok,TAMAM
+upgrades.swordblade1.desc,Kılıcının biçme gücünü ve hızını geliştir.
+upgrades.shieldoverchargeduration2.title,Savaş Yeteneği Süresini Uzat 2
+properties.sword.slicedamage,Biçme Hasarı {} 
+properties.condenser.autocollect,Otomatik Toplama
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,"Atış demetleri, merkezi ekseni geçmek yerine kubbenin hemen altında kalır."
+upgrades.orchardduration1.title,Süre 1
+upgrades.drillbotbuffstrength1.title,Besleyici Yemişler
+upgrades.liftcarrykeeper2.title,Muhafız Asansörü 2
+upgrades.shieldoverchargestrength2.desc,Güçlendirilmiş kalkanın emeceği hasarı daha da arttırır.
+upgrades.repellentbattleslowdown.title,Zayıflatma
+upgrades.artilleryshotprediction.title,Öngörülen Atış
+upgrades.repellentdelay3.desc,Bir sonraki canavar akınının ertelenme süresini daha da arttırır.
+upgrades.teleporter.desc,"Bu çift yönlü ışınlayıcı, kubbenin altında bir istasyona ve madenlerde taşınıp yerleştirilebilen bir geçide sahip."
+level.gameover.stats.monsterskilled,Öldürülen Canavarlar
+upgrades.keeper2pinballreflect.title,Küre Yansıması
+upgrades.drillbotstrength3.title,Güç 3
+upgrades.shieldbattlereflectspeedup.title,Hızlandırılmış Geri Ateşleme
+upgrades.probeswift1.title,Hızlı Sonda
+options.game.events.enableseasonal,sezon etkinliğini etkinleştir
+upgrades.repellentbattledamageovertime.title,Zehirli Duman
+upgrades.dome3health2.title,Sağlamlık 2
+loadout.mapsize.huge,Devasa
+properties.repellent.overchargebattleabilityduration,Ek Yetenek Süresi {.percent}
+options.keybindings.action.keeper.gravitycollect,Şarj Topla
+loadout.miner.scores.title,Puanlar
+properties.lift.speed,Küre Hızı {}
+upgrades.drillbotstrength1.title,Güç 1
+level.tutorial.repellent.popup_2,Yakınken | tuşuna basarak etkinleştir.
+level.tutorial.repellent.popup_1,Canavarsavar'ın bir sonraki akını geciktirmeye hazır.
+properties.orchard.growthtime,Büyüme süresi {} döngü
+properties.keeper2.spherefractiondamage,Kaya Sertliğini Aşan Küre Hasarı {.percent}
+properties.sword.brake,Kılıç Çevikliği {}
+upgrades.artilleryflakmultishot2.title,Çoklu Hava Savunma Atışı 2
+upgrades.swordstabfast2.desc,Daha da sık ve hızlı sapla.
+upgrades.sword.desc,"Kubbenin üzerinde bulunan, biçme sırasında ne kadar uzağa darbe vurursa o kadar hasar veren dayanıklı bir kılıç. Ateşlenerek canavarlara saplanabilir. Menzilli saldırıları engelleyen kalkanlı bir alt tabanı vardır."
+upgrades.artilleryflakmultishot1.title,Çoklu Hava Savunma Atışı 1
+upgrades.artilleryshotprediction.desc,Atılan bombanın izleyeceği tahmini yolu gösterir.
+upgrades.shieldbattlereflect.desc,Yaklaşan menzilli saldırıları kısa süreliğine geri ateşleyen aktif bir savaş yeteneğini tetikle.
+upgrades.orchardbattleshieldstrong.title,Güçlü Kalkanlar
+upgrades.swordlongblade1.title,Uzun Kılıç 1
+level.station.battle.navbar.stab,Sapla
+properties.converter.irontowater,Bir su için {} demir
+upgrades.minoriron.title,Demir Gönder
+upgrades.keeper2bundleinfinite.desc,Paketler uzun süre sabit kalır.
+worldmodifier.resourcedesc,Etrafta az sayıda demir yığını var ancak oldukça büyükler.
+loadout.keeper,MUHAFIZ
+upgrades.drillbotstrength4.desc,Drillbert'ın kazma gücünü arttırır.
+upgrades.swordstabexplodedamage.title,Bomba Hasarı
+upgrades.prospectionmeterwater2.title,Su Pusulası
+loadout.keeperoptions.title,Muhafızını seç!
+properties.prospectionmeter.range,Menzil {} kare
+upgrades.orchardbattleshield.title,Menzilli Saldırı Kalkanı
+loadout.mapsize.large,Büyük
+properties.keeper2.reflectsphere,Gelen Küreleri Geri Ateşle
+upgrades.orchardbattlerooting.title,Tuzak Kökler
+properties.repellent.growthtime,Yapım Süresi {} döngü
+properties.converter.irontocobalt,Bir kobalt için {} demir
+upgrades.dome3health1.desc,Kubbenin yapısal sağlamlığını kalıcı olarak arttır.
+upgrades.teleporterteleportresourcescooldown.title,Işınlanma Bekleme Süresi
+upgrades.shieldovercharge.desc,"Kalkanını güçlendirmek için su kullan, güçlenen kalkan bir sonraki akında daha fazla hasar emer."
+upgrades.stunlaserspeed2.title,Hız 2
+upgrades.drillbotbuff1.desc,"Yemişler, kubbenin altındaki bir yuvada yetişir. Onları Drillbert'e götürürsen keyifle mideye indirip canlanır."
+options.keybindings.action.dome.battle,Savaş
+upgrades.orchardovercharge.title,Meyve Ağacını Güçlendir
+properties.teleporter.teleportresourcesarea,Işınlanma Menzili {} kare
+upgrades.swordreflection1.desc,Alt taban kalkanının boyutunu arttır ve devinimli menzilli saldırıları geri ateşlemesini sağla.
+upgrades.blastminingblast2.title,Patlama 2
+upgrades.swordreflection1.title,Geri Ateşleme 1
+upgrades.keeper2pinballlifetime2.desc,Kinetik küreyi daha uzun süre durması için stabilize et.
+options.keybindings.action.general.left,Sol
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Kubbenin yapısal sağlamlığını kalıcı olarak arttır.
+upgrades.drill2.title,Matkap Gücü 2
+options.keybindings.rebinding,Yeniden Atama
+level.tutorial.assessor.carry.desc1_1,Sana kilitlendiklerinde toplama tuşunu bıraksan dahi seni takip ederler.
+upgrades.keeper2pinballdamage1.title,Kinetik Küre Hasarı 1
+upgrades.stunlaserspeed2.desc,Sersemletme lazeri daha da hızlı hareket eder ve bekleme süresi boyunca canavarları takip etmeye devam eder.
+options.keybindings.title,KONTROL EŞLEŞTİRME
+upgrades.keeper2pinballmorespheres2.desc,Yer çekimi üreticine ek bir modül ekleyerek daha fazla kinetik küre yakalamasını sağla.
+level.gameover.prestige.uploading.finalfailed,"yeni puanı yükleme başarısız, üzgünüz!"
+upgrades.blastminingblast1.desc,Patlama şiddetini arttırır.
+upgrades.stunlaserduration2.desc,Sersemletme lazerinin bir sonraki atış için bekleme süresi azalır ve daha uzun ateş eder.
+upgrades.prospectionmetersand1.desc,En yakın kobalt kaynaklarına olan mesafeyi gösterir.
+options.keybindings.action,Hareket
+properties.blastmining.bombs,Patlama {}
+upgrades.drillbotstrength2.title,Güç 2
+loadout.prestige.cobalt.description,Bu haritada kobalt yoktur ve üretilemez ancak oyuna envanterinde çokça kobaltla başlarsın.

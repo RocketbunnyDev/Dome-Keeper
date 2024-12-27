@@ -1,0 +1,73 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://content/weapons/obelisk/Reticle.gd" type="Script" id=1]
+[ext_resource path="res://content/weapons/obelisk/crosshairs0_no.png" type="Texture" id=3]
+[ext_resource path="res://content/sounds/Weapons/obelisk/enemy_enter.wav" type="AudioStream" id=4]
+[ext_resource path="res://content/sounds/Weapons/obelisk/first_enemy_enter.wav" type="AudioStream" id=5]
+[ext_resource path="res://content/sounds/Weapons/obelisk/enemy_leave.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/sounds/Weapons/obelisk/last_enemy_leave.wav" type="AudioStream" id=7]
+
+[sub_resource type="CircleShape2D" id=2]
+radius = 1.0
+
+[sub_resource type="CircleShape2D" id=3]
+radius = 15.0
+
+[node name="Reticle" type="Node2D"]
+z_index = 200
+script = ExtResource( 1 )
+
+[node name="CrosshairContainer" type="Node2D" parent="."]
+
+[node name="ReticleL" type="Sprite" parent="CrosshairContainer"]
+texture = ExtResource( 3 )
+
+[node name="ReticleR" type="Sprite" parent="CrosshairContainer"]
+rotation = 3.14159
+texture = ExtResource( 3 )
+
+[node name="ReticleU" type="Sprite" parent="CrosshairContainer"]
+rotation = 1.5708
+texture = ExtResource( 3 )
+
+[node name="ReticleD" type="Sprite" parent="CrosshairContainer"]
+rotation = -1.5708
+texture = ExtResource( 3 )
+
+[node name="SpreadArea" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 128
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="SpreadArea"]
+shape = SubResource( 2 )
+
+[node name="MonsterDetection" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 128
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="MonsterDetection"]
+shape = SubResource( 3 )
+
+[node name="EnterFirstSFX" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 5 )
+volume_db = -20.659
+pitch_scale = 0.45
+
+[node name="EnterSFX" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 4 )
+volume_db = -3.566
+pitch_scale = 0.75
+
+[node name="LeaveLastSFX" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 7 )
+volume_db = 4.274
+
+[node name="LeaveSFX" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 6 )
+volume_db = -12.11
+pitch_scale = 2.56
+
+[connection signal="area_entered" from="SpreadArea" to="." method="_on_SpreadArea_area_entered"]
+[connection signal="area_exited" from="SpreadArea" to="." method="_on_SpreadArea_area_exited"]
+[connection signal="area_entered" from="MonsterDetection" to="." method="_on_MonsterDetection_area_entered"]
+[connection signal="area_exited" from="MonsterDetection" to="." method="_on_MonsterDetection_area_exited"]

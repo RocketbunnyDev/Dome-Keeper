@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Drillbot_changeDirection_01.wav-9871310875dcc8ce0bbcde33dd6bef28.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Drillbot/Drillbot_changeDirection_01.wav"
+dest_files=[ "res://.import/Drillbot_changeDirection_01.wav-9871310875dcc8ce0bbcde33dd6bef28.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

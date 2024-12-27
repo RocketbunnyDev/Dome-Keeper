@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Drillbotwake_01.wav-61641ce8f3f7e6d19c2306960681a7a9.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Drillbot/Drillbotwake_01.wav"
+dest_files=[ "res://.import/Drillbotwake_01.wav-61641ce8f3f7e6d19c2306960681a7a9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/SonarRDY.ogg-cab1e9e259d72f464993448b6bc4c05a.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/SonarRDY.ogg"
+dest_files=[ "res://.import/SonarRDY.ogg-cab1e9e259d72f464993448b6bc4c05a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

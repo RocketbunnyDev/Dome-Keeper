@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ticks.ogg-e07d03391842cff555b751737be7c5aa.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/ticks.ogg"
+dest_files=[ "res://.import/ticks.ogg-e07d03391842cff555b751737be7c5aa.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

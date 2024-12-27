@@ -1,0 +1,53 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://content/weapons/obelisk/ObeliskBeam.gd" type="Script" id=1]
+[ext_resource path="res://content/weapons/obelisk/DownSheet.png" type="Texture" id=2]
+[ext_resource path="res://content/sounds/Weapons/obelisk/beam_sustain.mp3" type="AudioStream" id=3]
+[ext_resource path="res://content/sounds/Weapons/obelisk/beam_stop.wav" type="AudioStream" id=4]
+[ext_resource path="res://content/sounds/Weapons/obelisk/beam_start.wav" type="AudioStream" id=5]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 5.5, 400 )
+
+[sub_resource type="AtlasTexture" id=2]
+atlas = ExtResource( 2 )
+region = Rect2( 0, 0, 800, 20 )
+
+[sub_resource type="AtlasTexture" id=3]
+atlas = ExtResource( 2 )
+region = Rect2( 0, 20, 800, 20 )
+
+[sub_resource type="SpriteFrames" id=4]
+animations = [ {
+"frames": [ SubResource( 2 ), SubResource( 3 ) ],
+"loop": true,
+"name": "default",
+"speed": 10.0
+} ]
+
+[node name="ObeliskBeam" type="Area2D"]
+collision_layer = 0
+collision_mask = 128
+script = ExtResource( 1 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 0, -384 )
+shape = SubResource( 1 )
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+position = Vector2( 0, -383 )
+rotation = -1.57079
+z_index = -1
+frames = SubResource( 4 )
+
+[node name="StartSFX" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 5 )
+
+[node name="EndSFX" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 4 )
+
+[node name="SustainSFX" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 3 )
+
+[connection signal="area_entered" from="." to="." method="_on_ObeliskBeam_area_entered"]
+[connection signal="area_exited" from="." to="." method="_on_ObeliskBeam_area_exited"]

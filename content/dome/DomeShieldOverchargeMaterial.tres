@@ -1,0 +1,19 @@
+[gd_resource type="ShaderMaterial" load_steps=4 format=2]
+
+[ext_resource path="res://content/gadgets/shield/overcharge.gdshader" type="Shader" id=1]
+
+[sub_resource type="OpenSimplexNoise" id=88]
+octaves = 5
+period = 40.0
+
+[sub_resource type="NoiseTexture" id=89]
+width = 32
+height = 32
+seamless = true
+as_normalmap = true
+bump_strength = 4.0
+noise = SubResource( 88 )
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/noise_texture = SubResource( 89 )

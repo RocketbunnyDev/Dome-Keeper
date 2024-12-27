@@ -1,0 +1,24 @@
+[gd_resource type="ShaderMaterial" load_steps=7 format=2]
+
+[ext_resource path="res://content/dome/dome1/dome/cracks_mask.png" type="Texture" id=1]
+[ext_resource path="res://content/dome/damage_mask/hit_mask_shader.shader" type="Shader" id=2]
+[ext_resource path="res://content/dome/dome1/dome/empty.png" type="Texture" id=3]
+[ext_resource path="res://systems/style/palettes/index_palette.png" type="Texture" id=4]
+
+[sub_resource type="OpenSimplexNoise" id=2]
+period = 9.7
+
+[sub_resource type="NoiseTexture" id=3]
+flags = 0
+width = 149
+height = 66
+noise = SubResource( 2 )
+
+[resource]
+resource_local_to_scene = true
+shader = ExtResource( 2 )
+shader_param/damage = 0.0
+shader_param/impact_mask = ExtResource( 3 )
+shader_param/cracks_mask = ExtResource( 1 )
+shader_param/noise_texture = SubResource( 3 )
+shader_param/palette = ExtResource( 4 )

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Wither.mp3-ff0a0480c83c0a9110efb16187248621.mp3str"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Repellent/Wither.mp3"
+dest_files=[ "res://.import/Wither.mp3-ff0a0480c83c0a9110efb16187248621.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

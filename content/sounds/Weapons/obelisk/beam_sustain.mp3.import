@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/beam_sustain.mp3-8b8d3b8dcc0da6cf4662e4cc037a604b.mp3str"
+
+[deps]
+
+source_file="res://content/sounds/Weapons/obelisk/beam_sustain.mp3"
+dest_files=[ "res://.import/beam_sustain.mp3-8b8d3b8dcc0da6cf4662e4cc037a604b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

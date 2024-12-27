@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/QuitAreYouSure.wav-3643a85ecc9861a754df81d8cc152754.sample"
+
+[deps]
+
+source_file="res://content/sounds/UI/QuitAreYouSure.wav"
+dest_files=[ "res://.import/QuitAreYouSure.wav-3643a85ecc9861a754df81d8cc152754.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

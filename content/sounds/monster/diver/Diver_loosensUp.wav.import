@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Diver_loosensUp.wav-a40c41fb5d9e64f180b0f8082fe6e9c8.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/diver/Diver_loosensUp.wav"
+dest_files=[ "res://.import/Diver_loosensUp.wav-a40c41fb5d9e64f180b0f8082fe6e9c8.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,185 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://content/shared/VideoTutorial.gd" type="Script" id=2]
+[ext_resource path="res://gui/fonts/FontHeading.tres" type="DynamicFont" id=3]
+[ext_resource path="res://gui/fonts/FontLarge.tres" type="DynamicFont" id=4]
+[ext_resource path="res://content/weapons/sword/tutorial/2.webm" type="VideoStream" id=5]
+[ext_resource path="res://content/weapons/sword/tutorial/1.webm" type="VideoStream" id=6]
+[ext_resource path="res://content/weapons/sword/tutorial/3.webm" type="VideoStream" id=7]
+
+[node name="SwordTutorial" type="CenterContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme = ExtResource( 1 )
+script = ExtResource( 2 )
+isFullscreen = true
+moveOutAfter = -1.0
+moveInDelay = 1.0
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+margin_left = 121.0
+margin_top = 143.0
+margin_right = 1799.0
+margin_bottom = 937.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1666.0
+margin_bottom = 782.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 1638.0
+margin_bottom = 754.0
+
+[node name="Label" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_right = 1622.0
+margin_bottom = 65.0
+custom_fonts/font = ExtResource( 3 )
+text = "upgrades.dome2.title"
+align = 1
+
+[node name="HBoxContainer" type="GridContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 81.0
+margin_right = 1622.0
+margin_bottom = 625.0
+size_flags_horizontal = 3
+custom_constants/hseparation = 24
+columns = 3
+
+[node name="VideoPlayer1" type="VideoPlayer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 21.0
+margin_right = 471.0
+margin_bottom = 450.0
+size_flags_horizontal = 4
+stream = ExtResource( 6 )
+volume_db = -80.0
+autoplay = true
+expand = false
+
+[node name="VideoPlayer2" type="VideoPlayer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 558.0
+margin_right = 1008.0
+margin_bottom = 450.0
+size_flags_horizontal = 4
+stream = ExtResource( 5 )
+volume_db = -80.0
+expand = false
+
+[node name="VideoPlayer3" type="VideoPlayer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 1123.0
+margin_right = 1573.0
+margin_bottom = 450.0
+size_flags_horizontal = 4
+stream = ExtResource( 7 )
+volume_db = -80.0
+expand = false
+
+[node name="Text1" type="VBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_top = 466.0
+margin_right = 493.0
+margin_bottom = 544.0
+size_flags_horizontal = 3
+
+[node name="Label2" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text1"]
+margin_right = 493.0
+margin_bottom = 37.0
+rect_min_size = Vector2( 350, 0 )
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "level.tutorial.sworddome.slicing"
+align = 1
+
+[node name="Label" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text1"]
+margin_top = 53.0
+margin_right = 493.0
+margin_bottom = 78.0
+text = "level.tutorial.sworddome.slicing.desc"
+align = 1
+autowrap = true
+
+[node name="Text2" type="VBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 517.0
+margin_top = 466.0
+margin_right = 1050.0
+margin_bottom = 544.0
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text2"]
+margin_right = 533.0
+margin_bottom = 37.0
+rect_min_size = Vector2( 350, 0 )
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "level.tutorial.sworddome.stabbing"
+align = 1
+
+[node name="Label4" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text2"]
+margin_top = 53.0
+margin_right = 533.0
+margin_bottom = 78.0
+text = "level.tutorial.sworddome.stabbing.desc"
+align = 1
+autowrap = true
+
+[node name="Text3" type="VBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 1074.0
+margin_top = 466.0
+margin_right = 1622.0
+margin_bottom = 544.0
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3"]
+margin_right = 548.0
+margin_bottom = 37.0
+rect_min_size = Vector2( 350, 0 )
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "level.tutorial.sworddome.reflecting"
+align = 1
+
+[node name="Label4" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3"]
+margin_top = 53.0
+margin_right = 548.0
+margin_bottom = 78.0
+text = "level.tutorial.sworddome.reflecting.desc"
+align = 1
+autowrap = true
+
+[node name="HSeparator" type="HSeparator" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 641.0
+margin_right = 1622.0
+margin_bottom = 665.0
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 681.0
+margin_right = 1622.0
+margin_bottom = 738.0
+
+[node name="BackButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+margin_right = 803.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+text = "level.tutorial.fullscreen.back"
+
+[node name="Button" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+margin_left = 819.0
+margin_right = 1622.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+text = "level.tutorial.fullscreen.continue"
+
+[connection signal="finished" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/VideoPlayer1" to="." method="_on_VideoPlayer1_finished"]
+[connection signal="finished" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/VideoPlayer2" to="." method="_on_VideoPlayer2_finished"]
+[connection signal="finished" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/VideoPlayer3" to="." method="_on_VideoPlayer3_finished"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2/BackButton" to="." method="_on_BackButton_pressed"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2/Button" to="." method="_on_Button_pressed"]

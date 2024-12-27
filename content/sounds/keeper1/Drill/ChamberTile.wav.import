@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ChamberTile.wav-f2ad103e0e46cb1d39ba4de6a34aad7b.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper1/Drill/ChamberTile.wav"
+dest_files=[ "res://.import/ChamberTile.wav-f2ad103e0e46cb1d39ba4de6a34aad7b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

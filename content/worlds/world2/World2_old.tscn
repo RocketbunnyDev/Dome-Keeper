@@ -1,0 +1,281 @@
+[gd_scene load_steps=26 format=2]
+
+[ext_resource path="res://content/worlds/FlyerPaths.gd" type="Script" id=1]
+[ext_resource path="res://content/shared/AmbienceFade.gd" type="Script" id=2]
+[ext_resource path="res://content/worlds/CloudWorld.gd" type="Script" id=3]
+[ext_resource path="res://content/worlds/ParallaxBackground.gd" type="Script" id=4]
+[ext_resource path="res://content/sounds/Amb/wind_Polar light.wav" type="AudioStream" id=5]
+[ext_resource path="res://content/worlds/world2/Layer4.png" type="Texture" id=6]
+[ext_resource path="res://content/worlds/world2/Layer1.png" type="Texture" id=7]
+[ext_resource path="res://content/worlds/world2/Layer3.png" type="Texture" id=8]
+[ext_resource path="res://content/worlds/world2/Layer5.png" type="Texture" id=9]
+[ext_resource path="res://content/worlds/world2/Layer6.png" type="Texture" id=10]
+[ext_resource path="res://content/worlds/world2/Layer2.png" type="Texture" id=11]
+[ext_resource path="res://content/worlds/world2/cellar_background.png" type="Texture" id=12]
+[ext_resource path="res://content/weather/lightning/LightningStrikePosition.tscn" type="PackedScene" id=13]
+[ext_resource path="res://content/weather/WeatherSystem.tscn" type="PackedScene" id=14]
+
+[sub_resource type="RectangleShape2D" id=10]
+extents = Vector2( 669, 36 )
+
+[sub_resource type="Curve2D" id=11]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, -362, -47, -31.748, 2.11653, 31.748, -2.11653, -131, -35, 0, 0, 0, 0, 78, -21, 0, 0, 0, 0, 103, -22 )
+}
+
+[sub_resource type="Curve2D" id=12]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, -352, -57, -34.3937, 0.529134, 34.3937, -0.529134, -242, -47, 0, 0, 0, 0, -35, -41, -8.48187, -0.592061, 8.48187, 0.592061, 49, -35, 0, 0, 0, 0, 103, -29 )
+}
+
+[sub_resource type="Curve2D" id=13]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, -360, -35, 0, 0, 0, 0, -126, -26, 0, 0, 0, 0, 75, -13, 0, 0, 0, 0, 111, -13 )
+}
+
+[sub_resource type="Curve2D" id=14]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 655, -28, 0, 0, 0, 0, 544, -22, 0, 0, 0, 0, 447, -22, 0, 0, 0, 0, 341, -17, 0, 0, 0, 0, 207, -17 )
+}
+
+[sub_resource type="Curve2D" id=15]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 652, -35, 0, 0, 0, 0, 434, -29, 0, 0, 0, 0, 332, -26, 0, 0, 0, 0, 206, -23 )
+}
+
+[sub_resource type="Curve2D" id=16]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 647, -41, 47.9458, -1.49831, -47.9458, 1.49831, 470, -37, 0, 0, 0, 0, 212, -32 )
+}
+
+[sub_resource type="Curve2D" id=17]
+_data = {
+"points": PoolVector2Array( -41.0415, -3.22296, 41.0415, 3.22296, -367, -50, -47.8866, -1.85197, 47.8866, 1.85197, -68, -34, 0, 0, 0, 0, 139, -25 )
+}
+
+[sub_resource type="Curve2D" id=18]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, -369, -31, 0, 0, 0, 0, -208, -28, 0, 0, 0, 0, -99, -18, 0, 0, 0, 0, 50, -18, 0, 0, 0, 0, 136, -12 )
+}
+
+[sub_resource type="Curve2D" id=19]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 677, -38, 0, 0, 0, 0, 370, -30, 0, 0, 0, 0, 191, -27 )
+}
+
+[sub_resource type="Curve2D" id=20]
+_data = {
+"points": PoolVector2Array( 0, 0, 0, 0, 677, -19, 0, 0, 0, 0, 408, -19, 0, 0, 0, 0, 190, -13 )
+}
+
+[node name="World2" type="Node2D"]
+script = ExtResource( 3 )
+allowedPalettes = [ 2 ]
+
+[node name="Ambience" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 5 )
+bus = "Ambience"
+script = ExtResource( 2 )
+
+[node name="WeatherSystem" parent="." instance=ExtResource( 14 )]
+
+[node name="ParallaxBackground" type="Node2D" parent="."]
+position = Vector2( 0, -243 )
+z_index = -100
+script = ExtResource( 4 )
+scrollSpeeds = [ 0.0, 0.125, 0.25, 0.5, 1.0, 1.0, 1.0 ]
+
+[node name="Background01" type="Sprite" parent="ParallaxBackground"]
+texture = ExtResource( 10 )
+offset = Vector2( 0, 37 )
+
+[node name="Background02" type="Sprite" parent="ParallaxBackground"]
+texture = ExtResource( 9 )
+offset = Vector2( 0, 37 )
+
+[node name="Background03" type="Sprite" parent="ParallaxBackground"]
+texture = ExtResource( 6 )
+offset = Vector2( 0, 38 )
+
+[node name="FogFar" type="Position2D" parent="ParallaxBackground/Background03" groups=["weather-fogfar"]]
+position = Vector2( 0, 244 )
+
+[node name="Background04" type="Sprite" parent="ParallaxBackground"]
+texture = ExtResource( 8 )
+offset = Vector2( 0, 39 )
+
+[node name="Background05" type="Sprite" parent="ParallaxBackground"]
+texture = ExtResource( 11 )
+offset = Vector2( 0, 41 )
+
+[node name="Lightning" type="Position2D" parent="ParallaxBackground/Background05" groups=["weather-lightning"]]
+position = Vector2( 0, 244 )
+
+[node name="Rain" type="Position2D" parent="ParallaxBackground/Background05" groups=["weather-rain"]]
+position = Vector2( 0, 244 )
+
+[node name="FogNear" type="Position2D" parent="ParallaxBackground/Background05" groups=["weather-fognear"]]
+position = Vector2( 0, 244 )
+
+[node name="LightningStrike01" parent="ParallaxBackground/Background05" instance=ExtResource( 13 )]
+position = Vector2( -93, 215 )
+
+[node name="LightningStrike02" parent="ParallaxBackground/Background05" instance=ExtResource( 13 )]
+position = Vector2( -254, 213 )
+
+[node name="LightningStrike03" parent="ParallaxBackground/Background05" instance=ExtResource( 13 )]
+position = Vector2( 123, 219 )
+
+[node name="LightningStrike04" parent="ParallaxBackground/Background05" instance=ExtResource( 13 )]
+position = Vector2( 282, 222 )
+
+[node name="LightningStrike05" parent="ParallaxBackground/Background05" instance=ExtResource( 13 )]
+position = Vector2( -299, 29 )
+
+[node name="LightningStrike06" parent="ParallaxBackground/Background05" instance=ExtResource( 13 )]
+position = Vector2( 172, 59 )
+
+[node name="LightningStrike07" parent="ParallaxBackground/Background05" instance=ExtResource( 13 )]
+position = Vector2( -21, 228 )
+dome = true
+
+[node name="LightningStrike08" parent="ParallaxBackground/Background05" instance=ExtResource( 13 )]
+position = Vector2( 16, 229 )
+dome = true
+
+[node name="Foreground01" type="Sprite" parent="ParallaxBackground"]
+z_index = 200
+texture = ExtResource( 7 )
+offset = Vector2( 0, 41 )
+
+[node name="Foreground02" type="Sprite" parent="ParallaxBackground"]
+texture = ExtResource( 12 )
+offset = Vector2( 0, 41 )
+
+[node name="Ground" type="Area2D" parent="."]
+collision_layer = 131072
+collision_mask = 0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Ground"]
+position = Vector2( 3, 26 )
+shape = SubResource( 10 )
+
+[node name="WalkmediumPaths" type="Node2D" parent="."]
+visible = false
+
+[node name="LeftPath1" type="Path2D" parent="WalkmediumPaths"]
+position = Vector2( -152, 0 )
+curve = SubResource( 11 )
+
+[node name="LeftPath2" type="Path2D" parent="WalkmediumPaths"]
+position = Vector2( -152, 0 )
+curve = SubResource( 12 )
+
+[node name="LeftPath3" type="Path2D" parent="WalkmediumPaths"]
+position = Vector2( -152, 0 )
+curve = SubResource( 13 )
+
+[node name="RightPath1" type="Path2D" parent="WalkmediumPaths"]
+position = Vector2( -152, 0 )
+curve = SubResource( 14 )
+
+[node name="RightPath2" type="Path2D" parent="WalkmediumPaths"]
+position = Vector2( -152, 0 )
+curve = SubResource( 15 )
+
+[node name="RightPath3" type="Path2D" parent="WalkmediumPaths"]
+position = Vector2( -152, 0 )
+curve = SubResource( 16 )
+
+[node name="WalklargePaths" type="Node2D" parent="."]
+
+[node name="LeftPath1" type="Path2D" parent="WalklargePaths"]
+position = Vector2( -152, 0 )
+curve = SubResource( 17 )
+
+[node name="LeftPath2" type="Path2D" parent="WalklargePaths"]
+position = Vector2( -152, 0 )
+curve = SubResource( 18 )
+
+[node name="RightPath1" type="Path2D" parent="WalklargePaths"]
+position = Vector2( -152, 0 )
+curve = SubResource( 19 )
+
+[node name="RightPath2" type="Path2D" parent="WalklargePaths"]
+position = Vector2( -152, 0 )
+curve = SubResource( 20 )
+
+[node name="FlyerPaths" type="Node2D" parent="."]
+script = ExtResource( 1 )
+
+[node name="LeftPoint1" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -257, -375 )
+
+[node name="LeftPoint4" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -266, -305 )
+
+[node name="LeftPoint2" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -381, -308 )
+
+[node name="LeftPoint3" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -137, -367 )
+
+[node name="LeftPoint5" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -343, -280 )
+
+[node name="LeftPoint6" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -344, -351 )
+
+[node name="LeftPoint7" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -192, -319 )
+
+[node name="LeftPoint8" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -167, -265 )
+
+[node name="RightPoint1" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 146, -242 )
+
+[node name="RightPoint2" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 250, -254 )
+
+[node name="RightPoint3" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 188, -287 )
+
+[node name="RightPoint4" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 137, -346 )
+
+[node name="RightPoint5" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 290, -377 )
+
+[node name="RightPoint6" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 361, -329 )
+
+[node name="RightPoint7" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 314, -281 )
+
+[node name="RightPoint8" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 214, -340 )
+
+[node name="LeftSpawn1" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -443, -516 )
+
+[node name="LeftSpawn2" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -531, -437 )
+
+[node name="LeftSpawn3" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -348, -519 )
+
+[node name="LeftSpawn4" type="Position2D" parent="FlyerPaths"]
+position = Vector2( -538, -347 )
+
+[node name="RightSpawn1" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 443, -523 )
+
+[node name="RightSpawn2" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 531, -328 )
+
+[node name="RightSpawn3" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 305, -519 )
+
+[node name="RightSpawn4" type="Position2D" parent="FlyerPaths"]
+position = Vector2( 525, -420 )

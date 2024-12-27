@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DoorOpenDrone.wav-8f2deafb13701bca9bf61f8ee3aac1b7.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Transportdrone/DoorOpenDrone.wav"
+dest_files=[ "res://.import/DoorOpenDrone.wav-8f2deafb13701bca9bf61f8ee3aac1b7.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

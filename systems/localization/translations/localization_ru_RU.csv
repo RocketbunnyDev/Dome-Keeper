@@ -1,0 +1,942 @@
+﻿key,ru_RU
+loadout.prestige.title,Выберите модификатор режима
+upgrades.shieldbattleelectroblast.title,Электрошок
+properties.dome.maxhealth,Прочность: {} ОП
+pause.gamepadcontrols.move,Перемещение
+options.video.stretchmode.rezised,Смена размера
+level.gameover.unlock.world,Открыт новый мир!
+upgrades.blastminingwaterless.desc,"Больше не использует воду для производства зарядов, но процесс создания занимает больше времени."
+properties.blastmining.growthtime,Время производства (в циклах): {}
+properties.laser.stun,Сила оглушения: {}
+exhibition.level.instruction,"Нажмите что-нибудь, чтобы продолжить игру!"
+pause.godot,Сделано на движке Godot
+upgrades.orchardjetpack2.desc,"Увеличивает бафф скорости, позволяя вам перемещаться еще быстрее."
+upgrades.artillery.title,Артиллерия
+upgrades.condenser.desc,"Под куполом устанавливается водосборник, добывающий воду путем конденсации."
+properties.lift.keeperupwardsspeed,Скорость хранителя в лифте: {}
+level.tutorial.fullscreen.continue,продолжить
+upgrades.dome1damagereduction2.title,Усиление 2
+upgrades.orchardduration2.title,Длительность 2
+upgrades.condenserautoovercharge.title,Автогидратация
+upgrades.keeper2pinballreflectdamage2.title,Ущерб при отражении 2
+loadout.title,ВЫБЕРИТЕ КОМПЛЕКТ СНАРЯЖЕНИЯ
+level.tutorial.teleporter_2,"Используйте станцию телепортера, чтобы перемещаться между ней и порталом."
+options.keybindings.action.general.up,Вверх
+level.converter.popup.cancel,Отмена
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,Активация способности при истощении щита
+loadout.prestige.normal,Стандарт
+properties.sword.reflectprojectilesexplosive,Отраженные энергоснаряды взрывоопасны
+upgrades.swordlargeblade3.title,Тяжелый клинок 3
+upgrades.orcharddrill2.title,Улучшение добычи 2
+loadout.prestige.normal.description,Обычный престижный режим.
+upgrades.keeper2pinballreflectdamage1.desc,Отраженные сферы будут наносить больше ущерба камню при столкновении.
+options.input.gamepad,Геймпад
+loadout.choices.locked,Еще не разблокировано
+upgrades.condenserspeed1.desc,Сокращает время на конденсацию 1 ед. воды.
+upgrades.shieldbattleinvulnerable.desc,"Активация боевой способности, которая на некоторое время делает купол неуязвимым."
+upgrades.domewavemeter.desc,Отображает время до следующей атаки враждебных форм жизни.
+upgrades.keeper2pinballreflectspeedup2.title,Превосходное отражение
+upgrades.keeper2movement1.desc,Увеличивает скорость перемещения с гравитационным генератором.
+upgrades.repellentoverchargeduration2.desc,"После гидратации боевая способность, активированная на следующей волне атаки, будет действовать дольше."
+upgrades.laserhitprojectiles.desc,Попадание лазера по энергетическим снарядам моментально их уничтожает.
+options.keybindings.action.keeper.pickup,Подобрать
+upgrades.keeper2pinballdamage1.desc,"Увеличивает урон, который кинетическая сфера наносит камню при столкновении. Также улучшает урон от вращающегося бурения."
+upgrades.keeper2pinballdamage3.title,Урон кинетичных сфер 3
+options.video.graphicsmode.enablevsync,Вкл. верт. синхр.
+options.translation.community,"Перевод игрового сообщества, завершено на {completion}%"
+loadout.difficult.harder,сложнее
+worldmodifier.resourcerichiron.desc,В этом мире много железа.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,Отправить железо
+upgrades.stunlaserspeed1.desc,Оглушающий лазер перемещается быстрее.
+upgrades.keeper2pinballdamage2.desc,"Увеличивает урон, который кинетическая сфера наносит камню при столкновении. Также улучшает урон от вращающегося бурения."
+upgrades.drill1.title,Усиление бура 1
+upgrades.prospectionmetersand2.title,Компас (кобальт)
+upgrades.dome1health1.desc,Увеличивает структурную прочность вашего купола.
+title.navbar.newgame,Новая Игра
+properties.repellent.overchargeduration,Время ускоренной работы репеллента (в циклах): {}
+properties.sword.retractspeed,Скорость втягивания {} 
+upgrades.lasermove3.desc,Максимальная скорость перемещения лазера.
+upgrades.stunlaser.title,Оглушающий лазер
+pause.gamepadcontrols.use,Использовать
+worldmodifier.monsterfeeble.desc,Монстры будут наносить меньше урона.
+upgrades.shield.desc,"Установка щита, способного поглощать часть урона. Щит перезаряжается автоматически."
+options.video.stretchmode.rezised.text,"Рендерит игру в нативном разрешении полноэкранного или оконного режимов.
+Картинка будет резкой, но могут появляться визуальные артефакты в виде линий шириной в 1 пиксель."
+upgrades.orchardbattlerootingexplosion.desc,"Повторная активация взрывает всех захваченных корнями монстров, нанося урон вокруг них."
+loadout.mapsize.small,Малый
+upgrades.probe.desc,"Встраивает в ваш скафандр специальный зонд, который при активации испускает импульс, отображающий ресурсы неподалеку. Зонд нужно перезаряжать на станции под куполом."
+upgrades.swordlongblade1.desc,Установка более длинного и быстрого клинка.
+upgrades.dome1health1.title,Прочность 1
+upgrades.blastminingwaterless.title,Безводные заряды
+level.tutorial.assessor.carry,Гравитационный сбор
+upgrades.liftspeed1.desc,Увеличивает скорость капсул.
+upgrades.shieldstrength1.desc,"Увеличивает количество урона, которое способен поглотить щит."
+upgrades.orchardbattleshieldsecondlayer.title,Двуслойный щит
+upgrades.teleporterteleportresourcescooldown.desc,Портал может перемещать ресурсы чаще.
+options.input.gamepad.autoswitch,автоматическое определение предпочитаемого геймпада
+level.gameover.unlock.modifiers,Открыты модификаторы мира!
+properties.sword.slicebrake,Потеря скорости при рубке: {.percent}
+loadout.difficulty.veryeasy,Стандартный
+properties.sword.sliceacceleration,Скорость меча: {}
+options.input.gamepad.gamepadstickdeadzone.text,"Установите значение так, чтобы шкала не колебалась, если вы лишь касаетесь джойстиков, не двигая их.
+Шкала должна колебаться, когда вы двигаете джойстик."
+options.accessibility.highlightmonsters.explanation,Обводить силуэт монстра яркой линией для лучшей видимости.
+properties.upgrade.gameover,Завершить забег
+upgrades.blastminingstickycharge.title,«Липкие» заряды направленного действия
+upgrades.shieldoverchargestrength2.title,Увеличение прочности щита 2
+upgrades.blastminingblast2.desc,Еще больше увеличивает мощность взрыва заряда.
+upgrades.repellentbattlestrongerslowdown2.title,Усиленная стагнация
+upgrades.converter.desc,"Может превращать одни ресурсы в другие, когда у вас возникнет в этом необходимость."
+level.gameover.continue,Продолжить
+upgrades.repellentbattleslowdown.desc,"Позволяет распрыскать во время битвы особую субстанцию, замедляющую всех монстров."
+loadout.mapsize.medium.description,Средних размеров карта для нормальных горнодобывающих операций.
+properties.orchard.overchargeadditionalbuffduration,Доп. длительность баффа после гидратации: {} с
+options.translation.community.title,Перевод от Сообщества
+upgrades.blastminingtriple.title,Тройной Заряд
+worldmodifier.hardnessextremes.desc,Много крайне мягкой и крайне твердой породы.
+level.station.battle.navbar.exit,Выйти
+upgrades.keeper2pinballlifetime1.title,Срок действия кинетической сферы 1
+upgrades.minoriron.desc,"Отправить железо за пределы мира, чтобы увеличить свой престиж."
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,Миграция
+upgrades.converterefficientcobalt.title,Эффективная конверсия кобальта
+upgrades.shieldbattledestructionprevention.desc,"Дает длительный период неуязвимости в момент, когда прочность вашего купола оказывается практически на нуле.
+После этого щит не перезарядится перед следующей битвой. «Последний рубеж» можно активировать снова только после 2 завершенных волн.
+"
+upgrades.drill1.desc,"Усиливает бур, позволяя ему бурить быстрее."
+level.gameover.retry,Новый забег
+properties.orchard.overchargeduration,Двойная скорость роста плода (в циклах): {}
+upgrades.dome2health1.title,Прочность 1
+level.tutorial.station.popup_4,Затем нажмите | для перехода в боевой режим и защищайте купол!
+level.gameover.stats.timeplayed.unit,м
+upgrades.repellentbattlestrongerslowdown2.desc,Еще больше увеличивает силу и длительность замедления.
+loadout.gadgetoptions.title,Выберите основное устройство
+level.tutorial.station.popup_2,Пройдите к центру управления и нажмите | для активации.
+upgrades.dome1damagereduction1.desc,"Укрепляет поверхность купола, позволяя выдерживать больше рукопашных ударов от монстров. Не влияет на защиту от снарядов."
+level.tutorial.station.popup_1,Купол атакован!
+upgrades.keeper2movement3.title,Гравитационное движение 3
+upgrades.jetpackspeed1.desc,Увеличивает скорость перемещения с реактивным ранцем.
+properties.converter.ironwatertime,Время конверсии (в циклах): {}
+level.tutorial.sworddome.slicing.desc,"Чем быстрее движется меч, тем больше урон от рубящего удара."
+upgrades.liftorbs.desc,Установка дополнительной капсулы в лифт.
+upgrades.proberecharge.desc,Зонд будет сам медленно восстанавливать заряд батареи.
+loadout.gadget,УСТРОЙСТВО
+upgrades.drill4.title,Усиление бура 4
+properties.probe.rechargetime,Полное время перезарядки (в циклах): {} 
+upgrades.keeper2pinballdamage4.title,Урон кинетичных сфер 4
+options.game,Игра
+loadout.prestige.cobalt,Фиксированное кол-во кобальта
+options.input.vibration.strength,Сила вибрации
+upgrades.liftcapacity1.desc,Капсулы вмещают больше ресурсов.
+loadout.miner.title,Выберите настройки вашего прохождения
+level.gameover.stats.difficulty,Уровень сложности
+upgrades.repellentoverchargestrength2.title,Увеличение задержки 2
+upgrades.domesandrepairstrong.title,Усиленный ремонт кобальтом
+upgrades.stunlaserduration1.desc,Оглушающий лазер дольше работает и быстрее восстанавливается.
+level.gameover.prestige.score.rankimproved,Вы улучшили свой рейтинг до: {rank}.
+upgrades.stunlaserdamage2.desc,Оглушающий лазер наносит еще больше урона.
+upgrades.drillbotstrength4.title,Усиление 4
+level.gameover.prestige.title,ПРЕСТИЖНЫЙ ЗАБЕГ ЗАВЕРШЕН
+loadout.secondstage.cancel,Отмена
+upgrades.laseraimline.desc,"Добавляет прицел на лазер, показывая, во что он целится."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,Водосборник может производить и хранить 2 ед. воды.
+upgrades.swordreflection2.title,Отражение урона 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,"Усиливает бур, позволяя ему бурить быстрее."
+properties.laser.hitprojectiles,Лазер сбивает энергетические снаряды
+upgrades.dome1damagereduction1.title,Усиление 1
+properties.sword.stabexplosivedamage,Урон от бомбы: {}
+upgrades.drillbotturnaround.title,Продвинутая дрессировка
+upgrades.keeper2movement1.title,Гравитационное движение 1
+properties.orchard.battleroots,Отращивание корней: {}
+upgrades.prospectionmeterrange2.title,Дистанция 2
+upgrades.jetpackspeed4.title,Скорость 4
+upgrades.miner.title,Шахтер
+upgrades.repellentdelay2.desc,Еще больше увеличивает задержку следующей волны монстров.
+upgrades.orchard.desc,"Посадите в куполе дерево, чьи фрукты увеличивают скорость перемещения и добычи."
+upgrades.artilleryflakexplosionradius1.title,Радиус поражения 1
+upgrades.shieldbattleelectroblast.desc,"Активация боевой способности, которая на некоторое время создает смертоносное электрическое поле вокруг купола."
+upgrades.shredgadgettocobalt.desc,Разберите устройство и получите {amount} ед. кобальта.
+upgrades.prestigecobalt.title,Отправить кобальт
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,"Установка массивного клинка – более медленного, но наносящего большой урон."
+level.gameover.back,Назад
+options.cancel,Отмена
+options.keybindings.action.dome.fire,Стрельба 
+upgrades.swordstabshoot.title,Дротик
+upgrades.blastminingtriple.desc,Производство 3‑х маленьких снарядов вместо одного.
+upgrades.orcharddrill1.title,Улучшение добычи 1
+upgrades.swordextendlong2.title,Дальний укол 2
+upgrades.artilleryshotcooldown1.desc,Увеличивает скорострельность.
+upgrades.keeper2pinballdamagefraction.title,Превышение твердости кинетической сферы
+upgrades.doublelaser.title,Двойной лазер
+upgrades.jetpackspeed3.title,Скорость 3
+upgrades.prestigewater.title,Отправить воду
+properties.orchard.battleabilityuses,Применений за битву: {}
+upgrades.liftorbs.title,Капсула 1
+upgrades.repellentoverchargeduration1.title,Продление боевой способности 1
+upgrades.drill3.desc,"Усиливает бур, позволяя ему бурить быстрее."
+level.gameover.prestige.uploading.inprocess,отправка счета...
+loadout.abort,Отменить
+properties.shield.overchargestrength,Усиление гидратацией: {} ОП
+level.station.navbar.upgrades,Улучшения
+upgrades.keeper2pinballsplit.desc,"Split incoming spheres into two, launching them perpendicular to the original."
+upgrades.proberecharge.title,Автоподзарядка
+properties.sword.stabrange,Дистанция: {} 
+upgrades.liftspeed1.title,Скорость
+upgrades.domewavecount.desc,"Установить «календарь», отображающий, сколько волн вы пережили."
+level.converter.popup.title,Конвертация ресурсов
+pause.discord,Присоединяйтесь к нам в Discord
+options.keybindings.action.general.back,Отмена
+upgrades.prospectionmeterrange1.desc,Увеличивает дистанцию обнаружения датчика ресурсов.
+upgrades.dome2badrepair1.desc,"Если купол получит в бою сильный урон, он автоматически отремонтирует часть повреждений."
+upgrades.prestigecobalt.desc,"Отправить обратно кобальт; повышает множитель престижа, который вы получаете с каждой волны."
+upgrades.domesandrepair.desc,Устранить нанесенный куполу урон с помощью кобальта.
+loadout.skinoptions.title,Выберите облик
+loadout.difficulty.medium.description,Рекомендуемый уровень сложности.
+loadout.difficulty.veryeasy.description,"Играть все еще непросто, но в целом более расслабленно, чем на других уровнях."
+options.game.tutorials,Обучение
+upgrades.orchardbattlerootingmore.desc,Выращивайте больше долгоживущих корней.
+upgrades.probepersist1.title,Модуль памяти
+upgrades.keeper2pinballmorespheres2.title,Запас сфер 2
+upgrades.orchardjetpack3.desc,"Увеличивает бафф скорости, позволяя вам перемещаться максимально быстро."
+upgrades.probe.title,Зонд
+upgrades.sword.title,Меч
+properties.shield.battledestructionprevention,Доп. время действия: {} с
+upgrades.shieldbattlereflect.title,Отражение
+options.keybindings.action.general.use,Применить
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,Двойной бак
+upgrades.relichunt.desc,"Найдите реликвию, закопанную глубоко в недрах планеты, и принесите ее в купол."
+loadout.mapsize.unlock.description,"Выиграйте раунд на карте предыдущего размера, чтобы открыть карту этого размера."
+properties.sword.stabdamage,Урон от укола: {} 
+properties.keeper1.drillstrength,Мощность бура: {}
+worldmodifier.mapwildbiomes.desc,Границы биомов очень неравномерны.
+upgrades.condenser.title,Водосборник
+upgrades.dome2badrepair2.title,Восстановление 2
+options.game.screenshake.shakewhenmining,Тряска при добыче ископаемых
+upgrades.repellentdelay2.title,Задержка 2
+level.tutorial.assessor.reflect.desc,"Нажмите|,чтобы на мгновение отразить летящие на вас кинетичные сферы."
+properties.drillbot.buffamount,Ударов при бурении под ускорением: {}
+upgrades.laserstrength2.title,Мощность 2
+upgrades.jetpackstrength3.title,Транспортировка 3
+options.keybindings.action.general,Общее
+level.gameover.unlock.gadgetability,Новая боевая способность устройства
+upgrades.jetpackstrength1.desc,"Усиливает реактивный ранец, позволяя переносить больше ресурсов."
+upgrades.artillerymultishot1.desc,Выпускает несколько гранат за выстрел.
+properties.sword.reflectprojectiles,Отражение энергетических снарядов
+upgrades.stunlaser.desc,"Установите лазер, который автоматически наводится на цель и оглушает ее."
+upgrades.orchardbattleshieldstrong.desc,Увеличивает прочность щита. Также после гидратации щита можно повторно использовать способность.
+upgrades.orchardjetpack1.desc,"Увеличивает бафф скорости, позволяя вам перемещаться быстрее."
+upgrades.laser.desc,"Высокоточный лазер, способный перемещаться по внешней поверхности купола. Изначально разрабатывался для добычи минералов из астероидов."
+properties.orchard.battleshieldhp,Прочность: {} ОП
+options.keybindings.action.keeper,Хранитель
+worldmodifier.resourceunpredicatablecobalt.desc,"Залежи кобальта более разбросаны, их местонахождение труднее предугадать."
+pause.quitgame,Выйти из игры
+options.keybindings.rebinding.error.gamepad,Невозможно сопоставить это действие геймпаду
+upgrades.repellentbattleslowdownstun1.desc,"Добавляет к субстанции ядовитые споры, ненадолго парализующие монстров."
+upgrades.swordfastreflection.title,Ускоренное отражение
+upgrades.stunlaserduration2.title,Длительность действия 2
+level.gameover.lose.title,КУПОЛ ПОТЕРЯН
+worldmodifier.resourcescatterediron.desc,"В шахте больше залежей железа, но они меньше размером."
+properties.laser.dps,Урон: {}
+options.game.screenshake.shakeintensity,Интенсивность тряски
+worldmodifier.hardnessharder.desc,В шахте встречается много твердой породы.
+options.video.stretchmode,Режим растягивания
+worldmodifier.monsterhealthy.desc,У монстров будет больше здоровья.
+level.gameover.stats.mapsize,Размер карты
+loadout.mode.longtime,Долгий цикл
+upgrades.swordreflection3.desc,Максимальный размер щита.
+upgrades.repellentbattleslowdownstun2.desc,Споры выпрыскиваются чаще и парализуют монстров дольше.
+upgrades.teleporterteleportresourcesarea.title,Область телепортации
+upgrades.shieldoverchargeduration2.desc,"После гидратации боевая способность щита, активированная на следующей волне атаки, будет действовать еще дольше."
+upgrades.shieldoverchargestrength1.title,Увеличение прочности щита 1
+upgrades.drillbotbuffstrength1.desc,Вкусняшки дают Бурмистру тонус на более длительное время.
+upgrades.orchardoverchargebuffduration.title,Гидратация фруктов
+level.tutorial.assessor.spheres.desc3,Их энергия накапливается с каждым отскоком.
+loadout.mode.longtime.desc,"У вас будет вдвое больше времени между волнами, но сами волны – сильнее."
+level.tutorial.assessor.spheres.desc2,"Выберите направление и отпустите клавишу, чтобы запустить сферу."
+upgrades.laserstrength1.desc,Увеличивает мощность лазера. Он будет медленнее перемещаться в процессе стрельбы.
+level.tutorial.assessor.spheres.desc1,Удерживайте|чтобы зарядить кинетичную сферу.
+upgrades.jetpackstrength4.title,Транспортировка 4
+upgrades.migration.desc,"Перелетайте от планеты к планете, вытягивая из них ресурсы и реликвии, пока ваш купол не сожрет фауна очередного мира."
+upgrades.orcharddrill1.desc,"Увеличивает бафф к скорости добычи, позволяя вам копать быстрее."
+upgrades.keeper2pinballdamage3.desc,"Увеличивает урон, который кинетическая сфера наносит камню при столкновении. Также улучшает урон от вращающегося бурения."
+options.accessibility.highlightmonsters,Подсвечивание монстров
+upgrades.prestigecobaltnocobalt.title,Отправить кобальт
+properties.keeper2.spherebasedamage,Базовый ущерб сфер {}
+upgrades.orcharddrill3.desc,"Увеличивает бафф к скорости добычи, позволяя вам копать неимоверно быстро."
+properties.converter.cobalttoiron,{} ед. кобальта за 1 ед. железа
+level.tutorial.repair.usecobalt,"Используйте кобальт, чтобы ремонтировать купол. Сделать это можно через меню улучшений."
+upgrades.blastminingimpactdetonation.title,Подрыв при касании
+upgrades.swordfastreflection.desc,Отраженные снаряды летят обратно с увеличенной скоростью.
+upgrades.liftcapacity1.title,Вместимость
+upgrades.artillery.desc,Базука из Worms.
+properties.sword.electricdamage,Урон от электроклинка: {}
+level.station.upgrademenu.close,Закрыть
+properties.shield.overchargebattleabilityduration,Доп. время действия способности: {.percent}
+pause.title,ПАУЗА
+upgrades.artillerymultishot1title,Цепной выстрел 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Доп. время действия способности: {} с
+upgrades.orchardbattlerootingexplosion.title,Взрывная добыча
+upgrades.blastminingproductiontime1.title,Скорость сборки
+options.video.stretchmode.scaled.text,"Отображает игру в фиксированном разрешении и масштабирует до вашего разрешения.
+Может быть нечёткими, особенно в шрифтах, но визуальных ошибок нет."
+upgrades.orchardduration3.title,Длительность 3
+upgrades.domewavecount.title,Счетчик циклов
+upgrades.shredgadgettoiron.title,Разобрать на железо
+options.keybindings.rebinding.apply,Применить
+options.keybindings.restoredefault,Восстановить стандартные
+upgrades.converterironduplication.title,Дупликация железа
+title.navbar.credits,Авторы
+level.gameover.unlock.gadget,Новое устройство
+upgrades.jetpackspeed2.title,Скорость 2
+loadout.modeoptions.title,Выберите режим игры
+properties.keeper2.spherebaselifetime,Срок действия сферы {}
+options.video.stretchmode.scaled,Масштабирование
+properties.orchard.battleabilityduration,Время действия способности: {} с
+upgrades.repellentbattleslowdownstun1.title,Паралич
+loadout.difficulty.medium,Жестокий
+options.audio.volumes,Громкость
+upgrades.keeper1.title,Инженер
+upgrades.drillbotsleepless.title,Базовая дрессировка
+upgrades.drillbot.title,Бурмистр
+level.tutorial.assessor.carry.desc1,"Удерживайте|чтобы притянуть ресурсы, пока они не будут к вам прикреплены."
+level.tutorial.assessor.carry.desc2,Нажмите|чтобы отпустить ресурс.
+level.tutorial.drillbot.sleeping1,"Бурмистр уснет, проработав некоторое время или наткнувшись на непреодолимую стену."
+level.tutorial.assessor.carry.desc3,"Если вы сбросите ресурс в определенном направлении, он значительно ускорится при падении."
+level.tutorial.drillbot.sleeping2,"Нажмите | рядом с ним, чтобы разбудить его."
+level.tutorial.drillbot.sleeping3,"Вы можете заставить его повернуться, нажав | когда он активен."
+properties.keeper2.totalspheres,Сферы: {}
+upgrades.shieldbattleblastdamage.title,Смертоносный взрыв
+upgrades.domeresourcecounters.desc,Отображает текущее количество ресурсов на складе.
+upgrades.swordextendlong1.desc,Увеличенный урон от укола и возможность управлять клинком в полете.
+worldmodifier.resourcerichwater.desc,В этом мире много воды.
+upgrades.drillbotstrength1.desc,Улучшает способность Бурмистра к бурению.
+upgrades.stunlaserautonomy1.desc,"Оглушающий лазер будет работать под управлением простого ИИ, даже когда вы находитесь не в куполе."
+properties.blastmining.radius,Радиус взрыва (в клетках): {}
+upgrades.jetpackstrength1.title,Транспортировка 1
+options.keybindings.apply,Применить
+upgrades.laserstrength2.desc,Значительно увеличивает мощность лазера. Он будет еще медленнее перемещаться в процессе стрельбы.
+properties.laser.movespeedwhilefiring,Скорость при ведении огня: {.percent}
+properties.probe.markerretention,Время действия маркера: {} с
+upgrades.swordexplosivereflection.title,Взрывное отражение
+upgrades.condenserspeed2.desc,Еще больше сокращает время на конденсацию 1 ед. воды.
+upgrades.condenserspeed2.title,Скорость конденсации 2
+properties.stunlaser.firetime,Время работы: {}
+options.input.gamepad.gamepadstickdeadzone,Мертвая зона мини-джойстиков
+upgrades.keeper2movement2.desc,Увеличивает скорость перемещения с гравитационным генератором.
+upgrades.shieldbattlelongerafterdepletion.desc,Эффект будет длиться дольше при активации после истощения щита.
+properties.laser.bend,автонаведение лазера {}
+level.station.upgrademenu.buy,Купить
+properties.drillbot.plantgrowthtime,Время роста вкусняшек (в циклах): {}
+loadout.proceed,Продолжить
+upgrades.repellentoverchargeduration1.desc,Усиление резервуара также продлевает боевую способность репеллента для следующей волны.
+upgrades.artilleryshotcooldown1.title,Перезарядка 1
+worldmodifier.resourceunpredicatablewater.desc,"Залежи воды более разбросаны, их местонахождение труднее предугадать."
+level.tutorial.blastmining.popup_1,"Возьмите подрывной заряд и бросьте его там, где хотите расчистить породу."
+ending.thankyoumessage,"Спасибо, что сыграли в игру!"
+options.keybindings.rebinding.error.keyboard,Невозможно сопоставить это действие клавиатуре
+upgrades.keeper2pinballdamagefraction.desc,The kinetic sphere transcends rock hardness and damages the rock by a fixed fraction of its health.
+upgrades.swordlargeblade1.title,Тяжелый клинок 1
+upgrades.shredgadgettoiron.desc,Разберите устройство и получите {amount} ед. железа.
+upgrades.drillbot.desc,"Приручите милое существо, которое обожает копать. Отнесите его в шахту и положите там, где хотите, чтобы оно копало. Не забывайте наведываться и будить его, когда существо устанет от работы и уснет."
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,Прочность 1
+title.navbar.updates.close,Закрыть
+upgrades.swordaimline.desc,Добавление лазерного целеуказателя при выстреливании клинка.
+upgrades.shieldoverchargeduration1.title,Продление боевой способности 1
+level.converter.popup.explanation,"Выберите, что во что превращать!"
+upgrades.drillbotbuff1.title,Вкусняшки
+title.navbar.credits.close,Закрыть
+upgrades.keeper2movement3.desc,Увеличивает скорость перемещения с гравитационным генератором.
+pause.quittotitlescreen,На титульный экран
+loadout.prestige.countdown.description,Множитель престижа максимален и уменьшается с каждым кругом.
+upgrades.drill3.title,Усиление бура 3
+upgrades.probestage1.title,Улучшенный зонд
+properties.sword.stabarrowhead,Увеличить размер наконечника
+loadout.mapsize.huge.description,Огромная карта для самых длинных сеансов игры.
+properties.sword.stabspeed,Скорость укола: {.percent} 
+level.tutorial.teleporter.take1,Ваш телепорт имеет станцию и портал. Вы можете перемещаться между ними.
+worldmodifier.mapmaze.desc,Шахта – настоящий лабиринт.
+level.tutorial.teleporter.take2,"Возьмите Портал и разместите его там, где вы хотите."
+options.keybindings.action.dome.battleability1,Боевая способность
+upgrades.laserbend.desc,"Установка специальной насадки, корректирующей луч лазера, если вы достаточно близко к цели."
+options.video.graphicsmode.fullscreen,Полный экран
+options.keybindings.action.general.down,Вниз
+level.tutorial.assessor.spheres,Кинетичные сферы
+level.tutorial.mineraltree1,"Вы только что нашли семя минерального дерева. Он может вырасти в дерево, уходящее корнями в плитки. Он будет увеличивать ресурсы в зависимости от ресурсов корневых плиток.
+Бросьте его на плитку, чтобы посадить семя."
+upgrades.blastmining.desc,"Устанавливает под куполом машину, которая использует воду для производства взрывных зарядов. Относите их в шахты и отпускайте, чтобы подорвать."
+properties.sword.stabcooldown,Перезарядка удлинения: {} с 
+upgrades.repellentoverchargestrength2.desc,Увеличьте задержку до следующей волны после усиления.
+upgrades.probeswift1.desc,Переключение на быстрый зонд ближнего действия с большим количеством зарядов.
+properties.drillbot.buffextraamount,Доп. ударов при бурении: {} с
+level.gameover.unlock.keeper,Новый хранитель
+upgrades.prospectionmeter.title,Датчик ресурсов
+upgrades.shieldbattleactivateondepletion.desc,Неуязвимость автоматически активируется дополнительно при истощении щита.
+upgrades.dome2badrepair1.title,Восстановление 1
+upgrades.swordtargetlock.title,Захват цели
+upgrades.laserhitprojectiles.title,Сбивание снарядов
+upgrades.keeper2pinballreflectspeedup1.title,Улучшенное отражение
+properties.shield.battleuses,Применений за битву: {}
+options.game.events,События
+upgrades.artilleryflakexplosionradius1.desc,Увеличивает радиус взрыва снаряда.
+properties.keeper1.speedlosspercarry,Снижение скорости при перевозке: {}
+pause.gamepadcontrols.back,Назад
+level.gameover.unlocknewelementbutton,Выберите разблокировку
+upgrades.prospectionmeteriron2.desc,Отображает направление на ближайшие залежи железа.
+upgrades.prestige.desc,"Набирайте очки, отправляя домой как можно больше ресурсов, пока ваш купол не будет разрушен или пока вы не покинете планету."
+properties.prestige.multiplier,Модификатор престижа за волну: {}
+options.input.controls,Управление
+properties.sword.reflectionacceleration,Скорость отраженных снарядов: {.percent}
+loadout.difficult.easier,легче
+upgrades.keeper2pinballreflectdamage1.title,Ущерб при отражении 1
+properties.sword.extendspeed,Скорость удлинения: {} 
+properties.keeper2.reflectspeedup,Ускорение сферы при отражении {.percent}
+loadout.mode.doubleiron,Двойное железо
+upgrades.dome3.desc,Недоступно в демоверсии
+properties.condenser.growthtime,Время производства (в циклах): {}
+options.game.languages,Языки
+worldmodifier.mapwidebottom.desc,"Шахта поначалу узкая, но чем глубже, тем шире становится."
+loadout.mode.maze,Лабиринт
+upgrades.dome2health1.desc,Увеличивает структурную прочность вашего купола и полностью восстанавливает все повреждения.
+properties.drillbot.drillstrength,Мощность бура: {}
+upgrades.keeper2.desc,"Профессиональный шахтер, способный применять экспериментальные гравитационные технологии."
+properties.orchard.battleshields,Слоев щита: {}
+level.tutorial.sworddome.reflecting.desc,"Используйте щиток меча, чтобы останавливать или отбивать снаряд."
+options.audio.volumes.musicvolume,Громкость музыки
+loadout.dome,КУПОЛ
+upgrades.swordlongblade2.title,Удлиненный клинок 2
+upgrades.laseraimline.title,Лазерный прицел
+level.tutorial.assessor.bundle.desc1,"Удерживайте|пока переносите ресурсы, чтобы зарядить пакет."
+options.keybindings.keyboard,Клавиатура
+level.tutorial.assessor.bundle.desc2,"Прицельтесь и отпустите клавишу, чтобы выстрелить им, точно так же, как и кинетичной сферой."
+properties.prestige.score,Престиж: {}
+worldmodifier.mapdeep.desc,Шахта более глубокая и менее широкая.
+upgrades.repellentbattleslowdownstun2.title,Сильный паралич
+upgrades.keeper2pinballmorespheres1.title,Запас сфер 1
+upgrades.prestigewater.desc,"Отправить обратно воду; добавляет +1 к престижу, который вы получаете с каждой волны."
+properties.keeper2.bundlestopcenter,Гравитационное поле центральной колонны
+upgrades.stunlaserdamage1.title,Урон 1
+upgrades.keeper2pinballlifetime2.title,Срок действия кинетической сферы 1
+properties.repellent.battleslowdown,Замедление монстров на {.percent}
+upgrades.swordextendlong1.title,Дальний укол 1
+level.gameover.stats.distancetravelled,Расстояние пройдено
+properties.keeper2.reflectlifetime,Доп. срок действия сферы при отражении {} с
+upgrades.blastminingimpactdetonation.desc,Подрывной заряд будет взрываться при соприкосновении с поверхностью.
+properties.keeper2.spheresplit,Разделить входящие сферы
+options.keybindings.action.dome.upgrade,Улучшения
+worldmodifier.resourcepoorcobalt.desc,В этом мире мало кобальта.
+pause.resumegame,Продолжить игру
+level.gameover.unlock.difficulty,Открыт новый уровень сложности!
+properties.stunlaser.cooldown,Перезарядка: {}
+options.keybindings.action.general.right,Вправо
+level.tutorial.assessor.mining.desc,"Чтобы убрать одиночный камень, можно попасть по нему вращающейся кинетичной сферой."
+upgrades.teleporterteleportresourcesback.title,Телепортация ресурсов
+upgrades.dome1.title,Лазерный купол
+upgrades.keeper2bundleinfinite.title,Длительность действия пакета
+upgrades.repellentdelay1.title,Задержка 1
+upgrades.miner.desc,"В мирах без монстров, вы можете сосредоточиться на добыче ресурсов, не отвлекаясь."
+upgrades.repellentbattlestrongerslowdown1.desc,Увеличивает силу и длительность замедления.
+upgrades.teleporterteleportresourcesarea.desc,Портал может перемещать ресурсы с более обширной области.
+upgrades.dome3.title,Артиллерийский купол
+upgrades.swordstabshoot.desc,"Вместо выстрела на тросе клинок теперь можно заряжать и выстреливать из купола, словно дротик."
+upgrades.repellentbattledamageovertime.desc,"Все монстры получают урон каждую секунду, пока активен токсичный аэрозоль."
+upgrades.shieldbattleactivateondepletion.title,Активация при истощении
+upgrades.artillerymultishot2.desc,Выпускает несколько гранат за выстрел.
+upgrades.dome1health2.title,Прочность 2
+worldmodifier.monsterlethal.desc,Монстры будут наносить больше урона.
+loadout.pet,Питомец
+options.keybindings.action,Действие
+upgrades.orcharddrill3.title,Улучшение добычи 3
+options.translation.title,ВЫБЕРИТЕ ЯЗЫК
+upgrades.prospectionmeterrange1.title,Дистанция 1
+upgrades.dome2badrepair2.desc,"Если купол получит в бою сильный урон, он автоматически отремонтирует значительную часть повреждений."
+options.audio.volumes.ambiencevolume,Громкость фоновых звуков
+upgrades.prestigecobaltnocobalt.desc,"Вернуть Кобальт, увеличив множитель престижа для каждой волны."
+worldmodifier.maparms.desc,В шахте больше рукавов.
+loadout.prestige.countdown,Обратный отсчёт
+upgrades.keeper2pinballdamage2.title,Урон кинетичных сфер 2
+upgrades.jetpackspeed1.title,Скорость 1
+upgrades.minerrefuel.title,Дозаправиться
+upgrades.teleporterteleportduration1.title,Скорость телепортации
+properties.probe.charges,Заряды: {}
+loadout.miner.fuel.title,Топливо
+exhibition.title.press.anything,Нажмите любую кнопку
+loadout.mode,РЕЖИМ ИГРЫ
+level.tutorial.sworddome.slicing,Рубить
+properties.condenser.autoovercharge,Автогидратация
+upgrades.teleporterteleportduration1.desc,Вы теперь телепортируетесь быстрее.
+upgrades.minerwater.title,Отправить воду
+title.navbar.continue,Продолжить
+upgrades.orchardbattleshield.desc,"Выращивайте вокруг купола щит, который будет защищать его от снарядов."
+upgrades.liftcarrykeeper1.title,Персональный лифт 1
+options.input.controls.keybindings,Назначение клавиш
+properties.keeper2.bundlespheres,Пакет сфер
+upgrades.shieldovercharge.title,Гидратация щита
+properties.condenser.overchargedelay,Задержка производства (в циклах): {}
+upgrades.keeper2.title,Маркшейдер
+level.tutorial.assessor.mining,Вращающееся бурение
+upgrades.repellentoverchargeduration2.title,Продление боевой способности 2
+upgrades.swordblade1.title,Улучшенная рубка
+properties.converter.irontoiron,{} ед. железа за 1 ед. железа
+exhibition.level.description,Возвращение в главное меню через...
+level.tutorial.assessor.mining.desc2,"Вы можете остановить добычу ресурсов, не выстреливая сферой, если предварительно отпустить клавиши направления."
+worldmodifier.monsterslow.desc,Монстры будут медленнее.
+upgrades.orcharddrill2.desc,"Увеличивает бафф к скорости добычи, позволяя вам копать еще быстрее."
+loadout.difficulty.easy.description,"Непростой, но и не самый суровый."
+upgrades.swordstabexplode.title,Клинок с бомбой
+level.gameover.stats.additionalgadget,Доп. устройство
+upgrades.drillbotbuffstrength2.desc,"Съев вкусняшку, Бурмистр будет работать дольше, прежде чем снова заснет."
+upgrades.laserstrength3.desc,Максимально увеличивает мощность лазера. Он практически не будет перемещаться в процессе стрельбы.
+loadout.mapsize.medium,Средний
+loadout.difficulty.hard,Сами напросились
+level.gameover.stats.wavessurvived,Волн пережито
+properties.stunlaser.damage,Урон: {}
+options.keybindings.rebinding.cancel,Отмена
+level.tutorial.sworddome.stabbing.desc,Вытяните меч и колите врагов на расстоянии.
+level.gameover.unlock.gamemodevariant,Новая вариация режима игры
+upgrades.prestigefinish.title,Покинуть планету
+properties.keeper2.bundleduration,Срок действия пакетов {.percent}
+upgrades.shieldstrength3.title,Усиление 3
+options.audio.volumes.mastervolume,Общая громкость
+upgrades.shieldbattlelongerafterdepletion.title,Усиление при истощении
+options.keybindings.text,"Измените управление под себя.
+Кнопки из разных разделов, обычно, могут использоваться без проблем одновременно (как например использование одних и тех же кнопок для перемещения хранителя и оружия купола)."
+properties.shield.battleblastdamage,Урон от взрывов (в секунду): {}
+loadout.mapsize.large.description,Большая карта для сеансов игры длиной более часа.
+upgrades.drill4.desc,"Усиливает бур, позволяя ему бурить быстрее."
+upgrades.drillbotsleepless.desc,"Бурмистр будет работать гораздо дольше, прежде чем снова заснет."
+upgrades.swordlargeblade2.title,Тяжелый клинок 2
+upgrades.swordlongblade2.desc,Еще больше увеличивает скорость клинка. Теперь он отскакивает при ударе о край.
+upgrades.prestigefinishnocobalt.title,Покинуть планету
+worldmodifier.hardnessmoderated.desc,Очень мало крайне мягкой и крайне твердой породы.
+upgrades.converterironduplication.desc,Позволяет увеличивать количество железа.
+upgrades.prestigefinish.desc,Покинуть эту планету и вернуться домой.
+upgrades.dome2health2.desc,Увеличивает структурную прочность вашего купола и полностью восстанавливает все повреждения.
+upgrades.prestige.title,Престиж
+upgrades.liftcarrykeeper1.desc,Увеличение скорости вашего подъема на лифте.
+upgrades.repellentbattlehealthreduction.desc,"Ослабляет всех наличествующих монстров, мгновенно снижая их уровень здоровья."
+upgrades.dome2.title,Купол с мечом
+worldmodifier.monsterfast.desc,Монстры будут быстрее.
+upgrades.condenserautocollect.desc,Автоматизация сбора воды: вам больше не нужно забирать ее руками!
+upgrades.lift.title,Лифт
+options.game.screenshake,Тряска экрана
+options.keybindings.action.dome,Купол
+upgrades.swordstabexplodedamage.desc,Увеличивает урон от взрыва бомбы.
+level.gameover.stats.resourcesmined,Ресурсов добыто
+worldmodifier.resourcepoorwater.desc,В этом мире мало воды.
+upgrades.prospectionmeter.desc,"Индикатор, отображающий дистанцию до ближайших ресурсных жил. Можно улучшить (чтобы датчик отображал и направление)."
+upgrades.shredgadgettocobalt.title,Разобрать на кобальт
+upgrades.swordelectrified.desc,"Сквозь клинок пропущен электрический ток, наносящий урон при касании."
+upgrades.artilleryflakexplosionradius2.desc,Увеличивает радиус взрыва снаряда.
+upgrades.prospectionmeterwater1.title,Датчик воды
+upgrades.minerwater.desc,Send water offworld to increase your prestige.
+options.video.graphicsmode,Режим отображения
+upgrades.shieldbattlereflectspeedup.desc,"Отраженные снаряды отлетают обратно с большей скоростью, увеличивая шанс попадания по атакующим монстрам."
+properties.shield.battleblaststun,Оглушение взрывом: {}
+loadout.mode.hyperactive.desc,"Монстры двигаются быстрее, но у них меньше здоровья."
+upgrades.swordstabexplode.desc,"Отправленный в полет меч несет на себе бомбу, взрывающуюся при первом уколе."
+upgrades.swordstabfast2.title,Быстрый укол 2
+upgrades.converterefficientwater.desc,"Превращение воды происходит более эффективно, но медленнее."
+upgrades.orchardduration1.desc,Эффекты от фруктов действуют дольше.
+loadout.difficulty.title,Уровень сложности
+exhibition.level.heading,Вы еще тут?
+level.gameover.unlock.gamemode,Новый режим игры
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Увядание
+upgrades.teleporterteleportreactivate.title,Реактивация личного телепорта
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,Звук
+upgrades.repellentovercharge.desc,"Используйте воду, чтобы усилить резервуар и быстрее производить новую порцию репеллента."
+upgrades.domewavemeter.title,Индикатор уровня угрозы
+upgrades.prospectionmeterrange2.desc,Еще больше увеличивает дистанцию обнаружения датчика ресурсов.
+upgrades.keeper2pinballreflectspeedup1.desc,"Сферы усиливаются при отражении, что ускоряет их и позволяет дольше существовать."
+upgrades.shieldoverchargestrength1.desc,"Увеличивает количество урона, которое способен поглотить гидратированный щит."
+upgrades.repellentdelay1.desc,Увеличивает задержку следующей волны монстров.
+upgrades.repellentbattlelongerhealthreduction.title,Ускоренное увядание
+upgrades.swordtargetlock.desc,При выстреливании клинок автоматически наводится на первого попавшегося в прицел монстра.
+upgrades.orchardovercharge.desc,"Используйте воду, чтобы гидратировать сад, ускоряя тем самым процесс созревания плода."
+upgrades.orchardbattlerootingmore.title,Усиленные корни
+upgrades.swordextendlong2.desc,Еще больше урона от укола и более точное управление в полете.
+upgrades.swordstabfast1.title,Быстрый укол 1
+upgrades.probelong1.desc,Увеличивает радиус работы импульса – за счет одной ячейки заряда.
+upgrades.repellent.title,Репеллент
+worldmodifier.monsterwavesspaced.desc,Промежутки между волнами монстров будут дольше.
+upgrades.artilleryflakexplosionradius2.title,Радиус поражения 2
+properties.drillbot.amount,Ударов при бурении: {}
+upgrades.repellentdelay3.title,Задержка 3
+ending.appreciationmessage,"Надеемся, вы хорошо провели время! Мы всегда с радостью читаем обратную связь от игроков: если захотите – оставьте отзыв у нас в Discord или на форумах в Steam :)"
+properties.orchard.battlerootexplosion,Урон от взрыва {}
+upgrades.orchardduration3.desc,Эффекты от фруктов действуют максимально долго.
+upgrades.dome1damagereduction2.desc,"Укрепляет поверхность купола, позволяя выдерживать больше рукопашных ударов от монстров. Не влияет на защиту от снарядов."
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,Увеличивает скорость перемещения с реактивным ранцем.
+upgrades.jetpackspeed3.desc,Увеличивает скорость перемещения с реактивным ранцем.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,Настройки
+properties.repellent.battledamageovertime,Монстры получают {} ед. урона в секунду
+upgrades.repellentoverchargestrength1.title,Увеличение задержки 1
+upgrades.repellentoverchargestrength1.desc,"Кроме того, усиление увеличивает задержку следующей волны."
+upgrades.blastminingproductiontime1.desc,Сокращает время на производство заряда.
+properties.teleporter.teleportresourcescooldown,Длительность телепортации ресурсов: {} с
+upgrades.artilleryflakmultishot1.desc,Увеличивает количество выстреливаемых снарядов.
+properties.converter.ironcobalttime,Время конверсии (в циклах): {}
+options.title,НАСТРОЙКИ
+options.video.graphicsmode.window,В окне
+properties.shield.battlereflectspeedup,Скорость отраженных снарядов: {.percent}
+upgrades.swordaimline.title,Лазерный прицел
+level.tutorial.drillbot.handling1,Удерживайте | для подбора Бурмистра.
+upgrades.probestage1.desc,Улучшает характеристики зонда.
+level.tutorial.drillbot.handling2,"Нажмите | для смены направления, если он на поверхности."
+options.keybindings.rebinding.capture,Захватить
+properties.probe.range,Дистанция (в клетках): {}
+properties.stunlaser.speed,Скорость: {}
+properties.probe.impulsespeed,Скорость импульса: {}
+upgrades.domehealthmeter.title,Индикатор прочности
+options.audio.music.frequency,Частота (циклы без музыки)
+options.audio.volumes.soundvolume,Громкость эффектов
+properties.sword.slicebounceback,Меч отскакивает от упора
+upgrades.jetpackspeed4.desc,Увеличивает скорость перемещения с реактивным ранцем.
+worldmodifier.monsterfragile.desc,У монстров будет меньше здоровья.
+level.gameover.prestige.score.personalbest,Ваш новый личный рекорд!
+properties.prestige.baseperwave,Базовый престиж за волну: {}
+loadout.choices.comingsoon,В разработке.
+upgrades.doublelaser.desc,"Устанавливает вторую лазерную турель, но огневая мощь будет поделена между ними обоими."
+upgrades.jetpackstrength2.title,Транспортировка 2
+upgrades.keeper2bundlestopcenter.title,Центр гравитации
+properties.keeper2.spherelifetimeperbounce,Доп. срок действия сферы при отскоке {} с
+upgrades.converterefficientcobalt.desc,"Превращение кобальта происходит очень эффективно, но требует долгого времени."
+properties.orchard.buffduration,Длительность баффа (в циклах): {}
+upgrades.domesandrepair.title,Ремонт кобальтом
+properties.keeper1.maxspeed,Макс. скорость: {}
+level.station.upgrademenu.cost,Стоимость
+upgrades.lasermove1.title,Скорость перемещения 1
+level.tutorial.sworddome.reflecting,Отразить
+loadout.petoptions.title,Выберите питомца
+upgrades.domeresourcecounters.title,Склад
+level.gameover.unlockpicker.title,ВЫБЕРИТЕ РАЗБЛОКИРОВКУ
+level.gameover.proceedtounlock,Разблокировать новый элемент
+upgrades.artilleryshotcooldown2.desc,Увеличивает скорострельность.
+level.gameover.keepgadget.title,Выберите устройство для следующего забега
+level.station.battle.navbar.shoot,Стрелять
+upgrades.repellentbattlestrongerslowdown1.title,Стагнация
+upgrades.dome2.desc,"Улучшенный купол с динамическим клинком, с помощью которого хранители могут отбиваться от угроз."
+loadout.difficulty.easy,Тяжелый
+upgrades.condenserautocollect.title,Автосбор
+upgrades.orchard.title,Сад
+upgrades.keeper2pinballreflectspeedup2.desc,Сферы значительно усиливаются при отражении.
+upgrades.laserstrength1.title,Мощность 1
+upgrades.lasermove2.title,Скорость перемещения 2
+upgrades.shieldbattlereflectshortuses.desc,"Отражает чаще, но время действия способности короче."
+options.keybindings.action.keeper.drop,Выбросить
+level.converter.popup.conversion.to,в
+upgrades.repellent.desc,Установите бак с репеллентом для отпугивания монстров. Используй спрей на купол и задержи атаку монстров.
+properties.repellent.battlehealthreduction,Снижение здоровья монстров на {.percent}
+loadout.mode.hyperactive,"Быстрые, но хрупкие"
+loadout.prestige.miner,Miner
+upgrades.converter.title,Конвертер ресурсов
+properties.condenser.waterstorage,Вмещает {} ед. воды
+upgrades.jetpackstrength2.desc,"Усиливает реактивный ранец, позволяя переносить больше ресурсов."
+level.station.navbar.exit,Выйти
+options.accessibility.photosensitivity.explanation,Снижает количество мерцающего света.
+properties.orchard.overchargeadditionalabilityuses,Доп. применений способности после гидратации: {}
+worldmodifier.resourcepooriron.desc,В этом мире мало железа.
+level.gameover.backtomainmenu,В главное меню
+upgrades.orchardbattlerooting.desc,"Активируйте в процессе битвы, чтобы вырастить за пределами купола специальные корни, способные остановить любого среднего монстра, на них наступившего."
+upgrades.keeper2pinballreflect.desc,Отражайте сферы маленьким и мощным гравитационным полем вокруг себя.
+upgrades.laser.title,Лазер
+options.game.tutorials.resettutorials,Сброс обучения
+properties.converter.ironirontime,Время конверсии (в циклах): {}
+loadout.secondstage.start,Начать забег
+upgrades.artilleryflakmultishot2.desc,Увеличивает количество выстреливаемых снарядов.
+upgrades.swordreflection2.desc,Еще больше увеличивает щит.
+upgrades.lasermove3.title,Скорость перемещения 3
+upgrades.lasermove1.desc,Увеличивает скорость перемещения лазера.
+properties.lift.orbs,Капсулы: {}
+options.keybindings.action.general.move,Перемещаться
+upgrades.orchardjetpack2.title,Ускорение реактивного ранца 2
+options.audio.music,Музыка
+worldmodifier.resourceunpredicatableiron.desc,"Залежи железа более разбросаны, их местонахождение труднее предугадать."
+properties.shield.maxstrength,Прочность: {} ОП
+upgrades.condenserspeed1.title,Скорость конденсации 1
+properties.repellent.battleuses,Применений за битву: {}
+upgrades.shieldstrength2.desc,"Еще более увеличивает количество урона, которое способен поглотить щит."
+upgrades.drillbotbuffstrength2.title,Дополнительный Таурин
+upgrades.keeper2pinballreflectdamage2.desc,Отраженные сферы будут наносить больше ущерба камню при столкновении.
+level.paused,Пауза
+level.tutorial.sworddome.stabbing,Колоть
+upgrades.stunlaserspeed1.title,Скорость 1
+upgrades.domehealthmeter.desc,Отображает структурную прочность купола.
+upgrades.swordlargeblade1.desc,"Установка более широкого и длинного клинка, наносящего больший урон."
+title.navbar.quit,Выйти из игры
+level.station.battle.navbar.slice,Рубить 
+level.gameover.stats.timeplayed,Времени в игре
+properties.teleporter.teleportresources,Телепортация ресурсов
+upgrades.drillbotstrength2.desc,Улучшает способность Бурмистра к бурению.
+level.tutorial.drop.popup_2,Нажмите | для сброса одной единицы. Удерживайте для сброса нескольких.
+level.gameover.keepgadget.keeping,Гаджет сохранился: {gadget}
+level.tutorial.drop.popup_1,"Ресурсы, которые вы с собой тащите, будут вас замедлять."
+worldmodifier.maprugged.desc,Шахта кривая и неравномерная.
+level.tutorial.onewayteleporter1,Вы нашли телепорт в один конец!
+upgrades.artilleryshotprediction.title,Расчет траектории
+upgrades.keeper2bundle.desc,"Присоединенными минералами можно стрелять пакетом, точно так же, как кинетическими сферами."
+level.tutorial.onewayteleporter2,Нажмите | для размещения глаза.
+level.tutorial.onewayteleporter3,"Нажмите снова, чтобы телепортироваться к нему."
+properties.lift.capacity,Капсулы переносят ресурсов: {}
+properties.shield.battleabilityduration,Время действия способности: {} с
+level.tutorial.teleporter.carry2,"Удерживайте | рядом с порталом, чтобы снова его подобрать."
+level.tutorial.teleporter.carry3,Нажмите | для телепортации обратно.
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,"Вы можете перемещать портал и ставить его там, где вам захочется."
+options.keybindings.cancel,Отмена
+level.tutorial.probe.popup_1,Нажмите | для использования зонда.
+upgrades.liftcarrykeeper2.desc,Вы еще быстрее поднимаетесь на лифте.
+level.tutorial.probe.popup_3,"Он издаст импульс, который подсветит часть ближайших ресурсных жил.
+Зарядить зонд можно на станции."
+worldmodifier.resourcerichcobalt.desc,В этом мире много кобальта.
+upgrades.keeper2pinballdamage4.desc,"Увеличивает урон, который кинетическая сфера наносит камню при столкновении. Также улучшает урон от вращающегося бурения."
+properties.sword.stabexplosive,Бомба установлена
+properties.drillbot.turnaround,Разворот при упоре в твердую поверхность
+upgrades.shieldstrength1.title,Усиление 1
+properties.repellent.overchargewavedelay,Доп. задержка волны (в циклах): {}
+upgrades.swordreflection3.title,Отражение урона 3
+upgrades.dome1.desc,"Стандартный шахтерский купол, оснащенный высокоточным лазером."
+level.tutorial.drillbot.carry,"Заберите Бурмистра из его емкости и положите в шахте – там, где он должен копать."
+upgrades.lift.desc,"Установка автоматического лифта, который доставляет добытые ресурсы в купол для переработки."
+upgrades.dome1health2.desc,Увеличивает структурную прочность вашего купола.
+upgrades.converterefficientwater.title,Эффективная конверсия воды
+loadout.difficulty.hard.description,"Что ж, ваш купол..."
+upgrades.artillerymultishot2.title,Цепной выстрел 2
+upgrades.swordelectrified.title,Электроклинок
+upgrades.drillbotstrength3.desc,Улучшает способность Бурмистра к бурению.
+upgrades.shieldbattleinvulnerable.title,Неуязвимость
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,Автономность
+level.tutorial.teleporter.teleport1,"Подойдя к порталу, нажмите | для возвращения."
+level.tutorial.teleporter.teleport2,Вы так же можете телепортироваться в другом направлении.
+level.gameover.prestige.uploading.failed,"отправка не удалась, повторите попытку позже"
+upgrades.lasermove2.desc,Еще больше увеличивает скорость перемещения лазера.
+loadout.mapsize.title,Размер карты
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Мощность взрыва 1
+upgrades.drillbotturnaround.desc,"Наткнувшись на непреодолимую стену, Бурмистр вместо того, чтобы уснуть, развернется в другую сторону."
+properties.dome.baserepair,Восстановить {} ОП
+upgrades.condenserautoovercharge.desc,Ваше основное устройство будет постоянно гидратироваться без расхода воды. После сеанса гидратации производство воды в водосборнике будет замедлено.
+upgrades.teleporterteleportresourcesback.desc,"Портал теперь может перемещать ресурсы, но больше не может телепортировать вас. Вы все еще можете телепортироваться от купола к порталу."
+ending.wishlistonsteam,Добавить в список желаемого в Steam
+properties.sword.reflection,Увеличить размер щита
+upgrades.drillbotduplicate.desc,У Бурмистра заводится близнец – Бурлеск.
+level.converter.popup.conversion.convert,конвертировать
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} ед. воды за 1 ед. железа
+title.navbar.options,Настройки
+upgrades.swordexplosivereflection.desc,Отраженные снаряды взрываются при столкновении с целью.
+upgrades.shieldbattlereflectshortuses.title,Короткое отражение
+level.gameover.unlock.skin,Открыт новый облик!
+level.gameover.stats.destroyedblocks,Блоков разбито
+options.keybindings.action.keeper.gravityball,Зарядить выстрел
+upgrades.orchardjetpack1.title,Ускорение реактивного ранца 1
+upgrades.keeper1.desc,Высококвалифицированный профессионал с развитыми навыками добычи ресурсов.
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,Мощность 3
+upgrades.orchardoverchargebuffduration.desc,После гидратации сада эффекты от фруктов будут действовать дольше.
+upgrades.stunlaserduration1.title,Длительность действия 1
+loadout.mode.maze.desc,"Карта раскопок будет напоминать лабиринт со множеством рукавов, тупиков и поворотов."
+properties.dome.healthfractionrepair,Восстановить {.percent} от общих ОП
+upgrades.jetpackstrength3.desc,"Усиливает реактивный ранец, позволяя переносить больше ресурсов."
+options.input.gamepad.gamepadstickdeadzone.motiondetected,обнаружено движение:
+upgrades.prospectionmetersand1.title,Датчик кобальта
+upgrades.prospectionmeterwater1.desc,Отображает дистанцию до ближайших залежей воды.
+upgrades.blastminingstickycharge.desc,"Заряды прилипают к первой стене, которой коснутся, и вместо поражения по радиусу прорывают туннель в ней."
+options.video,Графика
+title.navbar.updates,Обновления
+loadout.skin,Облик
+upgrades.shieldstrength2.title,Усиление 2
+level.gameover.win.title,КУПОЛ СПАСЕН
+level.station.navbar.battle,Сражение
+upgrades.converterirontocobalt.desc,Позволяет превращать кобальт в железо и обратно.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,Новый купол
+pause.gamepadcontrols.pickup,Подобрать
+options.video.graphicsmode.photosensitive,Режим фоточувствительности
+upgrades.orchardduration2.desc,Эффекты от фруктов действуют еще дольше.
+properties.dome.meleedamagereduction,Снижение урона от рукопашных атак: {.percent}
+upgrades.domesandrepairstrong.desc,Устранить нанесенный куполу урон с помощью кобальта.
+options.input,Устройство ввода
+properties.keeper2.spherereload,Перезагрузка сфер {} с
+properties.blastmining.damage,Урон: {}
+upgrades.laserbend.title,Самонаводящийся лазер
+upgrades.swordlargeblade3.desc,"Установка гигантского клинка. Очень мощного, но очень медленного."
+loadout.domeoptions.title,Выберите купол
+upgrades.shieldoverchargeduration1.desc,"Гидратация щита также увеличивает срок действия его боевой способности, активированной на следующей волне атаки."
+upgrades.probelong1.title,Дальнобойный зонд
+options.keybindings.rebinding.inputprocessor,Нажмите новую клавишу для этого действия.
+properties.teleporter.teleportduration,Длительность телепортации: {} с
+upgrades.dome2health2.title,Прочность 2
+upgrades.drillbotduplicate.title,Кровиночка
+pause.quit.popup,"Вы действительно хотите выйти?
+Нажмите еще раз для подтверждения.
+(Ваш прогресс сохранен)"
+upgrades.prospectionmetersand2.desc,Отображает направление на ближайшие залежи кобальта.
+upgrades.probepersist1.desc,Добавление модуля памяти позволяет отметкам держаться дольше.
+upgrades.artilleryshotcooldown2.title,Перезарядка 2
+properties.keeper2.sphereadditionalfirsthitdamage,Доп. ущерб от первого удара {.percent}
+upgrades.shieldbattledestructionprevention.title,Последний рубеж
+level.gameover.unlock.pet,Открыт новый питомец!
+upgrades.repellentbattlelongerhealthreduction.desc,Увеличивает силу и длительность увядания.
+ending.feedbackondiscord,Оставить отзыв в Discord
+properties.keeper2.reflectnexthitdamage,Доп. ущерб сфер при отражении для след. отскока {.percent}
+options.video.graphicsmode.borderlesswindow,В окне без рамки
+upgrades.keeper2pinballlifetime1.desc,"Стабилизирует кинетические сферы, чтобы они могли плавать дольше."
+level.gadgetchoice.title,ПОДБЕРИТЕ УСТРОЙСТВО!
+upgrades.keeper2bundle.title,Пакетный выстрел
+upgrades.relichunt.title,Охота за реликвиями
+loadout.mode.doubleiron.desc,"Залежи железа дают в два раза больше руды, но все улучшения, требующие железа, также требуют его в два раза больше."
+level.tutorial.repair.findcobalt,"Постарайтесь найти кобальт. С его помощью можно ремонтировать купол.
+Кобальт – элемент редкий, и запасы его конечны."
+upgrades.keeper2pinballsplit.title,Разделение сфер
+options.input.controls.text,Рекомендуется играть с геймпадом.
+landing.proceed,"Нажмите любую кнопку, чтобы продолжить"
+upgrades.keeper2pinballmorespheres1.desc,"Добавьте модуль в гравитационный генератор, чтобы он собирал больше кинетических сфер."
+upgrades.jetpackstrength4.desc,"Усиливает реактивный ранец, позволяя переносить больше ресурсов."
+upgrades.orchardbattleshieldsecondlayer.desc,Вырастите второй слой щита.
+level.converter.popup.conversion.time,Более {time}s
+properties.keeper2.maxspeed,Макс. скорость: {}
+properties.laser.aimline,Лазерный прицел
+upgrades.shieldstrength3.desc,"Еще более увеличивает количество урона, которое способен поглотить щит."
+upgrades.repellentovercharge.title,Гидратация репеллента
+properties.drillbot.buffstrength,Ускорение от вкусняшек: {.percent}
+worldmodifier.hardnesssofter.desc,В шахте встречается много мягкой породы.
+level.tutorial.pickup.popup_1,Нажмите | для подбора ресурса.
+level.tutorial.pickup.popup_3,"Удерживайте, чтобы подобрать несколько."
+pause.gamepadcontrols.drop,Бросить
+level.tutorial.fruit.popup_1,Ваш первый ускоряющий фрукт созрел.
+level.tutorial.fruit.popup_2,"Нажмите | рядом с фруктом, чтобы съесть его."
+worldmodifier.mapwide.desc,Шахта более широкая и менее глубокая.
+upgrades.prestigefinishnocobalt.desc,Покинуть эту планету и вернуться домой.
+upgrades.prospectionmeteriron2.title,Компас (железо)
+upgrades.keeper2movement2.title,Гравитационное движение 2
+options.keybindings.gamepad,Геймпад
+ending.backtomainmenu,В главное меню
+level.tutorial.fullscreen.back,назад
+upgrades.shield.title,Щит
+upgrades.blastmining.title,Взрывное бурение
+upgrades.converterirontocobalt.title,Конверсия кобальта
+upgrades.swordstabfast1.desc,Позволяет колоть быстрее и чаще.
+level.gameover.prestige.score.rankunchanged,Нет изменений в рейтинге.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,Портал снова может перемещать вас.
+upgrades.orchardjetpack3.title,Ускорение реактивного ранца 3
+level.gameover.unlock.mapsize,Открыт новый размер карты!
+level.station.upgrademenu.inventory,Инвентарь
+level.gameover.keepgadget.none,Ничего
+upgrades.stunlaserdamage1.desc,Оглушающий лазер наносит чуть больше урона.
+properties.repellent.battleabilityduration,Время действия способности: {} с
+upgrades.prestigeiron.desc,"Отправить обратно железо; добавляет +1 к престижу, который вы получаете с каждой волны."
+upgrades.teleporter.title,Телепортер
+ending.teasemessage,Что ждет вас в будущем:
+loadout.relichunt.modifiers,Выберите модификаторы
+options.accessibility,Доступность
+loadout.mapsize.small.description,Маленькая карта для коротких сеансов.
+upgrades.shieldbattleblastdamage.desc,Увеличивает урон и силу оглушения электрошока.
+options.translation.community.desc,"Эти языки переведены нашим прекрасным сообществом. Присоединяйтесь, если вам нравится!"
+upgrades.prospectionmeterwater2.desc,Отображает направление на ближайшие залежи воды.
+upgrades.stunlaserdamage2.title,Урон 2
+options.keybindings.action.keeper.gadget1,Устройство 1
+options.keybindings.action.keeper.gadget2,Устройство 2
+properties.repellent.wavedelay,Задержка волны (в циклах): {}
+options.ok,ОК
+upgrades.swordblade1.desc,Увеличивает силу рубящего удара и скорость движения клинка.
+upgrades.shieldoverchargeduration2.title,Продление боевой способности 2
+properties.sword.slicedamage,Урон от пореза: {} 
+properties.condenser.autocollect,Автосбор
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,"Выстреленные пакеты останутся прямо под куполом, вместо того, чтобы пролетать мимо центральной оси."
+upgrades.orchardduration1.title,Длительность 1
+upgrades.drillbotbuffstrength1.title,Питательные вкусняшки
+upgrades.liftcarrykeeper2.title,Персональный лифт 2
+upgrades.shieldoverchargestrength2.desc,"Еще больше увеличивает количество урона, которое способен поглотить гидратированный щит."
+upgrades.repellentbattleslowdown.title,Слабость
+properties.sword.aimline,Расчет траектории
+upgrades.repellentdelay3.desc,Еще больше увеличивает задержку следующей волны монстров.
+upgrades.teleporter.desc,"Двусторонний телепортер с приемной станцией под куполом и переносным порталом, который можно устанавливать в шахте."
+level.gameover.stats.monsterskilled,Монстров убито
+upgrades.keeper2pinballreflect.title,Отражение сфер
+upgrades.drillbotstrength3.title,Усиление 3
+upgrades.shieldbattlereflectspeedup.title,Ускоренное отражение
+upgrades.probeswift1.title,Быстрый зонд
+options.game.events.enableseasonal,включить сезонный контент
+upgrades.repellentbattledamageovertime.title,Токсичный аэрозоль
+upgrades.dome3health2.title,Прочность 2
+loadout.mapsize.huge,Огромный
+properties.repellent.overchargebattleabilityduration,Доп. время действия способности: {.percent}
+options.keybindings.action.keeper.gravitycollect,Зарядить сбор
+loadout.miner.scores.title,Счет
+properties.lift.speed,Скорость капсулы: {}
+upgrades.drillbotstrength1.title,Усиление 1
+level.tutorial.repellent.popup_2,"Нажмите | рядом с репеллентом, чтобы активировать его."
+level.tutorial.repellent.popup_1,Ваш репеллент готов! Можно задержать наступление следующей волны.
+properties.orchard.growthtime,Скорость роста (в циклах): {}
+properties.keeper2.spherefractiondamage,Sphere Damage transcending Rock Hardness {.percent}
+properties.sword.brake,Ловкость меча: {}
+upgrades.artilleryflakmultishot2.title,Мультивыстрел 2
+upgrades.swordstabfast2.desc,Позволяет колоть еще быстрее и чаще.
+upgrades.sword.desc,"Прочный клинок, рубящий тем сильнее, чем длиннее «замах» при движении клинка по поверхности купола. Клинком можно стрелять, нанося монстрам колющие удары; также на нем установлен специальный щит, блокирующий снаряды."
+upgrades.artilleryflakmultishot1.title,Мультивыстрел 1
+upgrades.artilleryshotprediction.desc,Отображает расчетную траекторию выпущенной гранаты.
+upgrades.shieldbattlereflect.desc,"Активация боевой способности, которая в течение некоторого времени будет отражать подлетающие к куполу снаряды."
+upgrades.orchardbattleshieldstrong.title,Усиленный щит
+upgrades.swordlongblade1.title,Удлиненный клинок 1
+level.station.battle.navbar.stab,Колоть
+properties.converter.irontowater,{} ед. железа за 1 ед. воды
+upgrades.minoriron.title,Отправить железо
+upgrades.keeper2bundleinfinite.desc,Пакеты будут дольше сохранять стабильность.
+worldmodifier.resourcedesc,"В шахте меньше залежей железа, но они больше размером."
+loadout.keeper,ХРАНИТЕЛЬ
+upgrades.drillbotstrength4.desc,Улучшает способность Бурмистра к бурению.
+upgrades.swordstabexplodedamage.title,Урон от бомбы
+upgrades.prospectionmeterwater2.title,Компас (вода)
+loadout.keeperoptions.title,Выберите хранителя
+properties.prospectionmeter.range,Дистанция (в клетках): {}
+upgrades.orchardbattleshield.title,Защита от снарядов
+loadout.mapsize.large,Большой
+properties.keeper2.reflectsphere,Отражение приближающихся сфер
+upgrades.orchardbattlerooting.title,Опутывающие корни
+properties.repellent.growthtime,Время производства (в циклах): {}
+properties.converter.irontocobalt,{} ед. железа за 1 ед. кобальта
+upgrades.dome3health1.desc,Увеличивает структурную прочность вашего купола.
+upgrades.teleporterteleportresourcescooldown.title,Перезарядка портала
+upgrades.shieldovercharge.desc,Используйте воду для ручной гидратации щита – после этого на следующей волне атаки он сможет поглотить больше урона.
+upgrades.stunlaserspeed2.title,Скорость 2
+upgrades.drillbotbuff1.desc,В гнезде под куполом теперь выращиваются вкусняшки. Относите их Бурмистру для восстановления его энергии.
+options.keybindings.action.dome.battle,Сражение
+upgrades.orchardovercharge.title,Гидратация сада
+properties.teleporter.teleportresourcesarea,Дистанция телепортации (в клетках): {}
+upgrades.swordreflection1.desc,Увеличивает размер щита и дает ему возможность отражать энергетические снаряды.
+upgrades.blastminingblast2.title,Мощность взрыва 2
+upgrades.swordreflection1.title,Отражение урона 1
+upgrades.keeper2pinballlifetime2.desc,"Стабилизирует кинетические сферы, чтобы они могли плавать дольше."
+options.keybindings.action.general.left,Влево
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Увеличивает структурную прочность вашего купола.
+upgrades.drill2.title,Усиление бура 2
+options.keybindings.rebinding,Переназначение
+level.tutorial.assessor.carry.desc1_1,"После того как они к вам прикрепятся, они будут следовать за вами, даже если вы отпустите клавишу направления."
+upgrades.keeper2pinballdamage1.title,Урон кинетичных сфер 1
+upgrades.stunlaserspeed2.desc,Оглушающий лазер перемещается еще быстрее и продолжает следить за монстрами даже на перезарядке.
+options.keybindings.title,УПРАВЛЕНИЕ
+upgrades.keeper2pinballmorespheres2.desc,"Добавьте модуль в гравитационный генератор, чтобы он собирал больше кинетических сфер."
+level.gameover.prestige.uploading.finalfailed,отправка нового результата не удалась
+upgrades.blastminingblast1.desc,Увеличивает мощность взрыва заряда.
+upgrades.stunlaserduration2.desc,Оглушающий лазер дольше работает и быстрее восстанавливается.
+upgrades.prospectionmetersand1.desc,Отображает дистанцию до ближайших залежей кобальта.
+level.station.battle.navbar.move,Перемещаться
+properties.blastmining.bombs,Заряды
+upgrades.drillbotstrength2.title,Усиление 2
+loadout.prestige.cobalt.description,"На карте нет кобальта, и вы не можете его создавать, но начинаете игру с большим его запасом."

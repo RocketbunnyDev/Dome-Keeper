@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/amb_whilesailing_BASS.wav-a869ee86edd3a0df2710d420a605c68c.sample"
+
+[deps]
+
+source_file="res://content/sounds/Amb/amb_whilesailing_BASS.wav"
+dest_files=[ "res://.import/amb_whilesailing_BASS.wav-a869ee86edd3a0df2710d420a605c68c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

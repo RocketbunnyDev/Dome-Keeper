@@ -1,0 +1,943 @@
+﻿key,ro_RO
+loadout.prestige.title,Alegeți o variantă de mod
+upgrades.shieldbattleelectroblast.title,Detonare Electrică
+properties.shield.maxstrength,Rezistență {} hp
+options.keybindings.action.general.move,Mișcare
+options.video.stretchmode.rezised,Redimensionat
+level.gameover.unlock.world,O nouă lume deblocată!
+upgrades.blastminingwaterless.desc,"Nu mai e nevoie de apă pentru producție, dar durează mai mult."
+properties.blastmining.growthtime,Timp de producție {} cicluri
+properties.laser.stun,Putere de Amețire {}
+exhibition.level.instruction,Apasă orice pentru a continua redarea!
+pause.godot,Făcut cu Godot
+upgrades.orchardjetpack2.desc,"Mărește accelerația acordată de fructe, permițându-ți să te miști și mai rapid."
+upgrades.artillery.title,Artilerie
+upgrades.condenser.desc,Adaugă o mașinărie sub dom care produce apă încet prin condensare.
+properties.lift.keeperupwardsspeed,Viteza Liftului Gardianului {}
+level.tutorial.fullscreen.continue,continuă
+upgrades.dome1damagereduction2.title,Întărire 2
+upgrades.orchardduration2.title,Durată 2
+upgrades.condenserautoovercharge.title,Supraîncărcare Automată
+upgrades.keeper2pinballreflectdamage2.title,Puterea Reflectării 2
+loadout.title,ALEGE-ȚI ECHIPAMENTUL
+level.tutorial.teleporter_2,"Utilizează Stația de teleportare pentru a te teleporta la Portal, și vice-versa."
+options.keybindings.action.general.up,Sus
+level.converter.popup.cancel,Anulează
+properties.keeper.domefuel,Adaugă combustibil {}
+properties.shield.battleactivateondepletion,Activează abilitatea la epuizarea scutului
+loadout.prestige.normal,Normală
+properties.sword.reflectprojectilesexplosive,Proiectilele energetice reflectate sunt explozive
+upgrades.swordlargeblade3.title,Lamă Grea 3
+upgrades.orcharddrill2.title,Minerit Amplificat 2
+loadout.prestige.normal.description,Trimite resurse în afara lumii pentru a obține prestigiu printre gardieni.
+upgrades.keeper2pinballreflectdamage1.desc,Sferele reflectate vor cauza mult mai multe daune rocii pe care urmează să o lovească.
+options.input.gamepad,Gamepad
+loadout.choices.locked,Încă nu este deblocat.
+upgrades.condenserspeed1.desc,Reduce timpul necesar pentru a condensa o resursă de apă.
+upgrades.shieldbattleinvulnerable.desc,Declanșează o abilitate de luptă activă care face domul invulnerabil pentru un scurt timp.
+upgrades.domewavemeter.desc,Afișează timpul rămas până ce următorul val de inamici atacă.
+upgrades.keeper2pinballreflectspeedup2.title,Reflectare Superioară
+upgrades.keeper2movement1.desc,Îmbunătățește-ți generatorul gravitațional pentru a te mișca mai rapid.
+upgrades.repellentoverchargeduration2.desc,"După supraîncărcare, abilitatea de luptă va dura mai mult timp în următorul val de inamici."
+upgrades.laserhitprojectiles.desc,Lovind proiectile de energie cu laserul le dizolvă imediat.
+options.keybindings.action.keeper.pickup,Ridică
+upgrades.keeper2pinballdamage1.desc,Îmbunătățește daunele cauzate de sfera cinetică asupra rocilor la impact. Mai îmbunătățește și daunele mineritului rotativ.
+upgrades.keeper2pinballdamage3.title,Puterea Sferei Cinetice 3
+options.video.graphicsmode.enablevsync,Activează VSync
+options.translation.community,{completion}% completat
+loadout.difficult.harder,mai greu
+worldmodifier.resourcerichiron.desc,Această lume are o mulţime de fier.
+loadout.miner.fuel,Activează nevoia de a realimenta mișcările gardianului tău agregat cu apă.
+upgrades.prestigeiron.title,Trimite Fier
+upgrades.stunlaserspeed1.desc,Laserul amețitor se mișcă mai repede.
+upgrades.keeper2pinballdamage2.desc,Îmbunătățește daunele cauzate de sfera cinetică asupra rocilor la impact. Mai îmbunătățește și daunele mineritului rotativ.
+upgrades.drill1.title,Putere de foraj 1
+upgrades.prospectionmetersand2.title,Busolă de cobalt
+upgrades.dome1health1.desc,Crește permanent integritatea structurală a domului.
+title.navbar.newgame,Joc Nou
+properties.repellent.overchargeduration,Crește viteza de producție a Respingătorului pentru {} cicluri
+properties.sword.retractspeed,Viteza de Retragere {} 
+upgrades.lasermove3.desc,Maximizează viteza de mișcare a laserului.
+upgrades.stunlaser.title,Laser Amețitor
+options.keybindings.action.general.use,Utilizează
+worldmodifier.monsterfeeble.desc,"Monștrii sunt mai slabi, cauzând mai puține daune"
+upgrades.shield.desc,Instalează un scut care va absorbi unele daune. Se reîncarcă automat.
+options.video.stretchmode.rezised.text,"Redă jocul în rezoluția nativă a ecranului sau a ferestrei.
+Va arăta clar, dar pot apărea erori vizuale sub forma unor linii cu lățimea de un pixel."
+upgrades.orchardbattlerootingexplosion.desc,"Declanșează din nou pentru a cauza ca toți monștrii prinși în capcană să explodeze, cauzând daune în jurul lor."
+loadout.mapsize.small,Mică
+upgrades.probe.desc,Atașează un gadget la costumul tău care în momentul activării trimite o pulsație ce dezvăluie resursele din apropiere. Trebuie reîncărcat la stația de sub dom.
+upgrades.swordlongblade1.desc,Instalează o lamă mai lungă și mai agilă.
+upgrades.dome1health1.title,Viață 1
+upgrades.blastminingwaterless.title,Încărcături Fără Apă
+level.tutorial.assessor.carry,Colectare Gravitațională
+upgrades.liftspeed1.desc,Sferele se mișcă mai rapid.
+upgrades.shieldstrength1.desc,Crește cât de multe daune poate absorbi scutul domului.
+upgrades.orchardbattleshieldsecondlayer.title,Scut cu Dublu Strat
+upgrades.teleporterteleportresourcescooldown.desc,Portalul poate teleporta resurse mai des.
+options.input.gamepad.autoswitch,detectare automată a gamepad-ului preferat
+level.gameover.unlock.modifiers,Modificatoare deblocate!
+properties.sword.slicebrake,Pierdere de Viteză la Tăiere {.percent}
+loadout.difficulty.veryeasy,Normal
+properties.sword.sliceacceleration,Viteza Sabiei {}
+options.input.gamepad.gamepadstickdeadzone.text,"Setați valoarea astfel încât dreptunghiul să nu pâlpâie dacă doar atingeți stick-ul gamepad-ului, fără a îl mișca.
+Dacă mișcați stick-ul, dreptunghiul ar trebui să pâlpâie."
+options.accessibility.highlightmonsters.explanation,"Redă un contur luminos în jurul monștrilor, pentru vizibilitate îmbunătățită."
+properties.upgrade.gameover,Încheie Expediția
+upgrades.blastminingstickycharge.title,Încărcături Direcționale Lipicioase
+upgrades.shieldoverchargestrength2.title,Rezistența Scutului la Supraîncărcare 2
+upgrades.blastminingblast2.desc,Mărește și mai mult puterea exploziei.
+upgrades.repellentbattlestrongerslowdown2.title,Stagnare puternică
+upgrades.converter.desc,"Poate converti resurse, ajutându-te să-ți balansezi inventarul de resurse."
+level.gameover.continue,Continuă
+upgrades.repellentbattleslowdown.desc,Pulverizează o ceață amorțitoare în timpul luptei care încetinește toți monștrii.
+loadout.mapsize.medium.description,O hartă de dimensiuni medii pentru o sesiune de minerit adecvată.
+properties.orchard.overchargeadditionalbuffduration,{} cicluri durată bonus după supraîncărcare
+options.translation.community.title,Traduceri ale Comunității
+upgrades.blastminingtriple.title,Încărcătură Triplă
+worldmodifier.hardnessextremes.desc,Sunt mult mai multe roci extrem de tari și de moi.
+level.station.battle.navbar.exit,Ieșire
+upgrades.keeper2pinballlifetime2.title,Durata Sferei Cinetice 2
+upgrades.minoriron.desc,Trimite fier în afara lumii pentru a-ți mări prestigiul.
+properties.dome.autohealamount,Repară {} hp
+upgrades.migration.title,Migrare
+upgrades.converterefficientcobalt.title,Conversie Eficientă de Cobalt
+upgrades.shieldbattledestructionprevention.desc,"Obține o perioadă îndelungată de invulnerabilitate atunci când domul e aproape de a fi distrus.
+După aceea, scutul nu se va încărca pentru următoarea luptă. Ultima Șansă poate fi declanșată din nou după completarea a 2 valuri de inamici.
+"
+upgrades.drill1.desc,Întărește burghiul pentru a săpa mai rapid.
+level.gameover.retry,Începe o altă expediție
+properties.orchard.overchargeduration,Viteza de creștere a fructelor se dublează pentru {} cicluri
+upgrades.dome2health1.title,Viață 1
+level.tutorial.station.popup_4,Apoi apasă | pentru a intra în modul de luptă și a apăra.
+level.gameover.stats.timeplayed.unit,min
+upgrades.repellentbattlestrongerslowdown2.desc,Ceața încetinește și mai mult monștrii și rămâne și mai mult timp.
+loadout.gadgetoptions.title,Alege-ți gadgetul principal!
+level.tutorial.station.popup_2,Du-te la stație și apasă | pentru a intra.
+upgrades.dome1damagereduction1.desc,Întărește suprafața domului pentru a suferi daune mai mici în urma loviturilor corp-la-corp ale monștrilor. Daunele cauzate de proiectile nu sunt afectate.
+level.tutorial.station.popup_1,Domul tău este atacat!
+upgrades.keeper2movement3.title,Mișcare Gravitațională 3
+upgrades.jetpackspeed1.desc,Îmbunătățește jetpack-ul pentru a te mișca mai repede.
+properties.converter.ironwatertime,{} cicluri Durata Conversiei
+level.tutorial.sworddome.slicing.desc,"Cu cât sabia se mișcă mai repede, cu atât mai puternic este atacul."
+upgrades.liftorbs.desc,Instalează o sferă de ridicare suplimentară.
+upgrades.proberecharge.desc,Sonda se va reîncărca încet de una singură în timp.
+loadout.gadget,GADGET
+upgrades.drill4.title,Putere de foraj 4
+properties.probe.rechargetime,Timp de Reîncărcare Complet {} cicluri 
+upgrades.keeper2pinballdamage4.title,Puterea Sferei Cinetice 4
+options.game,Joc
+loadout.prestige.cobalt,Cobalt fix
+options.input.vibration.strength,Puterea Vibrațiilor
+upgrades.liftcapacity1.desc,Sferele pot transporta mai multe resurse.
+loadout.miner.title,Alege Opțiunile Expediției Tale
+level.gameover.stats.difficulty,Dificultate
+upgrades.repellentoverchargestrength2.title,Supraîncarcă Întârzierea Valului 2
+upgrades.domesandrepairstrong.title,Reparație Puternică cu Cobalt
+upgrades.stunlaserduration1.desc,Laserul amețitor se răcește mai repede și trage mai mult timp.
+level.gameover.prestige.score.rankimproved,Ți-ai îmbunătățit rangul la {rank}.
+upgrades.stunlaserdamage2.desc,Crește daunele cauzate de laserul amețitor.
+upgrades.drillbotstrength4.title,Forță 4
+level.gameover.prestige.title,EXPEDIȚIA DE PRESTIGIU TERMINATĂ
+loadout.secondstage.cancel,Anulează
+upgrades.laseraimline.desc,"Adaugă un vizor de țintire laserului, arătând unde țintește."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,"Condensatorul va produce și stoca două resurse de apă, înainte de a înceta să funcționeze."
+upgrades.swordreflection2.title,Reflectare 2
+leaderboard.season,Sezon {season}
+upgrades.drill2.desc,Întărește burghiul pentru a săpa mai rapid.
+properties.laser.hitprojectiles,laserul lovește proiectile de energie
+upgrades.dome1damagereduction1.title,Întărire 1
+properties.sword.stabexplosivedamage,Daunele Bombei {}
+upgrades.drillbotturnaround.title,Dresaj Avansat
+upgrades.keeper2movement1.title,Mișcare Gravitațională 1
+properties.orchard.battleroots,Crește {} Rădăcini pe pământ
+upgrades.prospectionmeterrange2.title,Distanță 2
+upgrades.jetpackspeed4.title,Viteză 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,Mărește și mai mult întârzierea următorului val de monștri.
+upgrades.orchard.desc,Plantează un copac în dom care crește fructe ce îți îmbunătățesc mișcările și puterea de minerit.
+upgrades.artilleryflakexplosionradius1.title,Raza Antiaeriană 1
+upgrades.shieldbattleelectroblast.desc,Declanșează o abilitate de luptă activă care creează un câmp mortal în jurul domului pentru un scurt timp.
+upgrades.shredgadgettocobalt.desc,Fărâmă gadget-ul și primești {amount} cobalt.
+upgrades.prestigecobalt.title,Trimite Cobalt
+properties.orchard.drillbuff,Îmbunătățirea Puterii de Minerit {}
+upgrades.swordlargeblade2.desc,"Instalează o lamă uriașă. Este mai înceată, dar cauzează daune mari."
+level.gameover.back,Înapoi
+options.cancel,Anulează
+options.keybindings.action.dome.fire,Trage 
+upgrades.swordstabshoot.title,Suliță
+upgrades.blastminingtriple.desc,Produce 3 încărcături mici în locul uneia mari.
+upgrades.orcharddrill1.title,Minerit Amplificat 1
+upgrades.swordextendlong2.title,Extindere Lungă 2
+upgrades.artilleryshotcooldown1.desc,Trage mai des.
+upgrades.keeper2pinballdamagefraction.title,Străpungerea Sferei Cinetice
+upgrades.doublelaser.title,Laser Dublu
+upgrades.jetpackspeed3.title,Viteză 3
+upgrades.prestigewater.title,Trimite Apă
+properties.orchard.battleabilityuses,Utilizări per Val de Inamici {}
+upgrades.liftorbs.title,Sfere 1
+upgrades.repellentoverchargeduration1.title,Durata Abilității de Luptă la Supraîncărcare 1
+upgrades.drill3.desc,Întărește burghiul pentru a săpa mai rapid.
+level.gameover.prestige.uploading.inprocess,se încarcă scorul...
+loadout.abort,Înapoi
+properties.shield.overchargestrength,Rezistență în timpul Supraîncărcării {}hp
+level.station.navbar.upgrades,Upgrade-uri
+upgrades.keeper2pinballsplit.desc,"Despică sferele în două, lansându-le perpendicular cu sfera originală."
+upgrades.proberecharge.title,Reîncărcare automată
+properties.sword.stabrange,Distanța {} 
+upgrades.liftspeed1.title,Viteză
+upgrades.domewavecount.desc,"Instalați un contor, care vă arată câte valuri de inamici ați supraviețuit."
+level.converter.popup.title,Conversia resurselor
+pause.discord,Alătură-te pe Discord
+options.keybindings.action.general.back,Anulează
+upgrades.prospectionmeterrange1.desc,Mărește raza de detectare a contorului de prospectare.
+upgrades.dome2badrepair1.desc,"Domul se repară automat, dacă suferă daune grave în timpul unei lupte."
+upgrades.prestigecobalt.desc,"Trimite înapoi Cobalt, mărește multiplicarea punctelor de prestigiu obținută la fiecare val de inamici."
+upgrades.domesandrepair.desc,Repară daunele domului tău folosind cobalt.
+loadout.skinoptions.title,Alege-ți Skin-ul!
+loadout.difficulty.medium.description,Dificultatea potrivită pentru Dome Keeper.
+loadout.difficulty.veryeasy.description,"Tot nu e ușor, dar mai relaxant decât alte dificultăți."
+options.game.tutorials,Tutoriale
+upgrades.orchardbattlerootingmore.desc,Crește mai multe rădăcini care rezistă mai mult.
+upgrades.probepersist1.title,Sondă de memorie
+upgrades.keeper2pinballmorespheres2.title,Aprovizionare de Sfere 2
+upgrades.orchardjetpack3.desc,"Mărește accelerația acordată de fructe, permițându-ți să te miști extrem de rapid."
+upgrades.probe.title,Sondă
+upgrades.sword.title,Sabie
+properties.shield.battledestructionprevention,Durata Bonus {}s
+upgrades.shieldbattlereflect.title,Reflectare
+pause.gamepadcontrols.use,Utilizează
+properties.laser.dpsmod,Modificare Daune {.percent}
+upgrades.condenserdoublestorage.title,Depozitare Dublă
+upgrades.relichunt.desc,Găsește relicva îngropată adânc și adu-o înapoi în dom.
+loadout.mapsize.unlock.description,Câștigă o expediție cu dimensiunea hărții anterioare pentru a debloca dimensiunea aceasta.
+properties.sword.stabdamage,Daunele Înjunghierii {} 
+properties.drillbot.drillstrength,Putere de Foraj {}
+worldmodifier.mapwildbiomes.desc,Granițele biomurilor sunt foarte neregulate.
+upgrades.condenser.title,Condensator
+upgrades.dome2badrepair2.title,Reparare la Impact 2
+options.game.screenshake.shakewhenmining,Vibrații în Timp ce Sapi
+upgrades.repellentdelay2.title,Întârziere 2
+level.tutorial.assessor.reflect.desc,Apasă | pentru a reflecta sfere cinetice pentru un scurt timp.
+properties.drillbot.buffamount,Foraje Energizate {} loviri
+upgrades.laserstrength2.title,Putere 2
+upgrades.jetpackstrength3.title,Putere de Cărat 3
+options.keybindings.action.general,General
+level.gameover.unlock.gadgetability,Gadget Abilitate de Luptă Nou
+upgrades.jetpackstrength1.desc,Îmbunătățește jetpack-ul pentru a căra mai multe resurse.
+upgrades.artillerymultishot1.desc,Lansează mai multe grenade per tragere.
+properties.sword.reflectprojectiles,Reflectă proiectilele energetice
+upgrades.stunlaser.desc,Instalează un laser care țintește automat și amețește monștrii.
+upgrades.orchardbattleshieldstrong.desc,Scuturile de proiectile sunt mai puternice. Obține și o utilizare adițională de abilitate după folosirea supraîncărcării.
+upgrades.orchardjetpack1.desc,"Mărește accelerația acordată de fructe, permițându-ți să te miști mai rapid."
+upgrades.laser.desc,Un laser de precizie care se mișcă de-a lungul domului. Creat inițial pentru minarea asteroizilor.
+properties.orchard.battleshieldhp,Putere {} hp
+options.keybindings.action.keeper,Gardian
+worldmodifier.resourceunpredicatablecobalt.desc,Cobaltul este mai împrăștiat și mai greu de localizat.
+title.navbar.quit,Ieșire către Desktop
+options.keybindings.rebinding.error.gamepad,Nu se poate seta ca și comandă pentru gamepad
+upgrades.repellentbattleslowdownstun1.desc,"Folosește spori volatili în ceață pentru a ameți monștri, oprindu-i din mișcat pentru o perioadă scurtă de timp."
+upgrades.swordfastreflection.title,Reflectare accelerată
+upgrades.stunlaserduration2.title,Anduranța la Tragere 2
+level.gameover.lose.title,DOMUL ESTE PIERDUT
+worldmodifier.resourcescatterediron.desc,"Sunt mai multe depozite de fier, dar sunt mai mici."
+properties.laser.dps,Daune {}
+options.game.screenshake.shakeintensity,Intensitatea Vibrației Ecranului
+worldmodifier.hardnessharder.desc,Sunt mai multe roci tari în mină.
+options.video.stretchmode,Modul de Lărgire
+worldmodifier.monsterhealthy.desc,Monștrii au mai multă viață.
+level.gameover.stats.mapsize,Dimensiunea Hărții
+loadout.mode.longtime,Cicluri Lungi
+upgrades.swordreflection3.desc,Maximizează mărimea scutului.
+upgrades.repellentbattleslowdownstun2.desc,Folosește sporii mai des și amețește monștrii pentru mai mult timp.
+upgrades.teleporterteleportresourcesarea.title,Zona de teleportare
+upgrades.shieldoverchargeduration2.desc,Abilitatea de luptă a scutului va fi activă pentru și mai mult timp în următorul val de inamici după supraîncărcare.
+upgrades.shieldoverchargestrength1.title,Rezistența Scutului la Supraîncărcare 1
+upgrades.drillbotbuffstrength1.desc,Gustările îl energizează pe Săpălescu pentru un timp mai îndelungat.
+upgrades.orchardoverchargebuffduration.title,Durata Supraîncărcării
+level.tutorial.assessor.spheres.desc3,Își reîncarcă puterea cu fiecare ricoșare.
+loadout.mode.longtime.desc,"Ai de două ori mai mult timp între valurile de inamici, dar vor fi mai puternice."
+level.tutorial.assessor.spheres.desc2,Alege o direcție și dă drumul pentru a trage cu sfera.
+upgrades.laserstrength1.desc,"Îmbunătățește puterea laserului, dar se va mișca mai lent în timpul tragerii."
+level.tutorial.assessor.spheres.desc1,Ține | apăsat pentru a încărca sfera cinetică.
+upgrades.jetpackstrength4.title,Putere de Cărat 4
+upgrades.migration.desc,"Migrează din lume în lume, secând fiecare lume de resurse și relicve înainte de a fi invadat."
+upgrades.orcharddrill1.desc,"Mărește bonusul acordat de fructe, permițându-ți să minezi mai rapid."
+upgrades.keeper2pinballdamage3.desc,Îmbunătățește daunele cauzate de sfera cinetică asupra rocilor la impact. Mai îmbunătățește și daunele mineritului rotativ.
+options.accessibility.highlightmonsters,Evidențiază Monștrii
+upgrades.prestigecobaltnocobalt.title,Trimite Cobalt
+properties.keeper2.spherebasedamage,Daune de Bază ale Sferei {}
+upgrades.orcharddrill3.desc,"Mărește bonusul acordat de fructe, permițându-ți să minezi extrem de rapid."
+properties.converter.cobalttoiron,{} cobalt pentru un fier
+level.tutorial.repair.usecobalt,Îți poți folosi cobaltul pentru a-ți repara domul. Este un upgrade în arborele tehnologic.
+upgrades.blastminingimpactdetonation.title,Detonare la Impact
+upgrades.swordfastreflection.desc,Proiectilele reflectate vor zbura mai repede înapoi.
+upgrades.liftcapacity1.title,Capacitate
+upgrades.artillery.desc,Worms Bazooka.
+properties.sword.electricdamage,Daunele Sabiei Electrificate {}
+level.station.upgrademenu.close,Închide
+properties.shield.overchargebattleabilityduration,Durata Bonus a Abilității {.percent}
+pause.title,PAUZĂ
+upgrades.artillerymultishot1title,Lansare în Lanț 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Durata Bonus a Abilității {}s
+upgrades.orchardbattlerootingexplosion.title,Pradă Explozivă
+upgrades.blastminingproductiontime1.title,Timpul de producție
+options.video.stretchmode.scaled.text,"Redă jocul într-o rezoluție fixă și o mărește la rezoluția ta.
+Poate fi pixelat, în special scrisul, dar nu sunt erori vizuale."
+upgrades.orchardduration3.title,Durată 3
+upgrades.domewavecount.title,Contor de cicluri
+upgrades.shredgadgettoiron.title,Transformă în Fier
+options.keybindings.rebinding.apply,Aplică
+options.keybindings.restoredefault,Restabiliți setările implicite
+upgrades.converterironduplication.title,Dublarea Fierului
+title.navbar.credits,Mulțumiri
+level.gameover.unlock.gadget,Gadget Nou
+upgrades.jetpackspeed2.title,Viteză 2
+loadout.modeoptions.title,Alege modul de joc!
+properties.keeper2.spherebaselifetime,Durata de Viață a Sferei
+options.video.stretchmode.scaled,Mărit
+properties.orchard.battleabilityduration,Durata Abilității {}s
+upgrades.repellentbattleslowdownstun1.title,Paralizie
+loadout.difficulty.medium,Brutal
+options.audio.volumes,Volume
+upgrades.keeper1.title,Inginer
+upgrades.drillbotsleepless.title,Dresaj de Bază
+upgrades.drillbot.title,Săpălescu
+level.tutorial.assessor.carry.desc1,"Ține | apăsat pentru a trage resurse spre tine, până când sunt agățate de tine."
+level.tutorial.assessor.carry.desc2,Apasă | pentru a arunca o resursă.
+level.tutorial.drillbot.sleeping1,"Săpălescu se duce la somn după un timp, sau când întâlnește un perete pe care nu-l poate săpa."
+level.tutorial.assessor.carry.desc3,"Dacă țintești într-o direcție în timp ce arunci o resursă, va fi accelerată puternic."
+level.tutorial.drillbot.sleeping2,"În apropierea lui, apasă | pentru a-l trezi."
+level.tutorial.drillbot.sleeping3,Îl poți face să se întoarcă împrejur apăsând | atunci când e treaz.
+properties.keeper2.totalspheres,Sfere {}
+upgrades.shieldbattleblastdamage.title,Detonare Mortală
+upgrades.domeresourcecounters.desc,Afișează cantitatea curentă de resurse stocate.
+upgrades.swordextendlong1.desc,Îmbunătățește puterea înjunghierii și abilitatea de a ghida sabia în timpul extinderii.
+worldmodifier.resourcerichwater.desc,Această lume are multă apă.
+upgrades.drillbotstrength1.desc,Mărește puterea de săpare a lui Săpălescu.
+upgrades.stunlaserautonomy1.desc,Un A.I. simplu va controla laserul amețitor chiar și atunci când nu te afli în stația de control.
+properties.blastmining.radius,Raza exploziei {} tiles
+upgrades.jetpackstrength1.title,Putere de Cărat 1
+options.keybindings.apply,Aplică
+upgrades.laserstrength2.desc,"Îmbunătățește considerabil puterea laserului, dar se va mișca și mai lent în timpul tragerii."
+properties.laser.movespeedwhilefiring,Viteză în timpul tragerii {.percent}
+properties.probe.markerretention,Retenția Indicatorului {}s
+upgrades.swordexplosivereflection.title,Reflectare Explozivă
+upgrades.condenserspeed2.desc,Reduce și mai mult timpul necesar pentru a condensa o resursă de apă.
+upgrades.condenserspeed2.title,Viteza de producție 2
+properties.stunlaser.firetime,Durata Laserului {}s
+options.input.gamepad.gamepadstickdeadzone,Zona moartă a Thumbstick-ului
+upgrades.keeper2movement2.desc,Îmbunătățește-ți generatorul gravitațional pentru a te mișca mai rapid.
+upgrades.shieldbattlelongerafterdepletion.desc,Explozia va dura mai mult timp dacă este detonată după ce scutul este epuizat.
+properties.laser.bend,laserul țintește automat {}°
+level.station.upgrademenu.buy,Cumpără
+properties.drillbot.plantgrowthtime,Timpul de Crescut o Gustare {} cicluri
+loadout.proceed,Continuă
+upgrades.repellentoverchargeduration1.desc,Supraîncărcarea rezervorului tău va prelungi orice abilitate de luptă respingătoare pe care o folosești în următorul val.
+upgrades.artilleryshotcooldown1.title,Timp de Reîncărcare 1
+worldmodifier.resourceunpredicatablewater.desc,Apa este mai împrăștiată și mai greu de localizat.
+level.tutorial.blastmining.popup_1,Ia Încărcătura Explozivă și arunc-o unde vrei să elimini roci.
+ending.thankyoumessage,Îți mulțumim pentru că te-ai jucat!
+options.keybindings.rebinding.error.keyboard,Nu se poate seta ca și comandă pentru tastatură
+upgrades.keeper2pinballdamagefraction.desc,Sfera cinetică străpunge duritatea rocii dăunând o parte fixă a vieții rocii.
+upgrades.swordlargeblade1.title,Lamă Grea 1
+upgrades.shredgadgettoiron.desc,Fărâmă gadget-ul și primești {amount} fier.
+upgrades.drillbot.desc,Adoptă o creatură iubitoare care iubește să sape. Cară-l în mină și plasează-l unde vrei să muncească. Verifică-l pentru a-l trezi atunci când adoarme la lucru.
+properties.dome.autohealdamagethreshold,Activare la suferirea mai multor daune decât {} hp
+upgrades.dome3health1.title,Viață 1
+title.navbar.updates.close,Închide
+upgrades.swordaimline.desc,Adaugă un vizor laser pentru a ținti extinderea sabiei.
+upgrades.shieldoverchargeduration1.title,Durata Abilității de Luptă la Supraîncărcare 1
+level.converter.popup.explanation,Alegeți o conversie de resurse pentru a începe!
+upgrades.drillbotbuff1.title,Gustări
+title.navbar.credits.close,Închide
+upgrades.keeper2movement3.desc,Îmbunătățește-ți generatorul gravitațional pentru a te mișca mai rapid.
+pause.quittotitlescreen,Ieșiți la meniul principal
+loadout.prestige.countdown.description,Multiplicarea prestigiului începe la un nivel ridicat și scade cu fiecare ciclu.
+upgrades.drill3.title,Putere de foraj 3
+upgrades.probestage1.title,Sondă îmbunătățită
+properties.sword.stabarrowhead,Mărește Vârful Săgeții
+loadout.mapsize.huge.description,O hartă uriașă pentru cele mai lungi expediții.
+properties.sword.stabspeed,Viteza de înjunghiere {.percent}
+level.tutorial.teleporter.take1,Teleportorul tău are o stație și un portal. Te poți teleporta între ele.
+worldmodifier.mapmaze.desc,Mina este un labirint.
+level.tutorial.teleporter.take2,Apucă Portalul și plasează-l unde dorești.
+options.keybindings.action.dome.battleability1,Abilitate de Luptă
+upgrades.laserbend.desc,Instalează un cap pivotant laserului care corectează automat traiectoria dacă este aproape.
+options.video.graphicsmode.fullscreen,Ecran Complet
+options.keybindings.action.general.down,Jos
+level.tutorial.assessor.spheres,Sfere Cinetice
+level.tutorial.mineraltree1,"Tocmai ce ai găsit o sămânță de copac mineral. Poate crește într-un copac ce se înrădăcinează în pereți. Va crește resurse în funcție de resursele aflate pe pereții înrădăcinați.
+Pune-o pe un perete pentru a planta sămânța."
+upgrades.blastmining.desc,Adaugă o mașinărie sub dom care produce încărcături explozive. Cară-le în mină și dă-le drumul pentru a le detona.
+properties.sword.stabcooldown,Reîncărcarea Extinderii {}s 
+upgrades.repellentoverchargestrength2.desc,Crește și mai mult întârzierea până la următorul val de inamici după supraîncărcare.
+upgrades.probeswift1.desc,Treci la o sondă rapidă de rază scurtă cu multe încărcări.
+properties.drillbot.buffextraamount,Foraj Suplimentar {} săpări
+level.gameover.unlock.keeper,Gardian Nou
+upgrades.prospectionmeter.title,Contor de Prospectare
+upgrades.shieldbattleactivateondepletion.desc,Invulnerabilitatea se activează automat încă o dată atunci când scutul este epuizat.
+upgrades.dome2badrepair1.title,Reparare la Impact 1
+upgrades.swordtargetlock.title,Țintă Fixată
+upgrades.laserhitprojectiles.title,Dizolvă Proiectile
+upgrades.keeper2pinballreflectspeedup1.title,Reflectare Îmbunătățită
+properties.shield.battleuses,Utilizări per Val de Inamici {}
+options.game.events,Evenimente
+upgrades.artilleryflakexplosionradius1.desc,Explozia este mai mare.
+properties.keeper1.speedlosspercarry,Încetinirea Căratului {}
+pause.gamepadcontrols.back,Înapoi
+level.gameover.unlocknewelementbutton,Alege recompensa
+upgrades.prospectionmeteriron2.desc,Afișează direcția către cele mai apropiate depozite de fier.
+upgrades.prestige.desc,Adună puncte trimițând acasă cât mai multe resurse posibil înainte ca domul tău să se prăbușească ori să părăsești planeta în siguranță.
+properties.prestige.multiplier,{} Multiplicarea Prestigiului per Val de Inamici
+options.input.controls,Controale
+properties.sword.reflectionacceleration,Viteza Proiectilului Reflectat {.percent}
+loadout.difficult.easier,mai ușor
+upgrades.keeper2pinballreflectdamage1.title,Puterea Reflectării 1
+properties.sword.extendspeed,Viteza de extindere {} 
+properties.keeper2.reflectspeedup,Creșterea Vitezei Sferelor la Reflectare {.percent}
+loadout.mode.doubleiron,Dublu Fier
+upgrades.dome3.desc,nu este disponibil în varianta demo
+properties.condenser.growthtime,Timp de Producție {} cicluri
+options.game.languages,Limbă
+worldmodifier.mapwidebottom.desc,"Mina este îngustă la început, și devine foarte lată în adâncuri."
+loadout.mode.maze,Labirint
+upgrades.dome2health1.desc,Crește permanent și repară integritatea structurală a domului.
+properties.keeper1.drillstrength,Putere de foraj {}
+upgrades.keeper2.desc,Un miner neconvențional ce folosește tehnologie gravitațională experimentală.
+properties.orchard.battleshields,Straturi de Scut {}
+level.tutorial.sworddome.reflecting.desc,"Utilizează scutul sabiei pentru a opri proiectile, sau chiar pentru a le reflecta."
+options.audio.volumes.musicvolume,Volumul Muzicii
+loadout.dome,DOM
+upgrades.swordlongblade2.title,Lamă Lungă 2
+upgrades.laseraimline.title,Vizor laser
+level.tutorial.assessor.bundle.desc1,"Ține | apăsat în timp ce cari resurse, pentru a încărca o grupare."
+options.keybindings.keyboard,Tastatură
+level.tutorial.assessor.bundle.desc2,"Țintește și dă drumul pentru a trage, în același fel în care tragi cu o sferă cinetică."
+properties.prestige.score,{} Prestigiu
+worldmodifier.mapdeep.desc,Mina este mai adâncă și mai îngustă.
+upgrades.repellentbattleslowdownstun2.title,Paralizie Puternică
+upgrades.keeper2pinballmorespheres1.title,Aprovizionare de Sfere 1
+upgrades.prestigewater.desc,"Trimite înapoi Apă, mărește cu 1 prestigiul obținut la fiecare val de inamici."
+properties.keeper2.bundlestopcenter,Câmpul Gravitațional al Coloanei Centrale
+upgrades.stunlaserdamage1.title,Daune 1
+upgrades.keeper2pinballlifetime1.title,Durata Sferei Cinetice 1
+properties.repellent.battleslowdown,Încetinirea Monștrilor {.percent}
+upgrades.swordextendlong1.title,Extindere Lungă 1
+level.gameover.stats.distancetravelled,Distanță Traversată
+properties.keeper2.reflectlifetime,Durata de Viață Adițională a Sferei Reflectate {}s
+upgrades.blastminingimpactdetonation.desc,Încărcătura va exploda la impactul cu o suprafață.
+upgrades.keeper2pinballsplit.title,Despică Sferele
+options.keybindings.action.dome.upgrade,Upgrade-uri
+worldmodifier.resourcepoorcobalt.desc,Această lume are puțin cobalt.
+pause.resumegame,Reluați jocul
+level.gameover.unlock.difficulty,O nouă dificultate deblocată!
+properties.stunlaser.cooldown,Timp de Reîncărcare {}s
+options.keybindings.action.general.right,Dreapta
+level.tutorial.assessor.mining.desc,"Pentru a elimina o singură rocă, poți mișca sfera cinetică rotativă în aceasta."
+upgrades.teleporterteleportresourcesback.title,Teleportare de Resurse
+upgrades.dome1.title,Dom cu Laser
+upgrades.keeper2bundleinfinite.title,Grupare Rezistentă
+upgrades.repellentdelay1.title,Întârziere 1
+upgrades.miner.desc,"În lumi fără monștrii, te poți concentra pe a mina cât de multe resurse veri fără distragere."
+upgrades.repellentbattlestrongerslowdown1.desc,Ceața încetinește mai mult monștrii și rămâne mai mult timp.
+upgrades.teleporterteleportresourcesarea.desc,Portalul va teleporta resurse dintr-o zonă mai mare decât înainte.
+upgrades.dome3.title,Dom cu Artilerie
+upgrades.swordstabshoot.desc,"În loc de a se retrage prin cablu, sabia se încarcă și este împușcată din dom ca o suliță."
+upgrades.repellentbattledamageovertime.desc,Toți monștrii primesc daune minore pentru fiecare secundă în care persistă fumul toxic.
+upgrades.shieldbattleactivateondepletion.title,Reactivare la Epuizare
+upgrades.artillerymultishot2.desc,Lansează mai multe grenade per tragere.
+upgrades.dome1health2.title,Viață 2
+worldmodifier.monsterlethal.desc,"Monștrii sunt mai letali, cauzând mai multe daune."
+loadout.pet,Animal de companie
+options.keybindings.action,Acțiune
+upgrades.orcharddrill3.title,Minerit Amplificat 3
+options.translation.title,SELECTAȚI LIMBA
+upgrades.prospectionmeterrange1.title,Distanță 1
+upgrades.dome2badrepair2.desc,"Domul se repară automat mai mult, dacă suferă daune grave în timpul unei lupte."
+options.audio.volumes.ambiencevolume,Volumul Ambiental
+upgrades.prestigecobaltnocobalt.desc,"Trimite înapoi Cobalt, mărește multiplicarea punctelor de prestigiu obținută la fiecare val de inamici."
+worldmodifier.maparms.desc,Mina este mai fracturată.
+loadout.prestige.countdown,Numărătoare Inversă
+upgrades.keeper2pinballdamage2.title,Puterea Sferei Cinetice 2
+upgrades.jetpackspeed1.title,Viteză 1
+upgrades.minerrefuel.title,Realimentare
+upgrades.teleporterteleportduration1.title,Durata teleportării
+properties.probe.charges,Încărcături {}
+loadout.miner.fuel.title,Combustibil
+exhibition.title.press.anything,Apasă orice pentru a juca
+loadout.mode,MOD
+level.tutorial.sworddome.slicing,Taie
+properties.condenser.autoovercharge,Supraîncărcare Automatizată
+upgrades.teleporterteleportduration1.desc,Teleportarea personală va dura mai puțin timp.
+upgrades.minerwater.title,Trimite Apă
+title.navbar.continue,Continuă
+upgrades.orchardbattleshield.desc,Activează un scut care protejează domul de proiectile.
+upgrades.liftcarrykeeper1.title,Liftul Gardianului 1
+options.input.controls.keybindings,Asocierile Tastelor
+properties.keeper2.bundlespheres,Sfere Grupate
+upgrades.shieldovercharge.title,Supraîncarcă Scutul
+properties.condenser.overchargedelay,Întârzierea Producției {} cicluri
+upgrades.keeper2.title,Evaluator
+level.tutorial.assessor.mining,Minerit Rotativ
+upgrades.repellentoverchargeduration2.title,Durata Abilității de Luptă la Supraîncărcare 2
+upgrades.swordblade1.title,Îmbunătățirea tăierii
+properties.converter.irontoiron,{} fier pentru un fier
+exhibition.level.description,Înapoi la meniul principal în...
+level.tutorial.assessor.mining.desc2,"Te poți opri din minat fără a împușca o sferă, prin a da drumul la tastele direcționale."
+worldmodifier.monsterslow.desc,Monștrii sunt mai lenți.
+upgrades.orcharddrill2.desc,"Mărește bonusul acordat de fructe, permițându-ți să minezi și mai rapid."
+loadout.difficulty.easy.description,Puțin mai iertător din multe puncte de vedere.
+upgrades.swordstabexplode.title,Bombă Ascuțită
+level.gameover.stats.additionalgadget,Gadget Adițional
+upgrades.drillbotbuffstrength2.desc,"După primirea unei gustări, Săpălescu va munci mult mai mult timp până să devină somnoros."
+upgrades.laserstrength3.desc,"Îmbunătățește masiv puterea laserului, dar de-abia se va mișca în timpul tragerii."
+loadout.mapsize.medium,Medie
+loadout.difficulty.hard,Tu ai cerut-o
+level.gameover.stats.wavessurvived,Valuri Supraviețuite
+properties.stunlaser.damage,Daune {}
+options.keybindings.rebinding.cancel,Anulează
+level.tutorial.sworddome.stabbing.desc,Extinde sabia și înjunghie inamici la distanță.
+level.gameover.unlock.gamemodevariant,Variantă de Mod de Joc Nouă
+upgrades.prestigefinish.title,Părăsește Planeta
+properties.keeper2.bundleduration,Durata de Viață a Grupării {.percent}
+upgrades.shieldstrength3.title,Rezistență 3
+options.audio.volumes.mastervolume,Volumul Principal
+upgrades.shieldbattlelongerafterdepletion.title,Bonus la Epuizare
+options.keybindings.text,"Editează controalele după bunul plac.
+Comenzile din diferite secțiuni se pot suprapune fără probleme (de exemplu folosirea acelorași controale pentru a îți muta caracterul și arma domului)."
+properties.shield.battleblastdamage,{} Daune Explozive pe secundă
+loadout.mapsize.large.description,O hartă mare pentru sesiuni ce durează mai mult de o oră.
+upgrades.drill4.desc,Întărește burghiul pentru a săpa mai rapid.
+upgrades.drillbotsleepless.desc,Săpălescu va munci mult mai mult timp până să devină somnoros.
+upgrades.swordlargeblade2.title,Lamă Grea 2
+upgrades.swordlongblade2.desc,"Accelerează și mai mult viteza lamei, făcând-o să ricoșeze când lovește marginea."
+upgrades.prestigefinishnocobalt.title,Părăsește Planeta
+worldmodifier.hardnessmoderated.desc,Sunt foarte puține roci extrem de tari și de moi.
+upgrades.converterironduplication.desc,Multiplică fierul.
+upgrades.prestigefinish.desc,Părăsește această planetă și întoarce-te acasă.
+upgrades.dome2health2.desc,Crește permanent și repară integritatea structurală a domului.
+upgrades.prestige.title,Prestigiu
+upgrades.liftcarrykeeper1.desc,Liftul vă accelerează viteza atunci când vă deplasați în sus în interiorul acestuia.
+upgrades.repellentbattlehealthreduction.desc,"Slăbește toți monștrii prezenți, scăzându-le imediat viața rămasă."
+upgrades.dome2.title,Dom cu Sabie
+worldmodifier.monsterfast.desc,Monștrii sunt mai rapizi.
+upgrades.condenserautocollect.desc,"Automatizează colectarea apei, eliminând nevoia de a o ridica manual."
+upgrades.lift.title,Lift
+options.game.screenshake,Tremurarea ecranului
+options.keybindings.action.dome,Dom
+upgrades.swordstabexplodedamage.desc,Crește daunele cauzate de bombă.
+level.gameover.stats.resourcesmined,Resurse Minate
+worldmodifier.resourcepoorwater.desc,Această lume are puțină apă.
+upgrades.prospectionmeter.desc,Un contor ce arată distanța până la cele mai apropiate resurse. Poate fi upgradat pentru a arăta și direcția.
+upgrades.shredgadgettocobalt.title,Transformă în Cobalt
+upgrades.swordelectrified.desc,"Un curent electric trece prin lamă, provocând daune la atingere."
+upgrades.artilleryflakexplosionradius2.desc,Explozia este mai mare.
+upgrades.prospectionmeterwater1.title,Apometru
+upgrades.minerwater.desc,Trimite apă în afara lumii pentru a-ți mări prestigiul.
+options.video.graphicsmode,Modul de Grafică
+upgrades.shieldbattlereflectspeedup.desc,"Proiectilele reflectate se întorc cu o viteză mai mare, crescând șansa ca acestea să lovească atacatorul."
+properties.shield.battleblaststun,Amețire la Explozie {}
+loadout.mode.hyperactive.desc,"Monștrii se mișcă mult mai rapid, dar au mai puțină viață."
+upgrades.swordstabexplode.desc,"Sabia lansează o bombă, explodând asupra primului inamic pe care sabia îl înjunghie."
+upgrades.swordstabfast2.title,Extindere Rapidă 2
+upgrades.converterefficientwater.desc,"Conversia Apei devine mai eficientă, dar durează puțin mai mult."
+upgrades.orchardduration1.desc,Efectele fructului sunt mai îndelungate.
+loadout.difficulty.title,Dificultate
+exhibition.level.heading,"Ești încă aici?
+"
+level.gameover.unlock.gamemode,Mod de Joc Nou
+loadout.prestige.miner.description,Concentrează-te pe mineritul cel mai eficient într-o lume fără monștrii. Durează 20 de cicluri.
+leaderboard.friends,Prieteni
+upgrades.repellentbattlehealthreduction.title,Descompunere
+upgrades.teleporterteleportreactivate.title,Reactivați teleportarea personală
+loadout.miner.scores,"Trimite resurse în afara planetei cu o rachetă, pentru a atinge cel mai bun scor după 20 de cicluri. Asemenea modului de prestigiu, dar fără monștrii."
+options.audio,Audio
+upgrades.repellentovercharge.desc,Utilizează apă pentru a-ți supraîncărca rezervorul pentru a produce următoarea încărcătură de respingător mai rapid.
+upgrades.domewavemeter.title,Contor de proximitate ostilă
+upgrades.prospectionmeterrange2.desc,Mărește și mai mult raza de detectare a contorului de prospectare.
+upgrades.keeper2pinballreflectspeedup1.desc,"Sferele sunt îmbunătățite când sunt reflectate, ceea ce le va accelera și le va lăsa să plutească un timp mai îndelungat după reflectare."
+upgrades.shieldoverchargestrength1.desc,Crește cât de multe daune poate absorbi scutul supraîncărcat.
+upgrades.repellentdelay1.desc,Mărește întârzierea următorului val de monștri.
+upgrades.repellentbattlelongerhealthreduction.title,Descompunere Intensă
+upgrades.swordtargetlock.desc,"Când se extinde, sabia se fixează automat pe primul monstru pe care îl țintește."
+upgrades.orchardovercharge.desc,"Folosește apă pentru a-ți supraîncărca livada, făcând mai rapidă producția unui fruct."
+upgrades.orchardbattlerootingmore.title,Rădăcini Puternice
+upgrades.swordextendlong2.desc,Îmbunătățește și mai mult puterea înjunghierii și precizia controlării sabiei în timpul extinderii.
+upgrades.swordstabfast1.title,Extindere Rapidă 1
+upgrades.probelong1.desc,"Mărește distanța pulsației sonare, dar pierzi o încărcare."
+upgrades.repellent.title,Respingător
+worldmodifier.monsterwavesspaced.desc,Valurile de monștri sunt mai îndepărtate.
+upgrades.artilleryflakexplosionradius2.title,Raza Antiaeriană 2
+properties.drillbot.amount,Foraj {} săpări
+upgrades.repellentdelay3.title,Întârziere 3
+ending.appreciationmessage,"Sperăm că te-ai simțit bine! Apreciem întotdeauna feedback-ul tău, spune-ne ce părere ai pe Discord sau pe forumurile Steam :)"
+properties.orchard.battlerootexplosion,Daunele Exploziei {}
+upgrades.orchardduration3.desc,Maximizează durata efectelor fructului.
+upgrades.dome1damagereduction2.desc,Întărește suprafața domului mai mult pentru a suferi daune mai mici în urma loviturilor corp-la-corp ale monștrilor. Daunele cauzate de proiectile nu sunt afectate.
+properties.orchard.speedbuff,Îmbunătățirea Vitezei de Mișcare {}
+upgrades.jetpackspeed2.desc,Îmbunătățește jetpack-ul pentru a te mișca mai repede.
+upgrades.jetpackspeed3.desc,Îmbunătățește jetpack-ul pentru a te mișca mai repede.
+options.accessibility.critters.explanation,"Dezactivează viermii, gândacii și păienjenii ce apar în mină ca efecte vizuale."
+title.navbar.options,Setări
+properties.repellent.battledamageovertime,Monștrii suferă {} daune pe secundă
+upgrades.repellentoverchargestrength1.title,Supraîncarcă Întârzierea Valului 1
+upgrades.repellentoverchargestrength1.desc,Supraîncărcarea mai crește și timpul de întârziere până la următorul val de inamici.
+upgrades.blastminingproductiontime1.desc,Reduce timpul necesar pentru a crea o încărcătură explozivă.
+properties.teleporter.teleportresourcescooldown,Durata Teleportării de Resurse {}s
+upgrades.artilleryflakmultishot1.desc,Trage mai multe proiectile.
+properties.converter.ironcobalttime,{} cicluri Durata Conversiei
+options.title,SETĂRI
+options.video.graphicsmode.window,Fereastră
+properties.shield.battlereflectspeedup,Viteza Proiectilului Reflectat {.percent}
+upgrades.swordaimline.title,Linia de țintă
+level.tutorial.drillbot.handling1,Ține apăsat | pentru a-l ridica pe Săpălescu din nou.
+upgrades.probestage1.desc,"Îmbunătățește sonda, făcând-o în general mai bună."
+level.tutorial.drillbot.handling2,"Apasă | pentru a-l face să-și schimbe direcția, dacă se află pe pământ."
+options.keybindings.rebinding.capture,Capturează
+properties.probe.range,Distanță {} spații
+properties.stunlaser.speed,Viteză {}
+properties.probe.impulsespeed,Viteza de pulsare {}
+upgrades.domehealthmeter.title,Contor de Viață
+options.audio.music.frequency,Frecvență (cicluri fără muzică)
+options.audio.volumes.soundvolume,Volumul Sunetelor
+properties.sword.slicebounceback,Ricoșarea Sabiei pe Margine
+upgrades.jetpackspeed4.desc,Îmbunătățește jetpack-ul pentru a te mișca mai repede.
+worldmodifier.monsterfragile.desc,Monștrii au mai puțină viață.
+level.gameover.prestige.score.personalbest,Noul tău record personal!
+properties.prestige.baseperwave,{} Prestigiu de Bază per Val de Inamici
+loadout.choices.comingsoon,"Încă este indisponibil, dar va apărea în curând."
+upgrades.doublelaser.desc,"Instalează un al doilea laser, dar împarte puterea de foc între cele două."
+upgrades.jetpackstrength2.title,Putere de Cărat 2
+upgrades.keeper2bundlestopcenter.title,Centru Gravitațional
+properties.keeper2.spherelifetimeperbounce,Durata de Viață Adițională a Sferei per Ricoșare {}s
+upgrades.converterefficientcobalt.desc,"Conversia Cobaltului devine mai eficientă, dar durează un timp lung."
+properties.orchard.buffduration,Durata bonusului {} cicluri
+upgrades.domesandrepair.title,Reparație cu Cobalt
+properties.keeper2.maxspeed,Viteză Maximă {}
+level.station.upgrademenu.cost,Cost
+upgrades.lasermove1.title,Viteză de mișcare 1
+level.tutorial.sworddome.reflecting,Reflectă
+loadout.petoptions.title,Alege-ți Animalul de companie!
+level.station.upgrademenu.inventory,Inventar
+level.gameover.unlockpicker.title,ALEGE RECOMPENSA
+level.gameover.proceedtounlock,Deblochează un nou element
+upgrades.artilleryshotcooldown2.desc,Trage mai des.
+level.gameover.keepgadget.title,Selectează un Gadget De Păstrat Pentru Următoarea Ta Expediție
+level.station.battle.navbar.shoot,Trage
+upgrades.repellentbattlestrongerslowdown1.title,Stagnare
+upgrades.dome2.desc,Dom puternic cu o sabie dinamică pe care gardienii o pot stăpâni pentru a domina atacatorii.
+loadout.difficulty.easy,Greu
+upgrades.condenserautocollect.title,Colectare automată
+upgrades.orchard.title,Livadă
+upgrades.keeper2pinballreflectspeedup2.desc,Sferele sunt îmbunătățite masiv când sunt reflectate.
+upgrades.laserstrength1.title,Putere 1
+upgrades.lasermove2.title,Viteză de mișcare 2
+upgrades.shieldbattlereflectshortuses.desc,Reflectă mai des pentru o perioadă mai scurtă de timp.
+options.keybindings.action.keeper.drop,Aruncă
+level.converter.popup.conversion.to,în
+upgrades.repellent.desc,"Instalează un rezervor care produce un lichid ce respinge monștrii. Activează pentru a îl pulveriza în afara domului, întârziind următorul val de atacatori."
+properties.repellent.battlehealthreduction,Reducerea vieții monștrilor {.percent}
+loadout.mode.hyperactive,Rapid Și Firav
+upgrades.miner.title,Miner
+upgrades.converter.title,Convertor de Resurse
+properties.condenser.waterstorage,Stochează {} apă
+upgrades.jetpackstrength2.desc,Îmbunătățește jetpack-ul pentru a căra mai multe resurse.
+level.station.navbar.exit,Ieșire
+options.accessibility.photosensitivity.explanation,Reduce luminile pâlpâitoare.
+properties.orchard.overchargeadditionalabilityuses,{} utilizări adiționale de abilitate după supraîncărcare
+worldmodifier.resourcepooriron.desc,Această lume are puțin fier.
+level.gameover.backtomainmenu,Înapoi la meniul principal
+upgrades.orchardbattlerooting.desc,Activează în luptă pentru a crește rădăcini în afara domului care prind în capcană orice monstru de mărime medie care pășește pe ele.
+upgrades.keeper2pinballreflect.desc,Reflectă sfere cu un mic câmp gravitațional puternic în jurul tău.
+upgrades.laser.title,Laser
+options.game.tutorials.resettutorials,Resetați Tutorialele
+properties.converter.ironirontime,{} cicluri Durata Conversiei
+loadout.secondstage.start,Începe Expediția
+upgrades.artilleryflakmultishot2.desc,Trage mai multe proiectile.
+upgrades.swordreflection2.desc,Un scut și mai mare.
+upgrades.lasermove3.title,Viteză de mișcare 3
+upgrades.lasermove1.desc,Laserul se mișcă mai repede.
+properties.lift.orbs,{} Sfere
+level.station.battle.navbar.move,Mișcare
+upgrades.orchardjetpack2.title,Jetpack Accelerare de Viteză 2
+options.audio.music,Muzică
+worldmodifier.resourceunpredicatableiron.desc,Depozitele de fier sunt mai împrăștiate și mai greu de localizat.
+properties.dome.maxhealth,Viață {}hp
+upgrades.condenserspeed1.title,Viteza de producție 1
+properties.repellent.battleuses,Utilizări per Val de Inamici {}
+upgrades.shieldstrength2.desc,Crește și mai mult cât de multe daune poate absorbi scutul.
+upgrades.drillbotbuffstrength2.title,Adaos de Taurină
+upgrades.keeper2pinballreflectdamage2.desc,Sferele reflectate vor cauza mult mai multe daune rocii pe care urmează să o lovească.
+level.paused,În Pauză
+level.tutorial.sworddome.stabbing,Înjunghie
+upgrades.stunlaserspeed1.title,Viteză 1
+upgrades.domehealthmeter.desc,Afișează integritatea structurală a domului.
+upgrades.swordlargeblade1.desc,"Lățește și lungește lama, cauzând daune mai mari."
+pause.quitgame,Părăsește Jocul
+level.station.battle.navbar.slice,Taie 
+level.gameover.stats.timeplayed,Timp Jucat
+properties.teleporter.teleportresources,Teleportare de Resurse
+upgrades.drillbotstrength2.desc,Mărește puterea de săpare a lui Săpălescu.
+level.tutorial.drop.popup_2,Apasă | pentru a lăsa una. Ține apăsat pentru a lăsa mai multe.
+level.gameover.keepgadget.keeping,Gadget de păstrat: {gadget}
+level.tutorial.drop.popup_1,Resursele cărate te vor încetini.
+worldmodifier.maprugged.desc,Mina este accidentată și neregulată.
+level.tutorial.onewayteleporter1,Tocmai ce ai găsit un teleportor doar dus!
+properties.sword.aimline,Predicția Traiectoriei
+upgrades.keeper2bundle.desc,"Mineralele atașate pot fi împușcate în grup, în același mod în care pot fi împușcate sferele cinetice."
+level.tutorial.onewayteleporter2,Apasă | pentru a plasa ochiul.
+level.tutorial.onewayteleporter3,Apasă din nou pentru a te teleporta înapoi la el.
+properties.lift.capacity,Sferele transportă {} resurse
+properties.shield.battleabilityduration,Durata Abilității {}s
+level.tutorial.teleporter.carry2,"Ține | apăsat pentru a ridica portalul din nou, în apropierea lui."
+level.tutorial.teleporter.carry3,"Dacă apeși |, te vei teleporta înapoi."
+upgrades.minerrefuel.desc,"Transformă apă în combustibil, umplând depozitul de combustibil al domului tău pentru a putea să-ți realimentezi gardianul."
+level.tutorial.teleporter.carry1,Poți muta portalul oriunde îți dorești.
+options.keybindings.cancel,Anulează
+level.tutorial.probe.popup_1,Apasă | pentru a emite o pulsație sonară.
+upgrades.liftcarrykeeper2.desc,Liftul vă va accelera viteza și mai mult.
+level.tutorial.probe.popup_3,"Descoperă unele resurse apropiate.
+Se reîncarcă înapoi în stație."
+worldmodifier.resourcerichcobalt.desc,Această lume are o mulţime de cobalt.
+upgrades.keeper2pinballdamage4.desc,Îmbunătățește daunele cauzate de sfera cinetică asupra rocilor la impact. Mai îmbunătățește și daunele mineritului rotativ.
+properties.sword.stabexplosive,Vârf Exploziv
+properties.drillbot.turnaround,Întoarce-te când lovești un perete dur
+upgrades.shieldstrength1.title,Rezistență 1
+properties.repellent.overchargewavedelay,Durata Bonus a Respingătorului {} cicluri
+upgrades.swordreflection3.title,Reflectare 3
+upgrades.dome1.desc,Dom minier standard echipat cu un laser de mare precizie.
+level.tutorial.drillbot.carry,"Ia-l pe Săpălescu din rezervor, și plasează-l în mină, unde va săpa."
+upgrades.lift.desc,Instalează un lift automatizat care duce resurse minate sus pentru a fi procesate în dom.
+upgrades.dome1health2.desc,Crește permanent integritatea structurală a domului.
+upgrades.converterefficientwater.title,Conversie Eficientă de Apă
+loadout.difficulty.hard.description,Ei bine... este domul tău de pierdut.
+upgrades.artillerymultishot2.title,Lansare în Lanț 2
+upgrades.swordelectrified.title,Lamă Electrificată
+upgrades.drillbotstrength3.desc,Mărește puterea de săpare a lui Săpălescu.
+upgrades.shieldbattleinvulnerable.title,Invulnerabilitate
+upgrades.keeper2rotationalmining2.title,Minerit Rotativ Îmbunătățit
+upgrades.stunlaserautonomy1.title,Autonomie
+level.tutorial.teleporter.teleport1,"În apropierea portalului, apasă | pentru a te teleporta înapoi."
+level.tutorial.teleporter.teleport2,Te poți teleporta și în cealaltă direcție.
+level.gameover.prestige.uploading.failed,"încărcarea nu a reușit, încercați din nou"
+upgrades.lasermove2.desc,Laserul se mișcă și mai repede.
+loadout.mapsize.title,Dimensiunea Hărții
+level.gameover.miner.title,EXPEDIȚIA DE MINER TERMINATĂ
+upgrades.blastminingblast1.title,Explozie 1
+upgrades.drillbotturnaround.desc,"La întâlnirea unui perete indestructibil, Săpălescu se va întoarce împrejur în loc de a trage un pui de somn."
+properties.dome.baserepair,Repară {}hp
+upgrades.condenserautoovercharge.desc,"Menține gadget-ul tău primar supraîncărcat permanent, fără a folosi apă. Producția de apă a condensatorului va fi întârziată după supraîncărcare."
+upgrades.teleporterteleportresourcesback.desc,"Portalul poate teleporta resurse acum, dar nu te mai poate teleporta pe tine înapoi. Încă te poți teleporta de la dom la portal."
+ending.wishlistonsteam,Wishlist pe Steam
+properties.sword.reflection,Mărește Dimensiunea Scutului
+upgrades.drillbotduplicate.desc,"Săpălescu are un geamăn identic, Săpălică."
+level.converter.popup.conversion.convert,Transformă
+leaderboard.loading,se încarcă...
+properties.converter.watertoiron,{} apă pentru un fier
+pause.options,Opțiuni
+upgrades.swordexplosivereflection.desc,Proiectilele reflectate explodează când lovesc ceva.
+upgrades.shieldbattlereflectshortuses.title,Reflectare Cronometrată
+level.gameover.unlock.skin,Un nou skin deblocat!
+level.gameover.stats.destroyedblocks,Blocuri Distruse
+options.keybindings.action.keeper.gravityball,Tragere Încărcată
+upgrades.orchardjetpack1.title,Jetpack Accelerare de Viteză 1
+upgrades.keeper1.desc,"Un profesionist calificat, eficient, cu abilități excelente de minerit."
+properties.laser.movespeedmod,Modificare Viteză de Mișcare {.percent}
+upgrades.laserstrength3.title,Putere 3
+upgrades.orchardoverchargebuffduration.desc,Efectele fructului vor dura mai mult după supraîncărcarea livezii.
+upgrades.stunlaserduration1.title,Anduranța la Tragere 1
+loadout.mode.maze.desc,"Harta este ca un labirint, cu multe ramificații, înfundături și întorsături."
+properties.dome.healthfractionrepair,Repară {.percent} hp total
+upgrades.jetpackstrength3.desc,Îmbunătățește jetpack-ul pentru a căra mai multe resurse.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,mișcare detectată:
+upgrades.prospectionmetersand1.title,Contor de cobalt
+upgrades.prospectionmeterwater1.desc,Afișează distanța până la cele mai apropiate depozite de apă.
+upgrades.blastminingstickycharge.desc,"Încărcăturile se lipesc de primul perete atins, și explodează creând un tunel în direcția peretelui în loc de a exploda circular."
+options.video,Video
+title.navbar.updates,Actualizări
+loadout.skin,Skin
+upgrades.drillbotstrength2.title,Forță 2
+level.gameover.win.title,DOMUL TĂU ESTE SALVAT
+level.station.navbar.battle,Luptă
+upgrades.converterirontocobalt.desc,Permite conversia cobaltului în fier și vice-versa.
+upgrades.keeper2rotationalmining2.desc,"Mărește daunele cauzate de mineritul rotativ, străpungând duritatea rocii."
+level.gameover.unlock.dome,Dom Nou
+pause.gamepadcontrols.pickup,Ridică
+options.video.graphicsmode.photosensitive,Mod Fotosensibilitate
+upgrades.orchardduration2.desc,Efectele fructului sunt și mai îndelungate.
+properties.dome.meleedamagereduction,Reducerea daunelor corp-la-corp {.percent}
+upgrades.domesandrepairstrong.desc,Repară daunele domului tău folosind cobalt.
+options.input,Comenzi
+properties.keeper2.spherereload,Reîncărcarea Sferei {}s
+properties.blastmining.damage,Daune {}
+upgrades.laserbend.title,Laser cu Cap Pivotant
+upgrades.swordlargeblade3.desc,O lamă monstruoasă. Foarte puternică dar lentă.
+loadout.domeoptions.title,Alege-ți domul!
+upgrades.shieldoverchargeduration1.desc,Supraîncărcarea scutului tău va prelungi orice abilitate de luptă a scutului pe care o folosești în următorul val.
+upgrades.probelong1.title,Rază Lungă
+options.keybindings.rebinding.inputprocessor,Apăsați o nouă tastă pentru această acțiune …
+properties.teleporter.teleportduration,Durata Teleportării {}s
+upgrades.dome2health2.title,Viață 2
+upgrades.drillbotduplicate.title,Frate
+pause.quit.popup,"Ești sigur că vrei să renunți?
+Apasă din nou pentru a face acest lucru.
+(progresul tău este salvat)"
+upgrades.prospectionmetersand2.desc,Afișează direcția către cele mai apropiate depozite de cobalt.
+upgrades.probepersist1.desc,"Adăugați un modul de memorie la sondă, marcând locația resurselor pentru mai mult timp."
+upgrades.artilleryshotcooldown2.title,Timp de Reîncărcare 2
+properties.keeper2.sphereadditionalfirsthitdamage,Daune Adiționale la Prima Lovitură {.percent}
+upgrades.shieldbattledestructionprevention.title,Ultima Șansă
+level.gameover.unlock.pet,Un nou animal de companie deblocat!
+upgrades.repellentbattlelongerhealthreduction.desc,Prelungește și îmbunătățește slăbirea tuturor monștrilor prezenți.
+ending.feedbackondiscord,Feedback pe Discord
+properties.keeper2.reflectnexthitdamage,Daunele Adiționale ale Sferei Reflectate la Următoarea Ricoșare {.percent}
+options.video.graphicsmode.borderlesswindow,Fereastră fără Margini
+upgrades.keeper2pinballlifetime1.desc,"Stabilizează sfera cinetică, pentru a pluti mai mult timp."
+level.gadgetchoice.title,ALEGE UN GADGET!
+upgrades.keeper2bundle.title,Împușcătură Grupată
+upgrades.relichunt.title,Vânătoare de Relicve
+loadout.mode.doubleiron.desc,"Depozitele de Fier sunt de două ori mai bogate, dar și upgrade-urile costă de două ori mai mult fier."
+level.tutorial.repair.findcobalt,"Încearcă să găsești niște cobalt. Îl poți folosi pentru a-ți repara domul.
+Este rar și finit."
+properties.keeper2.spheresplit,Despică Sferele
+options.input.controls.text,"A se juca, de preferat, cu un Gamepad."
+landing.proceed,Apasă orice pentru a continua
+upgrades.keeper2pinballmorespheres1.desc,"Adaugă un modul adițional generatorului tău de gravitație, pentru a putea căra mai multe sfere cinetice."
+upgrades.jetpackstrength4.desc,Îmbunătățește jetpack-ul pentru a căra mai multe resurse.
+upgrades.orchardbattleshieldsecondlayer.desc,Activează un strat adițional de scut protector împotriva proiectilelor.
+level.converter.popup.conversion.time,în {time} cicluri
+properties.keeper1.maxspeed,Viteză maximă {}
+properties.laser.aimline,Linia de țintă
+upgrades.shieldstrength3.desc,Crește și mai mult cât de multe daune poate absorbi scutul.
+upgrades.repellentovercharge.title,Supraîncarcă Respingătorul
+properties.drillbot.buffstrength,Accelerare Energizată {.percent}
+worldmodifier.hardnesssofter.desc,Sunt mai multe roci moi în mină.
+level.tutorial.pickup.popup_1,Apasă | pentru a ridica o resursă.
+level.tutorial.pickup.popup_3,Ține apăsat pentru a ridica multe.
+pause.gamepadcontrols.drop,Aruncă
+level.tutorial.fruit.popup_1,Livada ta tocmai ce a crescut primul ei fruct.
+level.tutorial.fruit.popup_2,"În vecinătatea lui, apasă | pentru a-l consuma."
+worldmodifier.mapwide.desc,Mina este mai lată și mai puțin adâncă.
+upgrades.prestigefinishnocobalt.desc,Părăsește această planetă și întoarce-te acasă.
+upgrades.prospectionmeteriron2.title,Busolă de Fier
+upgrades.keeper2movement2.title,Mișcare Gravitațională 2
+options.keybindings.gamepad,Gamepad
+ending.backtomainmenu,Înapoi la meniul principal
+level.tutorial.fullscreen.back,înapoi
+upgrades.shield.title,Scut
+upgrades.blastmining.title,Minerit Exploziv
+upgrades.converterirontocobalt.title,Conversie de Cobalt
+upgrades.swordstabfast1.desc,Extinde mai rapid și mai des.
+level.gameover.prestige.score.rankunchanged,Nicio schimbare de rang.
+options.accessibility.critters,Dezactivează Insectele
+upgrades.teleporterteleportreactivate.desc,Portalul primește înapoi abilitatea de a te teleporta.
+upgrades.orchardjetpack3.title,Jetpack Accelerare de Viteză 3
+level.gameover.unlock.mapsize,O nouă dimensiune de hartă deblocată!
+upgrades.domeresourcecounters.title,Inventar
+level.gameover.keepgadget.none,niciunul
+upgrades.stunlaserdamage1.desc,Laserul amețitor cauzează puțin mai multe daune monștrilor.
+properties.repellent.battleabilityduration,Durata Abilității {}s
+upgrades.prestigeiron.desc,"Trimite înapoi Fier, mărește cu 1 prestigiul obținut la fiecare ciclu."
+upgrades.teleporter.title,Teleportor
+ending.teasemessage,Un mic gust din lucrurile care vor urma:
+loadout.relichunt.modifiers,Alege-ți Modificatoarele
+options.accessibility,Accesibilitate
+loadout.mapsize.small.description,O hartă mică pentru sesiuni scurte.
+upgrades.shieldbattleblastdamage.desc,Crește daunele și efectul amețitor cauzate de detonarea electrică.
+options.translation.community.desc,Aceste limbi sunt traduse de către draga noastră comunitate. Alătură-te și tu dacă vrei!
+upgrades.prospectionmeterwater2.desc,Afișează direcția către cele mai apropiate depozite de apă.
+upgrades.stunlaserdamage2.title,Daune 2
+options.keybindings.action.keeper.gadget1,Gadget 1
+options.keybindings.action.keeper.gadget2,Gadget 2
+properties.repellent.wavedelay,Durata Respingătorului {} cicluri
+options.ok,OK
+upgrades.swordblade1.desc,Îmbunătățește puterea tăierii și viteza sabiei tale.
+upgrades.shieldoverchargeduration2.title,Durata Abilității de Luptă la Supraîncărcare 2
+properties.sword.slicedamage,Daunele Tăierii {} 
+properties.condenser.autocollect,Colectare Automată
+properties.keeper2.directminingdamage,Daune Îmbunătățite ale Mineritului Rotativ
+upgrades.keeper2bundlestopcenter.desc,"Grupările împușcate vor sta chiar sub dom, în loc de a zbura peste axa centrală."
+upgrades.orchardduration1.title,Durată 1
+upgrades.drillbotbuffstrength1.title,Gustări Nutritive
+upgrades.liftcarrykeeper2.title,Liftul Gardianului 2
+upgrades.shieldoverchargestrength2.desc,Crește și mai mult cât de multe daune poate absorbi scutul supraîncărcat.
+upgrades.repellentbattleslowdown.title,Debilitat
+upgrades.artilleryshotprediction.title,Predicția Lansării
+upgrades.repellentdelay3.desc,Mărește și mai mult întârzierea următorului val de monștri.
+upgrades.teleporter.desc,Un teleportor bidirecțional cu o stație sub dom și un portal care poate fi plasat și mutat înăuntrul minelor.
+level.gameover.stats.monsterskilled,Monștri Uciși
+upgrades.keeper2pinballreflect.title,Reflectarea Sferei
+upgrades.drillbotstrength3.title,Forță 3
+upgrades.shieldbattlereflectspeedup.title,Reflectare Accelerată
+upgrades.probeswift1.title,Sondă rapidă
+options.game.events.enableseasonal,activează conținut sezonier
+upgrades.repellentbattledamageovertime.title,Fumuri toxice
+upgrades.dome3health2.title,Viață 2
+loadout.mapsize.huge,Uriașă
+properties.repellent.overchargebattleabilityduration,Durata Bonus a Abilității {.percent}
+options.keybindings.action.keeper.gravitycollect,Colectare Încărcată
+loadout.miner.scores.title,Puncte
+properties.lift.speed,Viteza Sferelor {}
+upgrades.drillbotstrength1.title,Forță 1
+level.tutorial.repellent.popup_2,"În apropierea lui, apasă | pentru a-l activa."
+level.tutorial.repellent.popup_1,Respingătorul tău este gata să întârzie următorul val de inamici.
+properties.orchard.growthtime,Timp de creștere {} cicluri
+properties.keeper2.spherefractiondamage,Daunele Sferei străpung Duritatea Rocii {.percent}
+properties.sword.brake,Agilitatea Sabiei {}
+upgrades.artilleryflakmultishot2.title,Multi-Lovitură Antiaeriană 2
+upgrades.swordstabfast2.desc,Extinde mult mai rapid și mai des.
+upgrades.sword.desc,O sabie durabilă care devine mai puternică în funcție de distanța pe care o parcurge de-a lungul domului în timp ce taie. Poate fi împușcată pentru a înjunghia monștrii și are la bază un scut care blochează proiectile.
+upgrades.artilleryflakmultishot1.title,Multi-Lovitură Antiaeriană 1
+upgrades.artilleryshotprediction.desc,Afișează traiectoria calculată a unei grenade lansate.
+upgrades.shieldbattlereflect.desc,Declanșează o abilitate de luptă activă care reflectă proiectile pentru un scurt timp.
+upgrades.orchardbattleshieldstrong.title,Scuturi Puternice
+upgrades.swordlongblade1.title,Lamă Lungă 1
+level.station.battle.navbar.stab,Înjunghie
+properties.converter.irontowater,{} fier pentru o apă
+upgrades.minoriron.title,Trimite Fier
+upgrades.keeper2bundleinfinite.desc,Grupările vor rămâne stabile pentru o perioadă foarte lungă de timp.
+worldmodifier.resourcedesc,"Sunt doar câteva depozite de fier, dar sunt foarte mari."
+loadout.keeper,GARDIAN
+upgrades.drillbotstrength4.desc,Mărește puterea de săpare a lui Săpălescu.
+upgrades.swordstabexplodedamage.title,Daunele Bombei
+upgrades.prospectionmeterwater2.title,Busolă de apă
+loadout.keeperoptions.title,Alege-ți Gardianul!
+properties.prospectionmeter.range,Distanță {} spații
+upgrades.orchardbattleshield.title,Scut de Proiectile
+loadout.mapsize.large,Mare
+properties.keeper2.reflectsphere,Reflectă Sferele
+upgrades.orchardbattlerooting.title,Rădăcini Capcană
+properties.repellent.growthtime,Timp de producție {} cicluri
+properties.converter.irontocobalt,{} fier pentru un cobalt
+upgrades.dome3health1.desc,Crește permanent integritatea structurală a domului.
+upgrades.teleporterteleportresourcescooldown.title,Reîncărcarea Teleportorului
+upgrades.shieldovercharge.desc,Folosește apă pentru a-ți supraîncărca manual scutul pentru a absorbi mai multe daune în următorul val de inamici.
+upgrades.stunlaserspeed2.title,Viteză 2
+upgrades.drillbotbuff1.desc,Gustări cresc la cuibul de sub dom. Du-i-le lui Săpălescu care le va înfuleca cu mare plăcere pentru a se energiza.
+options.keybindings.action.dome.battle,Mod de Luptă
+upgrades.orchardovercharge.title,Supraîncarcă Livada
+properties.teleporter.teleportresourcesarea,Distanța Maximă de Teleportare {} spații
+upgrades.swordreflection1.desc,Mărește dimensiunea scutului și fă-l să reflecte proiectilele de energie.
+upgrades.blastminingblast2.title,Explozie 2
+upgrades.swordreflection1.title,Reflectare 1
+upgrades.keeper2pinballlifetime2.desc,"Stabilizează sfera cinetică, pentru a pluti mai mult timp."
+options.keybindings.action.general.left,Stânga
+properties.laser.movespeed,Viteză de Mișcare {}
+upgrades.dome3health2.desc,Crește permanent integritatea structurală a domului.
+upgrades.drill2.title,Putere de foraj 2
+options.keybindings.rebinding,Schimbare
+level.tutorial.assessor.carry.desc1_1,"În momentul agățării, acestea te vor urma chiar și dacă dai drumul tastei de colectat."
+upgrades.keeper2pinballdamage1.title,Puterea Sferei Cinetice 1
+upgrades.stunlaserspeed2.desc,Laserul se mișcă și mai repede și continuă să urmărească monștrii atunci când se răcește.
+options.keybindings.title,CONTROALE
+upgrades.keeper2pinballmorespheres2.desc,"Adaugă un modul adițional generatorului tău de gravitație, pentru a putea căra mai multe sfere cinetice."
+level.gameover.prestige.uploading.finalfailed,"încărcarea noului scor nu a reușit, scuze!"
+upgrades.blastminingblast1.desc,Mărește puterea exploziei.
+upgrades.stunlaserduration2.desc,Laserul amețitor se răcește mai repede și trage mai mult timp.
+upgrades.prospectionmetersand1.desc,Afișează distanța până la cele mai apropiate depozite de cobalt.
+pause.gamepadcontrols.move,Mișcare
+properties.blastmining.bombs,Încărcături Explozive {}
+upgrades.shieldstrength2.title,Rezistență 2
+loadout.prestige.cobalt.description,"Harta nu are cobalt și nu îl poți genera, dar începi cu provizii abundente."

@@ -1,0 +1,942 @@
+﻿key,id_ID
+loadout.prestige.title,Choose a Mode Variation
+upgrades.shieldbattleelectroblast.title,Ledakan Listrik
+properties.orchard.battleshieldhp,Strength {} hp
+level.station.battle.navbar.move,Move
+options.video.stretchmode.rezised,Diubah ukuran
+level.gameover.unlock.world,New world unlocked!
+upgrades.blastminingwaterless.desc,"Does not use water for production anymore, but takes longer."
+properties.blastmining.growthtime,Production time {} cycles
+properties.laser.stun,Stun Strength {}
+exhibition.level.instruction,Press anything to continue playing!
+pause.godot,Made with Godot
+upgrades.orchardjetpack2.desc,"Increase the fruits speed boost, letting you move even faster."
+upgrades.artillery.title,Artileri
+upgrades.condenser.desc,Adds a machine under the dome that slowly produces water through condensation.
+properties.lift.keeperupwardsspeed,Keeper Lift Speed {}
+level.tutorial.fullscreen.continue,continue
+upgrades.dome1damagereduction2.title,Penebalan 2
+upgrades.orchardduration2.title,Durasi 2
+upgrades.condenserautoovercharge.title,Auto Overcharge
+upgrades.keeper2pinballreflectdamage2.title,Reflection Damage 2
+loadout.title,CHOOSE YOUR LOADOUT
+level.tutorial.teleporter_2,"Use the Teleporter Station to teleport to the Portal, and vice versa."
+options.keybindings.action.general.up,Atas
+level.converter.popup.cancel,Cancel
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,Activate ability on shield depletion
+loadout.prestige.normal,Regular
+properties.sword.reflectprojectilesexplosive,Reflected Energy Projectiles are explosive
+upgrades.swordlargeblade3.title,Pedang Berat 3
+upgrades.orcharddrill2.title,Mining Boost 2
+loadout.prestige.normal.description,Send resources offworld to gain prestige among the keepers.
+upgrades.keeper2pinballreflectdamage1.desc,Reflected spheres will deal much more damage to the rock they hit next.
+options.input.gamepad,Gamepad
+loadout.choices.locked,Not yet unlocked.
+upgrades.condenserspeed1.desc,Mengurangi waktu diperlukan untuk mengembun satu air.
+upgrades.shieldbattleinvulnerable.desc,Trigger an active combat ability that makes your dome invulnerable for a short time.
+upgrades.domewavemeter.desc,Tampilkan waktu sampai serangan gelombang kehidupan agresif selanjutnya.
+upgrades.keeper2pinballreflectspeedup2.title,Superior Reflection
+upgrades.keeper2movement1.desc,Improve your gravity generator to move faster.
+upgrades.repellentoverchargeduration2.desc,"After overcharging, the battle ability will last longer in the next wave."
+upgrades.laserhitprojectiles.desc,Mengkenakan proyektil energi dengan laser segera melarutkan mereka.
+options.keybindings.action.keeper.pickup,Mengambil
+upgrades.keeper2pinballdamage1.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+upgrades.keeper2pinballdamage3.title,Kinetic Sphere Damage 3
+options.video.graphicsmode.enablevsync,Izinkan Vsinkronisasi
+options.translation.community,{completion}% telah selesai
+loadout.difficult.harder,harder
+worldmodifier.resourcerichiron.desc,This world has a lot of iron.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,Kirim Besi
+upgrades.stunlaserspeed1.desc,Laser Penyetrumnya bergerak lebih cepat.
+upgrades.keeper2pinballdamage2.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+upgrades.drill1.title,Kekuatan Bor 1
+upgrades.prospectionmetersand2.title,Kompas Kobalt
+upgrades.dome1health1.desc,Naikkan nyawa kubahmu secara permanen.
+title.navbar.newgame,Gim Baru
+properties.repellent.overchargeduration,Increase Repellent production speed for {} cycles
+properties.sword.retractspeed,Retract Speed {} 
+upgrades.lasermove3.desc,Gerakan laser maks.
+upgrades.stunlaser.title,Laser Setrum
+options.keybindings.action.general.use,Use
+worldmodifier.monsterfeeble.desc,"The monsters are more feeble, dealing less damage"
+upgrades.shield.desc,Pasang sebuah perisai yang akan menyerap beberapa kerusakan. Mengisi ulang secara otomatis.
+options.video.stretchmode.rezised.text,"Menampilkan gimnya di layar asal atau resolusi di-window.
+Akan kelihatan sangat tajam, tapi memungkinkan adanya kesalahan visual dalam bentuk garis 1 piksel lebar muncul."
+upgrades.orchardbattlerootingexplosion.desc,"Trigger again to cause all trapped monsters to explode, dealing damage around them."
+loadout.mapsize.small,Small
+upgrades.probe.desc,Adds a probe to your suit which when triggered sends out a pulse that reveals nearby resources. Must be recharged at the station under the dome.
+upgrades.swordlongblade1.desc,Pasang sebuah pedang lebih panjang dan lincah.
+upgrades.dome1health1.title,Nyawa 1
+upgrades.blastminingwaterless.title,Peledak tanpa Air
+level.tutorial.assessor.carry,Gravity Collect
+upgrades.liftspeed1.desc,Bolanya bergerak lebih cepat.
+upgrades.shieldstrength1.desc,Tambahkan kerusakan yang perisai kubah bisa diserap.
+upgrades.orchardbattleshieldsecondlayer.title,Double Layer Shield
+upgrades.teleporterteleportresourcescooldown.desc,The portal can teleport resources more often.
+options.input.gamepad.autoswitch,automatic detection of preferred gamepad
+level.gameover.unlock.modifiers,World modifiers unlocked!
+properties.sword.slicebrake,Speed Loss on Slice {.percent}
+loadout.difficulty.veryeasy,Normal
+properties.sword.sliceacceleration,Sword Speed {}
+options.input.gamepad.gamepadstickdeadzone.text,"Mengantur nilainya untuk meterannya tidak berkedip jika kamu hanya sentuh stik jempol, tanpa menekan mereka.
+Jika anda tekan stik jempolnya, meterannya seharusnya berkedip jika mengerakan stiknya."
+options.accessibility.highlightmonsters.explanation,"Render a bright outline around monsters, for better visibility."
+properties.upgrade.gameover,Akhir dari Percobaan
+upgrades.blastminingstickycharge.title,Peledak Tempel Terarah
+upgrades.shieldoverchargestrength2.title,Mendorong Kekuatan Perisai 2
+upgrades.blastminingblast2.desc,Meningkatkan kekuatan ledakan lebih lanjut.
+upgrades.repellentbattlestrongerslowdown2.title,Sempoyongan Kuat
+upgrades.converter.desc,"Bisa menkonversi sumber daya, membantu kamu seimbangkan inventori sumber dayamu."
+loadout.proceed,Proceed
+upgrades.repellentbattleslowdown.desc,Spray a numbing mist during battle that slows all monsters down.
+loadout.mapsize.medium.description,An average sized map for a proper mining session.
+properties.orchard.overchargeadditionalbuffduration,{} cycles additional buff duration after overcharge
+options.translation.community.title,Penerjemah Komunitas
+upgrades.blastminingtriple.title,Triple Charges
+worldmodifier.hardnessextremes.desc,There are much more extremely hard and soft rocks.
+level.station.battle.navbar.exit,Exit
+upgrades.keeper2pinballlifetime2.title,Kinetic Sphere Lifetime 2
+upgrades.minoriron.desc,Send iron offworld to increase your prestige.
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,Migrasi
+upgrades.converterefficientcobalt.title,Eficien Konversi Kobalt
+upgrades.shieldbattledestructionprevention.desc,"Gain a long period of invulnerability when your dome is about to be destroyed.
+After that, your shield does not charge for the next battle. Last stand can only be triggered again after 2 completed waves.
+"
+upgrades.drill1.desc,Mengkuatkan bornya untuk mengali lebih cepat.
+level.gameover.retry,Start another run
+properties.orchard.overchargeduration,Fruit growth speed doubles for {} cycles
+upgrades.dome2health1.title,Nyawa 1
+level.tutorial.station.popup_4,Then hit | to enter battle mode and defend.
+level.gameover.stats.timeplayed.unit,m
+upgrades.repellentbattlestrongerslowdown2.desc,The mist slows monsters even more and lasts for longer.
+loadout.gadgetoptions.title,Pilih alat utamamu!
+level.tutorial.station.popup_2,Move to the station and hit | to enter it.
+upgrades.dome1damagereduction1.desc,Harden the dome surface to take less damage from monsters melee hits. Projectile damage is unaffected.
+level.tutorial.station.popup_1,Your dome is under attack!
+upgrades.keeper2movement3.title,Gravitational Movement 3
+upgrades.jetpackspeed1.desc,Meningkatkan paket jet untuk bergerak lebih cepat.
+properties.converter.ironwatertime,{} cycles Conversion Time
+level.tutorial.sworddome.slicing.desc,"The faster the sword swings, the higher the slice damage."
+upgrades.liftorbs.desc,Pasang sebuah bola pengangkat tambahan.
+upgrades.proberecharge.desc,The probe will slowly recharges on its own over time.
+loadout.gadget,ALAT
+upgrades.drill4.title,Kekuatan Bor 4
+properties.probe.rechargetime,Complete Recharge Time {} cycles 
+upgrades.keeper2pinballdamage4.title,Kinetic Sphere Damage 4
+options.game,Gim
+loadout.prestige.cobalt,Fixed Cobalt
+options.input.vibration.strength,Vibration Strength
+upgrades.liftcapacity1.desc,Bolanya bisa membawa lebih banyak sumber daya.
+loadout.miner.title,Choose Your Run Options
+level.gameover.stats.difficulty,Difficulty
+upgrades.repellentoverchargestrength1.title,Mendorong Tunda Gelombang 1
+upgrades.domesandrepairstrong.title,Perbaikan Kobalt Kuat
+upgrades.stunlaserduration1.desc,The stun laser cools down faster and fires for longer.
+level.gameover.prestige.score.rankimproved,Anda meningkatkan pangkatmu ke {rank}.
+upgrades.stunlaserdamage2.desc,Increases damage done by the stun laser.
+upgrades.drillbotstrength4.title,Kekuatan 4
+level.gameover.prestige.title,PRESTIGE RUN FINISHED
+loadout.secondstage.cancel,Cancel
+upgrades.laseraimline.desc,"Add targeting sights to the laser, showing where it is aiming."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,"Pengembun akan memproduksi dan meyimpan dua air, sebelum itu behenti bekerja."
+upgrades.swordreflection2.title,Pantulan 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,Mengkuatkan bornya untuk mengali lebih cepat.
+properties.laser.hitprojectiles,laser hits energy projectiles
+upgrades.dome1damagereduction1.title,Penebalan 1
+properties.sword.stabexplosivedamage,Bomb Damage {}
+upgrades.drillbotturnaround.title,Latihan Cangih
+upgrades.keeper2movement1.title,Gravitational Movement 1
+properties.orchard.battleroots,Grow {} Roots on the ground
+upgrades.prospectionmeterrange2.title,Jarak 2
+upgrades.jetpackspeed4.title,Kecepatan 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,Tambahkan lebih banyak waktu yang di tunda untuk gelombang monster berikutnya.
+upgrades.orchard.desc,Plant a tree in the dome that grows fruits to buff your movement and mining power.
+upgrades.artilleryflakexplosionradius1.title,Jangkauan Gotri 1
+upgrades.shieldbattleelectroblast.desc,Trigger an active combat ability that creates a deadly field effect around your dome for a short time.
+upgrades.shredgadgettocobalt.desc,Sobek alatnya dan dapatkan {amount} kobalt.
+upgrades.prestigecobalt.title,Kirim Kobalt
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,"Pasang pedang lebih besar. itu bergerak lebih lambat, tapi membuat kerusakan berat."
+level.gameover.back,Back
+options.cancel,Batal
+options.keybindings.action.dome.fire,Tembak 
+upgrades.swordstabshoot.title,Javelin
+upgrades.blastminingtriple.desc,Produces 3 small charges instead of a large one.
+upgrades.orcharddrill1.title,Mining Boost 1
+upgrades.swordextendlong2.title,Tusukan Jauh 2
+upgrades.artilleryshotcooldown1.desc,Tembak lebih sering.
+upgrades.keeper2pinballdamagefraction.title,Kinetic Sphere Hardness Transcendence
+upgrades.doublelaser.title,Dobel Laser
+upgrades.jetpackspeed3.title,Kecepatan 3
+upgrades.minerwater.title,Send Water
+properties.orchard.battleabilityuses,Uses per Battle {}
+upgrades.liftorbs.title,Bola 1
+upgrades.repellentoverchargeduration1.title,Dorongan Durasi Kemampuan Perang 1
+upgrades.drill3.desc,Mengkuatkan bornya untuk mengali lebih cepat.
+level.gameover.prestige.uploading.inprocess,uploading score ...
+loadout.abort,Abort
+properties.shield.overchargestrength,Overcharge Strength {}hp
+level.station.navbar.upgrades,Upgrades
+upgrades.keeper2pinballsplit.desc,"Split incoming spheres into two, launching them perpendicular to the original."
+upgrades.proberecharge.title,Isi Ulang Otomatis
+properties.sword.stabrange,Range {} 
+upgrades.liftspeed1.title,Kecepatan
+upgrades.domewavecount.desc,Pasang sebuah penghitung yang menunjukan berapa banyak gelombang yang kamu pertahankan.
+level.converter.popup.title,Convert Resources
+pause.discord,Join us on Discord
+options.keybindings.rebinding.cancel,Batal
+upgrades.prospectionmeterrange1.desc,Tambahkan jarak terdeteksi dari pengukur propeksi.
+upgrades.dome2badrepair1.desc,"Kubahmu diperbaiki secara otomatis, jika itu mendapat banyak kerusakan di dalam pertempuran."
+upgrades.prestigecobalt.desc,"Kirim kembali Kobalt, menambah ke pengali pretise kamu dapat setiap gelombang."
+upgrades.domesandrepair.desc,Perbaiki kerusakan di kubahmu dengan kobalt.
+loadout.skinoptions.title,Choose your Skin!
+loadout.difficulty.medium.description,Dome‘s intended difficulty.
+loadout.difficulty.veryeasy.description,"Still not easy, but more relaxed than the other difficulties."
+options.game.tutorials,Panduan
+upgrades.orchardbattlerootingmore.desc,Grow more roots that last longer.
+upgrades.probepersist1.title,Penyelidik Memori
+upgrades.keeper2pinballmorespheres2.title,Sphere Supply 2
+upgrades.orchardjetpack3.desc,"Increase the fruits speed boost, letting you move extremely fast."
+upgrades.probe.title,Penyelidik
+upgrades.sword.title,Pedang
+properties.shield.battledestructionprevention,Additional Duration {}s
+upgrades.shieldbattlereflect.title,Pantulan
+pause.gamepadcontrols.use,Use
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,Gudang Dobel
+upgrades.relichunt.desc,Cari peninggalan yang di kubur mendalam dan kembalikan ke kubahmu.
+loadout.mapsize.unlock.description,"Win a run with the previous map size, to unlock this map size."
+properties.sword.stabdamage,Stab Damage {} 
+properties.keeper1.drillstrength,Drill Strength {}
+worldmodifier.mapwildbiomes.desc,The biomes borders are very irregular.
+upgrades.condenser.title,Pengembun
+upgrades.dome2badrepair2.title,Perbaikan Otomatis 2
+options.game.screenshake.shakewhenmining,Getaran Ketika Menambang
+upgrades.repellentdelay2.title,Tunda 2
+level.tutorial.assessor.reflect.desc,Hit|to reflect incoming kinetic spheres for a very short time.
+properties.drillbot.buffamount,Energized Drillings {} hits
+upgrades.laserstrength2.title,Daya 2
+upgrades.jetpackstrength3.title,Kekuatan Membawa 3
+options.keybindings.action.general,Umum
+level.gameover.unlock.gadgetability,New Gadget Battle Ability
+upgrades.jetpackstrength1.desc,Mempertajam paket jet untuk membawa lebih banyak sumber daya.
+upgrades.artillerymultishot1.desc,Luncurkan banyak granat per tembakan.
+properties.sword.reflectprojectiles,Reflect Energy Projectiles
+upgrades.stunlaser.desc,Install a laser that auto targets and stuns monsters.
+upgrades.orchardbattleshieldstrong.desc,The projectile shields are stronger. Also gain an additional ability use after using overcharge.
+upgrades.orchardjetpack1.desc,"Increase the fruits speed boost, letting you move faster."
+upgrades.laser.desc,Sebuah laser akurat yang bergerak dengan kubahmu. Sebelumnya bermaksud untuk menambang asteroid.
+properties.shield.maxstrength,Strength {} hp
+options.keybindings.action.keeper,Penjaga
+worldmodifier.resourceunpredicatablecobalt.desc,Cobalt is more scattered and harder to predict.
+title.navbar.quit,Keluar ke Desktop
+options.keybindings.rebinding.error.gamepad,Tidak bisa mengatur ini sebagai masukan gamepad
+upgrades.repellentbattleslowdownstun1.desc,"Use volatile spores in the mist to stun monsters, stopping them in their tracks for a short time."
+upgrades.swordfastreflection.title,Pantulan Dipercepat
+upgrades.stunlaserduration2.title,Ketahanan Tembak 2
+level.gameover.lose.title,THE DOME IS LOST
+worldmodifier.resourcescatterediron.desc,"There are more iron clusters around, but they are smaller."
+properties.laser.dps,Damage {}
+options.game.screenshake.shakeintensity,Intensitas Getaran
+worldmodifier.hardnessharder.desc,There are more harder rocks in the mine.
+options.video.stretchmode,Mode Tampil
+worldmodifier.monsterhealthy.desc,The monsters have more health.
+level.gameover.stats.mapsize,Map Size
+loadout.mode.longtime,Long Cycles
+upgrades.swordreflection3.desc,Ukuran perisai maks.
+upgrades.repellentbattleslowdownstun2.desc,Gunakan spora lincah lebih sering dan menyetrum monster lebih lama.
+upgrades.teleporterteleportresourcesarea.title,Area Teleportasi
+upgrades.shieldoverchargeduration2.desc,Your shield battle ability will be active even longer in the next wave after overcharging.
+upgrades.shieldoverchargestrength1.title,Mendorong Kekuatan Perisai 1
+upgrades.drillbotbuffstrength1.desc,Makanan membuat Drillbert berernegi lebih lama.
+upgrades.orchardoverchargebuffduration.title,Overcharge Buff Duration
+level.tutorial.assessor.spheres.desc3,It recharges its power with each bounce.
+loadout.mode.longtime.desc,"You have twice as much time between waves, but the waves will be stronger."
+level.tutorial.assessor.spheres.desc2,Choose a direction and release to shoot the sphere.
+upgrades.laserstrength1.desc,"Memperkuatkan daya lasermu, tapi itu akan bergerak lebih lambat jika sedang menembak."
+level.tutorial.assessor.spheres.desc1,Hold|to charge a kinetic sphere.
+upgrades.jetpackstrength4.title,Kekuatan Membawa 4
+upgrades.migration.desc,"Migrasi dari dunia ke dunia, mengupaskan setiap sumber daya dan peninggalan sebelum anda di mengerumuni."
+upgrades.orcharddrill1.desc,"Increase the fruits mining boost, letting you mine faster."
+upgrades.keeper2pinballdamage3.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+options.accessibility.highlightmonsters,Highlight Monsters
+upgrades.prestigecobaltnocobalt.title,Kirim Kobalt
+properties.keeper2.spherebasedamage,Sphere Base Damage {}
+upgrades.orcharddrill3.desc,"Increase the fruits mining boost, letting you mine extremely fast."
+properties.converter.cobalttoiron,{} cobalt to one iron
+level.tutorial.repair.usecobalt,You can use your cobalt to repair your dome. It's an upgrade in the dome tech tree.
+upgrades.blastminingimpactdetonation.title,Dampak Detonasi
+upgrades.swordfastreflection.desc,Proyektil yang di pantul akan terbang kembali lebih cepat.
+upgrades.liftcapacity1.title,Kapasitas
+upgrades.artillery.desc,Bazooka Cacing.
+properties.sword.electricdamage,Electrified Sword Damage {}
+level.station.upgrademenu.close,Close
+properties.shield.overchargebattleabilityduration,Additional Ability Duration {.percent}
+pause.title,PAUSE
+upgrades.artillerymultishot1title,Penembak Berantai 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Additional Ability Duration {}s
+upgrades.orchardbattlerootingexplosion.title,Explosive Prey
+upgrades.blastminingproductiontime1.title,Waktu Produksi
+options.video.stretchmode.scaled.text,"Menampilkan gim dengan resolusi tetap dan di skala ke resolusimu.
+Bisa di piksel, terutama di fon, tapi tidak ada kesalahan garis visual."
+upgrades.orchardduration3.title,Duration 3
+upgrades.domewavecount.title,Penghitung Gelombang
+upgrades.shredgadgettoiron.title,Sobek ke Besi
+options.keybindings.rebinding.apply,Terapkan
+options.keybindings.restoredefault,Kembali ke pengaturan awal
+upgrades.converterironduplication.title,Duplikasi Besi
+title.navbar.credits,Kredit
+level.gameover.unlock.gadget,New Gadget
+upgrades.jetpackspeed2.title,Kecepatan 2
+loadout.modeoptions.title,Choose your Game Mode!
+properties.keeper2.spherebaselifetime,Sphere Lifetime {}
+options.video.stretchmode.scaled,Diskala
+properties.orchard.battleabilityduration,Ability Duration {}s
+upgrades.repellentbattleslowdownstun1.title,Paralisis
+loadout.difficulty.medium,Brutal
+options.audio.volumes,Volume
+upgrades.keeper1.title,Insinyur
+upgrades.drillbotsleepless.title,Latihan Dasar
+upgrades.drillbot.title,Drillbert
+level.tutorial.assessor.carry.desc1,"Hold|to pull in resources, until they are locked onto you."
+level.tutorial.assessor.carry.desc2,Hit|to drop a resource.
+level.tutorial.drillbot.sleeping1,"Drillbert goes to sleep after a while, or when it meets a wall it can't dig."
+level.tutorial.assessor.carry.desc3,"If you aim into a direction while dropping a resource, it will be accelerated heavily."
+level.tutorial.drillbot.sleeping2,"When close to it, hit | to wake it."
+level.tutorial.drillbot.sleeping3,You can make it turn around by hitting | when it's awake.
+properties.keeper2.totalspheres,Spheres {}
+upgrades.shieldbattleblastdamage.title,Ledakan Mematikan
+upgrades.domeresourcecounters.desc,Tampilkan jumlah sumber daya yang di setor saat ini.
+upgrades.swordextendlong1.desc,Mempertajam kekuatan tusuk dan kemampuan untuk mengarahkan saat di udara.
+worldmodifier.resourcerichwater.desc,This world has a lot of water.
+upgrades.drillbotstrength1.desc,Tambahkan kekuatan mengali Drillbert.
+upgrades.stunlaserautonomy1.desc,A simple AI will control the stun laser even when you are not inside the control station.
+properties.blastmining.radius,Explosion radius {} tiles
+upgrades.jetpackstrength1.title,Kekuatan Membawa 1
+options.keybindings.apply,Terapkan
+upgrades.laserstrength2.desc,"Sangat memperkuatkan daya lasermu, tapi itu akan bergerak jauh lebih lambat jika sedang menembak."
+properties.laser.movespeedwhilefiring,Speed while Firing {.percent}
+properties.probe.markerretention,Marker Retention {}s
+upgrades.swordexplosivereflection.title,Pantulan Meledak
+upgrades.condenserspeed2.desc,Mengurangi waktu diperlukan untuk mengembun satu air lebih jauh.
+upgrades.condenserspeed2.title,Kecepatan Produksi 2
+properties.stunlaser.firetime,Fire Time {}s
+options.input.gamepad.gamepadstickdeadzone,Zona mati stik jempol
+upgrades.keeper2movement2.desc,Improve your gravity generator to move faster.
+upgrades.shieldbattlelongerafterdepletion.desc,The blast will last longer if triggered after your shield runs out.
+properties.laser.bend,laser auto aims {}°
+level.station.upgrademenu.buy,Buy
+properties.drillbot.plantgrowthtime,Treat Growth Time {} cycles
+title.navbar.continue,Lanjutkan
+upgrades.repellentoverchargeduration1.desc,Overcharging your tank will also prolong any repellent battle ability you use in the next wave.
+upgrades.artilleryshotcooldown1.title,Waktu Tenang 1
+worldmodifier.resourceunpredicatablewater.desc,Water is more scattered and harder to predict.
+level.tutorial.blastmining.popup_1,Take the Blast Charge and drop it where you want to clear rocks.
+ending.thankyoumessage,Thank you for playing!
+options.keybindings.rebinding.error.keyboard,Tidak bisa mengatur ini sebagai masukan keyboard
+upgrades.keeper2pinballdamagefraction.desc,The kinetic sphere transcends rock hardness and damages the rock by a fixed fraction of its health.
+upgrades.swordlargeblade1.title,Pedang Berat 1
+upgrades.shredgadgettoiron.desc,Sobek alatnya dan dapatkan {amount} besi.
+upgrades.drillbot.desc,Adopt a loveable creature that loves to dig. Carry it into the mine and drop off where you want it to work. Check back to wake it up when it goes to sleep on the job.
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,Nyawa 1
+title.navbar.updates.close,Tutup
+upgrades.swordaimline.desc,Tambahkan sebuah laser pengarah untuk mengarah tusukan pedang.
+upgrades.shieldoverchargeduration1.title,Mendorong Durasi Kemampuan Perang 1
+level.converter.popup.explanation,Pick a resource conversion to start!
+upgrades.drillbotbuff1.title,Makanan
+title.navbar.credits.close,Tutup
+upgrades.keeper2movement3.desc,Improve your gravity generator to move faster.
+pause.quittotitlescreen,Quit to Title Screen
+loadout.prestige.countdown.description,The prestige multiplier starts high and decreases each cycle.
+upgrades.drill3.title,Kekuatan Bor 3
+upgrades.probestage1.title,Ditingkatkan Penyelidik
+properties.sword.stabarrowhead,Increase Arrowhead Size
+loadout.mapsize.huge.description,A huge map for the longest runs.
+properties.sword.stabspeed,Stab Speed {.percent} 
+level.tutorial.teleporter.take1,Your teleporter has a station and a portal. You can teleport between them.
+worldmodifier.mapmaze.desc,The mine is a maze.
+level.tutorial.teleporter.take2,Grab the Portal and place it where you like.
+options.keybindings.action.dome.battleability1,Kemampuan Tempur
+upgrades.laserbend.desc,"Pasang sebuah pemutar kepala ke lasernya yang membenarkan arahanmu secara ototmatis, jika itu mendatangi secara dekat."
+options.video.graphicsmode.fullscreen,Layar Penuh
+options.keybindings.action.general.down,Bawah
+level.tutorial.assessor.spheres,Kinetic Spheres
+level.tutorial.mineraltree1,"You just found a mineral tree seed. It can grow into a tree which roots into tiles. It will grow resources depending on the resources of the rooted tiles.
+Drop it on a tile to plant the seed."
+upgrades.blastmining.desc,Adds a machine under the dome that produces blast charges. Carry them into the mines and release to detonate.
+properties.sword.stabcooldown,Extend Cooldown {}s 
+upgrades.repellentoverchargestrength2.desc,Further increase the delay until the next wave after overcharging.
+upgrades.probeswift1.desc,"Switch to a fast, short range probe with many charges."
+properties.drillbot.buffextraamount,Additional Drilling {} hits
+level.gameover.unlock.keeper,New Keeper
+upgrades.prospectionmeter.title,Pengukur Prospek
+upgrades.shieldbattleactivateondepletion.desc,Invulnerability automatically activates an additional time when the shield runs out.
+upgrades.dome2badrepair1.title,Perbaikan Otomatis 1
+upgrades.swordtargetlock.title,Penguncian Target
+upgrades.laserhitprojectiles.title,Larut Proyektil
+upgrades.keeper2pinballreflectspeedup1.title,Improved Reflection
+properties.shield.battleuses,Uses per Battle {}
+options.game.events,Events
+upgrades.artilleryflakexplosionradius1.desc,Ledakan Gotri lebih besar.
+properties.keeper1.speedlosspercarry,Carry Slowdown {}
+pause.gamepadcontrols.back,Back
+level.gameover.unlocknewelementbutton,Pick your unlock
+upgrades.prospectionmeteriron2.desc,Displays the direction to the nearest iron deposits.
+upgrades.prestige.desc,Skor poin melalui mengkirim sebanyak mungkin sumber daya sebelum kubahmu runtuh atau kamu tinggal dengan aman planetnya.
+properties.prestige.multiplier,{} Prestige Multiplier per Wave
+options.input.controls,Kontrol
+properties.sword.reflectionacceleration,Reflected Projectile Speed {.percent}
+loadout.difficult.easier,easier
+upgrades.keeper2pinballreflectdamage1.title,Reflection Damage 1
+properties.sword.extendspeed,Extend Speed {} 
+properties.keeper2.reflectspeedup,Sphere Speedup on Reflection {.percent}
+loadout.mode.doubleiron,Double Iron
+upgrades.dome3.desc,tidak tersedia di demo
+properties.condenser.growthtime,Production Time {} cycles
+options.game.languages,Bahasa
+worldmodifier.mapwidebottom.desc,"The mine is thin at first, and gets very wide in the depths."
+loadout.mode.maze,Maze
+upgrades.dome2health1.desc,Permanently increase the structural health of your dome and repair it.
+properties.drillbot.drillstrength,Drill Strength {}
+upgrades.keeper2.desc,Sebuah penambang inkonvensional yang membuat teknologi gravitasi eksperimental.
+properties.orchard.battleshields,Shield Layers {}
+level.tutorial.sworddome.reflecting.desc,"Use the sword's shield pad to stop projectiles, or even reflect them."
+options.audio.volumes.musicvolume,Volume Musik
+loadout.dome,DOME
+upgrades.swordlongblade2.title,Pedang Panjang 2
+upgrades.laseraimline.title,Penglihatan Laser
+level.tutorial.assessor.bundle.desc1,"Hold|while carrying resources, to charge a bundle."
+options.keybindings.keyboard,Papan tombol
+level.tutorial.assessor.bundle.desc2,"Aim and release to shoot it, the same way you fire a kinetic sphere."
+properties.prestige.score,{} Prestise
+worldmodifier.mapdeep.desc,The mine is deeper and less wide.
+upgrades.repellentbattleslowdownstun2.title,Paralisis Kuat
+upgrades.keeper2pinballmorespheres1.title,Sphere Supply 1
+upgrades.prestigewater.desc,"Kirim kembali Air, menambah 1 ke pretise kamu dapat setiap gelombang."
+properties.keeper2.bundlestopcenter,Center Column Gravity Field
+upgrades.stunlaserdamage1.title,Kerusakan 1
+upgrades.keeper2pinballlifetime1.title,Kinetic Sphere Lifetime 1
+properties.repellent.battleslowdown,Monster Slowdown {.percent}
+upgrades.swordextendlong1.title,Tusukan Jauh 1
+level.gameover.stats.distancetravelled,Distance Travelled
+properties.keeper2.reflectlifetime,Additional Sphere Lifetime on Reflection {}s
+upgrades.blastminingimpactdetonation.desc,The blast charge will explode on impact with a surface.
+properties.keeper2.spheresplit,Split Incoming Spheres
+options.keybindings.action.dome.upgrade,Meningkatkan
+worldmodifier.resourcepoorcobalt.desc,This world has little cobalt.
+pause.resumegame,Resume Game
+level.gameover.unlock.difficulty,New difficulty unlocked!
+properties.stunlaser.cooldown,Cooldown {}s
+options.keybindings.action.general.right,Kanan
+level.tutorial.assessor.mining.desc,"To remove a single rock, you can move the rotating kinetic sphere into it."
+upgrades.teleporterteleportresourcesback.title,Teleportasi Sumber Daya
+upgrades.dome1.title,Laser Kubah
+upgrades.keeper2bundleinfinite.title,Enduring Bundle
+upgrades.repellentdelay1.title,Tunda 1
+upgrades.miner.desc,"In worlds without monsters, you can concentrate on mining as many resources as you want without distraction."
+upgrades.repellentbattlestrongerslowdown1.desc,The mist slows monsters more and lasts longer.
+upgrades.teleporterteleportresourcesarea.desc,Portal akan teleportasi sumber daya dari area lebih besar daripada sebelumnya.
+upgrades.dome3.title,Kubah Artileri
+upgrades.swordstabshoot.desc,"Bukan mengambil dengan sebuah kabel, malah pedangnya menyerbu dan ditembak dari kubahnya seperti sebuah javelin."
+upgrades.repellentbattledamageovertime.desc,All monsters take a little damage for each second the toxic fumes persist.
+upgrades.shieldbattleactivateondepletion.title,Aktifkan saat Kehabisan
+upgrades.artillerymultishot2.desc,Luncurkan banyak granat per tembakan.
+upgrades.dome1health2.title,Nyawa 2
+worldmodifier.monsterlethal.desc,"The monsters are more lethal, dealing more damage."
+loadout.pet,Pet
+options.keybindings.action,Aksi
+upgrades.orcharddrill3.title,Mining Boost 3
+options.translation.title,PILIH BAHASA ANDA
+upgrades.prospectionmeterrange1.title,Jarak 1
+upgrades.dome2badrepair2.desc,"Kubahmu diperbaiki secara otomatis lebih, jika itu mendapat banyak kerusakan di dalam pertempuran."
+options.audio.volumes.ambiencevolume,Volume Suasana
+upgrades.prestigecobaltnocobalt.desc,"Kirim kembali Kobalt, menambah ke pengali pretise kamu dapat setiap gelombang."
+worldmodifier.maparms.desc,The mine is more fractured.
+loadout.prestige.countdown,Countdown
+upgrades.keeper2pinballdamage2.title,Kinetic Sphere Damage 2
+upgrades.jetpackspeed1.title,Kecepatan 1
+upgrades.minerrefuel.title,Refuel
+upgrades.teleporterteleportduration1.title,Durasi Teleportasi
+properties.blastmining.bombs,Charges {}
+loadout.miner.fuel.title,Fuel
+exhibition.title.press.anything,Press anything to play
+loadout.mode,MODE
+level.tutorial.sworddome.slicing,Slice
+properties.condenser.autoovercharge,Automated Overcharge
+upgrades.teleporterteleportduration1.desc,Teleportasi kamu akan memakan waktu lebih sedikit.
+upgrades.prestigewater.title,Kirim Air
+level.gameover.continue,Continue
+upgrades.orchardbattleshield.desc,Grow a shield that protects the dome from projectiles.
+upgrades.liftcarrykeeper1.title,Lift Pribadi 1
+options.input.controls.keybindings,Kunci-kunci Keyboard
+properties.keeper2.bundlespheres,Bundle Spheres
+upgrades.shieldovercharge.title,Mendorong Perisai
+properties.condenser.overchargedelay,Production Delay {} cycles
+upgrades.keeper2.title,Penilai
+level.tutorial.assessor.mining,Rotational Mining
+upgrades.repellentoverchargeduration2.title,Dorongan Durasi Kemampuan Perang 2
+upgrades.swordblade1.title,Meningkatkan Potong
+properties.converter.irontoiron,{} iron to one iron
+exhibition.level.description,Going back to the main menu in ...
+level.tutorial.assessor.mining.desc2,"You can stop mining without shooting a sphere, by first releasing the directional keys."
+worldmodifier.monsterslow.desc,The monsters are slower.
+upgrades.orcharddrill2.desc,"Increase the fruits mining boost, letting you mine even faster."
+loadout.difficulty.easy.description,A bit more forgiving in many aspects.
+upgrades.swordstabexplode.title,Tusuk Kiriman Bom
+level.gameover.stats.additionalgadget,Additional Gadget
+upgrades.drillbotbuffstrength2.desc,"Setelah mendapat makanan, Drillbert akan bekerja jauh lebih lama sebelum mengantuk."
+upgrades.laserstrength3.desc,"Super-duper memperkuatkan daya lasermu, tapi itu akan hampir tidak bergerak jika sedang menembak."
+loadout.mapsize.medium,Medium
+loadout.difficulty.hard,You asked for it
+level.gameover.stats.wavessurvived,Waves Survived
+properties.stunlaser.damage,Damage {}
+options.keybindings.cancel,Batal
+level.tutorial.sworddome.stabbing.desc,Extend the sword and stab distant enemies.
+level.gameover.unlock.gamemodevariant,New Game Mode Variant
+upgrades.prestigefinish.title,Keluar Planet
+properties.keeper2.bundleduration,Bundle Lifetime {.percent}
+upgrades.shieldstrength3.title,Kekuatan 3
+options.audio.volumes.mastervolume,Volume Utama
+upgrades.shieldbattlelongerafterdepletion.title,Dorongan Kehabisan
+options.keybindings.text,"Ubah tombol pemetaannya ke kesukaanmu.
+Tombol dari sektor berbeda biasanya bisa di ganti tanpa masalah (seperti mengunakan tombol-tombol yang sama untuk mengerakan penjagamu dan senjata kubah)."
+properties.shield.battleblastdamage,{} Blast Damage per second
+loadout.mapsize.large.description,A large map for sessions lasting more than an hour.
+upgrades.drill4.desc,Mengkuatkan bornya untuk mengali lebih cepat.
+upgrades.drillbotsleepless.desc,Drillbert akan bekerja jauh lebih lama sebelum mengantuk.
+upgrades.swordlargeblade2.title,Pedang Berat 2
+upgrades.swordlongblade2.desc,"Tambahkan kecepatan pedangnya lagi, membuat itu melambung ketika membentur ujung."
+upgrades.prestigefinishnocobalt.title,Keluar Planet
+worldmodifier.hardnessmoderated.desc,There are very few extremely hard and soft rocks.
+upgrades.converterironduplication.desc,Memperbanyak besi.
+upgrades.prestigefinish.desc,Keluar dari planet ini dan kembali ke rumah.
+upgrades.dome2health2.desc,Permanently increase the structural health of your dome and repair it.
+upgrades.prestige.title,Prestise
+upgrades.liftcarrykeeper1.desc,The lift boosts your speed when moving upwards inside it.
+upgrades.repellentbattlehealthreduction.desc,"Melemahkan semua monster yang hadir, mengurangi nyawa mereka secepatnya."
+upgrades.dome2.title,Kubah Pedang
+worldmodifier.monsterfast.desc,The monsters are faster.
+upgrades.condenserautocollect.desc,"Automates water collection, removing the need for you to pick it up manually."
+upgrades.lift.title,Lift
+options.game.screenshake,Getaran Layar
+options.keybindings.action.dome,Kubah
+upgrades.swordstabexplodedamage.desc,Tambahkan kerusakan bom.
+level.gameover.stats.resourcesmined,Resources Mined
+worldmodifier.resourcepoorwater.desc,This world has little water.
+upgrades.prospectionmeter.desc,A meter showing the distance to the nearest resources. Can be upgraded to also show direction.
+upgrades.shredgadgettocobalt.title,Sobek ke Kobalt
+upgrades.swordelectrified.desc,"Sebuah setruman di seluruh pedang, membuat lebih banyak kerusakan saat disentuh."
+upgrades.artilleryflakexplosionradius2.desc,Ledakan Gotri lebih besar.
+upgrades.prospectionmeterwater1.title,Pengukur Air
+upgrades.minerwater.desc,Send water offworld to increase your prestige.
+options.video.graphicsmode,Mode Grafik
+upgrades.shieldbattlereflectspeedup.desc,"Reflected projectiles fly back at a higher speed, increasing their chances of hitting the attacker."
+properties.shield.battleblaststun,Blast Stun {}
+loadout.mode.hyperactive.desc,"Monsters move much faster, but have less health."
+upgrades.swordstabexplode.desc,"Pedangnya mengirim sebuah bom, meledak di musuh pertama pedangnya tusuk."
+upgrades.swordstabfast2.title,Tusukan Cepat 2
+upgrades.converterefficientwater.desc,"Konversi air menjadi lebih efficien, tapi membutuhkan sedikit lama."
+upgrades.orchardduration1.desc,Effects of the fruit last longer.
+loadout.difficulty.title,Difficulty
+exhibition.level.heading,Are you still there?
+level.gameover.unlock.gamemode,New Game Mode
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Layu
+upgrades.teleporterteleportreactivate.title,Pengaktifkan Ulang Teleportasi Pribadi
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,Suara
+upgrades.repellentovercharge.desc,Use water to overcharge your tank to produce the next load of repellent faster.
+upgrades.domewavemeter.title,Kedekatan Musuh Meter
+upgrades.prospectionmeterrange2.desc,Tambahkan lebih jauh jarak terdeteksi dari pengukur propeksi.
+upgrades.keeper2pinballreflectspeedup1.desc,"Spheres are powered when reflected, which will accelerate them and let them float for longer upon reflection."
+upgrades.shieldoverchargestrength1.desc,Increases how much damage the overcharged shield absorbs.
+upgrades.repellentdelay1.desc,Tambahkan waktu yang di tunda untuk gelombang monster berikutnya.
+upgrades.repellentbattlelongerhealthreduction.title,Layu Intens
+upgrades.swordtargetlock.desc,"Ketika ditusuk, pedangnya otomatis mengunci monster pertama itu target."
+upgrades.orchardovercharge.desc,"Use water to overcharge your orchard, making it faster to produce a fruit."
+upgrades.orchardbattlerootingmore.title,Strong Roots
+upgrades.swordextendlong2.desc,Mempertajam kekuatan tusuk lagi dan arahan lebih akurat saat di udara.
+upgrades.swordstabfast1.title,Tusukan Cepat 1
+upgrades.probelong1.desc,"Increases the range of the probe ping, but lose a charge slot."
+upgrades.repellent.title,Pengusir
+worldmodifier.monsterwavesspaced.desc,The monster waves are farther apart.
+upgrades.artilleryflakexplosionradius2.title,Jangkauan Gotri 2
+properties.drillbot.amount,Drilling {} hits
+upgrades.repellentdelay3.title,Tunda 3
+ending.appreciationmessage,"We hope you had a good time! We always appreciate your feedback, let us know what you think on Discord or the Steam Forums :)"
+properties.orchard.battlerootexplosion,Explosion damage {}
+upgrades.orchardduration3.desc,Max fruit effects length.
+upgrades.dome1damagereduction2.desc,Harden the dome surface more to take less damage from monsters melee hits. Projectile damage is unaffected.
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,Meningkatkan paket jet untuk bergerak lebih cepat.
+upgrades.jetpackspeed3.desc,Meningkatkan paket jet untuk bergerak lebih cepat.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+title.navbar.options,Opsi
+properties.repellent.battledamageovertime,Monsters take {} damage per second
+upgrades.repellentoverchargestrength2.title,Mendorong Tunda Gelombang 1
+upgrades.repellentoverchargestrength1.desc,Overcharging also increases the delay time until the next wave.
+upgrades.blastminingproductiontime1.desc,Kurangi waktu di butuhkan untuk membuat sebuah peledak.
+properties.teleporter.teleportresourcescooldown,Resource Teleport Duration {}s
+upgrades.artilleryflakmultishot1.desc,Tembak lebih banyak proyektil.
+properties.converter.ironcobalttime,{} cycles Conversion Time
+options.title,OPSI
+options.video.graphicsmode.window,Window
+properties.shield.battlereflectspeedup,Reflected Projectile Speed {.percent}
+properties.laser.aimline,Aim Line
+level.tutorial.drillbot.handling1,Hold | to pick up Drillbert again.
+upgrades.probestage1.desc,"Meningkatkan penyelidiknya, membuat itu biasanya lebih baik."
+level.tutorial.drillbot.handling2,"Hit | to make it change direction, if on ground."
+options.keybindings.rebinding.capture,Tangkap
+properties.prospectionmeter.range,Range {} tiles
+properties.stunlaser.speed,Speed {}
+properties.probe.impulsespeed,Impulse Speed {}
+upgrades.domehealthmeter.title,Meter Nyawa
+options.audio.music.frequency,Frequentness (cycles without music)
+options.audio.volumes.soundvolume,Volume Suara
+properties.sword.slicebounceback,Sword Bounce On Edge
+upgrades.jetpackspeed4.desc,Meningkatkan paket jet untuk bergerak lebih cepat.
+worldmodifier.monsterfragile.desc,The monsters have less health.
+level.gameover.prestige.score.personalbest,Your new personal best!
+properties.prestige.baseperwave,{} Prestise Basis per Gelombang
+loadout.choices.comingsoon,"Not yet available, but coming soon."
+upgrades.doublelaser.desc,"Memasang laser turet kedua, tapi membelah daya tembak diantara keduanya."
+upgrades.jetpackstrength2.title,Kekuatan Membawa 2
+upgrades.keeper2bundlestopcenter.title,Gravity Center
+properties.keeper2.spherelifetimeperbounce,Additional Sphere Lifetime per Bounce {}s
+upgrades.converterefficientcobalt.desc,"Konversi Kobalt menjadi lebih efficien, tapi membutuhkan waktu yang lama."
+properties.orchard.buffduration,Buff Duration {} cycles
+upgrades.domesandrepair.title,Perbaikan Kobalt
+properties.keeper1.maxspeed,Top Speed {}
+level.station.upgrademenu.cost,Cost
+upgrades.lasermove1.title,Kecepatan Bergerak 1
+level.tutorial.sworddome.reflecting,Reflect
+loadout.petoptions.title,Choose your Pet!
+upgrades.domeresourcecounters.title,Persediaan
+level.gameover.unlockpicker.title,PICK YOUR UNLOCK
+level.gameover.proceedtounlock,Unlock a new element
+upgrades.artilleryshotcooldown2.desc,Tembak lebih sering.
+level.gameover.keepgadget.title,Select a Gadget To Keep For Your Next Run
+level.station.battle.navbar.shoot,Shoot
+upgrades.repellentbattlestrongerslowdown1.title,Sempoyongan
+upgrades.dome2.desc,Kubah yang kuat dengan pedang lincah yang penjaga bisa latih untuk mengdominasi para penyerang.
+loadout.difficulty.easy,Hard
+upgrades.condenserautocollect.title,Pengkoleksi Otomatis
+upgrades.orchard.title,Kebun
+upgrades.keeper2pinballreflectspeedup2.desc,Spheres are intensely powered up when reflected.
+upgrades.laserstrength1.title,Daya 1
+upgrades.lasermove2.title,Kecepatan Bergerak 2
+upgrades.shieldbattlereflectshortuses.desc,Memantul lebih sering untuk waktu yang lebih singkat.
+options.keybindings.action.keeper.drop,Jatuhkan
+level.converter.popup.conversion.to,to
+upgrades.repellent.desc,"Install a tank that produces a monster repelling liquid. Activate to spray it outside the dome, delaying the next wave of attackers."
+properties.repellent.battlehealthreduction,Monster Health Reduction {.percent}
+loadout.mode.hyperactive,Quick & Feeble
+upgrades.miner.title,Miner
+upgrades.converter.title,Konverter Sumber Daya
+properties.condenser.waterstorage,Stores {} water
+upgrades.jetpackstrength2.desc,Mempertajam paket jet untuk membawa lebih banyak sumber daya.
+level.station.navbar.exit,Exit
+options.accessibility.photosensitivity.explanation,Reduces flickering lights.
+properties.orchard.overchargeadditionalabilityuses,{} additional ability uses after overcharge
+worldmodifier.resourcepooriron.desc,This world has little iron.
+level.gameover.backtomainmenu,Back to main menu
+upgrades.orchardbattlerooting.desc,Activate in battle to grow roots outside the dome that will trap any medium sized monster stepping on them.
+upgrades.keeper2pinballreflect.desc,"Reflect spheres with a high powered, small gravity field around yourself."
+upgrades.laser.title,Laser
+options.game.tutorials.resettutorials,Setel Ulang Panduan
+properties.converter.ironirontime,{} cycles Conversion Time
+loadout.secondstage.start,Start Run
+upgrades.artilleryflakmultishot2.desc,Tembak lebih banyak proyektil.
+upgrades.swordreflection2.desc,Perisal lebih besar.
+upgrades.lasermove3.title,Kecepatan Bergerak 3
+upgrades.lasermove1.desc,Lasernya bergerak lebih cepat.
+properties.lift.orbs,{} Orbs
+options.keybindings.action.general.move,Gerak
+upgrades.orchardjetpack2.title,Dorongan Kecepatan Paket Jet 2
+options.audio.music,Music
+worldmodifier.resourceunpredicatableiron.desc,The iron clusters are more scattered and harder to predict.
+properties.dome.maxhealth,Nyawa {}np
+upgrades.condenserspeed1.title,Kecepatan Produksi 1
+properties.repellent.battleuses,Uses per Battle {}
+upgrades.shieldstrength2.desc,Tambahkan lebih banyak kerusakan yang perisai kubah bisa diserap.
+upgrades.drillbotbuffstrength2.title,Taurine Addition
+upgrades.keeper2pinballreflectdamage2.desc,Reflected spheres will deal much more damage to the rock they hit next.
+level.paused,Paused
+level.tutorial.sworddome.stabbing,Stab
+upgrades.stunlaserspeed1.title,Kecepatan 1
+upgrades.domehealthmeter.desc,Tampilkan nyawa kubah.
+upgrades.swordlargeblade1.desc,"Melebarkan dan memanjangkan pedangnya, membuat lebih banyak kerusakan."
+pause.quitgame,Quit Game
+level.station.battle.navbar.slice,Slice 
+level.gameover.stats.timeplayed,Time Played
+properties.teleporter.teleportresources,Teleport Resources
+upgrades.drillbotstrength2.desc,Tambahkan kekuatan mengali Drillbert.
+level.tutorial.drop.popup_2,Hit | to drop one. Hold to drop many.
+level.gameover.keepgadget.keeping,Gadget to keep: {gadget}
+level.tutorial.drop.popup_1,Carried resources slow you down.
+worldmodifier.maprugged.desc,The mine is rough and irregular.
+level.tutorial.onewayteleporter1,You just found a one way teleporter!
+properties.sword.aimline,Aim Prediction
+upgrades.keeper2bundle.desc,"Attached minerals can be shot as a bundle, in the same way you shoot kinetic spheres."
+level.tutorial.onewayteleporter2,Press|to place the eye.
+level.tutorial.onewayteleporter3,Press again to teleport back to it.
+properties.lift.capacity,Orbs carry {} resources
+properties.shield.battleabilityduration,Ability Duration {}s
+level.tutorial.teleporter.carry2,"Hold | to pick up the portal again, when close to it."
+level.tutorial.teleporter.carry3,"If you hit |, you will teleport back."
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,You can move the portal anywhere you want.
+options.keybindings.action.general.back,Cancel
+level.tutorial.probe.popup_1,Hit | to emit a probe impulse.
+upgrades.liftcarrykeeper2.desc,Liftnya akan lebih mempercepat kamu.
+level.tutorial.probe.popup_3,"It reveals some of the nearby resources.
+Recharge back at the station."
+worldmodifier.resourcerichcobalt.desc,This world has a lot of cobalt.
+upgrades.keeper2pinballdamage4.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+properties.sword.stabexplosive,Tip Bomb Mounted
+properties.drillbot.turnaround,Turn around when hitting a hard wall
+upgrades.shieldstrength1.title,Kekuatan 1
+properties.repellent.overchargewavedelay,Additional Wave Delay {} cycles
+upgrades.swordreflection3.title,Pantulan 3
+upgrades.dome1.desc,"Standar kubah penambang, di lengkapi dengan sebuah laser akurat."
+level.tutorial.drillbot.carry,"Take Drillbert from its tank, and place it in the mine, where it should dig."
+upgrades.lift.desc,Install an automated lift that brings mined resources up for processing in the dome.
+upgrades.dome1health2.desc,Naikkan nyawa kubahmu secara permanen.
+upgrades.converterefficientwater.title,Eficien Konversi Air
+loadout.difficulty.hard.description,"Well, it's your Dome to lose."
+upgrades.artillerymultishot2.title,Penembak Berantai 2
+upgrades.swordelectrified.title,Pedang Disetrum
+upgrades.drillbotstrength3.desc,Tambahkan kekuatan mengali Drillbert.
+upgrades.shieldbattleinvulnerable.title,Kekebalan
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,Otonomi
+level.tutorial.teleporter.teleport1,"When close to the portal, hit | to teleport back."
+level.tutorial.teleporter.teleport2,You can also teleport in the other direction.
+level.gameover.prestige.uploading.failed,"uploading failed, trying again"
+upgrades.lasermove2.desc,Lasernya bergerak jauh lebih cepat.
+loadout.mapsize.title,Map Size
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Ledakan 1
+upgrades.drillbotturnaround.desc,"Ketika bertemu dengan dinding yang tidak bisa dihancurkan, Drillbert akan berputar arah daripada tidur."
+properties.dome.baserepair,Perbaiki {}np
+upgrades.condenserautoovercharge.desc,"Keeps your primary gadget permanently overcharged, without using up water. Condenser water production will be delayed after overcharging."
+upgrades.teleporterteleportresourcesback.desc,"The portal now teleports resources, but can't teleport you back anymore. You can still teleport from the dome to the portal."
+ending.wishlistonsteam,Wishlist on Steam
+properties.sword.reflection,Increase Shield Pad Size
+upgrades.drillbotduplicate.desc,"Drillbert dapat kembar mirip, Drilliam."
+level.converter.popup.conversion.convert,convert
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} water to one iron
+pause.options,Options
+upgrades.swordexplosivereflection.desc,Proyektil dipantul akan meledak saat mereka menabrak sesuatu.
+upgrades.shieldbattlereflectshortuses.title,Pemantulan Tepat Waktu
+level.gameover.unlock.skin,New skin unlocked!
+level.gameover.stats.destroyedblocks,Destroyed Blocks
+options.keybindings.action.keeper.gravityball,Charge Shot
+upgrades.orchardjetpack1.title,Dorongan Kecepatan Paket Jet 1
+upgrades.keeper1.desc,"Seorang yang terampil, profesional efisien dengan kemampuan menambang yang baik sekali."
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,Daya 3
+upgrades.orchardoverchargebuffduration.desc,The fruit effects will last for longer after overcharging the orchard.
+upgrades.stunlaserduration1.title,Ketahanan Tembak 1
+loadout.mode.maze.desc,"The map is maze-like, with many arms, dead ends and twists."
+properties.dome.healthfractionrepair,Perbaiki {.percent} dari np total
+upgrades.jetpackstrength3.desc,Mempertajam paket jet untuk membawa lebih banyak sumber daya.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,gerakan terdeteksi:
+upgrades.prospectionmetersand1.title,Pengukur Kobalt
+upgrades.prospectionmeterwater1.desc,Displays the distance to the nearest water deposits.
+upgrades.blastminingstickycharge.desc,"Peledak tempel ke dinding pertama mereka sentuh, dan malah meledak sebuah terowongan daripada ledakan bundar."
+options.video,Vidio
+title.navbar.updates,Pembaruan
+loadout.skin,Skin
+upgrades.shieldstrength2.title,Kekuatan 2
+level.gameover.win.title,YOUR DOME IS SAVED
+level.station.navbar.battle,Battle
+upgrades.converterirontocobalt.desc,Memperbolehkan konversi kobalt ke besi dan sebaliknya.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,New Dome
+pause.gamepadcontrols.pickup,Pickup
+options.video.graphicsmode.photosensitive,Mode Fotosensitif
+upgrades.orchardduration2.desc,Effects of the fruit last even longer.
+properties.dome.meleedamagereduction,Melee Damage Reduction {.percent}
+upgrades.domesandrepairstrong.desc,Perbaiki kerusakan di kubahmu dengan kobalt.
+options.input,Masukan
+properties.keeper2.spherereload,Sphere Reload {}s
+properties.blastmining.damage,Damage {}
+upgrades.laserbend.title,Pemutar Kepala Laser
+upgrades.swordlargeblade3.desc,Sebuah pedang raksasa. Sangat kuat tapi bergerak lambat.
+loadout.domeoptions.title,Choose your Dome!
+upgrades.shieldoverchargeduration1.desc,Overcharging your shield will also prolong any shield battle ability you use in the next wave.
+upgrades.probelong1.title,Jarak Jauh
+options.keybindings.rebinding.inputprocessor,Tekan kunci baru untuk aksi ini …
+properties.teleporter.teleportduration,Teleport Duration {}s
+upgrades.dome2health2.title,Nyawa 2
+upgrades.drillbotduplicate.title,Saudara kandung
+pause.quit.popup,"Are you sure you want to quit?
+Press again to do so.
+(your progress is saved)"
+upgrades.prospectionmetersand2.desc,Displays the direction to the nearest cobalt deposits.
+upgrades.probepersist1.desc,"Add a memory module to the probe, marking the location of resources for longer."
+upgrades.artilleryshotcooldown2.title,Waktu Tenang 2
+properties.keeper2.sphereadditionalfirsthitdamage,Additional First Hit Damage {.percent}
+upgrades.shieldbattledestructionprevention.title,Pertahanan Terakhir
+level.gameover.unlock.pet,New pet unlocked!
+upgrades.repellentbattlelongerhealthreduction.desc,Prolongs and strengthens the withering of all present monsters.
+ending.feedbackondiscord,Feedback on Discord
+properties.keeper2.reflectnexthitdamage,Additional Sphere Damage on Reflection for Next Bounce {.percent}
+options.video.graphicsmode.borderlesswindow,Window Tanpa Tepi
+upgrades.keeper2pinballlifetime1.desc,"Stabilize the kinetic sphere, so it will float for longer."
+level.gadgetchoice.title,PILIH SEBUAH ALAT!
+upgrades.keeper2bundle.title,Bundle Shot
+upgrades.relichunt.title,Pencarian Peninggalan
+loadout.mode.doubleiron.desc,"Iron desposits are twice as rich, but upgrades cost twice the iron too."
+level.tutorial.repair.findcobalt,"Try to find some cobalt. You can repair your dome with it.
+It is rare and finite."
+upgrades.keeper2pinballsplit.title,Split Spheres
+options.input.controls.text,Terbaik dimainkan dengan Gamepad.
+landing.proceed,Press anything to continue
+upgrades.keeper2pinballmorespheres1.desc,"Add an additional module to your gravity generator, so it can corral more kinetic spheres."
+upgrades.jetpackstrength4.desc,Mempertajam paket jet untuk membawa lebih banyak sumber daya.
+upgrades.orchardbattleshieldsecondlayer.desc,Grow another layer of projectile shields.
+level.converter.popup.conversion.time,over {time} cycles
+properties.keeper2.maxspeed,Top Speed {}
+upgrades.swordaimline.title,Garis Arahan
+upgrades.shieldstrength3.desc,Tambahkan lebih banyak kerusakan yang perisai kubah bisa diserap.
+upgrades.repellentovercharge.title,Overcharge Repellent
+properties.drillbot.buffstrength,Energized Speedup {.percent}
+worldmodifier.hardnesssofter.desc,There are more softer rocks in the mine.
+level.tutorial.pickup.popup_1,Hit | to pick up a resource.
+level.tutorial.pickup.popup_3,Hold to pick up many.
+pause.gamepadcontrols.drop,Drop
+level.tutorial.fruit.popup_1,Your orchard just grew its first fruit.
+level.tutorial.fruit.popup_2,"When next to it, hit | to consume it."
+worldmodifier.mapwide.desc,The mine is wider and less deep.
+upgrades.prestigefinishnocobalt.desc,Keluar dari planet ini dan kembali ke rumah.
+upgrades.prospectionmeteriron2.title,Kompas Besi
+upgrades.keeper2movement2.title,Gravitational Movement 2
+options.keybindings.gamepad,Gamepad
+ending.backtomainmenu,Back to main menu
+level.tutorial.fullscreen.back,back
+upgrades.shield.title,Perisai
+upgrades.blastmining.title,Ledakan Tambang
+upgrades.converterirontocobalt.title,Kobalt Konversi
+upgrades.swordstabfast1.desc,Menusuk lebih cepat dan lebih sering.
+level.gameover.prestige.score.rankunchanged,No change in rank.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,Portal mendapat kemampuan untuk teleportasi kamu kembali.
+upgrades.orchardjetpack3.title,Jetpack Speed Boost 3
+level.gameover.unlock.mapsize,New map size unlocked!
+level.station.upgrademenu.inventory,Inventory
+level.gameover.keepgadget.none,none
+upgrades.stunlaserdamage1.desc,Adds a small amount of damage to the stun laser.
+properties.repellent.battleabilityduration,Ability Duration {}s
+upgrades.prestigeiron.desc,"Kirim kembali Besi, menambah 1 ke prestise kamu dapat setiap gelombang."
+upgrades.teleporter.title,Teleportasi
+ending.teasemessage,Small tease of what's to come:
+loadout.relichunt.modifiers,Choose your Modifiers
+options.accessibility,Accessibility
+loadout.mapsize.small.description,A small map for shorter sessions.
+upgrades.shieldbattleblastdamage.desc,Increases the damage and stun effect of the electro blast.
+options.translation.community.desc,Bahasa-bahasa ini diterjemahkan oleh komunitas tersayang kami. Ikut mereka jika kamu mau!
+upgrades.prospectionmeterwater2.desc,Displays the direction to the nearest water deposits.
+upgrades.stunlaserdamage2.title,Kerusakan 2
+options.keybindings.action.keeper.gadget1,Alat 1
+options.keybindings.action.keeper.gadget2,Alat 2
+properties.repellent.wavedelay,Wave Delay {} cycles
+options.ok,OKE
+upgrades.swordblade1.desc,Meningkatkan kekuatan memotong dan kecepatan pedangmu.
+upgrades.shieldoverchargeduration2.title,Mendorong Durasi Kemampuan Perang 2
+properties.sword.slicedamage,Slice Damage {} 
+properties.condenser.autocollect,Automatic Collection
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,"Shot bundles will stay right under the dome, instead of flying past the central axis."
+upgrades.orchardduration1.title,Durasi 1
+upgrades.drillbotbuffstrength1.title,Makanan Bergizi
+upgrades.liftcarrykeeper2.title,Lift Pribadi 2
+upgrades.shieldoverchargestrength2.desc,Further increases how much damage the overcharged shield absorbs.
+upgrades.repellentbattleslowdown.title,Melemahkan
+upgrades.artilleryshotprediction.title,Prediksi Tembakan
+upgrades.repellentdelay3.desc,Tambahkan lebih banyak waktu yang di tunda untuk gelombang monster berikutnya.
+upgrades.teleporter.desc,A two-way teleporter with a station under the dome and portal that can be placed and moved around the mines.
+level.gameover.stats.monsterskilled,Monsters Killed
+upgrades.keeper2pinballreflect.title,Sphere Reflection
+upgrades.drillbotstrength3.title,Kekuatan 3
+upgrades.shieldbattlereflectspeedup.title,Pantulan Dipercepat
+upgrades.probeswift1.title,Penyedilik Cepat
+options.game.events.enableseasonal,enable seasonal content
+upgrades.repellentbattledamageovertime.title,Uap Beracun
+upgrades.dome3health2.title,Nyawa 2
+loadout.mapsize.huge,Huge
+properties.repellent.overchargebattleabilityduration,Additional Ability Duration {.percent}
+options.keybindings.action.keeper.gravitycollect,Charge Collect
+loadout.miner.scores.title,Scores
+properties.lift.speed,Orb Speed {}
+upgrades.drillbotstrength1.title,Kekuatan 1
+level.tutorial.repellent.popup_2,"When close to it, hit | to activate it."
+level.tutorial.repellent.popup_1,Your repellent is ready to delay the next wave.
+properties.orchard.growthtime,Growth time {} cycles
+properties.keeper2.spherefractiondamage,Sphere Damage transcending Rock Hardness {.percent}
+properties.sword.brake,Sword Agility {}
+upgrades.artilleryflakmultishot2.title,Tembakan Banyak Gotri 2
+upgrades.swordstabfast2.desc,Menusuk lebih cepat dan lebih sering.
+upgrades.sword.desc,Sebuah pedang tahan lama yang membuat kerusakan lebih besar semakin jauh itu menayun ketika mengiris. itu bisa diluncurkan untuk menusuk para monster dan mempunyai perisai yang memblokir banyak proyektil.
+upgrades.artilleryflakmultishot1.title,Tembakan Banyak Gotri 1
+upgrades.artilleryshotprediction.desc,Menunjukan lintasan ekspetasi dari granat di luncurkan.
+upgrades.shieldbattlereflect.desc,Trigger an active combat ability that reflects incoming projectiles for a short time.
+upgrades.orchardbattleshieldstrong.title,Strong Shields
+upgrades.swordlongblade1.title,Pedang Panjang 1
+level.station.battle.navbar.stab,Stab
+properties.converter.irontowater,{} iron to one water
+upgrades.minoriron.title,Send Iron
+upgrades.keeper2bundleinfinite.desc,Bundles will stay stable for a very long time.
+worldmodifier.resourcedesc,"There are only few iron clusters around, but they are very large."
+loadout.keeper,KEEPER
+upgrades.drillbotstrength4.desc,Tambahkan kekuatan mengali Drillbert.
+upgrades.swordstabexplodedamage.title,Kerusakan Bom
+upgrades.prospectionmeterwater2.title,Kompas Air
+loadout.keeperoptions.title,Choose your Keeper!
+properties.probe.range,{} tiles Range
+upgrades.orchardbattleshield.title,Projectile Shield
+loadout.mapsize.large,Large
+properties.keeper2.reflectsphere,Reflect Incoming Spheres
+upgrades.orchardbattlerooting.title,Snare Roots
+properties.repellent.growthtime,Production time {} cycles
+properties.converter.irontocobalt,{} iron to one cobalt
+upgrades.dome3health1.desc,Naikkan nyawa kubahmu secara permanen.
+upgrades.teleporterteleportresourcescooldown.title,Pendinginan Teleportasi
+upgrades.shieldovercharge.desc,Use water to manually overcharge your shield so it absorbs more damage in the next wave.
+upgrades.stunlaserspeed2.title,Kecepatan 2
+upgrades.drillbotbuff1.desc,Treats grow at the nest under the dome. Take them to Drillbert who will happily gobble them up to get energized.
+options.keybindings.action.dome.battle,Mode Pertempuran
+upgrades.orchardovercharge.title,Overcharge Orchard
+properties.teleporter.teleportresourcesarea,Teleport Range {} tiles
+upgrades.swordreflection1.desc,Melebarkan ukuran perisai dan membuat itu memantulkan proyektil energi.
+upgrades.blastminingblast2.title,Ledakan 2
+upgrades.swordreflection1.title,Pantulan 1
+upgrades.keeper2pinballlifetime2.desc,"Stabilize the kinetic sphere, so it will float for longer."
+options.keybindings.action.general.left,Kiri
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Naikkan nyawa kubahmu secara permanen.
+upgrades.drill2.title,Kekuatan Bor 2
+options.keybindings.rebinding,Menjilidkan
+level.tutorial.assessor.carry.desc1_1,"Once locked onto you, they will follow you even if you release the collection key."
+upgrades.keeper2pinballdamage1.title,Kinetic Sphere Damage 1
+upgrades.stunlaserspeed2.desc,Laser penyetrumnya bergerak jauh lebih cepat dan tetap melacak monster ketika mendinginkan.
+options.keybindings.title,KONTROL PEMETAAN
+upgrades.keeper2pinballmorespheres2.desc,"Add an additional module to your gravity generator, so it can corral more kinetic spheres."
+level.gameover.prestige.uploading.finalfailed,"uploading new score failed, sorry!"
+upgrades.blastminingblast1.desc,Meningkatkan kekuatan ledakan.
+upgrades.stunlaserduration2.desc,Laser penyetrumnya mendingin lebih cepat dan tembak lebih lama.
+upgrades.prospectionmetersand1.desc,Displays the distance to the nearest cobalt deposits.
+pause.gamepadcontrols.move,Move
+properties.probe.charges,Charges {}
+upgrades.drillbotstrength2.title,Kekuatan 2
+loadout.prestige.cobalt.description,"The map has no cobalt and you can't generate it, but you start with plenty of it."

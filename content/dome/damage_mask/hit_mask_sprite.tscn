@@ -1,0 +1,15 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://content/dome/damage_mask/hit_mask.png" type="Texture" id=1]
+[ext_resource path="res://content/dome/damage_mask/hit_mask_sprite.gd" type="Script" id=2]
+[ext_resource path="res://content/dome/damage_mask/hit_mask_power_shader.shader" type="Shader" id=3]
+
+[sub_resource type="ShaderMaterial" id=1]
+shader = ExtResource( 3 )
+shader_param/power = 4.0
+
+[node name="HitMaskSprite" type="Sprite"]
+modulate = Color( 1, 1, 1, 0.352941 )
+material = SubResource( 1 )
+texture = ExtResource( 1 )
+script = ExtResource( 2 )

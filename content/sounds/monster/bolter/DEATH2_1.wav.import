@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DEATH2_1.wav-cea215df4570eabb5ff5a8cbc81adeb1.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/bolter/DEATH2_1.wav"
+dest_files=[ "res://.import/DEATH2_1.wav-cea215df4570eabb5ff5a8cbc81adeb1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

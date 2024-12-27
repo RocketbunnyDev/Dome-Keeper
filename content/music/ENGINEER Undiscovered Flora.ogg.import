@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ENGINEER Undiscovered Flora.ogg-7534954a8f58134fd8970775f8094426.oggstr"
+
+[deps]
+
+source_file="res://content/music/ENGINEER Undiscovered Flora.ogg"
+dest_files=[ "res://.import/ENGINEER Undiscovered Flora.ogg-7534954a8f58134fd8970775f8094426.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

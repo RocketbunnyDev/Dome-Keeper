@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dig_02.wav-6ed07ef8cf40d13c6093e7e9766a79f2.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper1/Dig_02.wav"
+dest_files=[ "res://.import/Dig_02.wav-6ed07ef8cf40d13c6093e7e9766a79f2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

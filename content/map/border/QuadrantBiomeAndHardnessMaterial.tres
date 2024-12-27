@@ -1,0 +1,11 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=2]
+
+[ext_resource path="res://content/map/border/quadrant_biome_and_hardness.gdshader" type="Shader" id=1]
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/frame_coords_tl = Vector2( 1, 0 )
+shader_param/frame_coords_tr = Vector2( 1, 0 )
+shader_param/frame_coords_bl = Vector2( 1, 0 )
+shader_param/frame_coords_br = Vector2( 1, 0 )
+shader_param/sheet_size = Vector2( 24, 24 )

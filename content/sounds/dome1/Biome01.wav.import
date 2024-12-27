@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Biome01.wav-fd5a8d459dbd6156b155438d9bc0c26c.sample"
+
+[deps]
+
+source_file="res://content/sounds/dome1/Biome01.wav"
+dest_files=[ "res://.import/Biome01.wav-fd5a8d459dbd6156b155438d9bc0c26c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

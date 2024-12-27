@@ -1,0 +1,942 @@
+﻿key,en_US
+loadout.prestige.title,Choose a Mode Variation
+upgrades.shieldbattleelectroblast.title,Electro Blast
+properties.orchard.battleshieldhp,Strength {} hp
+options.keybindings.action.general.move,Move
+options.video.stretchmode.rezised,Resized
+level.gameover.unlock.world,New world unlocked!
+upgrades.blastminingwaterless.desc,"Does not use water for production anymore, but takes longer."
+properties.blastmining.growthtime,Production time {} cycles
+properties.laser.stun,Stun Strength {}
+exhibition.level.instruction,Press anything to continue playing!
+pause.godot,Made with Godot
+upgrades.orchardjetpack2.desc,"Increase the fruits speed boost, letting you move even faster."
+upgrades.artillery.title,Artillery
+upgrades.condenser.desc,Adds a machine under the dome that slowly produces water through condensation.
+properties.lift.keeperupwardsspeed,Keeper Lift Speed {}
+level.tutorial.fullscreen.continue,continue
+upgrades.dome1damagereduction2.title,Hardening 2
+upgrades.orchardduration2.title,Duration 2
+upgrades.condenserautoovercharge.title,Auto Overcharge
+upgrades.keeper2pinballreflectdamage2.title,Reflection Damage 2
+loadout.title,CHOOSE YOUR LOADOUT
+level.tutorial.teleporter_2,"Use the Teleporter Station to teleport to the Portal, and vice versa."
+options.keybindings.action.general.up,Up
+level.converter.popup.cancel,Cancel
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,Activate ability on shield depletion
+loadout.prestige.normal,Regular
+properties.sword.reflectprojectilesexplosive,Reflected Energy Projectiles are explosive
+upgrades.swordlargeblade3.title,Heavy Blade 3
+upgrades.orcharddrill2.title,Mining Boost 2
+loadout.prestige.normal.description,Send resources offworld to gain prestige among the keepers.
+upgrades.keeper2pinballreflectdamage1.desc,Reflected spheres will deal much more damage to the rock they hit next.
+options.input.gamepad,Gamepad
+loadout.choices.locked,Not yet unlocked.
+upgrades.condenserspeed1.desc,Reduces the time needed to condense one water.
+upgrades.shieldbattleinvulnerable.desc,Trigger an active combat ability that makes your dome invulnerable for a short time.
+upgrades.domewavemeter.desc,Displays the time until the next wave of hostile lifeforms attack.
+upgrades.keeper2pinballreflectspeedup2.title,Superior Reflection
+upgrades.keeper2movement1.desc,Improve your gravity generator to move faster.
+upgrades.repellentoverchargeduration2.desc,"After overcharging, the battle ability will last longer in the next wave."
+upgrades.laserhitprojectiles.desc,Hitting energy projectiles with the laser immediately dissolves them.
+options.keybindings.action.keeper.pickup,Pick Up
+upgrades.keeper2pinballdamage1.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+upgrades.keeper2pinballdamage3.title,Kinetic Sphere Damage 3
+options.video.graphicsmode.enablevsync,Enable VSync
+options.translation.community,{completion}% finished
+loadout.difficult.harder,harder
+worldmodifier.resourcerichiron.desc,This world has a lot of iron.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,Send Iron
+upgrades.stunlaserspeed1.desc,The stun laser moves faster.
+upgrades.keeper2pinballdamage2.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+upgrades.drill1.title,Drill Strength 1
+upgrades.prospectionmetersand2.title,Cobalt Compass
+upgrades.dome1health1.desc,Permanently increase the structural health of your dome.
+title.navbar.newgame,New Game
+properties.repellent.overchargeduration,Increase Repellent production speed for {} cycles
+properties.sword.retractspeed,Retract Speed {} 
+upgrades.lasermove3.desc,Max laser movement speed.
+upgrades.stunlaser.title,Stun Laser
+options.keybindings.action.general.use,Use
+worldmodifier.monsterfeeble.desc,"The monsters are more feeble, dealing less damage"
+upgrades.shield.desc,Install a shield that will absorb some damage. Recharges automatically.
+options.video.stretchmode.rezised.text,"Renders the game in the native screen or windowed resolution.
+Will look sharp, but visual errors in the form of 1 pixel wide lines may appear."
+upgrades.orchardbattlerootingexplosion.desc,"Trigger again to cause all trapped monsters to explode, dealing damage around them."
+loadout.mapsize.small,Small
+upgrades.probe.desc,Adds a probe to your suit which when triggered sends out a pulse that reveals nearby resources. Must be recharged at the station under the dome.
+upgrades.swordlongblade1.desc,Install a longer and more nimble blade.
+upgrades.dome1health1.title,Health 1
+upgrades.blastminingwaterless.title,Waterless Charges
+level.tutorial.assessor.carry,Gravity Collect
+upgrades.liftspeed1.desc,The orbs move faster.
+upgrades.shieldstrength1.desc,Increases how much damage the dome shield can absorb.
+upgrades.orchardbattleshieldsecondlayer.title,Double Layer Shield
+upgrades.teleporterteleportresourcescooldown.desc,The portal can teleport resources more often.
+options.input.gamepad.autoswitch,automatic detection of preferred gamepad
+level.gameover.unlock.modifiers,World modifiers unlocked!
+properties.sword.slicebrake,Speed Loss on Slice {.percent}
+loadout.difficulty.veryeasy,Normal
+properties.sword.sliceacceleration,Sword Speed {}
+options.input.gamepad.gamepadstickdeadzone.text,"Set the value so that the bar does not flicker if you only touch thumbsticks, without pushing them.
+If you push the thumbstick, the bar should flicker when moving the stick."
+options.accessibility.highlightmonsters.explanation,"Render a bright outline around monsters, for better visibility."
+properties.upgrade.gameover,End the Run
+upgrades.blastminingstickycharge.title,Sticky Directional Charges
+upgrades.shieldoverchargestrength2.title,Overcharge Shield Strength 2
+upgrades.blastminingblast2.desc,Further increases the blast strength.
+upgrades.repellentbattlestrongerslowdown2.title,Strong Stagnation
+upgrades.converter.desc,"Can convert resources, helping you balance your resource inventory."
+loadout.proceed,Proceed
+upgrades.repellentbattleslowdown.desc,Spray a numbing mist during battle that slows all monsters down.
+loadout.mapsize.medium.description,An average sized map for a proper mining session.
+properties.orchard.overchargeadditionalbuffduration,{} cycles additional buff duration after overcharge
+options.translation.community.title,Community Translations
+upgrades.blastminingtriple.title,Triple Charges
+worldmodifier.hardnessextremes.desc,There are much more extremely hard and soft rocks.
+level.station.battle.navbar.exit,Exit
+upgrades.keeper2pinballlifetime2.title,Kinetic Sphere Lifetime 2
+upgrades.minoriron.desc,Send iron offworld to increase your prestige.
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,Migration
+upgrades.converterefficientcobalt.title,Efficient Cobalt Conversion
+upgrades.shieldbattledestructionprevention.desc,"Gain a long period of invulnerability when your dome is about to be destroyed.
+After that, your shield does not charge for the next battle. Last stand can only be triggered again after 2 completed waves.
+"
+upgrades.drill1.desc,Strengthen the drill to dig faster.
+level.gameover.retry,Start another run
+properties.orchard.overchargeduration,Fruit growth speed doubles for {} cycles
+upgrades.dome2health1.title,Health 1
+level.tutorial.station.popup_4,Then hit | to enter battle mode and defend.
+level.gameover.stats.timeplayed.unit,m
+upgrades.repellentbattlestrongerslowdown2.desc,The mist slows monsters even more and lasts for longer.
+loadout.gadgetoptions.title,Choose your primary Gadget!
+level.tutorial.station.popup_2,Move to the station and hit | to enter it.
+upgrades.dome1damagereduction1.desc,Harden the dome surface to take less damage from monsters melee hits. Projectile damage is unaffected.
+level.tutorial.station.popup_1,Your dome is under attack!
+upgrades.keeper2movement3.title,Gravitational Movement 3
+upgrades.jetpackspeed1.desc,Improve the jetpack to move faster.
+properties.converter.ironwatertime,{} cycles Conversion Time
+level.tutorial.sworddome.slicing.desc,"The faster the sword swings, the higher the slice damage."
+upgrades.liftorbs.desc,Install an additional lifting orb.
+upgrades.proberecharge.desc,The probe will slowly recharges on its own over time.
+loadout.gadget,GADGET
+upgrades.drill4.title,Drill Strength 4
+properties.probe.rechargetime,Complete Recharge Time {} cycles 
+upgrades.keeper2pinballdamage4.title,Kinetic Sphere Damage 4
+options.game,Game
+loadout.prestige.cobalt,Fixed Cobalt
+options.input.vibration.strength,Vibration Strength
+upgrades.liftcapacity1.desc,The orbs can carry more resources.
+loadout.miner.title,Choose Your Run Options
+level.gameover.stats.difficulty,Difficulty
+upgrades.repellentoverchargestrength2.title,Overcharge Wave Delay 2
+upgrades.domesandrepairstrong.title,Strong Cobalt Repair
+upgrades.stunlaserduration1.desc,The stun laser cools down faster and fires for longer.
+level.gameover.prestige.score.rankimproved,You improved your rank to {rank}.
+upgrades.stunlaserdamage2.desc,Increases damage done by the stun laser.
+upgrades.drillbotstrength4.title,Strength 4
+level.gameover.prestige.title,PRESTIGE RUN FINISHED
+loadout.secondstage.cancel,Cancel
+upgrades.laseraimline.desc,"Add targeting sights to the laser, showing where it is aiming."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,"The condenser will produce and store two water, before it stops working."
+upgrades.swordreflection2.title,Reflection 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,Strengthen the drill to dig faster.
+properties.laser.hitprojectiles,laser hits energy projectiles
+upgrades.dome1damagereduction1.title,Hardening 1
+properties.sword.stabexplosivedamage,Bomb Damage {}
+upgrades.drillbotturnaround.title,Advanced Conditioning
+upgrades.keeper2movement1.title,Gravitational Movement 1
+properties.orchard.battleroots,Grow {} Roots on the ground
+upgrades.prospectionmeterrange2.title,Range 2
+upgrades.jetpackspeed4.title,Speed 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,Further increases the delay of the next wave of monsters.
+upgrades.orchard.desc,Plant a tree in the dome that grows fruits to buff your movement and mining power.
+upgrades.artilleryflakexplosionradius1.title,Flak Radius 1
+upgrades.shieldbattleelectroblast.desc,Trigger an active combat ability that creates a deadly field effect around your dome for a short time.
+upgrades.shredgadgettocobalt.desc,Shred the gadget and gain {amount} cobalt.
+upgrades.prestigecobalt.title,Send Cobalt
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,"Install a massive blade. It's slower, but deals heavy damage."
+level.gameover.back,Back
+options.cancel,Cancel
+options.keybindings.action.dome.fire,Fire 
+upgrades.swordstabshoot.title,Javelin
+upgrades.blastminingtriple.desc,Produces 3 small charges instead of a large one.
+upgrades.orcharddrill1.title,Mining Boost 1
+upgrades.swordextendlong2.title,Long Stab 2
+upgrades.artilleryshotcooldown1.desc,Fire more often.
+upgrades.keeper2pinballdamagefraction.title,Kinetic Sphere Hardness Transcendence
+upgrades.doublelaser.title,Double Laser
+upgrades.jetpackspeed3.title,Speed 3
+upgrades.prestigewater.title,Send Water
+properties.orchard.battleabilityuses,Uses per Battle {}
+upgrades.liftorbs.title,Orbs 1
+upgrades.repellentoverchargeduration1.title,Overcharge Battle Ability Duration 1
+upgrades.drill3.desc,Strengthen the drill to dig faster.
+level.gameover.prestige.uploading.inprocess,uploading score ...
+loadout.abort,Abort
+properties.shield.overchargestrength,Overcharge Strength {}hp
+level.station.navbar.upgrades,Upgrades
+upgrades.keeper2pinballsplit.desc,"Split incoming spheres into two, launching them perpendicular to the original."
+upgrades.proberecharge.title,Auto Recharge
+properties.sword.stabrange,Range {} 
+upgrades.liftspeed1.title,Speed
+upgrades.domewavecount.desc,Install a counter that shows how many waves you've survived.
+level.converter.popup.title,Convert Resources
+pause.discord,Join us on Discord
+options.keybindings.action.general.back,Cancel
+upgrades.prospectionmeterrange1.desc,Increases the detection range of the prospection meter.
+upgrades.dome2badrepair1.desc,"Your dome automatically repairs, if it takes a lot of damage during a battle."
+upgrades.prestigecobalt.desc,"Send back Cobalt, increases the prestige point multiplier you get each wave."
+upgrades.domesandrepair.desc,Repair damage to your dome with cobalt.
+loadout.skinoptions.title,Choose your Skin!
+loadout.difficulty.medium.description,Dome‘s intended difficulty.
+loadout.difficulty.veryeasy.description,"Still not easy, but more relaxed than the other difficulties."
+options.game.tutorials,Tutorials
+upgrades.orchardbattlerootingmore.desc,Grow more roots that last longer.
+upgrades.probepersist1.title,Memory Probe
+upgrades.keeper2pinballmorespheres2.title,Sphere Supply 2
+upgrades.orchardjetpack3.desc,"Increase the fruits speed boost, letting you move extremely fast."
+upgrades.probe.title,Probe
+upgrades.sword.title,Sword
+properties.shield.battledestructionprevention,Additional Duration {}s
+upgrades.shieldbattlereflect.title,Reflection
+pause.gamepadcontrols.use,Use
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,Double Storage
+upgrades.relichunt.desc,Find the relic buried deep and bring it back to your dome.
+loadout.mapsize.unlock.description,"Win a run with the previous map size, to unlock this map size."
+properties.sword.stabdamage,Stab Damage {} 
+properties.keeper1.drillstrength,Drill Strength {}
+worldmodifier.mapwildbiomes.desc,The biomes borders are very irregular.
+upgrades.condenser.title,Condenser
+upgrades.dome2badrepair2.title,Impact Recuperation 2
+options.game.screenshake.shakewhenmining,Shake When Mining
+upgrades.repellentdelay2.title,Delay 2
+level.tutorial.assessor.reflect.desc,Hit|to reflect incoming kinetic spheres for a very short time.
+properties.drillbot.buffamount,Energized Drillings {} hits
+upgrades.laserstrength2.title,Power 2
+upgrades.jetpackstrength3.title,Carry Strength 3
+options.keybindings.action.general,General
+level.gameover.unlock.gadgetability,New Gadget Battle Ability
+upgrades.jetpackstrength1.desc,Improve the jetpack to carry more resources.
+upgrades.artillerymultishot1.desc,Launches multiple grenades per shot.
+properties.sword.reflectprojectiles,Reflect Energy Projectiles
+upgrades.stunlaser.desc,Install a laser that auto targets and stuns monsters.
+upgrades.orchardbattleshieldstrong.desc,The projectile shields are stronger. Also gain an additional ability use after using overcharge.
+upgrades.orchardjetpack1.desc,"Increase the fruits speed boost, letting you move faster."
+upgrades.laser.desc,A precision laser that moves along your dome. Originally made to mine asteroids.
+properties.shield.maxstrength,Strength {} hp
+options.keybindings.action.keeper,Keeper
+worldmodifier.resourceunpredicatablecobalt.desc,Cobalt is more scattered and harder to predict.
+title.navbar.quit,Quit to Desktop
+options.keybindings.rebinding.error.gamepad,Cannot set this as a gamepad input
+upgrades.repellentbattleslowdownstun1.desc,"Use volatile spores in the mist to stun monsters, stopping them in their tracks for a short time."
+upgrades.swordfastreflection.title,Accelerated Reflection
+upgrades.stunlaserduration2.title,Fire Endurance 2
+level.gameover.lose.title,THE DOME IS LOST
+worldmodifier.resourcescatterediron.desc,"There are more iron clusters around, but they are smaller."
+properties.laser.dps,Damage {}
+options.game.screenshake.shakeintensity,Shake Intensity
+worldmodifier.hardnessharder.desc,There are more harder rocks in the mine.
+options.video.stretchmode,Stretch Mode
+worldmodifier.monsterhealthy.desc,The monsters have more health.
+level.gameover.stats.mapsize,Map Size
+loadout.mode.longtime,Long Cycles
+upgrades.swordreflection3.desc,Max shield pad size.
+upgrades.repellentbattleslowdownstun2.desc,Use the spores more often and stun the monsters for longer.
+upgrades.teleporterteleportresourcesarea.title,Teleport Area
+upgrades.shieldoverchargeduration2.desc,Your shield battle ability will be active even longer in the next wave after overcharging.
+upgrades.shieldoverchargestrength1.title,Overcharge Shield Strength 1
+upgrades.drillbotbuffstrength1.desc,Treats energize Drillbert for longer.
+upgrades.orchardoverchargebuffduration.title,Overcharge Buff Duration
+level.tutorial.assessor.spheres.desc3,It recharges its power with each bounce.
+loadout.mode.longtime.desc,"You have twice as much time between waves, but the waves will be stronger."
+level.tutorial.assessor.spheres.desc2,Choose a direction and release to shoot the sphere.
+upgrades.laserstrength1.desc,"Improves the power of your laser, but it will move slower while firing."
+level.tutorial.assessor.spheres.desc1,Hold|to charge a kinetic sphere.
+upgrades.jetpackstrength4.title,Carry Strength 4
+upgrades.migration.desc,"Migrate from world to world, stripping each of resources and relics before you get overrun."
+upgrades.orcharddrill1.desc,"Increase the fruits mining boost, letting you mine faster."
+upgrades.keeper2pinballdamage3.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+options.accessibility.highlightmonsters,Highlight Monsters
+upgrades.prestigecobaltnocobalt.title,Send Cobalt
+properties.keeper2.spherebasedamage,Sphere Base Damage {}
+upgrades.orcharddrill3.desc,"Increase the fruits mining boost, letting you mine extremely fast."
+properties.converter.cobalttoiron,{} cobalt to one iron
+level.tutorial.repair.usecobalt,You can use your cobalt to repair your dome. It's an upgrade in the dome tech tree.
+upgrades.blastminingimpactdetonation.title,Impact Detonation
+upgrades.swordfastreflection.desc,Reflected projectiles fly back faster.
+upgrades.liftcapacity1.title,Capacity
+upgrades.artillery.desc,Worms Bazooka.
+properties.sword.electricdamage,Electrified Sword Damage {}
+level.station.upgrademenu.close,Close
+properties.shield.overchargebattleabilityduration,Additional Ability Duration {.percent}
+pause.title,PAUSE
+upgrades.artillerymultishot1title,Chain Shot 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Additional Ability Duration {}s
+upgrades.orchardbattlerootingexplosion.title,Explosive Prey
+upgrades.blastminingproductiontime1.title,Production Time
+options.video.stretchmode.scaled.text,"Renders the game in a fixed resolution and scales it to your resolution.
+Can be pixelated, especially in fonts, but there are no visual line errors."
+upgrades.orchardduration3.title,Duration 3
+upgrades.domewavecount.title,Cycle Counter
+upgrades.shredgadgettoiron.title,Shred to Iron
+options.keybindings.rebinding.apply,Apply
+options.keybindings.restoredefault,Restore Default
+upgrades.converterironduplication.title,Iron Duplication
+title.navbar.credits,Credits
+level.gameover.unlock.gadget,New Gadget
+upgrades.jetpackspeed2.title,Speed 2
+loadout.modeoptions.title,Choose your Game Mode!
+properties.keeper2.spherebaselifetime,Sphere Lifetime {}
+options.video.stretchmode.scaled,Scaled
+properties.orchard.battleabilityduration,Ability Duration {}s
+upgrades.repellentbattleslowdownstun1.title,Paralysis
+loadout.difficulty.medium,Brutal
+options.audio.volumes,Volumes
+upgrades.keeper1.title,Engineer
+upgrades.drillbotsleepless.title,Basic Conditioning
+upgrades.drillbot.title,Drillbert
+level.tutorial.assessor.carry.desc1,"Hold|to pull in resources, until they are locked onto you."
+level.tutorial.assessor.carry.desc2,Hit|to drop a resource.
+level.tutorial.drillbot.sleeping1,"Drillbert goes to sleep after a while, or when it meets a wall it can't dig."
+level.tutorial.assessor.carry.desc3,"If you aim into a direction while dropping a resource, it will be accelerated heavily."
+level.tutorial.drillbot.sleeping2,"When close to it, hit | to wake it."
+level.tutorial.drillbot.sleeping3,You can make it turn around by hitting | when it's awake.
+properties.keeper2.totalspheres,Spheres {}
+upgrades.shieldbattleblastdamage.title,Deadly Blast
+upgrades.domeresourcecounters.desc,Displays the current amount of stored resources.
+upgrades.swordextendlong1.desc,Improved stab strength and ability to guide in flight.
+worldmodifier.resourcerichwater.desc,This world has a lot of water.
+upgrades.drillbotstrength1.desc,Increases the dig strength of Drillbert.
+upgrades.stunlaserautonomy1.desc,A simple AI will control the stun laser even when you are not inside the control station.
+properties.blastmining.radius,Explosion radius {} tiles
+upgrades.jetpackstrength1.title,Carry Strength 1
+options.keybindings.apply,Apply
+upgrades.laserstrength2.desc,"Greatly improves the power of your laser, but it will move even slower while firing."
+properties.laser.movespeedwhilefiring,Speed while Firing {.percent}
+properties.probe.markerretention,Marker Retention {}s
+upgrades.swordexplosivereflection.title,Explosive Reflection
+upgrades.condenserspeed2.desc,Further reduces the time needed to condense one water.
+upgrades.condenserspeed2.title,Production Speed 2
+properties.stunlaser.firetime,Fire Time {}s
+options.input.gamepad.gamepadstickdeadzone,Thumbstick dead zone
+upgrades.keeper2movement2.desc,Improve your gravity generator to move faster.
+upgrades.shieldbattlelongerafterdepletion.desc,The blast will last longer if triggered after your shield runs out.
+properties.laser.bend,laser auto aims {}°
+level.station.upgrademenu.buy,Buy
+properties.drillbot.plantgrowthtime,Treat Growth Time {} cycles
+level.gameover.continue,Continue
+upgrades.repellentoverchargeduration1.desc,Overcharging your tank will also prolong any repellent battle ability you use in the next wave.
+upgrades.artilleryshotcooldown1.title,Cooldown 1
+worldmodifier.resourceunpredicatablewater.desc,Water is more scattered and harder to predict.
+level.tutorial.blastmining.popup_1,Take the Blast Charge and drop it where you want to clear rocks.
+ending.thankyoumessage,Thank you for playing!
+options.keybindings.rebinding.error.keyboard,Cannot set this as a keyboard input
+upgrades.keeper2pinballdamagefraction.desc,The kinetic sphere transcends rock hardness and damages the rock by a fixed fraction of its health.
+upgrades.swordlargeblade1.title,Heavy Blade 1
+upgrades.shredgadgettoiron.desc,Shred the gadget and gain {amount} iron.
+upgrades.drillbot.desc,Adopt a loveable creature that loves to dig. Carry it into the mine and drop off where you want it to work. Check back to wake it up when it goes to sleep on the job.
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,Health 1
+title.navbar.updates.close,Close
+upgrades.swordaimline.desc,Add a laser sight for aiming the sword stab.
+upgrades.shieldoverchargeduration1.title,Overcharge Battle Ability Duration 1
+level.converter.popup.explanation,Pick a resource conversion to start!
+upgrades.drillbotbuff1.title,Treats
+title.navbar.credits.close,Close
+upgrades.keeper2movement3.desc,Improve your gravity generator to move faster.
+pause.quittotitlescreen,Quit to Title Screen
+loadout.prestige.countdown.description,The prestige multiplier starts high and decreases each cycle.
+upgrades.drill3.title,Drill Strength 3
+upgrades.probestage1.title,Improved Probe
+properties.sword.stabarrowhead,Increase Arrowhead Size
+loadout.mapsize.huge.description,A huge map for the longest runs.
+properties.sword.stabspeed,Stab Speed {.percent} 
+level.tutorial.teleporter.take1,Your teleporter has a station and a portal. You can teleport between them.
+worldmodifier.mapmaze.desc,The mine is a maze.
+level.tutorial.teleporter.take2,Grab the Portal and place it where you like.
+options.keybindings.action.dome.battleability1,Battle Ability
+upgrades.laserbend.desc,Install a swivel head into the laser that automatically corrects your aim if it comes close.
+options.video.graphicsmode.fullscreen,Fullscreen
+options.keybindings.action.general.down,Down
+level.tutorial.assessor.spheres,Kinetic Spheres
+level.tutorial.mineraltree1,"You just found a mineral tree seed. It can grow into a tree which roots into tiles. It will grow resources depending on the resources of the rooted tiles.
+Drop it on a tile to plant the seed."
+upgrades.blastmining.desc,Adds a machine under the dome that produces blast charges. Carry them into the mines and release to detonate.
+properties.sword.stabcooldown,Extend Cooldown {}s 
+upgrades.repellentoverchargestrength2.desc,Further increase the delay until the next wave after overcharging.
+upgrades.probeswift1.desc,"Switch to a fast, short range probe with many charges."
+properties.drillbot.buffextraamount,Additional Drilling {} hits
+level.gameover.unlock.keeper,New Keeper
+upgrades.prospectionmeter.title,Prospection Meter
+upgrades.shieldbattleactivateondepletion.desc,Invulnerability automatically activates an additional time when the shield runs out.
+upgrades.dome2badrepair1.title,Impact Recuperation 1
+upgrades.swordtargetlock.title,Target Lock
+upgrades.laserhitprojectiles.title,Dissolve Projectiles
+upgrades.keeper2pinballreflectspeedup1.title,Improved Reflection
+properties.shield.battleuses,Uses per Battle {}
+options.game.events,Events
+upgrades.artilleryflakexplosionradius1.desc,Flak explosion is larger.
+properties.keeper1.speedlosspercarry,Carry Slowdown {}
+pause.gamepadcontrols.back,Back
+level.gameover.unlocknewelementbutton,Pick your unlock
+upgrades.prospectionmeteriron2.desc,Displays the direction to the nearest iron deposits.
+upgrades.prestige.desc,Score points by sending home as many resources as possible before your dome falls or you safely leave the planet.
+properties.prestige.multiplier,{} Prestige Multiplier per Wave
+options.input.controls,Controls
+properties.sword.reflectionacceleration,Reflected Projectile Speed {.percent}
+loadout.difficult.easier,easier
+upgrades.keeper2pinballreflectdamage1.title,Reflection Damage 1
+properties.sword.extendspeed,Extend Speed {} 
+properties.keeper2.reflectspeedup,Sphere Speedup on Reflection {.percent}
+loadout.mode.doubleiron,Double Iron
+upgrades.dome3.desc,not available in demo
+properties.condenser.growthtime,Production Time {} cycles
+options.game.languages,Languages
+worldmodifier.mapwidebottom.desc,"The mine is thin at first, and gets very wide in the depths."
+loadout.mode.maze,Maze
+upgrades.dome2health1.desc,Permanently increase the structural health of your dome and repair it.
+properties.drillbot.drillstrength,Drill Strength {}
+upgrades.keeper2.desc,An unconventional miner who employs experimental gravity technology.
+properties.orchard.battleshields,Shield Layers {}
+level.tutorial.sworddome.reflecting.desc,"Use the sword's shield pad to stop projectiles, or even reflect them."
+options.audio.volumes.musicvolume,Music Volume
+loadout.dome,DOME
+upgrades.swordlongblade2.title,Long Blade 2
+upgrades.laseraimline.title,Laser Sight
+level.tutorial.assessor.bundle.desc1,"Hold|while carrying resources, to charge a bundle."
+options.keybindings.keyboard,Keyboard
+level.tutorial.assessor.bundle.desc2,"Aim and release to shoot it, the same way you fire a kinetic sphere."
+properties.prestige.score,{} Prestige
+worldmodifier.mapdeep.desc,The mine is deeper and less wide.
+upgrades.repellentbattleslowdownstun2.title,Strong Paralysis
+upgrades.keeper2pinballmorespheres1.title,Sphere Supply 1
+upgrades.prestigewater.desc,"Send back Water, adds 1 to the prestige you get each wave."
+properties.keeper2.bundlestopcenter,Center Column Gravity Field
+upgrades.stunlaserdamage1.title,Damage 1
+upgrades.keeper2pinballlifetime1.title,Kinetic Sphere Lifetime 1
+properties.repellent.battleslowdown,Monster Slowdown {.percent}
+upgrades.swordextendlong1.title,Long Stab 1
+level.gameover.stats.distancetravelled,Distance Travelled
+properties.keeper2.reflectlifetime,Additional Sphere Lifetime on Reflection {}s
+upgrades.blastminingimpactdetonation.desc,The blast charge will explode on impact with a surface.
+properties.keeper2.spheresplit,Split Incoming Spheres
+options.keybindings.action.dome.upgrade,Upgrades
+worldmodifier.resourcepoorcobalt.desc,This world has little cobalt.
+pause.resumegame,Resume Game
+level.gameover.unlock.difficulty,New difficulty unlocked!
+properties.stunlaser.cooldown,Cooldown {}s
+options.keybindings.action.general.right,Right
+level.tutorial.assessor.mining.desc,"To remove a single rock, you can move the rotating kinetic sphere into it."
+upgrades.teleporterteleportresourcesback.title,Teleport Resources
+upgrades.dome1.title,Laser Dome
+upgrades.keeper2bundleinfinite.title,Enduring Bundle
+upgrades.repellentdelay1.title,Delay 1
+upgrades.miner.desc,"In worlds without monsters, you can concentrate on mining as many resources as you want without distraction."
+upgrades.repellentbattlestrongerslowdown1.desc,The mist slows monsters more and lasts longer.
+upgrades.teleporterteleportresourcesarea.desc,The portal will teleport resources from a larger area than before.
+upgrades.dome3.title,Artillery Dome
+upgrades.swordstabshoot.desc,"Instead of retracting with a cable, the sword charges and is shot from the dome like a javelin."
+upgrades.repellentbattledamageovertime.desc,All monsters take a little damage for each second the toxic fumes persist.
+upgrades.shieldbattleactivateondepletion.title,Activate on Depletion
+upgrades.artillerymultishot2.desc,Launches multiple grenades per shot.
+upgrades.dome1health2.title,Health 2
+worldmodifier.monsterlethal.desc,"The monsters are more lethal, dealing more damage."
+loadout.pet,Pet
+options.keybindings.action,Action
+upgrades.orcharddrill3.title,Mining Boost 3
+options.translation.title,SELECT YOUR LANGUAGE
+upgrades.prospectionmeterrange1.title,Range 1
+upgrades.dome2badrepair2.desc,"Your dome automatically repairs more, if it takes a lot of damage during a battle."
+options.audio.volumes.ambiencevolume,Ambience Volume
+upgrades.prestigecobaltnocobalt.desc,"Send back Cobalt, increases the prestige point multiplier you get each wave."
+worldmodifier.maparms.desc,The mine is more fractured.
+loadout.prestige.countdown,Countdown
+upgrades.keeper2pinballdamage2.title,Kinetic Sphere Damage 2
+upgrades.jetpackspeed1.title,Speed 1
+upgrades.minerrefuel.title,Refuel
+upgrades.teleporterteleportduration1.title,Teleport Duration
+properties.blastmining.bombs,Charges {}
+loadout.miner.fuel.title,Fuel
+exhibition.title.press.anything,Press anything to play
+loadout.mode,MODE
+level.tutorial.sworddome.slicing,Slice
+properties.condenser.autoovercharge,Automated Overcharge
+upgrades.teleporterteleportduration1.desc,Teleporting yourself will take less time.
+upgrades.minerwater.title,Send Water
+title.navbar.continue,Continue
+upgrades.orchardbattleshield.desc,Grow a shield that protects the dome from projectiles.
+upgrades.liftcarrykeeper1.title,Keeper Lift 1
+options.input.controls.keybindings,Key Bindings
+properties.keeper2.bundlespheres,Bundle Spheres
+upgrades.shieldovercharge.title,Overcharge Shield
+properties.condenser.overchargedelay,Production Delay {} cycles
+upgrades.keeper2.title,Assessor
+level.tutorial.assessor.mining,Rotational Mining
+upgrades.repellentoverchargeduration2.title,Overcharge Battle Ability Duration 2
+upgrades.swordblade1.title,Slice Improvement
+properties.converter.irontoiron,{} iron to one iron
+exhibition.level.description,Going back to the main menu in ...
+level.tutorial.assessor.mining.desc2,"You can stop mining without shooting a sphere, by first releasing the directional keys."
+worldmodifier.monsterslow.desc,The monsters are slower.
+upgrades.orcharddrill2.desc,"Increase the fruits mining boost, letting you mine even faster."
+loadout.difficulty.easy.description,A bit more forgiving in many aspects.
+upgrades.swordstabexplode.title,Stab Bomb Delivery
+level.gameover.stats.additionalgadget,Additional Gadget
+upgrades.drillbotbuffstrength2.desc,"After getting a treat, Drillbert will work far longer before getting sleepy."
+upgrades.laserstrength3.desc,"Massively improves the power of your laser, but it barely moves while firing."
+loadout.mapsize.medium,Medium
+loadout.difficulty.hard,You asked for it
+level.gameover.stats.wavessurvived,Waves Survived
+properties.stunlaser.damage,Damage {}
+options.keybindings.rebinding.cancel,Cancel
+level.tutorial.sworddome.stabbing.desc,Extend the sword and stab distant enemies.
+level.gameover.unlock.gamemodevariant,New Game Mode Variant
+upgrades.prestigefinish.title,Leave Planet
+properties.keeper2.bundleduration,Bundle Lifetime {.percent}
+upgrades.shieldstrength3.title,Strength 3
+options.audio.volumes.mastervolume,Master Volume
+upgrades.shieldbattlelongerafterdepletion.title,Depletion Boost
+options.keybindings.text,"Edit the control mapping to your liking.
+Keys from different sections can generally overlap without issue (like using the same keys to move your keeper and the dome weapon)."
+properties.shield.battleblastdamage,{} Blast Damage per second
+loadout.mapsize.large.description,A large map for sessions lasting more than an hour.
+upgrades.drill4.desc,Strengthen the drill to dig faster.
+upgrades.drillbotsleepless.desc,Drillbert will work for much longer before getting sleepy.
+upgrades.swordlargeblade2.title,Heavy Blade 2
+upgrades.swordlongblade2.desc,"Further increase blade speed, making it bounce when hitting the edge."
+upgrades.prestigefinishnocobalt.title,Leave Planet
+worldmodifier.hardnessmoderated.desc,There are very few extremely hard and soft rocks.
+upgrades.converterironduplication.desc,Multiply iron.
+upgrades.prestigefinish.desc,Leave this planet and go back home.
+upgrades.dome2health2.desc,Permanently increase the structural health of your dome and repair it.
+upgrades.prestige.title,Prestige
+upgrades.liftcarrykeeper1.desc,The lift boosts your speed when moving upwards inside it.
+upgrades.repellentbattlehealthreduction.desc,"Weakens all present monsters, immediately lowering their remaining health."
+upgrades.dome2.title,Sword Dome
+worldmodifier.monsterfast.desc,The monsters are faster.
+upgrades.condenserautocollect.desc,"Automates water collection, removing the need for you to pick it up manually."
+upgrades.lift.title,Lift
+options.game.screenshake,Screen Shake
+options.keybindings.action.dome,Dome
+upgrades.swordstabexplodedamage.desc,Increases the bomb damage.
+level.gameover.stats.resourcesmined,Resources Mined
+worldmodifier.resourcepoorwater.desc,This world has little water.
+upgrades.prospectionmeter.desc,A meter showing the distance to the nearest resources. Can be upgraded to also show direction.
+upgrades.shredgadgettocobalt.title,Shred to Cobalt
+upgrades.swordelectrified.desc,"An electric current runs through the blade, dealing damage on touch."
+upgrades.artilleryflakexplosionradius2.desc,Flak explosion is larger.
+upgrades.prospectionmeterwater1.title,Water Meter
+upgrades.minerwater.desc,Send water offworld to increase your prestige.
+options.video.graphicsmode,Graphics Mode
+upgrades.shieldbattlereflectspeedup.desc,"Reflected projectiles fly back at a higher speed, increasing their chances of hitting the attacker."
+properties.shield.battleblaststun,Blast Stun {}
+loadout.mode.hyperactive.desc,"Monsters move much faster, but have less health."
+upgrades.swordstabexplode.desc,"The sword delivers a bomb, exploding on the first enemy the sword stabs."
+upgrades.swordstabfast2.title,Fast Stab 2
+upgrades.converterefficientwater.desc,"Water conversion becomes more efficient, but takes a bit longer."
+upgrades.orchardduration1.desc,Effects of the fruit last longer.
+loadout.difficulty.title,Difficulty
+exhibition.level.heading,Are you still there?
+level.gameover.unlock.gamemode,New Game Mode
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Wither
+upgrades.teleporterteleportreactivate.title,Reactivate Personal Teleport
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,Audio
+upgrades.repellentovercharge.desc,Use water to overcharge your tank to produce the next load of repellent faster.
+upgrades.domewavemeter.title,Hostile Proximity Meter
+upgrades.prospectionmeterrange2.desc,Further increases the detection range of the prospection meter.
+upgrades.keeper2pinballreflectspeedup1.desc,"Spheres are powered when reflected, which will accelerate them and let them float for longer upon reflection."
+upgrades.shieldoverchargestrength1.desc,Increases how much damage the overcharged shield absorbs.
+upgrades.repellentdelay1.desc,Increases the delay of the next wave of monsters.
+upgrades.repellentbattlelongerhealthreduction.title,Intense Withering
+upgrades.swordtargetlock.desc,"When stabbed, the sword automatically locks on to the first monster it targets."
+upgrades.orchardovercharge.desc,"Use water to overcharge your orchard, making it faster to produce a fruit."
+upgrades.orchardbattlerootingmore.title,Strong Roots
+upgrades.swordextendlong2.desc,Further improved stab strength and more precise control in flight.
+upgrades.swordstabfast1.title,Fast Stab 1
+upgrades.probelong1.desc,"Increases the range of the probe ping, but lose a charge slot."
+upgrades.repellent.title,Repellent
+worldmodifier.monsterwavesspaced.desc,The monster waves are farther apart.
+upgrades.artilleryflakexplosionradius2.title,Flak Radius 2
+properties.drillbot.amount,Drilling {} hits
+upgrades.repellentdelay3.title,Delay 3
+ending.appreciationmessage,"We hope you had a good time! We always appreciate your feedback, let us know what you think on Discord or the Steam Forums :)"
+properties.orchard.battlerootexplosion,Explosion damage {}
+upgrades.orchardduration3.desc,Max fruit effects length.
+upgrades.dome1damagereduction2.desc,Harden the dome surface more to take less damage from monsters melee hits. Projectile damage is unaffected.
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,Improve the jetpack to move faster.
+upgrades.jetpackspeed3.desc,Improve the jetpack to move faster.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,Options
+properties.repellent.battledamageovertime,Monsters take {} damage per second
+upgrades.repellentoverchargestrength1.title,Overcharge Wave Delay 1
+upgrades.repellentoverchargestrength1.desc,Overcharging also increases the delay time until the next wave.
+upgrades.blastminingproductiontime1.desc,Reduces the time needed to create a blast charge.
+properties.teleporter.teleportresourcescooldown,Resource Teleport Duration {}s
+upgrades.artilleryflakmultishot1.desc,Fire more projectiles.
+properties.converter.ironcobalttime,{} cycles Conversion Time
+options.title,OPTIONS
+options.video.graphicsmode.window,Window
+properties.shield.battlereflectspeedup,Reflected Projectile Speed {.percent}
+upgrades.swordaimline.title,Aim Line
+level.tutorial.drillbot.handling1,Hold | to pick up Drillbert again.
+upgrades.probestage1.desc,"Improves the probe, making it generally better."
+level.tutorial.drillbot.handling2,"Hit | to make it change direction, if on ground."
+options.keybindings.rebinding.capture,Capture
+properties.prospectionmeter.range,Range {} tiles
+properties.stunlaser.speed,Speed {}
+properties.probe.impulsespeed,Impulse Speed {}
+upgrades.domehealthmeter.title,Health Meter
+options.audio.music.frequency,Frequentness (cycles without music)
+options.audio.volumes.soundvolume,Sound Volume
+properties.sword.slicebounceback,Sword Bounce On Edge
+upgrades.jetpackspeed4.desc,Improve the jetpack to move faster.
+worldmodifier.monsterfragile.desc,The monsters have less health.
+level.gameover.prestige.score.personalbest,Your new personal best!
+properties.prestige.baseperwave,{} Base Prestige per Wave
+loadout.choices.comingsoon,"Not yet available, but coming soon."
+upgrades.doublelaser.desc,"Installs a second laser turret, but splits your firepower between both them."
+upgrades.jetpackstrength2.title,Carry Strength 2
+upgrades.keeper2bundlestopcenter.title,Gravity Center
+properties.keeper2.spherelifetimeperbounce,Additional Sphere Lifetime per Bounce {}s
+upgrades.converterefficientcobalt.desc,"Cobalt conversion becomes very efficient, but takes a long time."
+properties.orchard.buffduration,Buff Duration {} cycles
+upgrades.domesandrepair.title,Cobalt Repair
+properties.keeper1.maxspeed,Top Speed {}
+level.station.upgrademenu.cost,Cost
+upgrades.lasermove1.title,Move Speed 1
+level.tutorial.sworddome.reflecting,Reflect
+loadout.petoptions.title,Choose your Pet!
+level.station.upgrademenu.inventory,Inventory
+level.gameover.unlockpicker.title,PICK YOUR UNLOCK
+level.gameover.proceedtounlock,Unlock a new element
+upgrades.artilleryshotcooldown2.desc,Fire more often.
+level.gameover.keepgadget.title,Select a Gadget To Keep For Your Next Run
+level.station.battle.navbar.shoot,Shoot
+upgrades.repellentbattlestrongerslowdown1.title,Stagnation
+upgrades.dome2.desc,Powerful dome with a dynamic sword that keepers can master to dominate attackers.
+loadout.difficulty.easy,Hard
+upgrades.condenserautocollect.title,Auto Collection
+upgrades.orchard.title,Orchard
+upgrades.keeper2pinballreflectspeedup2.desc,Spheres are intensely powered up when reflected.
+upgrades.laserstrength1.title,Power 1
+upgrades.lasermove2.title,Move Speed 2
+upgrades.shieldbattlereflectshortuses.desc,Reflect more often for a shorter amount of time.
+options.keybindings.action.keeper.drop,Drop
+level.converter.popup.conversion.to,to
+upgrades.repellent.desc,"Install a tank that produces a monster repelling liquid. Activate to spray it outside the dome, delaying the next wave of attackers."
+properties.repellent.battlehealthreduction,Monster Health Reduction {.percent}
+loadout.mode.hyperactive,Quick & Feeble
+upgrades.miner.title,Miner
+upgrades.converter.title,Resource Converter
+properties.condenser.waterstorage,Stores {} water
+upgrades.jetpackstrength2.desc,Improve the jetpack to carry more resources.
+level.station.navbar.exit,Exit
+options.accessibility.photosensitivity.explanation,Reduces flickering lights.
+properties.orchard.overchargeadditionalabilityuses,{} additional ability uses after overcharge
+worldmodifier.resourcepooriron.desc,This world has little iron.
+level.gameover.backtomainmenu,Back to main menu
+upgrades.orchardbattlerooting.desc,Activate in battle to grow roots outside the dome that will trap any medium sized monster stepping on them.
+upgrades.keeper2pinballreflect.desc,"Reflect spheres with a high powered, small gravity field around yourself."
+upgrades.laser.title,Laser
+options.game.tutorials.resettutorials,Reset Tutorials
+properties.converter.ironirontime,{} cycles Conversion Time
+loadout.secondstage.start,Start Run
+upgrades.artilleryflakmultishot2.desc,Fire more projectiles.
+upgrades.swordreflection2.desc,Even larger shield pad.
+upgrades.lasermove3.title,Move Speed 3
+upgrades.lasermove1.desc,The laser moves faster.
+properties.lift.orbs,{} Orbs
+level.station.battle.navbar.move,Move
+upgrades.orchardjetpack2.title,Jetpack Speed Boost 2
+options.audio.music,Music
+worldmodifier.resourceunpredicatableiron.desc,The iron clusters are more scattered and harder to predict.
+properties.dome.maxhealth,Health {}hp
+upgrades.condenserspeed1.title,Production Speed 1
+properties.repellent.battleuses,Uses per Battle {}
+upgrades.shieldstrength2.desc,Further increases how much damage the shield can absorb.
+upgrades.drillbotbuffstrength2.title,Taurine Addition
+upgrades.keeper2pinballreflectdamage2.desc,Reflected spheres will deal much more damage to the rock they hit next.
+level.paused,Paused
+level.tutorial.sworddome.stabbing,Stab
+upgrades.stunlaserspeed1.title,Speed 1
+upgrades.domehealthmeter.desc,Displays the dome's structural health.
+upgrades.swordlargeblade1.desc,"Widen and lengthen the blade, dealing more damage."
+pause.quitgame,Quit Game
+level.station.battle.navbar.slice,Slice 
+level.gameover.stats.timeplayed,Time Played
+properties.teleporter.teleportresources,Teleport Resources
+upgrades.drillbotstrength2.desc,Increases the dig strength of Drillbert.
+level.tutorial.drop.popup_2,Hit | to drop one. Hold to drop many.
+level.gameover.keepgadget.keeping,Gadget to keep: {gadget}
+level.tutorial.drop.popup_1,Carried resources slow you down.
+worldmodifier.maprugged.desc,The mine is rough and irregular.
+level.tutorial.onewayteleporter1,You just found a one way teleporter!
+properties.sword.aimline,Aim Prediction
+upgrades.keeper2bundle.desc,"Attached minerals can be shot as a bundle, in the same way you shoot kinetic spheres."
+level.tutorial.onewayteleporter2,Press|to place the eye.
+level.tutorial.onewayteleporter3,Press again to teleport back to it.
+properties.lift.capacity,Orbs carry {} resources
+properties.shield.battleabilityduration,Ability Duration {}s
+level.tutorial.teleporter.carry2,"Hold | to pick up the portal again, when close to it."
+level.tutorial.teleporter.carry3,"If you hit |, you will teleport back."
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,You can move the portal anywhere you want.
+options.keybindings.cancel,Cancel
+level.tutorial.probe.popup_1,Hit | to emit a probe impulse.
+upgrades.liftcarrykeeper2.desc,The lift will speed you up even more.
+level.tutorial.probe.popup_3,"It reveals some of the nearby resources.
+Recharge back at the station."
+worldmodifier.resourcerichcobalt.desc,This world has a lot of cobalt.
+upgrades.keeper2pinballdamage4.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+properties.sword.stabexplosive,Tip Bomb Mounted
+properties.drillbot.turnaround,Turn around when hitting a hard wall
+upgrades.shieldstrength1.title,Strength 1
+properties.repellent.overchargewavedelay,Additional Wave Delay {} cycles
+upgrades.swordreflection3.title,Reflection 3
+upgrades.dome1.desc,Standard mining dome equipped with a precision laser.
+level.tutorial.drillbot.carry,"Take Drillbert from its tank, and place it in the mine, where it should dig."
+upgrades.lift.desc,Install an automated lift that brings mined resources up for processing in the dome.
+upgrades.dome1health2.desc,Permanently increase the structural health of your dome.
+upgrades.converterefficientwater.title,Efficient Water Conversion
+loadout.difficulty.hard.description,"Well, it's your Dome to lose."
+upgrades.artillerymultishot2.title,Chain Shot 2
+upgrades.swordelectrified.title,Electrified Blade
+upgrades.drillbotstrength3.desc,Increases the dig strength of Drillbert.
+upgrades.shieldbattleinvulnerable.title,Invulnerability
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,Autonomy
+level.tutorial.teleporter.teleport1,"When close to the portal, hit | to teleport back."
+level.tutorial.teleporter.teleport2,You can also teleport in the other direction.
+level.gameover.prestige.uploading.failed,"uploading failed, trying again"
+upgrades.lasermove2.desc,The laser moves even faster.
+loadout.mapsize.title,Map Size
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Blast 1
+upgrades.drillbotturnaround.desc,"When meeting an indestructible wall, Drillbert will turn around instead of taking a nap."
+properties.dome.baserepair,Repair {}hp
+upgrades.condenserautoovercharge.desc,"Keeps your primary gadget permanently overcharged, without using up water. Condenser water production will be delayed after overcharging."
+upgrades.teleporterteleportresourcesback.desc,"The portal now teleports resources, but can't teleport you back anymore. You can still teleport from the dome to the portal."
+ending.wishlistonsteam,Wishlist on Steam
+properties.sword.reflection,Increase Shield Pad Size
+upgrades.drillbotduplicate.desc,"Drillbert gets an identical twin, Drilliam."
+level.converter.popup.conversion.convert,convert
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} water to one iron
+title.navbar.options,Options
+upgrades.swordexplosivereflection.desc,Reflected projectiles explode when they hit something.
+upgrades.shieldbattlereflectshortuses.title,Timed Reflection
+level.gameover.unlock.skin,New skin unlocked!
+level.gameover.stats.destroyedblocks,Destroyed Blocks
+options.keybindings.action.keeper.gravityball,Charge Shot
+upgrades.orchardjetpack1.title,Jetpack Speed Boost 1
+upgrades.keeper1.desc,"A skilled, efficient professional with excellent mining skills."
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,Power 3
+upgrades.orchardoverchargebuffduration.desc,The fruit effects will last for longer after overcharging the orchard.
+upgrades.stunlaserduration1.title,Fire Endurance 1
+loadout.mode.maze.desc,"The map is maze-like, with many arms, dead ends and twists."
+properties.dome.healthfractionrepair,Repair {.percent} of total hp
+upgrades.jetpackstrength3.desc,Improve the jetpack to carry more resources.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,motion detected:
+upgrades.prospectionmetersand1.title,Cobalt Meter
+upgrades.prospectionmeterwater1.desc,Displays the distance to the nearest water deposits.
+upgrades.blastminingstickycharge.desc,"Charges stick to the first wall they touch, and blast a tunnel into it instead of a circular explosion."
+options.video,Video
+title.navbar.updates,Updates
+loadout.skin,Skin
+upgrades.shieldstrength2.title,Strength 2
+level.gameover.win.title,YOUR DOME IS SAVED
+level.station.navbar.battle,Battle
+upgrades.converterirontocobalt.desc,Allows converting cobalt to iron and vice versa.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,New Dome
+pause.gamepadcontrols.pickup,Pickup
+options.video.graphicsmode.photosensitive,Photosensitivity Mode
+upgrades.orchardduration2.desc,Effects of the fruit last even longer.
+properties.dome.meleedamagereduction,Melee Damage Reduction {.percent}
+upgrades.domesandrepairstrong.desc,Repair damage to your dome with cobalt.
+options.input,Input
+properties.keeper2.spherereload,Sphere Reload {}s
+properties.blastmining.damage,Damage {}
+upgrades.laserbend.title,Swivel Head Laser
+upgrades.swordlargeblade3.desc,A monstrous blade. Very powerful but slow moving.
+loadout.domeoptions.title,Choose your Dome!
+upgrades.shieldoverchargeduration1.desc,Overcharging your shield will also prolong any shield battle ability you use in the next wave.
+upgrades.probelong1.title,Long Range
+options.keybindings.rebinding.inputprocessor,Press a new key for this action …
+properties.teleporter.teleportduration,Teleport Duration {}s
+upgrades.dome2health2.title,Health 2
+upgrades.drillbotduplicate.title,Sibling
+pause.quit.popup,"Are you sure you want to quit?
+Press again to do so.
+(your progress is saved)"
+upgrades.prospectionmetersand2.desc,Displays the direction to the nearest cobalt deposits.
+upgrades.probepersist1.desc,"Add a memory module to the probe, marking the location of resources for longer."
+upgrades.artilleryshotcooldown2.title,Cooldown 2
+properties.keeper2.sphereadditionalfirsthitdamage,Additional First Hit Damage {.percent}
+upgrades.shieldbattledestructionprevention.title,Last Stand
+level.gameover.unlock.pet,New pet unlocked!
+upgrades.repellentbattlelongerhealthreduction.desc,Prolongs and strengthens the withering of all present monsters.
+ending.feedbackondiscord,Feedback on Discord
+properties.keeper2.reflectnexthitdamage,Additional Sphere Damage on Reflection for Next Bounce {.percent}
+options.video.graphicsmode.borderlesswindow,Borderless Window
+upgrades.keeper2pinballlifetime1.desc,"Stabilize the kinetic sphere, so it will float for longer."
+level.gadgetchoice.title,PICK A GADGET!
+upgrades.keeper2bundle.title,Bundle Shot
+upgrades.relichunt.title,Relic Hunt
+loadout.mode.doubleiron.desc,"Iron desposits are twice as rich, but upgrades cost twice the iron too."
+level.tutorial.repair.findcobalt,"Try to find some cobalt. You can repair your dome with it.
+It is rare and finite."
+upgrades.keeper2pinballsplit.title,Split Spheres
+options.input.controls.text,Plays best with Gamepad.
+landing.proceed,Press anything to continue
+upgrades.keeper2pinballmorespheres1.desc,"Add an additional module to your gravity generator, so it can corral more kinetic spheres."
+upgrades.jetpackstrength4.desc,Improve the jetpack to carry more resources.
+upgrades.orchardbattleshieldsecondlayer.desc,Grow another layer of projectile shields.
+level.converter.popup.conversion.time,over {time} cycles
+properties.keeper2.maxspeed,Top Speed {}
+properties.laser.aimline,Aim Line
+upgrades.shieldstrength3.desc,Further increases how much damage the shield can absorb.
+upgrades.repellentovercharge.title,Overcharge Repellent
+properties.drillbot.buffstrength,Energized Speedup {.percent}
+worldmodifier.hardnesssofter.desc,There are more softer rocks in the mine.
+level.tutorial.pickup.popup_1,Hit | to pick up a resource.
+level.tutorial.pickup.popup_3,Hold to pick up many.
+pause.gamepadcontrols.drop,Drop
+level.tutorial.fruit.popup_1,Your orchard just grew its first fruit.
+level.tutorial.fruit.popup_2,"When next to it, hit | to consume it."
+worldmodifier.mapwide.desc,The mine is wider and less deep.
+upgrades.prestigefinishnocobalt.desc,Leave this planet and go back home.
+upgrades.prospectionmeteriron2.title,Iron Compass
+upgrades.keeper2movement2.title,Gravitational Movement 2
+options.keybindings.gamepad,Gamepad
+ending.backtomainmenu,Back to main menu
+level.tutorial.fullscreen.back,back
+upgrades.shield.title,Shield
+upgrades.blastmining.title,Blast Mining
+upgrades.converterirontocobalt.title,Cobalt Conversion
+upgrades.swordstabfast1.desc,Stab faster and more often.
+level.gameover.prestige.score.rankunchanged,No change in rank.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,The portal gains back the ability to teleport you.
+upgrades.orchardjetpack3.title,Jetpack Speed Boost 3
+level.gameover.unlock.mapsize,New map size unlocked!
+upgrades.domeresourcecounters.title,Inventory
+level.gameover.keepgadget.none,none
+upgrades.stunlaserdamage1.desc,Adds a small amount of damage to the stun laser.
+properties.repellent.battleabilityduration,Ability Duration {}s
+upgrades.prestigeiron.desc,"Send back Iron, adds 1 to the prestige you get each wave."
+upgrades.teleporter.title,Teleporter
+ending.teasemessage,Small tease of what's to come:
+loadout.relichunt.modifiers,Choose your Modifiers
+options.accessibility,Accessibility
+loadout.mapsize.small.description,A small map for shorter sessions.
+upgrades.shieldbattleblastdamage.desc,Increases the damage and stun effect of the electro blast.
+options.translation.community.desc,These languages are translated by our lovely community. Join them if you like!
+upgrades.prospectionmeterwater2.desc,Displays the direction to the nearest water deposits.
+upgrades.stunlaserdamage2.title,Damage 2
+options.keybindings.action.keeper.gadget1,Gadget 1
+options.keybindings.action.keeper.gadget2,Gadget 2
+properties.repellent.wavedelay,Wave Delay {} cycles
+options.ok,OK
+upgrades.swordblade1.desc,Improve the slicing strength and speed of your sword.
+upgrades.shieldoverchargeduration2.title,Overcharge Battle Ability Duration 2
+properties.sword.slicedamage,Slice Damage {} 
+properties.condenser.autocollect,Automatic Collection
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,"Shot bundles will stay right under the dome, instead of flying past the central axis."
+upgrades.orchardduration1.title,Duration 1
+upgrades.drillbotbuffstrength1.title,Nutritious Treats
+upgrades.liftcarrykeeper2.title,Keeper Lift 2
+upgrades.shieldoverchargestrength2.desc,Further increases how much damage the overcharged shield absorbs.
+upgrades.repellentbattleslowdown.title,Debilitate
+upgrades.artilleryshotprediction.title,Shot Prediction
+upgrades.repellentdelay3.desc,Further increases the delay of the next wave of monsters.
+upgrades.teleporter.desc,A two-way teleporter with a station under the dome and portal that can be placed and moved around the mines.
+level.gameover.stats.monsterskilled,Monsters Killed
+upgrades.keeper2pinballreflect.title,Sphere Reflection
+upgrades.drillbotstrength3.title,Strength 3
+upgrades.shieldbattlereflectspeedup.title,Accelerated Reflection
+upgrades.probeswift1.title,Fast Probe
+options.game.events.enableseasonal,enable seasonal content
+upgrades.repellentbattledamageovertime.title,Toxic Fumes
+upgrades.dome3health2.title,Health 2
+loadout.mapsize.huge,Huge
+properties.repellent.overchargebattleabilityduration,Additional Ability Duration {.percent}
+options.keybindings.action.keeper.gravitycollect,Charge Collect
+loadout.miner.scores.title,Scores
+properties.lift.speed,Orb Speed {}
+upgrades.drillbotstrength1.title,Strength 1
+level.tutorial.repellent.popup_2,"When close to it, hit | to activate it."
+level.tutorial.repellent.popup_1,Your repellent is ready to delay the next wave.
+properties.orchard.growthtime,Growth time {} cycles
+properties.keeper2.spherefractiondamage,Sphere Damage transcending Rock Hardness {.percent}
+properties.sword.brake,Sword Agility {}
+upgrades.artilleryflakmultishot2.title,Flak Multi Shot 2
+upgrades.swordstabfast2.desc,Stab even faster and more often.
+upgrades.sword.desc,A durable sword that does more damage the further it swings across the dome when slicing. It can be fired to stab monsters and has a shield pad base that blocks projectiles.
+upgrades.artilleryflakmultishot1.title,Flak Multi Shot 1
+upgrades.artilleryshotprediction.desc,Shows the expected trajectory of a launched grenade.
+upgrades.shieldbattlereflect.desc,Trigger an active combat ability that reflects incoming projectiles for a short time.
+upgrades.orchardbattleshieldstrong.title,Strong Shields
+upgrades.swordlongblade1.title,Long Blade 1
+level.station.battle.navbar.stab,Stab
+properties.converter.irontowater,{} iron to one water
+upgrades.minoriron.title,Send Iron
+upgrades.keeper2bundleinfinite.desc,Bundles will stay stable for a very long time.
+worldmodifier.resourcedesc,"There are only few iron clusters around, but they are very large."
+loadout.keeper,KEEPER
+upgrades.drillbotstrength4.desc,Increases the dig strength of Drillbert.
+upgrades.swordstabexplodedamage.title,Bomb Damage
+upgrades.prospectionmeterwater2.title,Water Compass
+loadout.keeperoptions.title,Choose your Keeper!
+properties.probe.range,{} tiles Range
+upgrades.orchardbattleshield.title,Projectile Shield
+loadout.mapsize.large,Large
+properties.keeper2.reflectsphere,Reflect Incoming Spheres
+upgrades.orchardbattlerooting.title,Snare Roots
+properties.repellent.growthtime,Production time {} cycles
+properties.converter.irontocobalt,{} iron to one cobalt
+upgrades.dome3health1.desc,Permanently increase the structural health of your dome.
+upgrades.teleporterteleportresourcescooldown.title,Teleport Cooldown
+upgrades.shieldovercharge.desc,Use water to manually overcharge your shield so it absorbs more damage in the next wave.
+upgrades.stunlaserspeed2.title,Speed 2
+upgrades.drillbotbuff1.desc,Treats grow at the nest under the dome. Take them to Drillbert who will happily gobble them up to get energized.
+options.keybindings.action.dome.battle,Battle Mode
+upgrades.orchardovercharge.title,Overcharge Orchard
+properties.teleporter.teleportresourcesarea,Teleport Range {} tiles
+upgrades.swordreflection1.desc,Increase the shield pad size and make it reflect energy projectiles.
+upgrades.blastminingblast2.title,Blast 2
+upgrades.swordreflection1.title,Reflection 1
+upgrades.keeper2pinballlifetime2.desc,"Stabilize the kinetic sphere, so it will float for longer."
+options.keybindings.action.general.left,Left
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Permanently increase the structural health of your dome.
+upgrades.drill2.title,Drill Strength 2
+options.keybindings.rebinding,Rebinding
+level.tutorial.assessor.carry.desc1_1,"Once locked onto you, they will follow you even if you release the collection key."
+upgrades.keeper2pinballdamage1.title,Kinetic Sphere Damage 1
+upgrades.stunlaserspeed2.desc,The stun laser moves even faster and keeps tracking monsters when cooling down.
+options.keybindings.title,CONTROL MAPPING
+upgrades.keeper2pinballmorespheres2.desc,"Add an additional module to your gravity generator, so it can corral more kinetic spheres."
+level.gameover.prestige.uploading.finalfailed,"uploading new score failed, sorry!"
+upgrades.blastminingblast1.desc,Increases the blast strength.
+upgrades.stunlaserduration2.desc,The stun laser cools down faster and shoots for longer.
+upgrades.prospectionmetersand1.desc,Displays the distance to the nearest cobalt deposits.
+pause.gamepadcontrols.move,Move
+properties.probe.charges,Charges {}
+upgrades.drillbotstrength2.title,Strength 2
+loadout.prestige.cobalt.description,"The map has no cobalt and you can't generate it, but you start with plenty of it."

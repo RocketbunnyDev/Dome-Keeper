@@ -1,0 +1,160 @@
+[gd_scene load_steps=32 format=2]
+
+[ext_resource path="res://content/caves/bombcave/BombCave.gd" type="Script" id=1]
+[ext_resource path="res://content/caves/bombcave/bombcave_alpha.png" type="Texture" id=2]
+[ext_resource path="res://content/sounds/dome4/ObeliskDomeenter.wav" type="AudioStream" id=3]
+[ext_resource path="res://content/shared/Usable.tscn" type="PackedScene" id=4]
+[ext_resource path="res://content/gadgets/blastMining/focussed.png" type="Texture" id=5]
+[ext_resource path="res://content/sounds/Bastards/AmbLaser.wav" type="AudioStream" id=6]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=7]
+[ext_resource path="res://content/caves/bombcave/bombcave_sheet.png" type="Texture" id=8]
+
+[sub_resource type="AtlasTexture" id=2]
+atlas = ExtResource( 8 )
+region = Rect2( 0, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=3]
+atlas = ExtResource( 8 )
+region = Rect2( 46, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=4]
+atlas = ExtResource( 8 )
+region = Rect2( 92, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=5]
+atlas = ExtResource( 8 )
+region = Rect2( 138, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=6]
+atlas = ExtResource( 8 )
+region = Rect2( 184, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=7]
+atlas = ExtResource( 8 )
+region = Rect2( 230, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=8]
+atlas = ExtResource( 8 )
+region = Rect2( 276, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=9]
+atlas = ExtResource( 8 )
+region = Rect2( 322, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=10]
+atlas = ExtResource( 8 )
+region = Rect2( 368, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=11]
+atlas = ExtResource( 8 )
+region = Rect2( 414, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=12]
+atlas = ExtResource( 8 )
+region = Rect2( 460, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=13]
+atlas = ExtResource( 8 )
+region = Rect2( 506, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=14]
+atlas = ExtResource( 8 )
+region = Rect2( 552, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=15]
+atlas = ExtResource( 8 )
+region = Rect2( 598, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=16]
+atlas = ExtResource( 8 )
+region = Rect2( 644, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=17]
+atlas = ExtResource( 8 )
+region = Rect2( 690, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=18]
+atlas = ExtResource( 8 )
+region = Rect2( 736, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=19]
+atlas = ExtResource( 8 )
+region = Rect2( 782, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=20]
+atlas = ExtResource( 8 )
+region = Rect2( 828, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=21]
+atlas = ExtResource( 8 )
+region = Rect2( 874, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=22]
+atlas = ExtResource( 8 )
+region = Rect2( 920, 0, 46, 30 )
+
+[sub_resource type="AtlasTexture" id=1]
+atlas = ExtResource( 8 )
+region = Rect2( 0, 30, 46, 30 )
+
+[sub_resource type="SpriteFrames" id=23]
+animations = [ {
+"frames": [ SubResource( 2 ), SubResource( 3 ), SubResource( 4 ), SubResource( 5 ), SubResource( 6 ), SubResource( 7 ), SubResource( 8 ), SubResource( 9 ), SubResource( 10 ), SubResource( 11 ), SubResource( 12 ), SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ), SubResource( 17 ), SubResource( 18 ), SubResource( 19 ), SubResource( 20 ), SubResource( 21 ), SubResource( 22 ) ],
+"loop": true,
+"name": "default",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 1 ) ],
+"loop": false,
+"name": "empty",
+"speed": 1.0
+} ]
+
+[node name="BombCave" type="Node2D" groups=["saveable", "unstyled"]]
+z_index = -40
+script = ExtResource( 1 )
+biome = "blue"
+
+[node name="Sprites" type="Control" parent="."]
+margin_right = 48.0
+margin_bottom = 48.0
+rect_clip_content = true
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+position = Vector2( 24, 25 )
+frames = SubResource( 23 )
+
+[node name="FocusMarker" type="Sprite" parent="."]
+position = Vector2( 21, 24 )
+texture = ExtResource( 5 )
+
+[node name="BombTakenSound" parent="." instance=ExtResource( 7 )]
+stream = ExtResource( 3 )
+volume_db = -3.983
+pitch_scale = 1.52
+bus = "Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="Usable" parent="." instance=ExtResource( 4 )]
+position = Vector2( 21, 25 )
+visibleOnFocus = NodePath("../FocusMarker")
+
+[node name="AmbSound" parent="Usable" instance=ExtResource( 7 )]
+stream = ExtResource( 6 )
+volume_db = -10.974
+pitch_scale = 0.99
+bus = "Mine"
+randomVolume = 0.0
+maxAudibleDistance = 120.0
+minAudibleDistance = 36.0
+fadeInTime = 0.1
+fadeOutTime = 3.0
+loop = true
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="AlphaMap" type="Sprite" parent="."]
+visible = false
+position = Vector2( 24, 27 )
+texture = ExtResource( 2 )

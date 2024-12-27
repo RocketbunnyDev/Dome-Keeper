@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DomePunch03_03.wav-a3fc3edcfb56149dd1c27b76dc699cfd.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/walker/DomePunch03_03.wav"
+dest_files=[ "res://.import/DomePunch03_03.wav-a3fc3edcfb56149dd1c27b76dc699cfd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

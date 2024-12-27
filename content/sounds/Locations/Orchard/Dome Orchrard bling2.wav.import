@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dome Orchrard bling2.wav-d4d7b563730c4d339f24659247942efb.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Orchard/Dome Orchrard bling2.wav"
+dest_files=[ "res://.import/Dome Orchrard bling2.wav-d4d7b563730c4d339f24659247942efb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

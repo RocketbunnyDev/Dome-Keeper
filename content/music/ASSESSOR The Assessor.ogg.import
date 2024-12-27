@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ASSESSOR The Assessor.ogg-c27c26721dde5f8f5359f908bb2b0164.oggstr"
+
+[deps]
+
+source_file="res://content/music/ASSESSOR The Assessor.ogg"
+dest_files=[ "res://.import/ASSESSOR The Assessor.ogg-c27c26721dde5f8f5359f908bb2b0164.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

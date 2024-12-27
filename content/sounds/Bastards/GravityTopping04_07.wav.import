@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/GravityTopping04_07.wav-feb14bda5c60482e470af573b0aa179a.sample"
+
+[deps]
+
+source_file="res://content/sounds/Bastards/GravityTopping04_07.wav"
+dest_files=[ "res://.import/GravityTopping04_07.wav-feb14bda5c60482e470af573b0aa179a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,315 @@
+[gd_scene load_steps=47 format=2]
+
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=1]
+[ext_resource path="res://content/keeper/keeper2/PinballAnimations.tres" type="SpriteFrames" id=2]
+[ext_resource path="res://content/sounds/keeper2/Bounce.wav" type="AudioStream" id=3]
+[ext_resource path="res://content/keeper/keeper2/Pinball.gd" type="Script" id=4]
+[ext_resource path="res://content/sounds/keeper1/Drill/Dig_v3.wav" type="AudioStream" id=5]
+[ext_resource path="res://content/sounds/keeper1/Drill/MineIron.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/sounds/keeper1/Drill/Water.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/sounds/keeper1/Drill/MineIron_v2.wav" type="AudioStream" id=8]
+[ext_resource path="res://content/sounds/drops/Relictest_01.wav" type="AudioStream" id=9]
+[ext_resource path="res://content/sounds/keeper1/Drill/ChamberTile.wav" type="AudioStream" id=10]
+[ext_resource path="res://content/sounds/keeper1/Drill/Dig_Density_0.wav" type="AudioStream" id=11]
+[ext_resource path="res://content/sounds/keeper1/Drill/Dig_Density_04.wav" type="AudioStream" id=12]
+[ext_resource path="res://content/sounds/drops/Relictest_02.wav" type="AudioStream" id=13]
+[ext_resource path="res://content/sounds/keeper1/Drill/Dig_Density_03.wav" type="AudioStream" id=14]
+[ext_resource path="res://content/sounds/drops/Relictest_03.wav" type="AudioStream" id=15]
+[ext_resource path="res://content/sounds/drops/Metaltest_03.wav" type="AudioStream" id=16]
+[ext_resource path="res://systems/audio/Sound.gd" type="Script" id=17]
+[ext_resource path="res://content/sounds/drops/waterTest_02.wav" type="AudioStream" id=18]
+[ext_resource path="res://content/sounds/drops/waterTest_03.wav" type="AudioStream" id=19]
+[ext_resource path="res://content/sounds/drops/waterTest_01.wav" type="AudioStream" id=20]
+[ext_resource path="res://content/sounds/drops/Irontest_03.wav" type="AudioStream" id=21]
+[ext_resource path="res://content/sounds/drops/Irontest_01.wav" type="AudioStream" id=22]
+[ext_resource path="res://content/sounds/drops/Irontest_02.wav" type="AudioStream" id=23]
+[ext_resource path="res://content/sounds/drops/Metaltest_02.wav" type="AudioStream" id=24]
+[ext_resource path="res://content/sounds/drops/Metaltest_01.wav" type="AudioStream" id=25]
+[ext_resource path="res://content/sounds/keeper1/Drill/Dig_Density_01.wav" type="AudioStream" id=26]
+[ext_resource path="res://content/sounds/keeper1/Drill/Dig_Density_05.wav" type="AudioStream" id=27]
+[ext_resource path="res://content/sounds/keeper2/bounce_01.wav" type="AudioStream" id=28]
+[ext_resource path="res://content/sounds/keeper2/vanish.wav" type="AudioStream" id=29]
+[ext_resource path="res://content/sounds/keeper2/bounce_02.wav" type="AudioStream" id=30]
+[ext_resource path="res://content/sounds/keeper2/ChargeMax.wav" type="AudioStream" id=31]
+[ext_resource path="res://content/sounds/keeper2/vaugely.wav" type="AudioStream" id=32]
+[ext_resource path="res://content/sounds/keeper2/ambience.wav" type="AudioStream" id=34]
+[ext_resource path="res://content/keeper/keeper2/player1/sphere_single.png" type="Texture" id=35]
+[ext_resource path="res://content/sounds/Locations/DomeShield/Shield_01.wav" type="AudioStream" id=36]
+[ext_resource path="res://content/sounds/keeper2/Retro Jump StereoUP Simple 05.wav" type="AudioStream" id=37]
+
+[sub_resource type="PhysicsMaterial" id=2]
+friction = 0.1
+bounce = 1.0
+
+[sub_resource type="Gradient" id=9]
+colors = PoolColorArray( 1, 1, 1, 1, 1, 1, 1, 0 )
+
+[sub_resource type="GradientTexture" id=10]
+gradient = SubResource( 9 )
+
+[sub_resource type="Curve" id=11]
+_data = [ Vector2( 0, 1 ), 0.0, 0.0, 0, 0, Vector2( 1, 0 ), -2.40873, 0.0, 0, 0 ]
+
+[sub_resource type="CurveTexture" id=12]
+curve = SubResource( 11 )
+
+[sub_resource type="ParticlesMaterial" id=6]
+flag_disable_z = true
+gravity = Vector3( 0, 0, 0 )
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+scale_curve = SubResource( 12 )
+color_ramp = SubResource( 10 )
+
+[sub_resource type="CircleShape2D" id=1]
+radius = 4.0
+
+[sub_resource type="AudioStreamRandomPitch" id=3]
+audio_stream = ExtResource( 11 )
+
+[sub_resource type="AudioStreamRandomPitch" id=4]
+audio_stream = ExtResource( 14 )
+
+[sub_resource type="AudioStreamRandomPitch" id=5]
+audio_stream = ExtResource( 8 )
+random_pitch = 1.67
+
+[node name="Pinball" type="RigidBody2D" groups=["pauseL"]]
+z_index = 24
+collision_layer = 512
+physics_material_override = SubResource( 2 )
+gravity_scale = 0.0
+continuous_cd = 2
+contacts_reported = 1
+contact_monitor = true
+can_sleep = false
+linear_damp = 0.35
+angular_damp = 1.0
+script = ExtResource( 4 )
+
+[node name="Trail" type="Particles2D" parent="."]
+amount = 6
+lifetime = 0.2
+local_coords = false
+process_material = SubResource( 6 )
+texture = ExtResource( 35 )
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+frames = ExtResource( 2 )
+animation = "vanish"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource( 1 )
+
+[node name="RayCastFront" type="RayCast2D" parent="."]
+enabled = true
+cast_to = Vector2( 0, 23 )
+collision_mask = 1048576
+
+[node name="BounceSound1" parent="." instance=ExtResource( 1 )]
+volume_db = 12.885
+bus = "Mine"
+randomVolume = 0.0
+maxAudibleDistance = 200.0
+minAudibleDistance = 20.0
+streams = [ ExtResource( 28 ), ExtResource( 30 ) ]
+
+[node name="BounceSound4" parent="BounceSound1" instance=ExtResource( 1 )]
+stream = ExtResource( 5 )
+volume_db = -11.498
+bus = "Mine"
+randomVolume = 0.6
+maxAudibleDistance = 200.0
+minAudibleDistance = 20.0
+
+[node name="BounceSound2" parent="." instance=ExtResource( 1 )]
+volume_db = 6.555
+pitch_scale = 0.92
+bus = "Mine"
+randomVolume = 0.0
+maxAudibleDistance = 200.0
+minAudibleDistance = 20.0
+streams = [ ExtResource( 28 ), ExtResource( 30 ) ]
+
+[node name="BounceSound5" parent="BounceSound2" instance=ExtResource( 1 )]
+stream = ExtResource( 5 )
+volume_db = -10.624
+bus = "Mine"
+randomVolume = 0.0
+maxAudibleDistance = 200.0
+minAudibleDistance = 20.0
+
+[node name="BounceSound3" parent="." instance=ExtResource( 1 )]
+volume_db = 9.614
+pitch_scale = 1.05
+bus = "Mine"
+randomVolume = 0.0
+maxAudibleDistance = 200.0
+minAudibleDistance = 20.0
+streams = [ ExtResource( 28 ), ExtResource( 30 ) ]
+
+[node name="BounceSound6" parent="BounceSound3" instance=ExtResource( 1 )]
+volume_db = -4.691
+bus = "Mine"
+randomVolume = 0.0
+maxAudibleDistance = 200.0
+minAudibleDistance = 20.0
+streams = [ ExtResource( 3 ) ]
+
+[node name="VanishSound" parent="." instance=ExtResource( 1 )]
+volume_db = -12.663
+pitch_scale = 1.44
+bus = "Mine"
+randomPitch = 0.05
+maxAudibleDistance = 300.0
+minAudibleDistance = 80.0
+streams = [ ExtResource( 29 ) ]
+
+[node name="RaycastTween" type="Tween" parent="."]
+
+[node name="TileHitHardness0" type="AudioStreamPlayer" parent="."]
+stream = SubResource( 3 )
+volume_db = -9.286
+pitch_scale = 0.9
+bus = "Sounds"
+script = ExtResource( 17 )
+
+[node name="TileHitHardness1" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 26 )
+volume_db = -10.524
+pitch_scale = 0.88
+bus = "Sounds"
+script = ExtResource( 17 )
+
+[node name="TileHitHardness2" type="AudioStreamPlayer" parent="."]
+stream = SubResource( 4 )
+volume_db = -10.524
+pitch_scale = 0.7
+bus = "Sounds"
+script = ExtResource( 17 )
+
+[node name="TileHitHardness3" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 12 )
+volume_db = -9.905
+pitch_scale = 0.72
+bus = "Sounds"
+script = ExtResource( 17 )
+
+[node name="TileHitHardness4" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 27 )
+volume_db = -9.905
+pitch_scale = 0.75
+bus = "Sounds"
+script = ExtResource( 17 )
+
+[node name="TileHitSand" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 6 )
+volume_db = -17.612
+pitch_scale = 0.6
+bus = "Sounds"
+script = ExtResource( 17 )
+
+[node name="TileHitIron2" type="AudioStreamPlayer" parent="TileHitSand"]
+volume_db = -7.778
+pitch_scale = 1.43
+bus = "NoMusic"
+script = ExtResource( 17 )
+streams = [ ExtResource( 25 ), ExtResource( 24 ), ExtResource( 16 ) ]
+
+[node name="TileHitPitch" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 5 )
+volume_db = -9.584
+bus = "Sounds"
+
+[node name="TileHitIron" type="AudioStreamPlayer" parent="."]
+stream = SubResource( 5 )
+volume_db = -14.681
+pitch_scale = 0.93
+bus = "Sounds"
+script = ExtResource( 17 )
+
+[node name="TileHitIron3" type="AudioStreamPlayer" parent="TileHitIron"]
+volume_db = -7.664
+pitch_scale = 1.02
+bus = "NoMusic"
+script = ExtResource( 17 )
+streams = [ ExtResource( 22 ), ExtResource( 23 ), ExtResource( 21 ) ]
+
+[node name="TileHitWater" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 7 )
+volume_db = -12.205
+pitch_scale = 0.92
+bus = "Sounds"
+script = ExtResource( 17 )
+
+[node name="TileHitIron3" type="AudioStreamPlayer" parent="TileHitWater"]
+volume_db = -9.158
+pitch_scale = 1.66
+bus = "NoMusic"
+script = ExtResource( 17 )
+streams = [ ExtResource( 20 ), ExtResource( 18 ), ExtResource( 19 ) ]
+
+[node name="TileHitGadget" parent="." instance=ExtResource( 1 )]
+stream = ExtResource( 10 )
+volume_db = -12.0
+pitch_scale = 1.24
+bus = "Keeper"
+randomPitch = 0.03
+
+[node name="TileHitIron4" type="AudioStreamPlayer" parent="TileHitGadget"]
+volume_db = 2.0
+pitch_scale = 1.02
+bus = "NoMusic"
+script = ExtResource( 17 )
+streams = [ ExtResource( 9 ), ExtResource( 13 ), ExtResource( 15 ) ]
+
+[node name="TileHitRelic" parent="." instance=ExtResource( 1 )]
+stream = ExtResource( 10 )
+volume_db = -10.0
+pitch_scale = 1.44
+bus = "Keeper"
+
+[node name="Amb" parent="." instance=ExtResource( 1 )]
+stream = ExtResource( 34 )
+volume_db = 6.941
+bus = "NoMusic"
+randomVolume = 0.9
+maxAudibleDistance = 100.0
+minAudibleDistance = 24.0
+doppler = 0.3
+
+[node name="ReflectionBaseSound" parent="." instance=ExtResource( 1 )]
+stream = ExtResource( 36 )
+volume_db = -8.739
+pitch_scale = 0.84
+bus = "Keeper"
+randomVolume = 1.0
+
+[node name="ReflectionSpedUp" parent="." instance=ExtResource( 1 )]
+stream = ExtResource( 37 )
+volume_db = 2.185
+pitch_scale = 2.07
+bus = "Keeper"
+randomVolume = 1.0
+
+[node name="ReflectionMoreDamage" parent="." instance=ExtResource( 1 )]
+stream = ExtResource( 31 )
+volume_db = -6.555
+pitch_scale = 0.7
+bus = "Keeper"
+randomVolume = 1.0
+
+[node name="SphereCatchSound" parent="." instance=ExtResource( 1 )]
+streams = [ ExtResource( 28 ), ExtResource( 30 ) ]
+
+[node name="AmmoAdded2" parent="SphereCatchSound" instance=ExtResource( 1 )]
+stream = ExtResource( 32 )
+volume_db = -9.419
+pitch_scale = 1.9
+bus = "Keeper"
+randomVolume = 1.0
+
+[connection signal="body_entered" from="." to="." method="_on_Pinball_body_entered"]
+[connection signal="animation_finished" from="Sprite" to="." method="_on_Sprite_animation_finished"]
+[connection signal="finished" from="VanishSound" to="." method="removeBlockerFreed"]
+[connection signal="finished" from="SphereCatchSound" to="." method="removeBlockerFreed"]

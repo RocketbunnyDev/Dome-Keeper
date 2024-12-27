@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DiverAnnounce.wav-ed56033a87afbd741ea36110fcd1bff7.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/diver/DiverAnnounce.wav"
+dest_files=[ "res://.import/DiverAnnounce.wav-ed56033a87afbd741ea36110fcd1bff7.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

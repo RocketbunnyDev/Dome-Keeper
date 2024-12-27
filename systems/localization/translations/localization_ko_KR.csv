@@ -1,0 +1,942 @@
+﻿key,ko_KR
+loadout.prestige.title,모드 바리에이션을 선택해 주세요
+upgrades.shieldbattleelectroblast.title,전격 폭발
+properties.orchard.battleshieldhp,체력 {} hp
+options.keybindings.action.general.move,이동
+options.video.stretchmode.rezised,화면 조정
+level.gameover.unlock.world,새 행성 해금됨!
+upgrades.blastminingwaterless.desc,"생산에 더 이상 물이 필요하지 않게 되지만, 생산 시간이 더 오래 걸립니다."
+properties.blastmining.growthtime,생산 시간 {} 주기
+properties.laser.stun,기절력 {}
+exhibition.level.instruction,아무거나 눌러서 게임을 시작하세요!
+pause.godot,Godot으로 제작
+upgrades.orchardjetpack1.desc,"과일의 속도 강화를 증가시켜, 더 빠르게 움직이게 합니다."
+upgrades.artillery.title,대포
+upgrades.condenser.desc,돔 아래에 응결을 통해 물을 생산하는 기계를 추가합니다.
+properties.lift.keeperupwardsspeed,키퍼 기중기 속도 {}
+level.gameover.continue,계속
+upgrades.dome1damagereduction2.title,경화 2
+upgrades.orchardduration2.title,지속시간 2
+upgrades.condenserautoovercharge.title,자동 과충전
+upgrades.keeper2pinballreflectdamage2.title,반사 피해 2
+loadout.title,로드아웃을 선택하세요
+level.tutorial.teleporter_2,"텔레포터 스테이션을 사용해 포탈로 텔레포트하고, 그 반대도 가능합니다."
+options.keybindings.action.general.up,위
+level.converter.popup.cancel,취소
+properties.keeper.domefuel,추가 연료 {}
+properties.shield.battleactivateondepletion,방어막 고갈 시 능력 활성화
+loadout.prestige.normal,기본
+properties.sword.reflectprojectilesexplosive,반사된 에너지 투사체가 폭발성으로 변함
+upgrades.swordlargeblade3.title,중검 3
+upgrades.orcharddrill2.title,채광 부스트 2
+loadout.prestige.normal.description,키퍼 중 하나가 되어 우주로 자원을 송출해 위신을 얻으세요
+upgrades.keeper2pinballreflectdamage1.desc,반사된 구체는 다음에 부딪히는 암석에 훨씬 더 큰 피해를 입힙니다.
+options.input.gamepad,게임패드
+loadout.choices.locked,아직 해금되지 않음.
+upgrades.condenserspeed1.desc,물을 하나 응결시키는 속도를 감소시킵니다.
+upgrades.shieldbattleinvulnerable.desc,돔을 짧은 시간 동안 무적 상태로 만드는 전투 능력을 발동합니다.
+upgrades.domewavemeter.desc,다음 적대적 생명체가 공격 오기 전까지의 시간을 표시합니다.
+upgrades.keeper2pinballreflectspeedup2.title,우수한 반사
+upgrades.keeper2movement1.desc,중력 발전기를 강화해 더 빠르게 움직입니다.
+upgrades.repellentoverchargeduration2.desc,"과충전 후, 전투 능력이 다음 웨이브 때 더 오래 지속됩니다."
+upgrades.laserhitprojectiles.desc,에너지 투사체를 레이저로 맞출 시 즉시 융해시킵니다.
+options.keybindings.action.keeper.pickup,집기
+upgrades.keeper2pinballdamage1.desc,움직이는 구체가 암석에 가하는 피해를 증가시킵니다. 또한 회전 채광도 강화 합니다.
+upgrades.keeper2pinballdamage3.title,움직이는 구체 피해 3
+options.video.graphicsmode.enablevsync,수직 동기화 활성화
+options.translation.community,{completion}% 완료
+loadout.difficulty.easy,어려움
+worldmodifier.resourcerichiron.desc,행성에 철이 많습니다.
+loadout.miner.fuel,키퍼의 이동을 물로 보충할 필요가 있습니다.
+upgrades.prestigeiron.title,철 전송
+upgrades.stunlaserspeed1.desc,기절 레이저가 더 빠르게 움직입니다.
+upgrades.keeper2pinballdamage2.desc,움직이는 구체가 암석에 가하는 피해를 증가시킵니다. 또한 회전 채광도 강화 합니다.
+upgrades.drill1.title,채굴력 1
+upgrades.prospectionmetersand2.title,코발트 나침반
+upgrades.dome1health1.desc,영구적으로 돔의 구조적 체력을 증강합니다.
+title.navbar.newgame,새 게임
+properties.repellent.overchargeduration,방물제 생산 속도 {}주기 동안 증가
+properties.sword.retractspeed,후퇴 속도 {} 
+upgrades.lasermove3.desc,레이저의 이동 속도를 최대화합니다.
+upgrades.stunlaser.title,기절 레이저
+options.keybindings.action.general.use,사용
+worldmodifier.monsterfeeble.desc,"괴물이 보다 약하며, 적은 피해를 입힙니다."
+upgrades.shield.desc,피해를 흡수할 수 있는 방어막을 설치합니다. 자동으로 재충전 됩니다.
+options.video.stretchmode.rezised.text,"게임을 전체 화면 혹은 창 화면 해상도로 렌더링합니다.
+게임이 날카로워 보이게 되지만, 1픽셀 너비의 선 같은 시각적 에러가 나타날 수 있습니다."
+upgrades.orchardbattlerootingexplosion.desc,"갇힌 괴물들을 폭파하여, 주변에 피해를 줍니다."
+loadout.mapsize.small,소형
+upgrades.probe.desc,슈트에 탐지기를 설치해 주변의 자원을 드러내는 전파를 보냅니다. 돔 아래에 있는 스테이션에서 재충전해야 합니다.
+upgrades.swordlongblade1.desc,길고 더 빠른 검을 설치합니다.
+upgrades.dome1health1.title,체력 1
+upgrades.blastminingwaterless.title,무습수 충전
+level.tutorial.assessor.carry,중력 수집
+upgrades.liftspeed1.desc,구체가 더 빠르게 움직입니다.
+upgrades.shieldstrength1.desc,돔의 방어막이 흡수할 수 있는 방어력이 증가합니다.
+upgrades.orchardbattleshieldsecondlayer.title,이중 방어막
+upgrades.teleporterteleportresourcescooldown.desc,포탈이 자원을 보다 더 자주 텔레포트 시킵니다.
+options.input.gamepad.autoswitch,게임패드 자동 감지
+level.gameover.unlock.modifiers,행성 보정 해금됨!
+properties.sword.slicebrake,절삭 시 속도 감속 {.percent}
+loadout.difficulty.veryeasy,일반
+properties.sword.sliceacceleration,검 속도 {}
+options.input.gamepad.gamepadstickdeadzone.text,"게임패드 스틱을 건드리기만 하고 밀지는 않을 때, 바가 깜빡거리지 않도록 값을 설정합니다.
+스틱을 밀 경우, 바가 깜빡거립니다."
+options.accessibility.highlightmonsters.explanation,가시성을 위해 괴물 주위에 윤곽선을 보여줍니다.
+properties.upgrade.gameover,런을 종료
+upgrades.blastminingstickycharge.title,점착 방향성 차지
+upgrades.shieldoverchargestrength2.title,방어력 과충전 2
+upgrades.blastminingblast2.desc,폭발력을 더 증가시킵니다.
+upgrades.repellentbattlestrongerslowdown2.title,강력 정체화
+upgrades.converter.desc,자원을 변환 시킬 수 있습니다. 자원을 균형 있게 유지할 수 있게 됩니다.
+loadout.proceed,진행
+upgrades.repellentbattleslowdown.desc,전투 중 감각을 마비시키는 안개를 살포해 모든 괴물을 감속시킵니다.
+loadout.mapsize.medium.description,적절한 채광 세션을 위한 평범한 크기입니다.
+properties.orchard.overchargeadditionalbuffduration,과충전 후 추가 버프 지속시간 {} 주기
+options.translation.community.title,커뮤니티 번역
+upgrades.blastminingtriple.title,삼중 충전
+worldmodifier.hardnessextremes.desc,극단적으로 단단하거나 부드러운 암석이 더 많습니다.
+level.station.battle.navbar.exit,나가기
+upgrades.keeper2pinballlifetime2.title,움직이는 구체 수명 2
+upgrades.minoriron.desc,우주로 철을 송출해 위신을 얻으세요.
+properties.dome.autohealamount,{} hp 수리
+upgrades.migration.title,이주
+upgrades.converterefficientcobalt.title,능률적 코발트 변환
+upgrades.shieldbattledestructionprevention.desc,"돔이 파괴될 것 같을 때, 긴 무적 시간을 얻습니다.
+이후, 방어막이 다음 전투 때 충전되지 않습니다. 최후의 보루는 웨이브가 2번 지나야 다시 발동할 수 있습니다.
+"
+upgrades.drill1.desc,드릴의 채굴력을 강화해 빠르게 합니다.
+level.gameover.retry,새 게임 시작
+properties.orchard.overchargeduration,과일 성장 시간 {} 주기 동안 두 배
+upgrades.dome2health1.title,체력 1
+level.tutorial.station.popup_4,그리고 | 키를 눌러 전투 모드로 들어가 방어하세요.
+level.gameover.stats.timeplayed.unit,분
+upgrades.repellentbattlestrongerslowdown2.desc,안개가 괴물들을 훨씬 더 많이 감속시키고 훨씬 더 오래 지속됩니다.
+loadout.gadgetoptions.title,주 도구를 선택하세요!
+level.tutorial.station.popup_2,스테이션으로 이동해 | 키를 눌러 들어갑니다.
+upgrades.dome1damagereduction1.desc,돔의 표면을 강화해 괴물들의 근접 공격으로부터 받는 피해를 줄여줍니다. 투사체 공격에는 효과가 없습니다.
+level.tutorial.station.popup_1,돔이 공격받고 있습니다!
+upgrades.keeper2movement3.title,중력 이동 3
+upgrades.jetpackspeed1.desc,제트팩을 강화해 더 빠르게 움직입니다.
+properties.converter.ironwatertime,변환 시간 {} 주기
+level.tutorial.sworddome.slicing.desc,"검을 빠르게 휘두를수록, 피해량도 높아집니다."
+upgrades.liftorbs.desc,기중기 구체를 하나 더 설치합니다.
+upgrades.proberecharge.desc,탐지기가 시간의 흐름에 따라 천천히 차지를 회복합니다.
+loadout.gadget,도구
+upgrades.drill4.title,채굴력 4
+properties.probe.rechargetime,완전 재충전 시간 {}주기 
+upgrades.keeper2pinballdamage4.title,움직이는 구체 피해 4
+options.game,게임
+loadout.prestige.cobalt,한정된 코발트
+options.input.vibration.strength,진동 세기
+upgrades.liftcapacity1.desc,구체가 더 많은 자원을 싣게 합니다.
+loadout.miner.title,게임 옵션을 선택하세요
+level.gameover.stats.difficulty,난이도
+upgrades.repellentoverchargestrength2.title,웨이브 지연 과충전 2
+upgrades.domesandrepairstrong.title,강화 코발트 수리
+upgrades.stunlaserduration1.desc,기절 레이저의 쿨다운이 빨라지며 더 오랫동안 발사됩니다.
+level.gameover.prestige.score.rankimproved,랭크가 {rank}등으로 상승했습니다.
+upgrades.stunlaserdamage2.desc,기절 레이저가 가하는 피해량을 증가시킵니다.
+upgrades.drillbotstrength4.title,채굴력 4
+level.gameover.prestige.title,위신 게임 완료
+loadout.secondstage.cancel,취소
+upgrades.laseraimline.desc,"레이저에 조준기를 달아, 어디를 조준하는지 보여줍니다."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,응결기가 생산을 멈추기 전까지 물을 두 개까지 생산해 보관합니다.
+upgrades.swordreflection2.title,반사 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,드릴의 채굴력을 강화해 빠르게 합니다.
+properties.laser.hitprojectiles,레이저가 에너지 투사체 명중 시
+upgrades.dome1damagereduction1.title,경화 1
+properties.sword.stabexplosivedamage,폭탄 피해 {}
+upgrades.drillbotturnaround.title,상급 훈련
+upgrades.keeper2movement1.title,중력 이동 1
+properties.orchard.battleroots,땅에 뿌리 {}개를 기름
+upgrades.prospectionmeterrange2.title,범위 2
+upgrades.jetpackspeed4.title,속도 4
+upgrades.miner.title,광부
+upgrades.repellentdelay2.desc,다음 괴물들의 웨이브 지연을 더 증가시킵니다.
+upgrades.orchard.desc,돔 내에서 자라는 나무를 심어 그 과실로 이동 속도와 채광력을 증가시킵니다.
+upgrades.artilleryflakexplosionradius1.title,맹공 범위 1
+upgrades.shieldbattleelectroblast.desc,활성화 가능한 전투 능력을 얻습니다. 돔 주변을 짧은 시간 동안 치명적인 지역으로 만듭니다.
+upgrades.shredgadgettocobalt.desc,도구를 재활용해 {amount} 코발트를 획득합니다.
+upgrades.prestigecobalt.title,코발트 전송
+properties.orchard.drillbuff,채굴력 버프 {}
+upgrades.swordlargeblade2.desc,"거대한 검을 설치합니다. 느리지만, 큰 피해를 입힙니다."
+level.gameover.back,뒤로
+loadout.abort,취소
+options.keybindings.action.dome.fire,사격 
+upgrades.swordstabshoot.title,자벨린
+upgrades.blastminingtriple.desc,대형 차지 1번 대신 소형 차지 3번을 만듭니다.
+upgrades.orcharddrill1.title,채광 부스트 1
+upgrades.swordextendlong2.title,찌르기 연장 2
+upgrades.artilleryshotcooldown1.desc,더 자주 발사할 수 있게 됩니다.
+upgrades.keeper2pinballdamagefraction.title,움직이는 구체 경도 초월
+upgrades.doublelaser.title,이중 레이저
+upgrades.jetpackspeed3.title,속도 3
+upgrades.prestigewater.title,물 전송
+properties.orchard.battleabilityuses,전투 시 사용 가능 횟수 {}회
+upgrades.liftorbs.title,구체 1
+upgrades.repellentoverchargeduration1.title,전투 능력 지속시간 과충전 1
+upgrades.drill3.desc,드릴의 채굴력을 강화해 빠르게 합니다.
+level.gameover.prestige.uploading.inprocess,점수 업로드 중...
+options.cancel,취소
+properties.shield.overchargestrength,과충전 체력 {}hp
+level.station.navbar.upgrades,업그레이드
+upgrades.keeper2pinballsplit.desc,다가오는 구체를 두 개로 분열하여 원본의 수직으로 발사합니다.
+upgrades.proberecharge.title,자동 재충전
+properties.sword.stabrange,범위 {} 
+upgrades.liftspeed1.title,속도
+upgrades.domewavecount.desc,카운터를 설치해 얼마나 많은 웨이브를 살아남았는지 표시합니다.
+level.converter.popup.title,자원 변환
+pause.discord,Discord에 합류하세요
+options.keybindings.action.general.back,취소
+upgrades.prospectionmeterrange1.desc,계측기의 탐지 범위를 증가시킵니다.
+upgrades.dome2badrepair1.desc,"돔이 전투에서 큰 피해를 입고도 살아남을 경우, 자동으로 수리합니다."
+upgrades.prestigecobalt.desc,"코발트를 전송하며, 웨이브마다 얻는 위신 점수 배수를 증가시킵니다."
+upgrades.domesandrepair.desc,코발트로 돔을 수리합니다.
+loadout.skinoptions.title,스킨을 선택하세요!
+loadout.difficulty.medium.description,Dome의 의도된 난이도입니다.
+loadout.difficulty.veryeasy.description,"쉽지는 않지만, 다른 난이도보단 여유 있습니다."
+options.game.tutorials,튜토리얼
+upgrades.orchardbattlerootingmore.desc,더 많은 뿌리가 더 오랫동안 유지됩니다.
+upgrades.probepersist1.title,기억성 탐지기
+upgrades.keeper2pinballmorespheres2.title,구체 보급 2
+upgrades.orchardjetpack2.desc,"과일의 속도 강화를 증가시켜, 더 빠르게 움직이게 합니다."
+upgrades.probe.title,탐지기
+upgrades.sword.title,검
+properties.shield.battledestructionprevention,추가 지속시간 {}초
+upgrades.shieldbattlereflect.title,반사
+pause.gamepadcontrols.use,사용
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,창고 두 배
+upgrades.relichunt.desc,깊이 묻혀있는 유물을 찾아 돔으로 가져오세요.
+loadout.mapsize.unlock.description,이전 지도 크기로 승리하면 이 지도 크기를 해제할 수 있습니다.
+properties.sword.stabdamage,찌르기 피해량 {} 
+properties.keeper1.drillstrength,채굴력 {}
+worldmodifier.mapwildbiomes.desc,지형 경계가 불규칙합니다.
+upgrades.condenser.title,응결기
+upgrades.dome2badrepair2.title,충격 회복 2
+options.game.screenshake.shakewhenmining,채광 시 흔들림
+upgrades.repellentdelay2.title,지연 2
+level.tutorial.assessor.reflect.desc,매우 짧은시간 동안 다가오는 구체를 반사하기위해 | 를 누르세요.
+properties.drillbot.buffamount,채굴량 강화 {}회
+upgrades.laserstrength2.title,동력 2
+upgrades.jetpackstrength3.title,운반력 3
+options.keybindings.action.general,일반
+level.gameover.unlock.gadgetability,새 도구 전투 능력
+upgrades.jetpackstrength1.desc,제트팩을 강화해 더 많은 자원을 옮깁니다.
+upgrades.artillerymultishot1.desc,사격마다 여러 수류탄을 발사합니다.
+properties.sword.reflectprojectiles,에너지 투사체 반사
+upgrades.stunlaser.desc,자동으로 적들을 추적하고 기절시키는 레이저를 설치합니다.
+upgrades.orchardbattleshieldstrong.desc,투사체 방어막이 강화됩니다. 또한 과충전 후 한 번 더 능력을 사용할 수 있습니다.
+upgrades.orchardjetpack3.desc,"과일의 속도 강화를 증가시켜, 더 빠르게 움직이게 합니다."
+upgrades.laser.desc,정밀한 레이저로 돔 위를 이동합니다. 본래 소행성 채굴용입니다.
+properties.shield.maxstrength,체력 {} hp
+loadout.keeper,키퍼
+worldmodifier.resourceunpredicatablecobalt.desc,코발트 매장지가 보다 분산되어 있으며 예측하기 어렵습니다.
+title.navbar.quit,데스크톱으로 돌아가기
+options.keybindings.rebinding.error.gamepad,게임패드 입력키로 설정할 수 없습니다
+upgrades.repellentbattleslowdownstun1.desc,휘발성의 포자를 안개에 사용해 괴물들을 짧은 시간 동안 기절시킵니다.
+upgrades.swordfastreflection.title,반사 가속화
+upgrades.stunlaserduration2.title,내연성 2
+level.gameover.lose.title,돔이 파괴되었습니다
+worldmodifier.resourcescatterediron.desc,"철 매장지가 더 많지만, 그 양은 더 적습니다."
+properties.laser.dps,피해량 {}
+options.game.screenshake.shakeintensity,흔들림 강도
+worldmodifier.hardnessharder.desc,광산에 단단한 곳이 더 많습니다.
+options.video.stretchmode,신축 모드
+worldmodifier.monsterhealthy.desc,괴물의 체력이 더 많습니다.
+level.gameover.stats.mapsize,지도 크기
+loadout.mode.longtime,긴 주기
+upgrades.swordreflection3.desc,방어막 패드 크기가 최대화됩니다.
+upgrades.repellentbattleslowdownstun2.desc,포자를 더 자주 사용해 괴물들을 더 오래 기절시킵니다.
+upgrades.teleporterteleportresourcesarea.title,지역 텔레포트
+upgrades.shieldoverchargeduration2.desc,"과충전 후, 전투 능력이 다음 웨이브 때 보다 더 오랫동안 활성화됩니다."
+upgrades.shieldoverchargestrength1.title,방어력 과충전 1
+upgrades.drillbotbuffstrength1.desc,간식이 드릴버트의 기운을 더 오랫동안 북돋습니다.
+upgrades.orchardoverchargebuffduration.title,버프 지속시간 과충전
+level.tutorial.assessor.spheres.desc3,구체는 튕길 때마다 힘을 재충전합니다.
+loadout.mode.longtime.desc,"웨이브 사이의 주기가 길지만, 한 번 오는 웨이브가 강력해집니다."
+level.tutorial.assessor.spheres.desc2,구체를 쏠 방향을 정하고 발사하세요.
+upgrades.laserstrength1.desc,"레이저의 동력을 증강하지만, 사격 중 레이저의 이동 속도가 감소합니다."
+level.tutorial.assessor.spheres.desc1,| 를 누르고 있으면 구체를 충전합니다.
+upgrades.jetpackstrength4.title,운반력 4
+upgrades.migration.desc,"행성에서 행성으로 이동해, 다른 곳에서 자원과 유물을 캐내세요."
+upgrades.orcharddrill1.desc,"과일의 채굴력을 증가시켜, 빠르게 채굴 합니다."
+upgrades.keeper2pinballdamage3.desc,움직이는 구체가 암석에 가하는 피해를 증가시킵니다. 또한 회전 채광도 강화 합니다.
+options.accessibility.highlightmonsters,괴물 강조
+upgrades.prestigecobaltnocobalt.title,코발트 전송
+properties.keeper2.spherebasedamage,구체 기본 피해 {}
+upgrades.orcharddrill3.desc,"과일의 채굴력을 증가시켜, 매우 빠르게 채굴 합니다."
+properties.converter.cobalttoiron,철 1개에 필요한 코발트 {}개
+level.tutorial.repair.usecobalt,코발트로 돔을 수리할 수 있습니다. 돔 테크 트리에서 업그레이드를 살펴보세요.
+upgrades.blastminingimpactdetonation.title,충격성 폭발
+upgrades.swordfastreflection.desc,반사된 투사체가 더 빠르게 반사됩니다.
+upgrades.liftcapacity1.title,용량
+upgrades.artillery.desc,바주카를 사용합니다.
+properties.sword.electricdamage,검 피해에 전격 피해 추가 {}
+level.station.upgrademenu.close,닫기
+properties.shield.overchargebattleabilityduration,추가 능력 지속시간 {.percent}
+pause.title,일시 정지
+upgrades.artillerymultishot1title,연쇄 사격 1
+properties.shield.battleadditionalabilitydurationafterdepletion,추가 능력 지속시간 {}초
+upgrades.orchardbattlerootingexplosion.title,희생자 폭발
+upgrades.blastminingproductiontime1.title,생산 시간
+options.video.stretchmode.scaled.text,"게임을 고정된 해상도로 렌더링하고 해상도에 맞게 늘립니다.
+특히 폰트 같은 경우가 화소화 될 수 있지만, 시각적인 에러는 나타나지 않습니다."
+upgrades.orchardduration3.title,지속시간 3
+upgrades.domewavecount.title,주기 카운터
+upgrades.shredgadgettoiron.title,철로 재활용
+options.keybindings.rebinding.apply,적용
+options.keybindings.restoredefault,기본값 복구
+upgrades.converterironduplication.title,철 복제
+title.navbar.credits,제작진
+level.gameover.unlock.gadget,새 도구
+upgrades.jetpackspeed2.title,속도 2
+loadout.modeoptions.title,게임 모드를 선택하세요!
+properties.keeper2.spherebaselifetime,구체 수명 {}
+options.video.stretchmode.scaled,계층화
+properties.orchard.battleabilityduration,능력 지속시간 {}초
+upgrades.repellentbattleslowdownstun1.title,마비화
+loadout.difficulty.medium,잔혹
+options.audio.volumes,볼륨
+upgrades.keeper1.title,엔지니어
+upgrades.drillbotsleepless.title,기본 훈련
+upgrades.drillbot.title,드릴버트
+level.tutorial.assessor.carry.desc1,잡힐때까지 | 를 누르고 있으면 자원을 당겨옵니다.
+level.tutorial.assessor.carry.desc2,| 를 눌러 자원을 떨어트리세요.
+level.tutorial.drillbot.sleeping1,"드릴버트는 한동안 채굴을 한 후, 혹은 채굴할 수 없는 벽을 만났을 경우 잠이 듭니다."
+level.tutorial.assessor.carry.desc3,자원을 떨어트리는 동안 방향을 조준하면 속도가 크게 빨라집니다.
+level.tutorial.drillbot.sleeping2,"근처에서, | 키를 눌러 깨웁니다."
+level.tutorial.drillbot.sleeping3,깨어있는 동안에 | 키를 눌러 회전시킬 수 있습니다.
+properties.keeper2.totalspheres,구체 {}개
+upgrades.shieldbattleblastdamage.title,치명적 폭발
+upgrades.domeresourcecounters.desc,현재 저장된 자원의 양을 표시합니다.
+upgrades.swordextendlong1.desc,강화된 관통력과 민첩성으로 더 잘 날아갑니다.
+worldmodifier.resourcerichwater.desc,행성에 물이 많습니다.
+upgrades.drillbotstrength1.desc,드릴버트의 채굴력을 증가시킵니다.
+upgrades.stunlaserautonomy1.desc,단순 AI가 제어 스테이션 내에 있지 않더라도 기절 레이저를 조종합니다.
+properties.blastmining.radius,폭발 반경 {} 타일
+upgrades.jetpackstrength1.title,운반력 1
+options.keybindings.apply,적용
+upgrades.laserstrength2.desc,"레이저의 동력을 크게 증강하지만, 사격 중 레이저의 이동 속도가 감소합니다."
+properties.laser.movespeedwhilefiring,사격 시 속도 {.percent}
+properties.probe.markerretention,마커 유지 {}초
+upgrades.swordexplosivereflection.title,폭발성 반사
+upgrades.condenserspeed2.desc,물을 하나 응결시키는 속도를 더욱 감소시킵니다.
+upgrades.condenserspeed2.title,생산 속도 2
+properties.stunlaser.firetime,사격 시간 {}초
+options.input.gamepad.gamepadstickdeadzone,패드 스틱 데드존
+upgrades.keeper2movement2.desc,중력 발전기를 강화해 더 빠르게 움직입니다.
+upgrades.shieldbattlelongerafterdepletion.desc,방어막이 고갈된 후 폭발이 발동될 시 폭발이 더 오래 지속됩니다.
+properties.laser.bend,레이저 자동 조준 {}°
+level.station.upgrademenu.buy,구매
+properties.drillbot.plantgrowthtime,간식 성장 시간 {} 주기
+level.tutorial.fullscreen.continue,계속
+upgrades.repellentoverchargeduration1.desc,탱크를 과충전해 다음 웨이브 때 사용하는 전투 능력의 지속시간을 강화합니다.
+upgrades.artilleryshotcooldown1.title,쿨다운 1
+worldmodifier.resourceunpredicatablewater.desc,물 매장지가 보다 분산되어 있으며 예측하기 어렵습니다.
+level.tutorial.blastmining.popup_1,폭발 차지를 가지고 암석을 치울 곳에 떨어뜨리세요.
+ending.thankyoumessage,플레이 해주셔서 감사합니다!
+options.keybindings.rebinding.error.keyboard,키보드 입력키로 설정할 수 없습니다
+upgrades.keeper2pinballdamagefraction.desc,구체가 암석 경도를 초월하여 암석 체력에 일정 부분 피해를 입힙니다.
+upgrades.swordlargeblade1.title,중검 1
+upgrades.shredgadgettoiron.desc,도구를 재활용해 {amount} 철을 획득합니다.
+upgrades.drillbot.desc,채굴을 좋아하는 사랑스런 생물을 기릅니다. 광산에 데리고 가 원하는 곳에 놓으면 됩니다. 잠에 들 시 깨워서 일을 다시 하도록 하면 됩니다.
+properties.dome.autohealdamagethreshold,총 hp 중 {} 이상의 피해를 입을 시 활성화
+upgrades.dome3health1.title,체력 1
+title.navbar.updates.close,닫기
+upgrades.swordaimline.desc,레이저 사이트를 달아 검으로 찌르기 위해 조준합니다.
+upgrades.shieldoverchargeduration1.title,전투 능력 지속시간 과충전 1
+level.converter.popup.explanation,변환을 시작할 자원을 선택하세요!
+upgrades.drillbotbuff1.title,간식
+title.navbar.credits.close,닫기
+upgrades.keeper2movement3.desc,중력 발전기를 강화해 더 빠르게 움직입니다.
+pause.quittotitlescreen,메인메뉴로 복귀
+loadout.prestige.countdown.description,주기마다 위신 배수가 낮아집니다.
+upgrades.drill3.title,채굴력 3
+upgrades.probestage1.title,강화 탐지기
+properties.sword.stabarrowhead,탄두 크기 증가
+loadout.mapsize.huge.description,긴 게임을 위한 거대한 맵입니다.
+properties.sword.stabspeed,찌르기 속도 {.percent} 
+level.tutorial.teleporter.take1,텔레포터는 스테이션과 포탈을 포함합니다. 둘 사이를 오갈 수 있습니다.
+worldmodifier.mapmaze.desc,광산이 미로입니다.
+level.tutorial.teleporter.take2,포탈을 집어 원하는 곳에 놓으세요.
+options.keybindings.action.dome.battleability1,전투 능력
+upgrades.laserbend.desc,"레이저에 회전식 머리를 달아, 가까이 다가올 시 자동으로 조준을 바로잡게 해줍니다."
+options.video.graphicsmode.fullscreen,전체화면
+options.keybindings.action.general.down,아래
+level.tutorial.assessor.spheres,움직이는 구체
+level.tutorial.mineraltree1,"미네랄 나무씨를 찾았습니다. 이 씨앗은 뿌리에서 타일을 뒤덮는 나무로 성장할 수 있습니다. 자신이 뿌리를 내린 곳의 자원을 열매로 맺습니다.
+필요한 자원이 있는 곳에 씨를 심어보세요."
+upgrades.blastmining.desc,돔 아래에 폭발 차지를 생산하는 기계를 추가합니다. 광산에 들고 다니며 놓을 시 폭발합니다.
+properties.sword.stabcooldown,연장 쿨다운 {}s 
+upgrades.repellentoverchargestrength2.desc,과충전 후 다음 웨이브의 지연 시간이 더 증가합니다.
+upgrades.probeswift1.desc,"빠르지만, 짧은 범위의 탐지기가 더 많은 횟수만큼 탐지할 수 있게 합니다."
+properties.drillbot.buffextraamount,추가 채굴량 {}회
+level.gameover.unlock.keeper,새 키퍼
+upgrades.prospectionmeter.title,탐광 계측기
+upgrades.shieldbattleactivateondepletion.desc,방어막이 고갈될 시 무적이 자동으로 한 번 더 발동합니다.
+upgrades.dome2badrepair1.title,충격 회복 1
+upgrades.swordtargetlock.title,목표 고정
+upgrades.laserhitprojectiles.title,투사체 융해
+upgrades.keeper2pinballreflectspeedup1.title,향상된 반사
+properties.shield.battleuses,전투 시 사용 가능 횟수 {}회
+options.game.events,이벤트
+upgrades.artilleryflakexplosionradius1.desc,맹공 폭발력이 커집니다.
+properties.keeper1.speedlosspercarry,운반으로 인한 감속 {}
+level.tutorial.fullscreen.back,뒤로
+level.gameover.unlockpicker.title,해금할 것을 선택하세요
+upgrades.prospectionmeteriron2.desc,가장 가까운 철 매장지와의 거리를 표시합니다.
+upgrades.prestige.desc,돔이 부서지거나 안전하게 행성을 떠나기 전까지 최대한 많은 자원을 고향으로 전송해 점수를 얻으세요.
+properties.prestige.multiplier,{} 웨이브 당 위신 배수
+options.input.controls,조작
+properties.sword.reflectionacceleration,반사된 투사체 속도 {.percent}
+loadout.difficult.easier,쉬움
+upgrades.keeper2pinballreflectdamage1.title,반사 피해 1
+properties.sword.extendspeed,연장 속도 {} 
+properties.keeper2.reflectspeedup,반사된 구체 속도 증가 {.percent}
+loadout.mode.doubleiron,두 배의 철
+upgrades.dome3.desc,데모에서 사용 불가능
+properties.condenser.growthtime,생산 시간 {}주기
+options.game.languages,언어
+worldmodifier.mapwidebottom.desc,"광산이 처음엔 얇지만, 깊어질 수록 넓어집니다."
+loadout.mode.maze,미로
+upgrades.dome2health1.desc,영구적으로 돔의 구조적 체력을 증강하고 수리합니다.
+properties.drillbot.drillstrength,채굴력 {}
+upgrades.keeper2.desc,실험적인 중력 기술을 사용하는 독특한 광부입니다.
+properties.orchard.battleshields,방어막 층 {}
+level.tutorial.sworddome.reflecting.desc,쉴드를 사용하여 투사체를 멈추거나 반사할 수 있습니다.
+options.audio.volumes.musicvolume,음악 볼륨
+loadout.dome,돔
+upgrades.swordlongblade2.title,장검 2
+upgrades.laseraimline.title,레이저 사이트
+level.tutorial.assessor.bundle.desc1,자원을 운반하는 동안 보따리를 충전하기 위해 | 를 누르고 있으세요.
+options.keybindings.keyboard,키보드
+level.tutorial.assessor.bundle.desc2,구체를 쏘는 것과 같은 방법으로 조준하고 발사하세요.
+properties.prestige.score,{} 위신
+worldmodifier.mapdeep.desc,광산이 더 깊고 좁습니다.
+upgrades.repellentbattleslowdownstun2.title,강력 마비화
+upgrades.keeper2pinballmorespheres1.title,구체 보급 1
+upgrades.prestigewater.desc,"물을 전송하며, 웨이브마다 1위신을 얻습니다."
+properties.keeper2.bundlestopcenter,중심 기둥 중력장
+upgrades.stunlaserdamage1.title,피해 1
+upgrades.keeper2pinballlifetime1.title,움직이는 구체 수명 1
+properties.repellent.battleslowdown,괴물 감속 {.percent}
+upgrades.swordextendlong1.title,찌르기 연장 1
+level.gameover.stats.distancetravelled,이동한 거리
+properties.keeper2.reflectlifetime,반사된 구체 추가 수명 {}초
+upgrades.blastminingimpactdetonation.desc,폭발성 차지가 표면에 충돌 시 폭발하게 됩니다.
+properties.keeper2.spheresplit,다가오는 분열 구체
+options.keybindings.action.dome.upgrade,업그레이드
+worldmodifier.resourcepoorcobalt.desc,행성에 코발트가 적습니다.
+pause.resumegame,게임 재개
+level.gameover.unlock.difficulty,새 난이도 해금됨!
+properties.stunlaser.cooldown,쿨다운 {}초
+options.keybindings.action.general.right,오른쪽
+level.tutorial.assessor.mining.desc,하나의 암석을 제거하기 위해 구체를 암석 안으로 이동시킬 수 있습니다.
+upgrades.teleporterteleportresourcesback.title,자원 텔레포트
+upgrades.dome1.title,레이저 돔
+upgrades.keeper2bundleinfinite.title,오래가는 보따리
+upgrades.repellentdelay1.title,지연 1
+upgrades.miner.desc,괴물이 없는 세상에서 방해받지 않고 원하는 만큼 자원을 집중해서 채굴할 수 있습니다.
+upgrades.repellentbattlestrongerslowdown1.desc,안개가 괴물들을 더 많이 감속시키고 더 오래 지속됩니다.
+upgrades.teleporterteleportresourcesarea.desc,전보다 포탈이 더 넓은 범위의 자원을 텔레포트 시킵니다.
+upgrades.dome3.title,대포 돔
+upgrades.swordstabshoot.desc,"케이블에서 나아가는 대신, 검이 충전 후 발사되어 마치 돔에서 자벨린처럼 나아갑니다."
+upgrades.repellentbattledamageovertime.desc,독성 매연이 남아있는 곳에 있는 모든 괴물이 작은 피해를 입습니다.
+upgrades.shieldbattleactivateondepletion.title,고갈 시 발동
+upgrades.artillerymultishot2.desc,사격마다 여러 수류탄을 발사합니다.
+upgrades.dome1health2.title,체력 2
+worldmodifier.monsterlethal.desc,"괴물이 더 치명적이며, 더 많은 피해를 입힙니다."
+loadout.pet,애완동물
+options.keybindings.action,액션
+upgrades.orcharddrill3.title,채광 부스트 3
+options.translation.title,언어를 선택하세요
+upgrades.prospectionmeterrange1.title,범위 1
+upgrades.dome2badrepair2.desc,"돔이 전투에서 큰 피해를 입고도 살아남을 경우, 자동으로 더 많이 수리합니다."
+options.audio.volumes.ambiencevolume,앰비언스 볼륨
+upgrades.prestigecobaltnocobalt.desc,"코발트를 전송하며, 웨이브마다 얻는 위신 점수 배수를 증가시킵니다."
+worldmodifier.maparms.desc,광산이 분열되었습니다.
+loadout.prestige.countdown,카운트다운
+upgrades.keeper2pinballdamage2.title,움직이는 구체 피해 2
+upgrades.jetpackspeed1.title,속도 1
+upgrades.minerrefuel.title,연료 보급
+upgrades.teleporterteleportduration1.title,텔레포트 지속시간
+properties.blastmining.bombs,{}회 차지
+loadout.miner.fuel.title,연료
+exhibition.title.press.anything,아무 버튼을 눌러 시작
+loadout.mode,모드
+level.tutorial.sworddome.slicing,베기
+properties.condenser.autoovercharge,과충전 자동화
+upgrades.teleporterteleportduration1.desc,플레이어 텔레포트 시간이 감소합니다.
+upgrades.minerwater.title,물 전송
+title.navbar.continue,계속
+upgrades.orchardbattleshield.desc,돔을 투사체로부터 방어하는 방어막을 만들어냅니다.
+upgrades.liftcarrykeeper1.title,키퍼 기중기 1
+options.input.controls.keybindings,키 설정
+properties.keeper2.bundlespheres,구체 보따리
+upgrades.shieldovercharge.title,방어막 과충전
+properties.condenser.overchargedelay,생산 지연 {}주기
+upgrades.keeper2.title,어세서
+level.tutorial.assessor.mining,회전 채광
+upgrades.repellentoverchargeduration2.title,전투 능력 지속시간 과충전 2
+upgrades.swordblade1.title,절삭력 증가
+properties.converter.irontoiron,철 1개에 필요한 철 {}개
+exhibition.level.description,메인 메뉴로 돌아갈 때까지...
+level.tutorial.assessor.mining.desc2,방향 키를 먼저 때면 구체를 쏘지 않고 채광을 중지할 수 있습니다.
+worldmodifier.monsterslow.desc,괴물이 더 느립니다.
+upgrades.orcharddrill2.desc,"과일의 채굴력을 증가시켜, 더욱 빠르게 채굴 합니다."
+loadout.difficulty.easy.description,다양한 면에서 더 자비롭습니다.
+upgrades.swordstabexplode.title,폭탄 찌르기
+level.gameover.stats.additionalgadget,추가 도구
+upgrades.drillbotbuffstrength2.desc,"간식을 먹인 후, 드릴버트는 자기 전 더 오랫동안 일합니다."
+upgrades.laserstrength3.desc,"레이저의 동력을 엄청나게 증강하지만, 사격 중 레이저의 이동 속도가 감소합니다."
+loadout.mapsize.medium,중형
+loadout.difficulty.hard,자처한 겁니다
+level.gameover.stats.wavessurvived,생존한 웨이브
+properties.stunlaser.damage,피해량 {}
+options.keybindings.rebinding.cancel,취소
+level.tutorial.sworddome.stabbing.desc,칼을 뻗어 멀리있는 적을 찌를 수 있습니다.
+level.gameover.unlock.gamemodevariant,새 게임 모드 변종
+upgrades.prestigefinish.title,행성 떠나기
+properties.keeper2.bundleduration,보따리 수명 {.percent}
+upgrades.shieldstrength3.title,방어력 3
+options.audio.volumes.mastervolume,마스터 볼륨
+upgrades.shieldbattlelongerafterdepletion.title,고갈 부스트
+options.keybindings.text,"취향에 맞게 버튼을 설정합니다.
+다른 분야에 같은 키를 배정하더라도 일반적으로는 문제가 발생하지 않습니다 (예를 들어 이동 키와 돔 무기 이동 키를 같게 할 경우)."
+properties.shield.battleblastdamage,초 당 폭발 피해량 {}
+loadout.mapsize.large.description,몇 시간은 지속될 세션을 위한 대형 지도입니다.
+upgrades.drill4.desc,드릴의 채굴력을 강화해 빠르게 합니다.
+upgrades.drillbotsleepless.desc,드릴버트가 자기 전까지 더 오랫동안 일하게 됩니다.
+upgrades.swordlargeblade2.title,중검 2
+upgrades.swordlongblade2.desc,"검의 속도를 더 증가시켜, 모서리에 닿으면 튕겨 나오게 합니다."
+upgrades.prestigefinishnocobalt.title,행성 떠나기
+worldmodifier.hardnessmoderated.desc,극단적으로 단단하거나 부드러운 암석이 적습니다.
+upgrades.converterironduplication.desc,철을 복제합니다.
+upgrades.prestigefinish.desc,행성을 떠나 고향으로 돌아갑니다.
+upgrades.dome2health2.desc,영구적으로 돔의 구조적 체력을 증강하고 수리합니다.
+upgrades.prestige.title,위신
+upgrades.liftcarrykeeper1.desc,기중기 안에서 위로 올라갈 시 상승하는 속도가 빨라집니다.
+upgrades.repellentbattlehealthreduction.desc,"현존하는 모든 괴물을 약화하고, 즉시 이들의 체력을 감소시킵니다."
+upgrades.dome2.title,검 돔
+worldmodifier.monsterfast.desc,괴물이 더 빠릅니다.
+upgrades.condenserautocollect.desc,"물 수집을 자동화해, 수동으로 들고 올 필요가 없게 합니다."
+upgrades.lift.title,기중기
+options.game.screenshake,화면 흔들림
+options.keybindings.action.dome,돔
+upgrades.swordstabexplodedamage.desc,폭발의 피해량을 증가시킵니다.
+level.gameover.stats.resourcesmined,변환한 자원
+worldmodifier.resourcepoorwater.desc,행성에 물이 적습니다.
+upgrades.prospectionmeter.desc,가장 가까운 자원과의 거리를 보여주는 계측기입니다. 업그레이드 시 방향도 보여줍니다.
+upgrades.shredgadgettocobalt.title,코발트로 재활용
+upgrades.swordelectrified.desc,"전류가 검신에 흘러, 닿을 시 피해를 입힙니다."
+upgrades.artilleryflakexplosionradius2.desc,맹공 폭발력이 커집니다.
+upgrades.prospectionmeterwater1.title,수원 계측기
+upgrades.minerwater.desc,우주로 물을 송출해 위신을 얻으세요.
+options.video.graphicsmode,그래픽 모드
+upgrades.shieldbattlereflectspeedup.desc,"반사된 투사체가 더 빠른 속도로 날아가며, 공격자를 반격할 확률이 높아집니다."
+properties.shield.battleblaststun,폭발 시 기절 {}
+loadout.mode.hyperactive.desc,"괴물들이 빠르지만, 체력이 더 적습니다."
+upgrades.swordstabexplode.desc,"검에 폭탄을 달아, 검이 찌르는 첫 번째 적에게 폭발을 일으킵니다."
+upgrades.swordstabfast2.title,빠른 찌르기 2
+upgrades.converterefficientwater.desc,"물 변환이 더욱 효율적으로 변하지만, 더 오래 걸립니다."
+upgrades.orchardduration1.desc,과일의 지속시간을 증가시킵니다.
+loadout.difficulty.title,난이도
+exhibition.level.heading,아직 거기 있나요?
+level.gameover.unlock.gamemode,새 게임 모드
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,약화
+upgrades.teleporterteleportreactivate.title,반응성 개인용 텔레포트
+loadout.miner.scores,높은 점수를 달성하기위해 20 주기 동안 로켓으로 자원을 송출합니다. 위신 모드와 동일하지만 몬스터가 없습니다.
+options.audio,음향
+upgrades.repellentovercharge.desc,물을 이용해 탱크를 과충전하고 다음 방물제를 더 빨리 생산하게 합니다.
+upgrades.domewavemeter.title,적대 생물 근접 계량기
+upgrades.prospectionmeterrange2.desc,계측기의 탐지 범위를 더 증가시킵니다.
+upgrades.keeper2pinballreflectspeedup1.desc,구체가 반사되면 가속되고 더 오래 떠다니게 되는 힘을 가진다.
+upgrades.shieldoverchargestrength1.desc,과충전시 돔의 방어막이 흡수할 수 있는 방어력이 증가합니다.
+upgrades.repellentdelay1.desc,다음 괴물들의 웨이브 지연을 증가시킵니다.
+upgrades.repellentbattlelongerhealthreduction.title,강력한 약화
+upgrades.swordtargetlock.desc,"찌를 때, 검이 자동으로 첫 번째 적에게 목표를 고정합니다."
+upgrades.orchardovercharge.desc,"물을 이용해 과수원을 과충전하고, 더 많은 과일을 생산하게 합니다."
+upgrades.orchardbattlerootingmore.title,뿌리 강화
+upgrades.swordextendlong2.desc,보다 더 강화된 관통력과 더 정확함으로 날아갑니다.
+upgrades.swordstabfast1.title,빠른 찌르기 1
+upgrades.probelong1.desc,"탐지기의 알림 범위를 증가시키지만, 차지 슬롯 하나를 소모하게 합니다."
+upgrades.repellent.title,방물제
+worldmodifier.monsterwavesspaced.desc,괴물 웨이브 간격이 더 깁니다.
+upgrades.artilleryflakexplosionradius2.title,맹공 범위 2
+properties.drillbot.amount,채굴량 {}회
+upgrades.repellentdelay3.title,지연 3
+ending.appreciationmessage,"재밌는 시간이 되셨길 빕니다! 항상 피드백에 관심 기울이고 있으니, Discord 혹은 Steam 포럼으로 여러분의 생각을 알려주세요!"
+properties.orchard.battlerootexplosion,폭발 피해 {}
+upgrades.orchardduration3.desc,과일의 지속시간을 최대화합니다.
+upgrades.dome1damagereduction2.desc,돔의 표면을 강화해 괴물들의 근접 공격으로부터 받는 피해를 더 줄여줍니다. 투사체 공격에는 효과가 없습니다.
+properties.orchard.speedbuff,이동 속도 버프 {}
+upgrades.jetpackspeed2.desc,제트팩을 강화해 더 빠르게 움직입니다.
+upgrades.jetpackspeed3.desc,제트팩을 강화해 더 빠르게 움직입니다.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,설정
+properties.repellent.battledamageovertime,괴물이 초 당 받는 피해 {}
+upgrades.repellentoverchargestrength1.title,웨이브 지연 과충전 1
+upgrades.repellentoverchargestrength1.desc,과충전이 다음 웨이브 때의 지연 시간도 증가시킵니다.
+upgrades.blastminingproductiontime1.desc,폭발성 차지 생산에 필요한 시간을 감소시켜 줍니다.
+properties.teleporter.teleportresourcescooldown,자원 텔레포트 지속시간 {}초
+upgrades.artilleryflakmultishot1.desc,더 많은 투사체를 발사합니다.
+properties.converter.ironcobalttime,변환 시간 {} 주기
+options.title,설정
+options.video.graphicsmode.window,창 모드
+properties.shield.battlereflectspeedup,반사된 투사체 속도 {.percent}
+upgrades.swordaimline.title,조준선
+level.tutorial.drillbot.handling1,| 키를 유지해 드릴버트를 다시 집습니다.
+upgrades.probestage1.desc,"탐지기를 강화해, 더 잘 밝혀지게 합니다."
+level.tutorial.drillbot.handling2,| 키를 유지해 드릴버트가 땅 위에 있을 시 방향을 전환합니다.
+options.keybindings.rebinding.capture,재설정
+properties.prospectionmeter.range,범위 {}타일
+properties.stunlaser.speed,속도 {}
+properties.probe.impulsespeed,충격 속도 {}
+upgrades.domehealthmeter.title,체력 수치
+options.audio.music.frequency,빈도수 (음악 없는 주기)
+options.audio.volumes.soundvolume,소리 볼륨
+properties.sword.slicebounceback,모서리에 닿을 시 검 튕김
+upgrades.jetpackspeed4.desc,제트팩을 강화해 더 빠르게 움직입니다.
+worldmodifier.monsterfragile.desc,괴물의 체력이 더 적습니다.
+level.gameover.prestige.score.personalbest,새로운 개인 최고 점수!
+properties.prestige.baseperwave,{} 웨이브 당 기본 위신
+loadout.choices.comingsoon,"아직은 불가능하지만, 곧 추가됩니다."
+upgrades.doublelaser.desc,"두 번째 레이저 터렛을 설치하지만, 화력이 둘로 나뉩니다."
+upgrades.jetpackstrength2.title,운반력 2
+upgrades.keeper2bundlestopcenter.title,중력 중심
+properties.keeper2.spherelifetimeperbounce,튕김 당 추가 구체 수명 {}초
+upgrades.converterefficientcobalt.desc,"코발트 변환이 더욱 효율적으로 변하지만, 더 오래 걸립니다."
+properties.orchard.buffduration,버프 지속시간 {} 주기
+upgrades.domesandrepair.title,코발트 수리
+properties.keeper1.maxspeed,최대 속도 {}
+level.station.upgrademenu.cost,비용
+upgrades.lasermove1.title,이동 속도 1
+level.tutorial.sworddome.reflecting,반사
+loadout.petoptions.title,애완동물을 선택하세요!
+level.station.upgrademenu.inventory,소지품
+level.gameover.unlocknewelementbutton,해금할 것을 선택하세요
+level.gameover.proceedtounlock,새 요소를 해금합니다
+upgrades.artilleryshotcooldown2.desc,더 자주 발사할 수 있게 됩니다.
+level.gameover.keepgadget.title,다음 게임에 가져갈 도구를 선택하세요
+level.station.battle.navbar.shoot,사격
+upgrades.repellentbattlestrongerslowdown1.title,정체화
+upgrades.dome2.desc,공격자들을 무찌를 수 있는 역동적인 검으로 무장한 강력한 돔입니다.
+loadout.difficult.harder,어려움
+upgrades.condenserautocollect.title,자동 수집
+upgrades.orchard.title,과수원
+upgrades.keeper2pinballreflectspeedup2.desc,구체가 반사되면 강렬한 힘을 가진다.
+upgrades.laserstrength1.title,동력 1
+upgrades.lasermove2.title,이동 속도 2
+upgrades.shieldbattlereflectshortuses.desc,더 짧은 시간 동안 더 많이 반사하게 합니다.
+options.keybindings.action.keeper.drop,떨어뜨리기
+level.converter.popup.conversion.to,에서
+upgrades.repellent.desc,"괴물들을 쫓는 액체를 생산하는 탱크를 설치합니다. 활성화 시 돔의 밖에 살포해, 다음 공격자들의 웨이브를 지연시킵니다."
+properties.repellent.battlehealthreduction,괴물 체력 감소 {.percent}
+loadout.mode.hyperactive,빠르고 약함
+loadout.prestige.miner,Miner
+upgrades.converter.title,자원 변환기
+properties.condenser.waterstorage,물 {}개 저장
+upgrades.jetpackstrength2.desc,제트팩을 강화해 더 많은 자원을 옮깁니다.
+level.station.navbar.exit,나가기
+options.accessibility.photosensitivity.explanation,빛의 깜박임을 줄입니다.
+properties.orchard.overchargeadditionalabilityuses,과충전 후 추가 능력 사용 {}회
+worldmodifier.resourcepooriron.desc,행성에 철이 적습니다.
+level.gameover.backtomainmenu,메인 메뉴로 복귀
+upgrades.orchardbattlerooting.desc,돔 바깥에 뿌리를 자라게 해 전투 시 활성화하여 그 위를 지나가는 중형 괴물들을 가두게 합니다.
+upgrades.keeper2pinballreflect.desc,자신 주위에 강하고 작은 중력장으로 구체를 반사하세요.
+upgrades.laser.title,레이저
+options.game.tutorials.resettutorials,튜토리얼 초기화
+properties.converter.ironirontime,변환 시간 {} 주기
+loadout.secondstage.start,게임 시작
+upgrades.artilleryflakmultishot2.desc,더 많은 투사체를 발사합니다.
+upgrades.swordreflection2.desc,방어막 패드가 더 커집니다.
+upgrades.lasermove3.title,이동 속도 3
+upgrades.lasermove1.desc,레이저가 더 빠르게 움직입니다.
+properties.lift.orbs,구체 {}개
+level.station.battle.navbar.move,이동
+upgrades.orchardjetpack2.title,제트팩 속도 부스트 2
+options.audio.music,음악
+worldmodifier.resourceunpredicatableiron.desc,철 매장지가 보다 분산되어 있으며 예측하기 어렵습니다.
+properties.dome.maxhealth,체력 {}hp
+upgrades.condenserspeed1.title,생산 속도 1
+properties.repellent.battleuses,전투 시 사용 가능 횟수 {}회
+upgrades.shieldstrength3.desc,돔의 방어막이 흡수 가능한 방어력이 더 증가합니다.
+upgrades.drillbotbuffstrength2.title,타우린 추가
+upgrades.keeper2pinballreflectdamage2.desc,반사된 구체는 다음에 부딪히는 암석에 훨씬 더 큰 피해를 입힙니다.
+level.paused,일시 정지
+level.tutorial.sworddome.stabbing,찌르기
+upgrades.stunlaserspeed1.title,속도 1
+upgrades.domehealthmeter.desc,돔의 구조적 체력을 표시합니다.
+upgrades.swordlargeblade1.desc,"검신을 넓고 길게 만들어, 더 큰 피해를 입힙니다."
+pause.quitgame,게임 종료
+level.station.battle.navbar.slice,베기 
+level.gameover.stats.timeplayed,플레이 한 시간
+properties.teleporter.teleportresources,자원 텔레포트
+upgrades.drillbotstrength2.desc,드릴버트의 채굴력을 증가시킵니다.
+level.tutorial.drop.popup_2,| 키를 눌러 떨어뜨리세요. 유지 시 더 많이 떨어뜨립니다.
+level.gameover.keepgadget.keeping,가져갈 도구: {gadget}
+level.tutorial.drop.popup_1,싣고 다니는 자원 때문에 속도가 느려집니다.
+worldmodifier.maprugged.desc,광산이 거칠고 불규칙합니다.
+level.tutorial.onewayteleporter1,단방향 텔레포터를 발견했습니다!
+properties.sword.aimline,조준 예측
+upgrades.keeper2bundle.desc,부착된 광물은 구체를 쏘는 것과 같은 방법으로 묶어서 쏠 수 있습니다.
+level.tutorial.onewayteleporter2,| 키를 눌러 설치하세요.
+level.tutorial.onewayteleporter3,| 키를 다시 눌러 다시 텔레포트 합니다.
+properties.lift.capacity,구체가 {}개의 자원을 실을 수 있음
+properties.shield.battleabilityduration,능력 지속시간 {}초
+level.tutorial.teleporter.carry2,| 키를 눌러 포탈에 가까이 가서 다시 집으세요.
+level.tutorial.teleporter.carry3,"| 키를 누르면, 다시 텔레포트 합니다."
+upgrades.minerrefuel.desc,"물을 연료로 변환하여, 연료 저장고를 채우면 키퍼에게 연료를 주입할 수 있습니다."
+level.tutorial.teleporter.carry1,원하는 곳에 포탈을 놓을 수 있습니다.
+options.keybindings.cancel,취소
+level.tutorial.probe.popup_1,| 키를 눌러 탐지기 파를 발산합니다.
+upgrades.liftcarrykeeper2.desc,상승 속도를 더 빠르게 합니다.
+level.tutorial.probe.popup_3,"주변의 자원을 드러냅니다.
+스테이션에서 재충전할 수 있습니다."
+worldmodifier.resourcerichcobalt.desc,행성에 코발트가 많습니다.
+upgrades.keeper2pinballdamage4.desc,움직이는 구체가 암석에 가하는 피해를 증가시킵니다. 또한 회전 채광도 강화 합니다.
+properties.sword.stabexplosive,끝에 폭탄 달림
+properties.drillbot.turnaround,단단한 벽을 만날 시 회전
+upgrades.shieldstrength1.title,방어력 1
+properties.repellent.overchargewavedelay,추가 웨이브 지연 {}주기
+upgrades.swordreflection3.title,반사 3
+upgrades.dome1.desc,기본 채광형 돔. 정밀한 레이저로 무장했습니다.
+level.tutorial.drillbot.carry,탱크에서 드릴버트를 데려다가 채광이 필요한 광산에 놓으세요.
+upgrades.lift.desc,돔 내에 자원 정제소로 자원을 보내는 자동 기중기를 설치합니다.
+upgrades.dome1health2.desc,영구적으로 돔의 구조적 체력을 증강합니다.
+upgrades.converterefficientwater.title,능률적 물 변환
+loadout.difficulty.hard.description,내 돔이 부서지는 건 아니니까요.
+upgrades.artillerymultishot2.title,연쇄 사격 2
+upgrades.swordelectrified.title,검신 전기화
+upgrades.drillbotstrength3.desc,드릴버트의 채굴력을 증가시킵니다.
+upgrades.shieldbattleinvulnerable.title,무적
+upgrades.keeper2rotationalmining2.title,향상된 회전 채광
+upgrades.stunlaserautonomy1.title,자치권
+level.tutorial.teleporter.teleport1,"포탈 근처에 있다면, | 키를 눌러 다시 텔레포트 합니다."
+level.tutorial.teleporter.teleport2,다른 방향에서도 텔레포트도 가능합니다.
+level.gameover.prestige.uploading.failed,"업로드 실패, 재시도해주세요"
+upgrades.lasermove2.desc,레이저가 더 빠르게 움직입니다.
+loadout.mapsize.title,지도 크기
+level.gameover.miner.title,광부 게임 완료
+upgrades.blastminingblast1.title,폭발력 1
+upgrades.drillbotturnaround.desc,"파괴할 수 없는 벽을 만났을 때, 드릴버트는 낮잠을 자는 대신 몸을 돌려 일을 계속합니다."
+properties.dome.baserepair,{}hp 수리
+upgrades.condenserautoovercharge.desc,"주요 도구를 영구적으로 과충전 상태로 만들어, 물을 소모하지 않게 합니다. 과충전 후엔 응결기의 물 생산이 지연됩니다."
+upgrades.teleporterteleportresourcesback.desc,"포탈이 이제 자원을 전송하지만, 캐릭터를 전송하지 못합니다. 여전히 돔에서 포탈로 텔레포트는 가능합니다."
+ending.wishlistonsteam,Steam에서 찜하기
+properties.sword.reflection,방어막 패드 크기 증가
+upgrades.drillbotduplicate.desc,"드릴버트가 일란성 쌍둥이인, 드릴리암을 얻습니다."
+level.converter.popup.conversion.convert,변환
+leaderboard.loading,loading...
+properties.converter.watertoiron,철 1개에 필요한 물 {}개
+title.navbar.options,설정
+upgrades.swordexplosivereflection.desc,반사된 투사체가 명중할 경우 폭발합니다.
+upgrades.shieldbattlereflectshortuses.title,정기적 반사
+level.gameover.unlock.skin,새 스킨 해금됨!
+level.gameover.stats.destroyedblocks,파괴한 블럭
+options.keybindings.action.keeper.gravityball,차지 사격
+upgrades.orchardjetpack1.title,제트팩 속도 부스트 1
+upgrades.keeper1.desc,"숙련된, 훌륭한 채광 기술을 가진 능률적인 전문가입니다."
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,동력 3
+upgrades.orchardoverchargebuffduration.desc,과수원을 과충전한 후 과일의 효과 지속 시간이 길어집니다.
+upgrades.stunlaserduration1.title,내연성 1
+loadout.mode.maze.desc,"지도가 미로 같으며, 다양한 통로에 막힌 곳과 뒤틀린 곳이 가득합니다."
+properties.dome.healthfractionrepair,총 hp 중 {.percent} 수리
+upgrades.jetpackstrength3.desc,제트팩을 강화해 더 많은 자원을 옮깁니다.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,움직임 감지됨:
+upgrades.prospectionmetersand1.title,코발트 계측기
+upgrades.prospectionmeterwater1.desc,가장 가까운 물 매장지와의 거리를 표시합니다.
+upgrades.blastminingstickycharge.desc,"차지가 건드리는 첫 번째 벽에 붙으며, 원형으로 폭발하는 대신 해당 방향으로 일직선 터널을 뚫습니다."
+options.video,비디오
+title.navbar.updates,업데이트
+loadout.skin,스킨
+upgrades.drill2.title,채굴력 2
+level.gameover.win.title,돔을 지켜냈습니다
+level.station.navbar.battle,전투
+upgrades.converterirontocobalt.desc,"코발트를 철로, 역으로도 변환 가능하게 해줍니다."
+upgrades.keeper2rotationalmining2.desc,암석 경도를 초월하여 회전 채광의 피해량을 증가시킵니다.
+level.gameover.unlock.dome,새 돔
+pause.gamepadcontrols.pickup,집기
+options.video.graphicsmode.photosensitive,광과민성 모드
+upgrades.orchardduration2.desc,과일의 지속시간을 더 증가시킵니다.
+properties.dome.meleedamagereduction,근접 피해량 감소 {.percent}
+upgrades.domesandrepairstrong.desc,코발트로 돔을 수리합니다.
+options.input,입력
+properties.keeper2.spherereload,구체 재장전 {}s
+properties.blastmining.damage,피해량 {}
+upgrades.laserbend.title,회전식 머리 레이저
+upgrades.swordlargeblade3.desc,괴물 같은 검입니다. 굉장히 강력하지만 이동 속도가 느립니다.
+loadout.domeoptions.title,돔을 선택하세요!
+upgrades.shieldoverchargeduration1.desc,방어막을 재충전할 시 다음 웨이브 때의 방어막 전투 능력을 강화합니다.
+upgrades.probelong1.title,범위 증가
+options.keybindings.rebinding.inputprocessor,해당 액션에 대해 새로운 키를 입력해 주세요...
+properties.teleporter.teleportduration,텔레포트 지속시간 {}초
+upgrades.dome2health2.title,체력 2
+upgrades.drillbotduplicate.title,형제
+pause.quit.popup,"정말로 종료하시겠습니까?
+그러려면 다시 한 번 누르세요.
+(진행 과정이 저장됩니다.)"
+upgrades.prospectionmetersand1.desc,가장 가까운 코발트 매장지와의 거리를 표시합니다.
+upgrades.probepersist1.desc,"탐지기에 기억 모듈을 부착해, 자원의 위치를 오랫동안 기억하게 합니다."
+upgrades.artilleryshotcooldown2.title,쿨다운 2
+properties.keeper2.sphereadditionalfirsthitdamage,추가 첫 타격 피해 {.percent}
+upgrades.shieldbattledestructionprevention.title,최후의 보루
+level.gameover.unlock.pet,새 애완동물 해금됨!
+upgrades.repellentbattlelongerhealthreduction.desc,현존하는 모든 괴물의 약화 효과를 연장 및 증대시킵니다.
+ending.feedbackondiscord,Discord로 피드백하기
+properties.keeper2.reflectnexthitdamage,다음번 튕김에 반사 시 구체 추가 피해 {.percent}
+options.video.graphicsmode.borderlesswindow,경계 없는 창 모드
+upgrades.keeper2pinballlifetime1.desc,구체를 안정시켜 더 오래 떠다니게 합니다.
+level.gadgetchoice.title,도구를 집으세요!
+upgrades.keeper2bundle.title,보따리 사격
+upgrades.relichunt.title,유물 사냥
+loadout.mode.doubleiron.desc,"철광석이 두 배나 풍부하지만, 업그레이드 비용도 두 배나 든다."
+level.tutorial.repair.findcobalt,"코발트를 찾아보세요. 코발트로 돔을 수리할 수 있습니다.
+코발트는 귀하며 한정되어 있습니다."
+upgrades.keeper2pinballsplit.title,분할 구체
+options.input.controls.text,게임패드와 함께 시 최적의 경험 가능.
+landing.proceed,아무 버튼이나 눌러 계속
+upgrades.keeper2pinballmorespheres1.desc,중력 발전기에 모듈을 하나 더 추가하여 더 많은 구체를 모을 수 있습니다.
+upgrades.jetpackstrength4.desc,제트팩을 강화해 더 많은 자원을 옮깁니다.
+upgrades.orchardbattleshieldsecondlayer.desc,투사체 방어막을 한 층 더 깝니다.
+level.converter.popup.conversion.time,{time} 주기 이상
+properties.keeper2.maxspeed,최대 속도 {}
+properties.laser.aimline,조준선
+upgrades.shieldstrength2.desc,돔의 방어막이 흡수할 수 있는 방어력이 더 증가합니다.
+upgrades.repellentovercharge.title,방물제 과충전
+properties.drillbot.buffstrength,속도 강화 {.percent}
+worldmodifier.hardnesssofter.desc,광산에 무른 곳이 더 많습니다.
+level.tutorial.pickup.popup_1,| 키를 눌러 자원을 들어 올리세요.
+level.tutorial.pickup.popup_3,유지 시 더 많은 자원을 들어 올립니다.
+pause.gamepadcontrols.drop,떨어뜨리기
+level.tutorial.fruit.popup_1,과수원이 첫 번째 과일을 맺었습니다.
+level.tutorial.fruit.popup_2,"옆에서, | 키를 눌러 소모합니다."
+worldmodifier.mapwide.desc,광산이 더 넓고 얕습니다.
+upgrades.prestigefinishnocobalt.desc,행성을 떠나 고향으로 돌아갑니다.
+upgrades.prospectionmeteriron2.title,철 나침반
+upgrades.keeper2movement2.title,중력 이동 2
+options.keybindings.gamepad,게임패드
+ending.backtomainmenu,메인 메뉴로 복귀
+pause.gamepadcontrols.back,뒤로
+upgrades.shield.title,방어막
+upgrades.blastmining.title,폭발성 채광
+upgrades.converterirontocobalt.title,코발트 변환
+upgrades.swordstabfast1.desc,더 빠르고 자주 찌를 수 있게 됩니다.
+level.gameover.prestige.score.rankunchanged,랭크에 변동은 없습니다.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,포탈이 플레이어를 텔레포트 시키는 능력을 회복합니다.
+upgrades.orchardjetpack3.title,제트팩 속도 부스트 3
+level.gameover.unlock.mapsize,새 지도 크기 해금됨!
+upgrades.domeresourcecounters.title,소지품
+level.gameover.keepgadget.none,없음
+upgrades.stunlaserdamage1.desc,기절 레이저로 가격 시 작은 피해를 입힙니다.
+properties.repellent.battleabilityduration,능력 지속시간 {}초
+upgrades.prestigeiron.desc,"철을 전송하며, 웨이브마다 1위신을 얻습니다."
+upgrades.teleporter.title,텔레포터
+ending.teasemessage,향후 등장할 요소 일부:
+loadout.relichunt.modifiers,보정을 선택하세요
+options.accessibility,접근성
+loadout.mapsize.small.description,짧은 세션을 위한 소형 지도입니다.
+upgrades.shieldbattleblastdamage.desc,전격 폭발의 피해량과 기절 확률을 증가시킵니다.
+options.translation.community.desc,해당 언어들은 커뮤니티에서 번역되는 것입니다. 원하시면 참여해보세요!
+upgrades.prospectionmeterwater2.desc,가장 가까운 물 매장지와의 거리를 표시합니다.
+upgrades.stunlaserdamage2.title,피해 2
+options.keybindings.action.keeper.gadget1,도구 1
+options.keybindings.action.keeper.gadget2,도구 2
+properties.repellent.wavedelay,웨이브 지연 {}주기
+options.ok,확인
+upgrades.swordblade1.desc,검의 절삭력과 이동 속도를 증가시킵니다.
+upgrades.shieldoverchargeduration2.title,전투 능력 지속시간 과충전 2
+properties.sword.slicedamage,절삭 피해 {} 
+properties.condenser.autocollect,자동 수집
+properties.keeper2.directminingdamage,높은 회전 채광 피해
+upgrades.keeper2bundlestopcenter.desc,사격된 보따리는 중심축을 지나 날아가는 대신 돔 바로 아래에 머물 것이다.
+upgrades.orchardduration1.title,지속시간 1
+upgrades.drillbotbuffstrength1.title,영양가 넘치는 간식
+upgrades.liftcarrykeeper2.title,키퍼 기중기 2
+upgrades.shieldoverchargestrength2.desc,과충전시 돔의 방어막이 흡수할 수 있는 방어력이 더 증가합니다.
+upgrades.repellentbattleslowdown.title,쇠약화
+upgrades.artilleryshotprediction.title,사격 예측
+upgrades.repellentdelay3.desc,다음 괴물들의 웨이브 지연을 더 증가시킵니다.
+upgrades.teleporter.desc,돔 아래 스테이션과 광산 내에 설치한 지점을 오갈 수 있게 해주는 양방향 텔레포터를 설치합니다.
+level.gameover.stats.monsterskilled,죽인 괴물
+upgrades.keeper2pinballreflect.title,구체 반사
+upgrades.drillbotstrength3.title,채굴력 3
+upgrades.shieldbattlereflectspeedup.title,반사 가속화
+upgrades.probeswift1.title,쾌속 탐지기
+options.game.events.enableseasonal,계절별 컨텐츠 활성화
+upgrades.repellentbattledamageovertime.title,독성 매연
+upgrades.dome3health2.title,체력 2
+loadout.mapsize.huge,거대형
+properties.repellent.overchargebattleabilityduration,추가 능력 지속시간 {.percent}
+options.keybindings.action.keeper.gravitycollect,차지 수집
+loadout.miner.scores.title,점수
+properties.lift.speed,구체 속도 {}
+upgrades.drillbotstrength1.title,채굴력 1
+level.tutorial.repellent.popup_2,"근처에서, | 키를 눌러 활성화합니다."
+level.tutorial.repellent.popup_1,방물제가 다음 웨이브를 지연시킬 준비가 되었습니다.
+properties.orchard.growthtime,성장 시간 {} 주기
+properties.keeper2.spherefractiondamage,구체 암석 경도 초월 피해 {.percent}
+properties.sword.brake,검 민첩성 {}
+upgrades.artilleryflakmultishot2.title,맹공 다중 사격 2
+upgrades.swordstabfast2.desc,더 빠르고 더 자주 찌를 수 있게 됩니다.
+upgrades.sword.desc,튼튼한 검. 빠르게 움직일수록 더 큰 피해를 입힙니다. 발사시켜 적들을 찌를 수 있고 투사체를 막을 수 있는 방어막 패드가 있습니다.
+upgrades.artilleryflakmultishot1.title,맹공 다중 사격 1
+upgrades.artilleryshotprediction.desc,발사된 수류탄의 예측되는 궤적을 표시합니다.
+upgrades.shieldbattlereflect.desc,다가오는 투사체를 짧은 시간 동안 반사하는 전투 능력을 활성화합니다.
+upgrades.orchardbattleshieldstrong.title,방어막 강화
+upgrades.swordlongblade1.title,장검 1
+level.station.battle.navbar.stab,찌르기
+properties.converter.irontowater,물 1개에 필요한 철 {}개
+upgrades.minoriron.title,철 전송
+upgrades.keeper2bundleinfinite.desc,보따리는 매우 오랫동안 안정적으로 유지됩니다.
+worldmodifier.resourcedesc,"철 매장지거 더 적지만, 그 크기가 큽니다."
+options.keybindings.action.keeper,키퍼
+upgrades.drillbotstrength4.desc,드릴버트의 채굴력을 증가시킵니다.
+upgrades.swordstabexplodedamage.title,폭발 피해
+upgrades.prospectionmeterwater2.title,물 나침반
+loadout.keeperoptions.title,키퍼를 선택하세요!
+properties.probe.range,{} 타일 범위
+upgrades.orchardbattleshield.title,투사체 방어막
+loadout.mapsize.large,대형
+properties.keeper2.reflectsphere,다가오는 구체 반사
+upgrades.orchardbattlerooting.title,덫 뿌리
+properties.repellent.growthtime,생산 시간 {} 주기
+properties.converter.irontocobalt,코발트 1개에 필요한 철 {}개
+upgrades.dome3health1.desc,영구적으로 돔의 구조적 체력을 증강합니다.
+upgrades.teleporterteleportresourcescooldown.title,텔레포트 쿨다운
+upgrades.shieldovercharge.desc,"물을 이용해 수동으로 방어막을 과충전하고, 다음 웨이브 때 더 큰 피해를 흡수할 수 있게 합니다."
+upgrades.stunlaserspeed2.title,속도 2
+upgrades.drillbotbuff1.desc,간식은 돔 아래 둥지에서 자라납니다. 드릴버트에게 가져다주면 행복하게 먹어치우고 다시 기운을 차리게 됩니다.
+options.keybindings.action.dome.battle,전투 모드
+upgrades.orchardovercharge.title,과수원 과충전
+properties.teleporter.teleportresourcesarea,텔레포트 범위 {}타일
+upgrades.swordreflection1.desc,방어막 패드 크기를 증가시켜 에너지 투사체를 반사하게 합니다.
+upgrades.blastminingblast2.title,폭발력 2
+upgrades.swordreflection1.title,반사 1
+upgrades.keeper2pinballlifetime2.desc,구체를 안정시켜 더 오래 떠다니게 합니다.
+options.keybindings.action.general.left,왼쪽
+properties.laser.movespeed,이동 속도 {}
+upgrades.dome3health2.desc,영구적으로 돔의 구조적 체력을 증강합니다.
+upgrades.drillbotstrength2.title,채굴력 2
+options.keybindings.rebinding,키 재설정
+level.tutorial.assessor.carry.desc1_1,"물체가 잡히면, 수집 키를 놓아도 따라갑니다."
+upgrades.keeper2pinballdamage1.title,움직이는 구체 피해 1
+upgrades.stunlaserspeed2.desc,기절 레이저가 더 빠르게 움직이며 쿨다운 중에 괴물들을 추적합니다.
+options.keybindings.title,버튼 설정
+upgrades.keeper2pinballmorespheres2.desc,중력 발전기에 모듈을 하나 더 추가하여 더 많은 구체를 모을 수 있습니다.
+level.gameover.prestige.uploading.finalfailed,새로운 점수 업로드에 실패했습니다. 죄송합니다!
+upgrades.blastminingblast1.desc,폭발력을 증가시킵니다.
+upgrades.stunlaserduration2.desc,기절 레이저의 쿨다운이 더 빨라지며 더 오래 발사됩니다.
+upgrades.prospectionmetersand2.desc,가장 가까운 코발트 매장지와의 거리를 표시합니다.
+pause.gamepadcontrols.move,이동
+properties.probe.charges,{}회 차지
+upgrades.shieldstrength2.title,방어력 2
+loadout.prestige.cobalt.description,"지도에 코발트가 없으며 생산할 수도 없지만, 많이 들고 시작합니다."

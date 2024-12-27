@@ -1,0 +1,77 @@
+[gd_scene load_steps=14 format=2]
+
+[ext_resource path="res://content/shared/HighlightShader.material" type="Material" id=1]
+[ext_resource path="res://content/gadgets/blastMining/focussed.png" type="Texture" id=2]
+[ext_resource path="res://content/gadgets/blastMining/carried.png" type="Texture" id=3]
+[ext_resource path="res://content/caves/bombcave/cavemine_sheet.png" type="Texture" id=4]
+[ext_resource path="res://content/caves/bombcave/CaveBomb.gd" type="Script" id=5]
+[ext_resource path="res://content/sounds/Locations/BlastMiner/ActivateCountdown.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/sounds/Locations/BlastMiner/CountDownTick.wav" type="AudioStream" id=7]
+
+[sub_resource type="AtlasTexture" id=2]
+atlas = ExtResource( 4 )
+region = Rect2( 0, 0, 21, 18 )
+
+[sub_resource type="AtlasTexture" id=3]
+atlas = ExtResource( 4 )
+region = Rect2( 21, 0, 21, 18 )
+
+[sub_resource type="AtlasTexture" id=4]
+atlas = ExtResource( 4 )
+region = Rect2( 42, 0, 21, 18 )
+
+[sub_resource type="AtlasTexture" id=5]
+atlas = ExtResource( 4 )
+region = Rect2( 63, 0, 21, 18 )
+
+[sub_resource type="SpriteFrames" id=6]
+animations = [ {
+"frames": [ SubResource( 2 ), SubResource( 3 ) ],
+"loop": true,
+"name": "normal",
+"speed": 5.0
+}, {
+"frames": [ SubResource( 4 ), SubResource( 5 ) ],
+"loop": true,
+"name": "activated",
+"speed": 8.0
+} ]
+
+[sub_resource type="CircleShape2D" id=1]
+radius = 7.0
+
+[node name="CaveBomb" type="RigidBody2D" groups=["saveable", "unstyled"]]
+z_index = 23
+collision_layer = 554
+collision_mask = 2
+contacts_reported = 1
+contact_monitor = true
+can_sleep = false
+angular_damp = 5.0
+script = ExtResource( 5 )
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+position = Vector2( -1, 0 )
+frames = SubResource( 6 )
+animation = "normal"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource( 1 )
+
+[node name="CarrySprite" type="Sprite" parent="."]
+texture = ExtResource( 3 )
+
+[node name="FocusSprite" type="Sprite" parent="."]
+material = ExtResource( 1 )
+z_index = 30
+texture = ExtResource( 2 )
+
+[node name="ActivateSound" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 6 )
+volume_db = 6.19
+
+[node name="CountdownSound" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource( 7 )
+volume_db = -7.464
+pitch_scale = 1.26
+max_distance = 500.0

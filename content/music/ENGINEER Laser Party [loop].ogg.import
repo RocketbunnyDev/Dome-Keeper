@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ENGINEER Laser Party [loop].ogg-5f18f6c84a387777b9214b932f6f26e2.oggstr"
+
+[deps]
+
+source_file="res://content/music/ENGINEER Laser Party [loop].ogg"
+dest_files=[ "res://.import/ENGINEER Laser Party [loop].ogg-5f18f6c84a387777b9214b932f6f26e2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

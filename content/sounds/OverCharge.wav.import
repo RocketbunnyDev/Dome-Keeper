@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/OverCharge.wav-76a141178f794bcee8b851721eaddcaf.sample"
+
+[deps]
+
+source_file="res://content/sounds/OverCharge.wav"
+dest_files=[ "res://.import/OverCharge.wav-76a141178f794bcee8b851721eaddcaf.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

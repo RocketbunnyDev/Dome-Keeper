@@ -1,0 +1,78 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://systems/audio/Audio.gd" type="Script" id=1]
+[ext_resource path="res://content/sounds/dome1/Underground amb.wav" type="AudioStream" id=2]
+[ext_resource path="res://content/shared/AmbienceFade.gd" type="Script" id=3]
+[ext_resource path="res://content/sounds/Biomes/Cave_05.wav" type="AudioStream" id=4]
+[ext_resource path="res://content/sounds/Biomes/Cave_01.wav" type="AudioStream" id=5]
+[ext_resource path="res://content/sounds/Biomes/Cave_03.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/sounds/Biomes/Cave_02.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/sounds/Biomes/Cave_04.wav" type="AudioStream" id=8]
+
+[node name="Audio" type="AudioStreamPlayer"]
+pause_mode = 2
+script = ExtResource( 1 )
+
+[node name="MusicTween" type="Tween" parent="."]
+
+[node name="SoundTween" type="Tween" parent="."]
+
+[node name="BattleTween" type="Tween" parent="."]
+
+[node name="AmbienceMineGrey" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 2 )
+volume_db = -80.0
+pitch_scale = 1.11
+bus = "Ambience"
+script = ExtResource( 3 )
+
+[node name="AmbienceMineGreen" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 5 )
+volume_db = -80.0
+pitch_scale = 0.99
+bus = "Ambience"
+script = ExtResource( 3 )
+
+[node name="AmbienceMinePurple" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 7 )
+volume_db = -80.0
+pitch_scale = 1.03
+bus = "Ambience"
+script = ExtResource( 3 )
+
+[node name="AmbienceMineBlue" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 8 )
+volume_db = -80.0
+pitch_scale = 1.04
+bus = "Ambience"
+script = ExtResource( 3 )
+
+[node name="AmbienceMineYellow" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 4 )
+volume_db = -80.0
+pitch_scale = 0.81
+bus = "Ambience"
+script = ExtResource( 3 )
+
+[node name="AmbienceMineRed" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 6 )
+volume_db = -80.0
+pitch_scale = 1.22
+bus = "Ambience"
+script = ExtResource( 3 )
+
+[node name="Music" type="AudioStreamPlayer" parent="."]
+bus = "Music"
+
+[node name="BattleMusic" type="AudioStreamPlayer" parent="."]
+autoplay = true
+bus = "Music"
+
+[node name="MuteSoundTween" type="Tween" parent="."]
+
+[node name="StingerTween" type="Tween" parent="."]
+
+[node name="Stinger" type="AudioStreamPlayer" parent="."]
+
+[connection signal="finished" from="Music" to="." method="_on_Music_finished"]
+[connection signal="finished" from="Stinger" to="." method="_on_Stinger_finished"]

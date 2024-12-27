@@ -1,0 +1,941 @@
+﻿key,th_TH
+loadout.prestige.title,ปรับแต่งความหลากหลาย
+upgrades.shieldbattleelectroblast.title,ระเบิดสายฟ้า
+properties.dome.maxhealth,พลังชีวิต {} หน่วย
+options.keybindings.action.general.move,เคลื่อนที่
+options.video.stretchmode.rezised,ปรับขนาด
+level.gameover.unlock.world,ปลดล็อคโลกใหม่!
+upgrades.blastminingwaterless.desc,ไม่ใช้น้ำในการผลิตอีกต่อไป แต่ผลิตนานขึ้น
+properties.blastmining.growthtime,เวลาการผลิต {} รอบ
+properties.laser.stun,ความแรงสตั้น {}
+exhibition.level.instruction,กดปุ่มกดปุ่มใดก็ได้ เพื่อเล่นต่อ
+pause.godot,สร้างโดย Godot
+upgrades.orchardjetpack2.desc,บัพผลไม้เพิ่มความเร็วการเคลื่อนที่ให้เร็วมากขึ้น
+upgrades.artillery.title,ปืนใหญ่
+upgrades.condenser.desc,ติดตั้งเครื่องกลั่นใต้โดมเพื่อผลิตทรัพยากรน้ำด้วยการกลั่น
+properties.lift.keeperupwardsspeed,ความเร็วผู้พิทักษ์ขณะอยู่บนลิฟต์ {}
+level.tutorial.fullscreen.continue,เล่นต่อ
+upgrades.dome1damagereduction2.title,เคลือบแข็ง 2
+upgrades.orchardduration2.title,ระยะเวลา 2
+upgrades.condenserautoovercharge.title,โอเวอร์ชาร์จอัตโนมัติ
+upgrades.keeper2pinballreflectdamage2.title,ดาเมจสะท้อน 2
+loadout.title,CHOOSE YOUR LOADOUT
+level.tutorial.teleporter_2,ใช้วาร์ปที่สถานีเพื่อวาร์ปไปหาประตูวาร์ป หรือจะย้อนกลับก็ได้
+options.keybindings.action.general.up,ขึ้น
+level.converter.popup.cancel,ยกเลิก
+properties.keeper.domefuel,เติมเชื้อเพลิง {}
+properties.shield.battleactivateondepletion,เปิดใช้สกิลเมื่อเกราะหมดลง
+loadout.difficulty.veryeasy,ปานกลาง
+properties.sword.reflectprojectilesexplosive,สะท้อนการโจมตีและระเบิดออก
+upgrades.swordlargeblade3.title,ดาบยักษ์ 3
+upgrades.orcharddrill2.title,เสริมพลังขุด 2
+loadout.prestige.normal.description,ส่งทรัพยากรเพื่อรับแต้มเกียรติยศแด่หมู่ผู้พิทักษ์
+upgrades.keeper2pinballreflectdamage1.desc,สะท้อนบอลพลังงานออกไปทำความเสียหายมากขึ้นในการกระทบครั้งถัดไป
+options.input.gamepad,จอยสติ๊ก
+loadout.choices.locked,ยังไม่ปลดล็อก
+upgrades.condenserspeed1.desc,ลดเวลาที่ใช้ในการสร้างทรัพยากรน้ำ 1 หยด
+upgrades.shieldbattleinvulnerable.desc,เปิดใช้สกิลต่อสู้เพื่อทำให้โดมไม่ได้รับความเสียหายชั่วคราว
+upgrades.domewavemeter.desc,แสดงเวลาจนกระทั่งการจู่โจมรอบถัดไปของศัตรูจะมาถึง
+upgrades.keeper2pinballreflectspeedup2.title,สะท้อนขั้นสูง
+upgrades.keeper2movement1.desc,เพิ่มประสิทธิภาพของเครื่องกำเนิดแรงโน้มถ่วงเพื่อคลื่อนที่อย่างรวดเร็ว
+upgrades.repellentoverchargeduration2.desc,หลังจากเปิดใช้งานโอเวอร์ชาร์จจะทำให้สกิลต่อสู้ของคุณในการจู่โจมถัดไปมีระยะเวลานานมากขึ้น
+upgrades.laserhitprojectiles.desc,ทำลายการโจมตีของศัตรูด้วยเลเซอร์
+options.keybindings.action.keeper.pickup,ยกของ
+upgrades.keeper2pinballdamage1.desc,เพิ่มดาเมจให้กับบอลพลังงานเมื่อกระแทกกับหิน และยังเพิ่มดาเมจให้กับการขุดแบบหมุนอีกด้วย
+upgrades.keeper2pinballdamage3.title,เพิ่มความแรงบอลพลังงาน 3
+options.video.graphicsmode.enablevsync,เปิด VSync
+options.translation.community,เสร็จไปแล้ว {completion}%
+loadout.difficult.harder,ยากขึ้น
+worldmodifier.resourcerichiron.desc,โลกนี้มีทรัพยากรเหล็กจำนวนมาก
+loadout.miner.fuel,เติมเชื้อเพลิงของผู้พิทักษ์ด้วยน้ำ
+upgrades.prestigeiron.title,ส่ง เหล็ก
+upgrades.stunlaserspeed1.desc,สตั้นเลเซอร์เคลื่อนที่เร็วขึ้น
+upgrades.keeper2pinballdamage2.desc,เพิ่มดาเมจให้กับบอลพลังงานเมื่อกระแทกกับหิน และยังเพิ่มดาเมจให้กับการขุดแบบหมุนอีกด้วย
+upgrades.drill1.title,ความแรงสว่าน 1
+upgrades.prospectionmetersand2.title,เข็มทิศ โคบอล์ท
+upgrades.dome1health1.desc,เพิ่มความแข็งแรงให้กับโครงสร้างโดมอย่างถาวร
+loadout.secondstage.start,เริ่มเกม
+properties.repellent.overchargeduration,เพิ่มความเร็วการผลิตสารขับไล่ {} รอบ
+properties.sword.retractspeed,ความเร็วการถอย {} 
+upgrades.lasermove3.desc,เพิ่มความเร็วเลเซอร์สูงสุด
+upgrades.stunlaser.title,สตั้นเลเซอร์
+options.keybindings.action.general.use,ใช้
+worldmodifier.monsterfeeble.desc,มอนสเตอร์มีดาเมจน้อยลง
+upgrades.shield.desc,ติดตั้งเกราะป้องกันให้กับโดมเพื่อดูดซับความเสียหาย และรีชาร์จโดยอัตโนมัติ
+options.video.stretchmode.rezised.text,"เรนเดอร์เกมด้วยความคมชัดดั้งเดิมของหน้าจอ
+ภาพที่ได้จะคมมากขึ้น แต่อาจจะมีข้อผิดพลาดเกิดเส้นขนาด 1 พิกเซลขึ้นได้"
+upgrades.orchardbattlerootingexplosion.desc,เปิดใช้งานอีกครั้งเพื่อระเบิดมอนสเตอร์ที่ติดกับดัก ระเบิดทำความเสียหายบริเวณใกล้เคียงด้วย
+loadout.mapsize.small,เล็ก
+upgrades.probe.desc,ติดตั้งสแกนเนอร์กับชุดเมื่อเปิดใช้งานจะส่งคลื่นออกไปเพื่อหาตำแหน่งของทรัพยากรบริเวณใกล้เคียง จำเป็นต้องชาร์จใหม่อีกครั้งที่จุดชาร์จในโดม
+upgrades.swordlongblade1.desc,ติดตั้งดาบที่ยาวขึ้น และเร็วขึ้น
+upgrades.dome1health1.title,พลังชีวิต 1
+upgrades.blastminingwaterless.title,ไม่ใช้น้ำ
+level.tutorial.assessor.carry,รวบรวมแรงโน้มถ่วง
+upgrades.liftspeed1.desc,ลูกแก้วเคลื่อนที่เร็วขึ้น
+upgrades.shieldstrength1.desc,เกราะดูดซับความเสียหายได้เพิ่มขึ้น
+upgrades.orchardbattleshieldsecondlayer.title,โล่สองชั้น
+upgrades.teleporterteleportresourcescooldown.desc,ประตูวาร์ปจัดส่งทรัพยากรไวขึ้น
+options.input.gamepad.autoswitch,ตรวจหาจอยสติ๊กโดยอัตโนมัติ
+level.gameover.unlock.modifiers,ปลดล็อคส่วนปรับแต่งโลกใหม่!
+properties.sword.slicebrake,ความเร็วที่เสียไปจากการฟันดาบ {.percent}
+loadout.mapsize.medium,ปานกลาง
+properties.sword.sliceacceleration,ความเร็วดาบ {}
+options.input.gamepad.gamepadstickdeadzone.text,"ตั้งค่าบริเวณที่ไม่ตอบสนองต่อก้านอนาล็อก แถบแสดงการตอบสนองจะไม่ขยับ หากคุณเพียงแค่แตะเบาๆโดยไม่ได้ออกแรง
+หากคุณออกแรงดันก้านอนาล็อก แถบแสดงการตอบสนองจะขยับตาม"
+options.accessibility.highlightmonsters.explanation,วาดเส้นแสงตามขอบของมอนส์เตอร์เพื่อให้มองเห็นได้ง่ายขึ้น
+properties.upgrade.gameover,สิ้นสุด
+upgrades.blastminingstickycharge.title,ระเบิดเหนียวหนึบ
+upgrades.shieldoverchargestrength2.title,โอเวอร์ชาร์จเกราะแกร่ง 2
+upgrades.blastminingblast2.desc,เพิ่มความรุนแรงระเบิดอย่างมาก
+upgrades.repellentbattlestrongerslowdown2.title,อ่อนเปลี้ย
+upgrades.converter.desc,แปรเปลี่ยนทรัพยากรที่มีอยู่ ช่วยให้ทรัพกรในช่องสัมภาระสมดุลมากขึ้น
+loadout.proceed,ต่อไป
+upgrades.repellentbattleslowdown.desc,พ่นหมอกระหว่างต่อสู้ให้มอนสเตอร์เคลื่อนที่ช้าลง
+loadout.mapsize.medium.description,แผนที่มาตรฐานเหมาะสำหรับการขุดเพลินๆ
+properties.orchard.overchargeadditionalbuffduration,เพิ่มระยะเวลาบัพ {} รอบ หลังจากเปิดใช้โอเวอร์ชาร์จ
+options.translation.community.title,งานแปลจากผู้เล่น
+upgrades.blastminingtriple.title,สามชาร์จ
+worldmodifier.hardnessextremes.desc,เหมืองเต็มไปด้วยหินที่ทั้งแข็งที่สุดและอ่อนนุ่ม
+level.station.battle.navbar.exit,ออก
+upgrades.keeper2pinballlifetime2.title,บอลพลังงานคงทน 2
+upgrades.prestigeiron.desc,ส่งเหล็กกลับเพื่อรับแต้มเกียรติยศในเเต่ละรอบ
+properties.dome.baserepair,ซ่อมแซมพลังชีวิต {} หน่วย
+upgrades.migration.title,ย้ายถิ่นฐาน
+upgrades.converterefficientcobalt.title,แปรเปลี่ยนโคบอล์ทดีขึ้น
+upgrades.shieldbattledestructionprevention.desc,"เมื่อโดมถูกทำลายจะเรียกใช้สกิลอมตะชั่วคราว หลังจากนั้นเกราะของโดมจะใช้งานไม่ได้ในการจู่โจมถัดไป ยืดหยัดสู้จะสามารถใช้ได้อีกครั้งหลังจากจบ 2 รอบการโจมตี
+"
+upgrades.drill1.desc,เพิ่มความแรงของสว่านเพื่อการขุดที่เร็วขึ้น
+level.gameover.retry,เริ่มเกมใหม่
+properties.orchard.overchargeduration,ผลไม้โตเร็วขึ้น 2 เท่า {} รอบ
+upgrades.dome2health1.title,พลังชีวิต 1
+level.tutorial.station.popup_4,แล้วกด | เพื่อเริ่มโหมดจู่โจม และป้องกันโดม
+level.gameover.stats.timeplayed.unit,นาที
+upgrades.repellentbattlestrongerslowdown2.desc,พ่นหมอกให้มอนสเตอร์ช้าลงมากยิ่งขึ้นและยาวนานขึ้น
+loadout.gadgetoptions.title,เลือกแกดเจ็ตหลัก
+level.tutorial.station.popup_2,เคลื่อนที่ไปที่สถานี และกด | เพื่อเข้าใช้
+upgrades.dome1damagereduction1.desc,เสริมความแข็งแรงให้กับผิวโดมเพื่อรับดาเมจน้อยลงจากการโจมตีของมอนสเตอร์ระยะประชิด ระยะไกลไม่มีผล
+level.tutorial.station.popup_1,โดมของคุณกำลังถูกโจมตี!
+upgrades.keeper2movement3.title,การลอยตัว 3
+upgrades.jetpackspeed1.desc,ปรับปรุงไอพ่นให้เคลื่อนที่เร็วขึ้น
+properties.converter.ironwatertime,{} รอบ ในการแปรเปลี่ยน
+level.tutorial.sworddome.slicing.desc,แกว่งดาบเร็วขึ้น ทำดาเมจได้มากขึ้น
+upgrades.liftorbs.desc,เพิ่มลูกแก้วในการขนส่งทรัพยากร
+upgrades.proberecharge.desc,สแกนเนอร์จะรีชาร์จอีกครั้งเมื่อเวลาผ่านไป
+loadout.gadget,แกดเจ็ต
+upgrades.drill4.title,ความแรงสว่าน 4
+properties.probe.rechargetime,เวลารีชาร์จ {} รอบ 
+upgrades.keeper2pinballdamage4.title,เพิ่มความแรงบอลพลังงาน 4
+options.game,เกม
+loadout.prestige.cobalt,โคบอล์ท คงที่
+options.game.screenshake.shakeintensity,ระดับการสั่น
+upgrades.liftcapacity1.desc,ลูกแก้วขนส่งของได้มากขึ้น
+loadout.miner.title,เลือกการตั้งค่าในการเล่น
+level.gameover.stats.difficulty,ระดับความยาก
+upgrades.repellentoverchargestrength2.title,โอเวอร์ชาร์จยืดเวลา 2
+upgrades.domesandrepairstrong.title,ซ่อมแซ่มด้วยโคบอลต์จำนวนมาก
+upgrades.stunlaserduration1.desc,สตั้นเลเซอร์ทำงานได้ไวขึ้นและยิงได้นานขึ้น
+level.gameover.prestige.score.rankimproved,เพิ่มระดับของคุณเป็น {rank}
+upgrades.stunlaserdamage2.desc,เพิ่มดาเมจของสตั้นเลเซอร์มากขึ้น
+upgrades.drillbotstrength4.title,เพิ่มพลังขุด 4
+level.gameover.prestige.title,สิ้นสุดรอบเกียรติยศ
+loadout.secondstage.cancel,ยกเลิก
+upgrades.laseraimline.desc,เพิ่มเส้นวิถีของเลเซอร์ เพื่อแสดงวิถีว่ากำลังเล็งไปที่ใด
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,เครื่องกลั่นจะผลิตทรัพยากรน้ำ 2 หยด ก่อนหยุดทำงาน
+upgrades.swordreflection2.title,สะท้อน 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,เพิ่มความแรงของสว่านเพื่อการขุดที่เร็วขึ้น
+properties.laser.hitprojectiles,เลเซอร์ทำลายการโจมตีของศัตรู
+upgrades.dome1damagereduction1.title,เคลือบแข็ง 1
+properties.sword.stabexplosivedamage,ดาเมจระเบิด {}
+upgrades.drillbotturnaround.title,ฝึกขั้นสูง
+upgrades.keeper2movement1.title,การลอยตัว 1
+properties.orchard.battleroots,รากไม้ {} รากขึ้นมาจากใต้ดิน
+upgrades.prospectionmeterrange2.title,เพิ่มระยะ 2
+upgrades.jetpackspeed4.title,ความเร็ว 4
+upgrades.miner.title,คนเหมือง
+upgrades.repellentdelay1.desc,ยืดเวลาของการจู่โจมถัดไปให้นานขึ้น
+upgrades.orchard.desc,ปลูกต้นไม้ในโดมจะออกผลไม้ที่เสริมประสิทธิภาพในการเคลื่อนที่และการขุด
+upgrades.artilleryflakexplosionradius1.title,ขนาดกระสุน 1
+upgrades.shieldbattleelectroblast.desc,เปิดใช้สกิลต่อสู้เพื่อปลดปล่อยระเบิดสายฟ้ารอบโดมของคุณเป็นช่วงเวลาสั้นๆ
+upgrades.shredgadgettocobalt.desc,แทนอุปกรณ์ด้วย {amount} โคบอล์ท
+upgrades.prestigecobalt.title,ส่งโคบอลต์
+properties.orchard.drillbuff,บัพเพิ่มพลังขุด {}
+upgrades.swordlargeblade2.desc,ติดตั้งดาบอันใหญ่โต เคลื่อนที่ได้ช้าแต่แรง
+level.gameover.back,กลับ
+loadout.abort,ยกเลิก
+options.keybindings.action.dome.fire,ยิง
+upgrades.swordstabshoot.title,หอก
+upgrades.blastminingtriple.desc,สร้างระเบิดเล็ก 3 ลูกแทนระเบิดใหญ่ลูกเดียว
+upgrades.orcharddrill1.title,เสริมพลังขุด 1
+upgrades.swordextendlong2.title,แทงไกล 2
+upgrades.artilleryshotcooldown1.desc,ยิงไวขึ้น
+upgrades.keeper2pinballdamagefraction.title,บอลพลังแปรผันกับความแข็ง
+upgrades.doublelaser.title,เลเซอร์คู่
+upgrades.jetpackspeed3.title,ความเร็ว 3
+upgrades.prestigewater.title,ส่ง น้ำ
+properties.shield.battleuses,จำนวนครั้งต่อการจู่โจม {}
+upgrades.liftorbs.title,ลูกแก้ว 1
+upgrades.repellentoverchargeduration1.title,โอเวอร์ชาร์จเพิ่มระยะเวลาสกิล 1
+upgrades.drill3.desc,เพิ่มความแรงของสว่านเพื่อการขุดที่เร็วขึ้น
+level.gameover.prestige.uploading.inprocess,กำลังอัพโหลดคะแนน
+options.cancel,ยกเลิก
+properties.shield.overchargestrength,โอเวอร์ชาร์จ พลังชีวิต {} หน่วย
+level.station.navbar.upgrades,อัพเกรด
+upgrades.keeper2pinballsplit.desc,แบ่งลูกบอลออกเป็น 2 ส่วน ลอยออกไปตั้งฉากกับทิศทางเดิม
+upgrades.proberecharge.title,รีชาร์จอัตโนมัติ
+properties.sword.stabrange,ระยะ {} 
+upgrades.liftspeed1.title,เพิ่มความเร็ว
+upgrades.domewavecount.desc,ติดตั้งตัวนับรอบ เพื่อแสดงจำนวนรอบที่คุณรอดชีวิต
+level.converter.popup.title,แลกเปลี่ยนทรัพยากร
+pause.discord,เข้าร่วม Discord
+options.keybindings.action.general.back,ยกเลิก
+upgrades.prospectionmeterrange1.desc,เพิ่มระยะในการตรวจหาของเครื่องมือสำรวจ
+upgrades.dome2badrepair1.desc,โดมของคุณจะซ่อมแซมโดยอัตโนมัติหากได้รับความเสียหายจำนวนมากระหว่างการต่อสู้
+upgrades.prestigecobalt.desc,ส่งโคบอล์ทกลับเพื่อรับแต้มเกียรติยศในเเต่ละรอบ
+upgrades.domesandrepair.desc,ซ่อมแซมความเสียหายของโดมด้วยโคบอล์ท
+loadout.skinoptions.title,เลือกสกิน
+loadout.difficulty.medium.description,นี่แหละยาก
+loadout.difficulty.veryeasy.description,ชิล ง่ายกว่าความยากอื่นเยอะ
+options.game.tutorials,โหมดฝึกสอน
+upgrades.orchardbattlerootingmore.desc,เพิ่มจำนวนรากไม้ให้มากขึ้นและอยู่นานขึ้น
+upgrades.probepersist1.title,จดจำตำแหน่ง
+upgrades.keeper2pinballmorespheres2.title,บอลสำรอง 2
+upgrades.orchardjetpack3.desc,บัพผลไม้เพิ่มความเร็วการเคลื่อนที่ขึ้นอย่างไม่หยุดยั้ง
+upgrades.probe.title,สแกนเนอร์
+upgrades.sword.title,ดาบ
+properties.shield.battledestructionprevention,เพิ่มระยะเวลา {} วินาที
+upgrades.shieldbattlereflect.title,สะท้อนกลับ
+options.keybindings.rebinding.apply,ใช้
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.liftcapacity1.title,เพิ่มความจุ
+upgrades.relichunt.desc,ค้นหาโบราณวัตถุที่ถูกฝังลึกใต้ดินและนำกลับไปยังโดมของคุณ
+loadout.mapsize.unlock.description,เอาชนะแผนที่ก่อนหน้า เพื่อปลดล็อกแผนที่ถัดไป
+properties.sword.stabdamage,ดาเมจการแทง {} 
+properties.keeper1.drillstrength,ความแรงสว่าน {}
+worldmodifier.mapwildbiomes.desc,ริมขอบของนิเวศวิทยาไม่ปกติ
+upgrades.condenser.title,เครื่องกลั่น
+upgrades.dome2badrepair2.title,กู้คืนความเสียหาย 2
+options.game.screenshake.shakewhenmining,สั่นหน้าจอขณะขุด
+upgrades.repellentdelay2.title,ยืดเวลา 2
+level.tutorial.assessor.reflect.desc,กด | เพื่อสะท้อนบอลพลังงานชั่วขณะ
+properties.drillbot.buffamount,บัพเพิ่มความแรงการขุด {} หน่วย
+upgrades.laserstrength2.title,เพิ่มพลัง 2
+upgrades.jetpackstrength3.title,เพิ่มน้ำหนัก 3
+options.keybindings.action.general,ทั่วไป
+level.gameover.unlock.gadgetability,สกิลแกดเจ็ตต่อสู้ใหม่
+upgrades.jetpackstrength1.desc,ปรับปรุงไอพ่นให้บรรทุกของได้เพิ่มขึ้น
+upgrades.artillerymultishot1.desc,ยิงกระสุนระเบิดต่อเนื่องต่อการยิง
+properties.sword.reflectprojectiles,สะท้อนการโจมตี
+upgrades.stunlaser.desc,ติดตั้งเลเซอร์จิ๋วที่เล็งเป้าหมายโดยอัตโนมัติเพื่อสตั้นมอนสเตอร์
+upgrades.orchardbattleshieldstrong.desc,เกราะป้องกันการโจมตีระยะไกลอันแข็งแกร่ง นอกจากนี้ยังได้รับสกิลเพิ่มเติมหลังจากใช้โอเวอร์ชาร์จ
+upgrades.orchardjetpack1.desc,บัพผลไม้เพิ่มความเร็วการเคลื่อนที่ให้เร็วขึ้น
+upgrades.laser.desc,เลเซอร์อันทรงพลังที่เคลื่อนที่รอบโดมของคุณ เดิมทีมีไว้สำหรับการขุดดาวเคราะห์น้อย
+properties.orchard.battleshieldhp,พลังชีวิต {} หน่วย
+options.keybindings.action.keeper,ผู้พิทักษ์
+worldmodifier.resourceunpredicatablecobalt.desc,โคบอล์ทอยู่อย่างกระจัดกระจายและยากต่อการค้นหา
+pause.quitgame,ออกจากเกม
+options.keybindings.rebinding.error.keyboard,ไม่สามารถตั้งค่าปุ่มนี้ได้
+upgrades.repellentbattleslowdownstun1.desc,สร้างหมอกเพื่อกระจายสปอร์ออกไปทำให้มอนสเตอร์มึนงงหยุดเคลื่อนที่ชั่วขณะ
+upgrades.swordfastreflection.title,สะท้อนกลับเร็ว
+upgrades.stunlaserduration2.title,ต้านทานความร้อน 2
+level.gameover.lose.title,โดมถูกทำลาย
+worldmodifier.resourcescatterediron.desc,กลุ่มเหล็กมีมากขึ้นแต่จำนวนจะน้อยลง
+properties.laser.dps,ดาเมจ {}
+options.input.vibration.strength,ระดับการสั่น
+worldmodifier.hardnessharder.desc,หินในเหมืองแข็งมากขึ้น
+options.video.stretchmode,ส่วนขยาย
+worldmodifier.monsterhealthy.desc,มอนสเตอร์มีพลังชีวิตมากขึ้น
+level.gameover.stats.mapsize,ขนาดแผนที่
+loadout.mode.longtime,เพิ่มเวลาต่อรอบ
+upgrades.swordreflection3.desc,แผ่นป้องกันใหญ่สุดๆ
+upgrades.repellentbattleslowdownstun2.desc,สปอร์อยู่นานขึ้นเเละสตันมอนสเตอร์นานขึ้น
+upgrades.teleporterteleportresourcesarea.title,ขยายวาร์ป
+upgrades.shieldoverchargeduration2.desc,หลังจากโอเวอร์ชาร์จสกิลต่อสู้จะใช้งานได้นานขึ้นในการจู่โจมถัดไป
+upgrades.shieldoverchargestrength1.title,โอเวอร์ชาร์จเกราะแกร่ง 1
+upgrades.drillbotbuffstrength1.desc,บัพขนมของดริลเบริทอยู่นานขึ้น
+upgrades.orchardoverchargebuffduration.title,โอเวอร์ชาร์จเพิ่มเวลาบัพ
+level.tutorial.assessor.spheres.desc3,บอลพลังงานเติมพลังแต่ละครั้งด้วยการเด้ง
+loadout.mode.longtime.desc,คุณมีเวลาต่อรอบเพิ่มเป็น 2 เท่า แต่รอบการบุกจะแข็งแกร่งขึ้น
+level.tutorial.assessor.spheres.desc2,กำหนดทิศทางเพื่อยิงบอลพลังงานออกไป
+upgrades.laserstrength1.desc,เพิ่มพลังของเลเซอร์ แต่จะเคลื่อนที่ช้าลงขณะยิง
+level.tutorial.assessor.spheres.desc1,กด | ค้าง เพื่อชาร์จบอลพลังงาน
+upgrades.jetpackstrength4.title,เพิ่มน้ำหนัก 4
+upgrades.migration.desc,อพยพจากโลกหนึ่งไปยังอีกโลกหนึ่ง ค้นหาทรัพยากรและโบราณวัตถุก่อนที่คุณจะพ่ายแพ้ให้กับผู้บุกรุก
+upgrades.orcharddrill1.desc,บัพผลไม้เพิ่มพลังการขุดทำให้ขุดเร็วขึ้น
+upgrades.keeper2pinballdamage3.desc,เพิ่มดาเมจให้กับบอลพลังงานเมื่อกระแทกกับหิน และยังเพิ่มดาเมจให้กับการขุดแบบหมุนอีกด้วย
+options.accessibility.highlightmonsters,ไฮไลท์มอนส์เตอร์
+upgrades.prestigecobaltnocobalt.title,ส่งโคบอลต์
+properties.keeper2.spherebasedamage,ความเสียหายพื้นฐานลูกแก้ว {}
+upgrades.orcharddrill3.desc,บัพผลไม้เพิ่มพลังการขุดแบบทะลุทะลวงอย่างไม่หยุดยั้ง
+properties.converter.cobalttoiron,{} โคบอล์ท เปลี่ยนเป็น 1 เหล็ก
+level.tutorial.repair.usecobalt,คุณสามารถใช้โคบอล์ทเพื่อซ่อมแซมโดม อัพเกรดเพิ่มเติมในผังเทคโนโลยี
+upgrades.blastminingimpactdetonation.title,ระเบิดกระแทก
+upgrades.swordfastreflection.desc,สะท้อนการโจมตีของศัตรูกลับอย่างรวดเร็ว
+upgrades.condenserdoublestorage.title,เพิ่มความจุ
+upgrades.artillery.desc,เวิร์มบาซูก้า
+properties.sword.electricdamage,ดาเมจดาบสายฟ้า {}
+level.station.upgrademenu.close,ปิด
+properties.repellent.overchargebattleabilityduration,เพิ่มระยะเวลาของสกิล {.percent}
+pause.title,หยุดชั่วคราว
+upgrades.artillerymultishot1title,ยิงต่อเนื่อง 1
+properties.shield.battleadditionalabilitydurationafterdepletion,เพิ่มระยะเวลาสกิล {} วินาที
+upgrades.orchardbattlerootingexplosion.title,เหยื่อระเบิด
+upgrades.blastminingproductiontime1.title,เร่งการผลิต
+options.video.stretchmode.scaled.text,"เรนเดอร์เกมด้วยความละเอียดที่ตั้งค่าไว้และปรับขนาดให้เป็นความละเอียดของหน้าจอคุณ
+ภาพจะเป็นพิกเซล โดยเฉพาะอย่างยิ่งกับตัวหนังสือ แต่จะไม่มีเส้นผิดพลาดเกิดขึ้น"
+upgrades.orchardduration3.title,ระยะเวลา 3
+upgrades.domewavecount.title,ตัวนับรอบ
+upgrades.shredgadgettoiron.title,แทนด้วยเหล็ก
+options.keybindings.apply,ใช้
+options.keybindings.restoredefault,คืนค่าเริ่มต้น
+upgrades.converterironduplication.title,คัดลอกเหล็ก
+title.navbar.credits,เครดิต
+level.gameover.unlock.gadget,แกดเจ็ตใหม่
+upgrades.jetpackspeed2.title,ความเร็ว 2
+loadout.modeoptions.title,เลือกโหมดเกม
+properties.keeper2.spherebaselifetime,อายุของลูกแก้ว {}
+options.video.stretchmode.scaled,ปรับสเกล
+properties.orchard.battleabilityduration,ระยะเวลาสกิล {} วินาที
+upgrades.repellentbattleslowdownstun1.title,อัมพาต
+loadout.difficulty.medium,ยากมาก
+options.audio.volumes,ระดับเสียง
+upgrades.keeper1.title,วิศวกร
+upgrades.drillbotsleepless.title,ฝึกเบื้องต้น
+upgrades.drillbot.title,ดริลเบริท
+level.tutorial.assessor.carry.desc1,กด | ค้าง เพื่อดึงทรัพยากรเข้ามาที่ตัวของคุณ
+level.tutorial.assessor.carry.desc2,กด | เพื่อยิงทรัพยากร
+level.tutorial.drillbot.sleeping1,ดริลเบริทจะหลับเมื่อเวลาผ่านไป หรือ เมื่อเจอกับกำแพงที่ขุดไม่ได้
+level.tutorial.assessor.carry.desc3,เมื่อคุณเล็งไปในทิศทางที่ต้องการขณะที่ทิ้งทรัพยากร เป็นการยิงทรัพยากรออกไปอย่างรวดเร็ว
+level.tutorial.drillbot.sleeping2,เมื่ออยู่ใกล้ๆ กด | เพื่อปลุก
+level.tutorial.drillbot.sleeping3,กด | เพื่อเปลี่ยนทิศการขุดในขณะที่ดริลเบริทตื่น
+properties.keeper2.totalspheres,บอลพลังงาน {}
+upgrades.shieldbattleblastdamage.title,ระเบิดเป็นจุล
+upgrades.domeresourcecounters.desc,แสดงทรัพยากรที่มีอยู่ในปัจจุบัน
+upgrades.swordextendlong1.desc,เพิ่มความเสียหายในการแทงและระยะการบินที่ไกลขึ้น
+worldmodifier.resourcerichwater.desc,โลกนี้มีทรัพยากรน้ำจำนวนมาก
+upgrades.drillbotstrength1.desc,เพิ่มพลังขุดของดริลเบริท
+upgrades.stunlaserautonomy1.desc,AI เข้าควบคุมสตั้นเลเซอร์แม้ว่าคุณจะอยู่ภายนอกโดมก็ตาม
+properties.blastmining.radius,รัศมีการระเบิด {} ช่อง
+upgrades.jetpackstrength1.title,เพิ่มน้ำหนัก 1
+pause.gamepadcontrols.use,ใช้
+upgrades.laserstrength2.desc,เพิ่มพลังของเลเซอร์อย่างมาก แต่จะเคลื่อนที่ช้าลงขณะยิง
+properties.laser.movespeedwhilefiring,ความเร็วขณะยิง {.percent}
+properties.probe.markerretention,เวลาแสดง {} วินาที
+upgrades.swordexplosivereflection.title,ระเบิดสะท้อน
+upgrades.condenserspeed2.desc,ลดเวลาที่ใช้ในการสร้างทรัพยากรน้ำ 1 หยด
+upgrades.condenserspeed2.title,เร่งผลิต 2
+properties.stunlaser.firetime,เวลายิง {} วินาที
+options.input.gamepad.gamepadstickdeadzone,บริเวณที่ก้านอนาล็อกไม่ตอบสนอง
+upgrades.keeper2movement2.desc,เพิ่มประสิทธิภาพของเครื่องกำเนิดแรงโน้มถ่วงเพื่อคลื่อนที่อย่างรวดเร็ว
+upgrades.shieldbattlelongerafterdepletion.desc,ผลของระเบิดสายฟ้าจะอยู่นานขึ้นหากเกราะถูกทำลาย
+properties.laser.bend,เลเซอร์เล็งเป้าอัตโนมัติ {}°
+level.station.upgrademenu.buy,ซื้อ
+properties.drillbot.plantgrowthtime,ระยะเวลาในการสุก {} รอบ
+level.gameover.continue,โหลดเกม
+upgrades.repellentoverchargeduration1.desc,เมื่อคุณเปิดใช้งานโอเวอร์ชาร์จจะทำให้สกิลต่อสู้ของคุณในการจู่โจมถัดไปมีระยะเวลานานมากขึ้น
+upgrades.artilleryshotcooldown1.title,คูลดาวน์ 1
+worldmodifier.resourceunpredicatablewater.desc,น้ำอยู่อย่างกระจัดกระจายและยากต่อการค้นหา
+level.tutorial.blastmining.popup_1,เก็บระเบิดขึ้นและปล่อยในจุดที่ต้องการระเบิด
+ending.thankyoumessage,ขอบคุณที่เล่นเกมของเรา!
+options.keybindings.rebinding.error.gamepad,ไม่สามารถตั้งค่าปุ่มนี้ได้
+upgrades.keeper2pinballdamagefraction.desc,ดาเมจของบอลพลังงานแปรผันตามความแข็งของหินและความเสียหายของหินจะคงที่ตามความแข็ง
+upgrades.swordlargeblade1.title,ดาบใหญ่ 1
+upgrades.shredgadgettoiron.desc,แทนอุปกรณ์ด้วย {amount} เหล็ก
+upgrades.drillbot.desc,เลี้ยงดริลเบริทผู้รักในการขุด นำดริลเบริทไปที่เหมืองปล่อยลงในตำแหน่งที่คุณต้องการให้ขุด กลับมาปลุกดริลเบริทให้ตื่นขึ้นเพื่อทำงานต่อ
+properties.dome.autohealdamagethreshold,เปิดใช้งานเมื่อรับความเสียหายมากกว่า {} ของพลังชีวิต
+upgrades.dome3health1.title,พลังชีวิต 1
+title.navbar.updates.close,ปิด
+upgrades.swordaimline.desc,ติดตั้งเลเซอร์สำหรับการเล็งดาบเพื่อแทงศัตรู
+upgrades.shieldoverchargeduration1.title,โอเวอร์ชาร์จเพิ่มเวลาสกิล 1
+level.converter.popup.explanation,เลือก การแลกเปลี่ยนทรัพยากร
+upgrades.drillbotbuff1.title,ขนมขบเคี้ยว
+title.navbar.credits.close,ปิด
+upgrades.keeper2movement3.desc,เพิ่มประสิทธิภาพของเครื่องกำเนิดแรงโน้มถ่วงเพื่อคลื่อนที่อย่างรวดเร็ว
+pause.quittotitlescreen,ออกไปหน้าหลัก
+loadout.prestige.countdown.description,ตัวคูณแต้มเกียรติยศเริ่มต้นสูงแต่จะลดลงในแต่ละรอบ
+upgrades.drill3.title,ความแรงสว่าน 3
+upgrades.probestage1.title,เพิ่มสแกนเนอร์
+properties.sword.stabarrowhead,เพิ่มขนาดของหัวธนู
+loadout.mapsize.huge.description,แผนที่ขนาดใหญ่มาก ใช้เวลาในการเล่นนาน
+properties.sword.stabspeed,ความเร็วในการแทง {.percent} 
+level.tutorial.teleporter.take1,เครื่องวาร์ปสามารถใช้ได้ทั้งที่สถานีและประตูวาร์ป คุณสามารถวาร์ปไปกลับระหว่างกันได้
+worldmodifier.mapmaze.desc,เหมืองเขาวงกต
+level.tutorial.teleporter.take2,หยิบ ประตูวาร์ป และวางไว้ที่ไหนก็ได้
+options.keybindings.action.dome.battleability1,สกิลต่อสู้
+upgrades.laserbend.desc,ติดตั้งอุปกรณ์เสริมให้กับเลเซอร์ให้สามารถเบี่ยงเบนเล็กน้อยเพื่อเล็งเป้าหมายที่อยู่ใกล้ได้โดยอัตโนมัติ
+options.video.graphicsmode.fullscreen,เต็มจอ
+options.keybindings.action.general.down,ลง
+level.tutorial.assessor.spheres,บอลพลังงาน
+level.tutorial.mineraltree1,"คุณเพิ่งจะพบเมล็ดต้นทรัพยากร เมล็ดโตเป็นต้นไม้ใหญ่ที่หยั่งรากยึดกับพื้น เมื่อโตเต็มที่จะมอบทรัพยากรตอบแทน ทรัพยากรที่ได้ขึ้นอยู่กับทรัพยากรที่รากยึดติดไว้
+วางเมล็ดเพื่อปลูกต้นทรัพยากร"
+upgrades.blastmining.desc,ติดตั้งเครื่องสร้างลูกระเบิดในโดมของคุณ นำระเบิดออกไปและปล่อยมันในจุดที่ต้องการและระเบิดให้กระจุย
+properties.sword.stabcooldown,เพิ่มคูลดาวน์ {} วินาที 
+upgrades.repellentoverchargestrength2.desc,เปิดใช้งานโอเวอร์ชาร์จเพื่อยืดระยะเวลาการจู่โจมถัดไปให้มาถึงช้าลง
+upgrades.probeswift1.desc,เปลี่ยนสแกนเนอร์ให้ค้นหาอย่างรวดเร็วและมีจำนวนชาร์จมากขึ้น
+properties.drillbot.buffextraamount,เพิ่มพลังขุด {} หน่วย
+level.gameover.unlock.keeper,ผู้พิทักษ์คนใหม่
+upgrades.prospectionmeter.title,เครื่องมือสำรวจ
+upgrades.shieldbattleactivateondepletion.desc,เมื่อเกราะหายไปจะเปิดใช้สกิลอมตะเพื่อทำให้โดมไม่ได้รับความเสียหายโดยอัตโนมัติ
+upgrades.dome2badrepair1.title,กู้คืนความเสียหาย 1
+upgrades.swordtargetlock.title,ล็อคเป้า
+upgrades.laserhitprojectiles.title,สลายการโจมตี
+upgrades.keeper2pinballreflectspeedup1.title,เพิ่มการสะท้อน
+properties.repellent.battleuses,จำนวนครั้งต่อการจู่โจม {}
+options.game.events,กิจกรรม
+upgrades.artilleryflakexplosionradius1.desc,กระสุนมีขนาดใหญ่ขึ้น
+properties.keeper1.speedlosspercarry,น้ำหนักต่อทรัพยากร
+pause.gamepadcontrols.back,กลับ
+level.gameover.unlockpicker.title,เลือกของปลดล๊อค
+upgrades.prospectionmeteriron2.desc,แสดงทิศทางจากทรัพยากรเหล็กที่ใกล้ที่สุด
+upgrades.prestige.desc,เก็บแต้มโดยการส่งออกทรัพยากรให้เยอะที่สุดเท่าที่จะทำได้ ก่อนที่โดมจะถูกทำลาย หรือ ออกจากดาวนี้โดยปลอดภัย
+properties.prestige.multiplier,{} ตัวคูณแต้มเกียรติยศต่อรอบ
+options.input.controls,ควบคุม
+properties.sword.reflectionacceleration,ความเร็วการสะท้อน {.percent}
+loadout.difficult.easier,ง่ายขึ้น
+upgrades.keeper2pinballreflectdamage1.title,ดาเมจสะท้อน 1
+properties.sword.extendspeed,เพิ่มความเร็ว {} 
+properties.keeper2.reflectspeedup,บอลลพลังงานเร็วขึ้นเมื่อสะท้อน {.percent}
+loadout.mode.doubleiron,เหล็กสองเท่า
+upgrades.dome3.desc,ไม่มีในเดโม
+properties.condenser.growthtime,เวลาการผลิต {} รอบ
+options.game.languages,ภาษา
+worldmodifier.mapwidebottom.desc,เหมืองกว้างมากขึ้นตามความลึก
+loadout.mode.maze,เขาวงกต
+upgrades.dome2health1.desc,เพิ่มความแข็งแรงของโครงสร้างโดมของคุณอย่างถาวรและซ่อมแซมเล็กน้อย
+properties.drillbot.drillstrength,ความแรงสว่าน {}
+upgrades.keeper2.desc,คนเหมืองนอกคอกผู้ซึ่งทำการทดลองเกี่ยวกับเทคโนโลยีแรงโน้มถ่วง
+properties.orchard.battleshields,ชั้นเกราะป้องกัน {}
+level.tutorial.sworddome.reflecting.desc,ใช้แผ่นป้องกันของดาบเพื่อหยุดการโจมตีระยะไกล หรือ สะท้อนมันกลับ
+options.audio.volumes.musicvolume,ระดับเสียงเพลง
+loadout.dome,โดม
+upgrades.swordlongblade2.title,ดาบยาว 2
+upgrades.laseraimline.title,ศูนย์เล็งเลเซอร์
+level.tutorial.assessor.bundle.desc1,กด | เพื่อรวบรวมทรัพยากรเป็นกลุ่มในขณะที่ถือทรัพยากรอยู่
+options.keybindings.keyboard,คีย์บอร์ด
+level.tutorial.assessor.bundle.desc2,เล็งและยิง กลุ่มทรัพยากรออกไปในแบบเดียวกับที่คุณยิงบอลพลังงาน
+properties.prestige.score,{} แต้มเกียรติยศ
+worldmodifier.mapdeep.desc,เหมืองลึกแต่แคบ
+upgrades.repellentbattleslowdownstun2.title,อัมพาตรุนแรง
+upgrades.keeper2pinballmorespheres1.title,บอลสำรอง 1
+upgrades.prestigewater.desc,ส่งน้ำกลับเพื่อรับแต้มเกียรติยศในเเต่ละรอบ
+properties.keeper2.bundlestopcenter,เขตศูนย์กลางแรงโน้มถ่วง
+upgrades.stunlaserdamage1.title,ดาเมจ 1
+upgrades.keeper2pinballlifetime1.title,บอลพลังงานคงทน 1
+properties.repellent.battleslowdown,มอนสเตอร์ช้าลง {.percent}
+upgrades.swordextendlong1.title,แทงไกล 1
+level.gameover.stats.distancetravelled,ระยะทางเคลื่อนที่ไป
+properties.keeper2.reflectlifetime,เมื่อสะท้อนเพิ่มเวลาบอลพลังงาน {} วินาที
+upgrades.blastminingimpactdetonation.desc,ทุ่นระเบิดจะระเบิดออกทันทีเมื่อกระแทกเข้ากับผนังหลังจากปล่อย
+properties.keeper2.spheresplit,แยกบอลพลังงานออกจากกัน
+options.keybindings.action.dome.upgrade,อัพเกรด
+worldmodifier.resourcepoorcobalt.desc,โลกนี้มีทรัพยากรโคบอล์ทจำนวนน้อย
+pause.resumegame,เล่นต่อ
+level.gameover.unlock.difficulty,ปลดล็อคระดับความยากใหม่!
+properties.stunlaser.cooldown,คูลดาวน์ {} วินาที
+options.keybindings.action.general.right,ขวา
+level.tutorial.assessor.mining.desc,ในการเคลียร์หินออก 1 ก้อน คุณต้องหมุนบอลพลังงานเพื่อกำจัดมัน
+upgrades.teleporterteleportresourcesback.title,เทเลพอร์ททรัพยากร
+upgrades.dome1.title,Laser Dome
+upgrades.keeper2bundleinfinite.title,เพิ่มเวลารวมกลุ่ม
+upgrades.repellentdelay1.title,ยืดเวลา 1
+upgrades.miner.desc,ในโลกที่ปราศจากมอนสเตอร์ คุณสามารถขุดได้เท่าที่คุณต้องการโดยไม่มีการรบกวน
+upgrades.repellentbattlestrongerslowdown1.desc,พ่นหมอกให้มอนสเตอร์ช้าลงมากขึ้นและนานขึ้น
+upgrades.teleporterteleportresourcesarea.desc,ประตูวาร์ปขยายบริเวณส่งทรัพยากรให้กว้างขึ้น
+upgrades.dome3.title,Artillery Dome
+upgrades.swordstabshoot.desc,แทนที่จะยืดดาบออกไปโจมตี เปลี่ยนเป็นการชาร์จดาบและยิงออกไปจากโดมเสมือนหอก
+upgrades.repellentbattledamageovertime.desc,มอนสเตอร์ทุกตัวจะได้รับดาเมจจากพิษทุกๆวินาที
+upgrades.shieldbattleactivateondepletion.title,เกราะทลายเรียกใช้อมตะ
+upgrades.artillerymultishot2.desc,ยิงกระสุนระเบิดต่อเนื่องต่อการยิง
+upgrades.dome1health2.title,พลังชีวิต 2
+worldmodifier.monsterlethal.desc,มอนสเตอร์มีดาเมจมากขึ้น
+loadout.pet,สัตว์เลี้ยง
+options.keybindings.action,การกระทำ
+upgrades.orcharddrill3.title,เสริมพลังขุด 3
+options.translation.title,เลือกภาษาของคุณ
+upgrades.prospectionmeterrange1.title,เพิ่มระยะ 1
+upgrades.dome2badrepair2.desc,โดมของคุณจะซ่อมแซมมากขึ้นโดยอัตโนมัติหากได้รับความเสียหายจำนวนมากระหว่างการต่อสู้
+options.audio.volumes.ambiencevolume,ระดับเสียงบรรยากาศ
+upgrades.prestigecobaltnocobalt.desc,ส่งโคบอล์ทกลับเพื่อรับแต้มเกียรติยศในเเต่ละรอบ
+worldmodifier.maparms.desc,เหมืองแตกแขนงมากขึ้น
+loadout.prestige.countdown,นับถอยหลัง
+upgrades.keeper2pinballdamage2.title,เพิ่มความแรงบอลพลังงาน 2
+upgrades.jetpackspeed1.title,ความเร็ว 1
+upgrades.minerrefuel.title,เติมเชื้อเพลิง
+upgrades.teleporterteleportduration1.title,วาร์ปไว
+properties.probe.charges,จำนวนชาร์จ {}
+loadout.miner.fuel.title,เชื้อเพลิง
+exhibition.title.press.anything,กดปุ่มใดก็ได้ เพื่อเริ่มเกม
+loadout.mode,โหมดเกม
+level.tutorial.sworddome.slicing,ฟัน
+properties.condenser.autoovercharge,โอเวอร์ชาร์จอัตโนมัติ
+upgrades.teleporterteleportduration1.desc,วาร์ปตัวคุณได้อย่างรวดเร็ว
+upgrades.minerwater.title,ส่ง น้ำ
+title.navbar.continue,โหลดเกม
+upgrades.orchardbattleshield.desc,สร้างเกราะเพื่อปกป้องโดมจากการโจมตีของมอนสเตอร์
+upgrades.liftcarrykeeper1.title,ลิฟต์ผู้พิทักษ์ 1
+options.input.controls.keybindings,ตั้งค่าปุ่มกด
+properties.keeper2.bundlespheres,กลุ่มทรัพยากร
+upgrades.shieldovercharge.title,โอเวอร์ชาร์จเกราะ
+properties.condenser.overchargedelay,เวลาการผลิตช้าลง {} รอบ
+upgrades.keeper2.title,ผู้คุมแรงโน้มถ่วง
+level.tutorial.assessor.mining,การขุดแบบหมุน
+upgrades.repellentoverchargeduration2.title,โอเวอร์ชาร์จเพิ่มระยะเวลาสกิล 2
+upgrades.swordblade1.title,ปรับปรุงให้ดีขึ้น
+properties.converter.irontoiron,{} เหล็ก เปลี่ยนเป็น 1 เหล็ก
+exhibition.level.description,กำลังกลับสู่เมนูหลักใน ...
+level.tutorial.assessor.mining.desc2,คุณสามารถหยุดขุดได้โดยไม่ต้องยิงบอลออกไป เพียงแค่ปล่อยปุ่มทิศทาง
+worldmodifier.monsterslow.desc,มอนสเตอร์เคลื่อนที่ช้าลง
+upgrades.orcharddrill2.desc,บัพผลไม้เพิ่มพลังการขุดทำให้ขุดเร็วมากขึ้น
+loadout.difficulty.easy.description,ลองดูซิ! มันก็ไม่ได้ยากขนาดนั้น
+upgrades.swordstabexplode.title,แทงติดระเบิด
+level.gameover.stats.additionalgadget,แกดเจ็ตเพิ่มเติม
+upgrades.drillbotbuffstrength2.desc,เมื่อนำขนมให้กับดริลเบริทจะทำงานได้นานขึ้นก่อนจะหลับ
+upgrades.laserstrength3.desc,เพิ่มพลังของเลเซอร์อย่างมหาศาล แต่จะเคลื่อนที่ช้าลงขณะยิง
+loadout.prestige.normal,ปานกลาง
+loadout.difficulty.hard,แกไม่รอดแน่
+level.gameover.stats.wavessurvived,จำนวนรอบที่ผ่าน
+properties.stunlaser.damage,ดาเมจ {}
+options.keybindings.rebinding.cancel,ยกเลิก
+level.tutorial.sworddome.stabbing.desc,ปล่อยดาบออกไปเพื่อแทงศัตรูที่อยู่ไกล
+level.gameover.unlock.gamemodevariant,ตัวแปรเกมโหมดใหม่
+upgrades.prestigefinish.title,ออกจากดวงดาว
+properties.keeper2.bundleduration,เวลารวมกลุ่มทรัพยากร {.percent}
+upgrades.shieldstrength3.title,เสริมเกราะ 3
+options.audio.volumes.mastervolume,ระดับเสียงหลัก
+upgrades.shieldbattlelongerafterdepletion.title,เกราะระเบิด
+options.keybindings.text,"แก้ไขปุ่มลัดตามที่คุณต้องการ
+ปุ่มลัด สามารถทับซ้อนกันได้โดยไม่มีปัญหา (เช่น การควบคุมผู้พิทักษ์และอาวุธโดม)"
+properties.shield.battleblastdamage,ดาเมจระเบิด {} ต่อวินาที
+loadout.mapsize.large.description,แผนที่ขนาดใหญ่ ประมาณหนึ่งชั่วโมงต่อรอบ
+upgrades.drill4.desc,เพิ่มความแรงของสว่านเพื่อการขุดที่เร็วขึ้น
+upgrades.drillbotsleepless.desc,ดริลเบริททำงานได้นานขึ้นก่อนจะหลับ
+upgrades.swordlargeblade2.title,ดาบใหญ่ 2
+upgrades.swordlongblade2.desc,เพิ่มความเร็วของของดาบ ทำให้สามารถเด้งกลับได้เมื่อถึงขอบ
+upgrades.prestigefinishnocobalt.title,ออกจากดวงดาว
+worldmodifier.hardnessmoderated.desc,เหมืองนี่มีหินที่ทั้งแข็งที่สุดและอ่อนนุ่มปะปนอยู่
+upgrades.converterironduplication.desc,เพิ่มจำนวนเหล็กมากขึ้น
+upgrades.prestigefinish.desc,ออกจากดวงดาวเเละกลับบ้าน
+upgrades.dome2health2.desc,เพิ่มความแข็งแรงของโครงสร้างโดมของคุณอย่างถาวรและซ่อมแซม
+upgrades.prestige.title,เกียรติยศ
+upgrades.liftcarrykeeper1.desc,ลิฟต์จะเพิ่มความเร็วให้กับคุณในขณะที่คุณขึ้นจากเหมือง
+upgrades.repellentbattlehealthreduction.desc,ทำให้มอนสเตอร์ทั้งหมดอ่อนแอลง ส่งผลให้พลังชีวิตที่เหลืออยู่ลดลงทันที
+upgrades.dome2.title,Sword Dome
+worldmodifier.monsterfast.desc,มอนสเตอร์เคลื่อนที่เร็วขึ้น
+upgrades.condenserautocollect.desc,เก็บทรัพยากรน้ำอัตโตมัติ ทำให้คุณไม่ต้องเก็บทรัพยากรเอง
+upgrades.lift.title,ลิฟต์
+options.game.screenshake,สั่นหน้าจอ
+options.keybindings.action.dome,โดม
+upgrades.swordstabexplodedamage.desc,เพิ่มดาเมจระเบิด
+level.gameover.stats.resourcesmined,เก็บทรัพยากรไป
+worldmodifier.resourcepoorwater.desc,โลกนี้มีทรัพยากรน้ำจำนวนน้อย
+upgrades.prospectionmeter.desc,เครื่องแสดงระยะห่างจากทรัพยากรที่ใกล้ที่สุด สามารถอัพเกรดเพื่อแสดงทิศทางได้
+upgrades.shredgadgettocobalt.title,ทดแทนด้วยโคบอล์ท
+upgrades.swordelectrified.desc,กระแสไฟฟ้าไหลผ่านคมมีด สร้างความเสียหายเมื่อสัมผัส
+upgrades.artilleryflakexplosionradius2.desc,กระสุนมีขนาดใหญ่ขึ้น
+upgrades.prospectionmeterwater1.title,มิเตอร์ น้ำ
+upgrades.minerwater.desc,ส่งน้ำกลับเพื่อรับแต้มเกียรติยศในเเต่ละรอบ
+options.video.graphicsmode,โหมดหน้าจอ
+upgrades.shieldbattlereflectspeedup.desc,สะท้อนการโจมตีของศัตรูด้วยความเร็วสูง เพิ่มโอกาสในการโจมตีโดนตัวศัตรู
+properties.shield.battleblaststun,ระเบิดสตั้น {}
+loadout.mode.hyperactive.desc,มอนสเตอร์เคลื่อนที่ไวขึ้นแต่มีพลังชีวิตน้อย
+upgrades.swordstabexplode.desc,ดาบติดระเบิด ระเบิดใส่ศัตรูคนแรกที่ดาบแทง
+upgrades.swordstabfast2.title,แทงไว 2
+upgrades.converterefficientwater.desc,แปรเปลี่ยนน้ำได้ดียิ่งขึ้น แต่ใช่เวลานานขึ้น
+upgrades.orchardduration1.desc,ระยะเวลาบัพของผลไม้อยู่นานขึ้น
+loadout.difficulty.title,ระดับความยาก
+exhibition.level.heading,ยังเล่นอยู่หรือเปล่า
+level.gameover.unlock.gamemode,เกมโหมดใหม่
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,เน่าเปื่อย
+upgrades.teleporterteleportreactivate.title,เปิดใช้ประตูวาร์ปอีกครั้ง
+loadout.miner.scores,ส่งทรัพยากรออกด้วยจรวดเพื่อเพิ่มแต้มสูงสุด ใช้งานได้หลังจากรอบที่ 20 เหมือนกับโหมดเกียรติยศ แต่ไม่มีมอนสเตอร์มารบกวน
+options.audio,เสียง
+upgrades.repellentovercharge.desc,ใช้น้ำในการโอเวอร์ชาร์จเพื่อผลิตสารขับไล่เร็วขึ้น
+upgrades.domewavemeter.title,อุปกรณ์ตรวจจับศัตรู
+upgrades.prospectionmeterrange2.desc,เพิ่มระยะในการตรวจหาของเครื่องมือสำรวจให้กว้างขึ้น
+upgrades.keeper2pinballreflectspeedup1.desc,เพิ่มความแรงของการสะท้อนบอลพลังงานให้เคลื่อนที่ด้วยความเร็วที่เพิ่มขึ้น
+upgrades.shieldoverchargestrength1.desc,โอเวอร์ชาร์จให้เกราะดูดซับความเสียหายได้เพิ่มขึ้น
+upgrades.repellentdelay2.desc,ยืดเวลาของการจู่โจมถัดไปให้นานขึ้น
+upgrades.repellentbattlelongerhealthreduction.title,เน่าเปื่อยรุนแรง
+upgrades.swordtargetlock.desc,เมื่อยิงดาบออกไป ดาบจะล็อคกับมอนสเตอร์ตัวแรกที่พบโดยอัตโนมัติ
+upgrades.orchardovercharge.desc,ใช้น้ำกับต้นไม้เพื่อให้ได้ผลไม้ผลิตไวขึ้น
+upgrades.orchardbattlerootingmore.title,รากกำยำ
+upgrades.swordextendlong2.desc,เพิ่มความเสียหายในการแทงและระยะการบินที่ไกลมากยิ่งขึ้น
+upgrades.swordstabfast1.title,แทงไว 1
+upgrades.probelong1.desc,เพิ่มระยะของสแกนเนอร์อย่างมาก แต่จะเสียชาร์จแทน
+upgrades.repellent.title,สารขับไล่
+worldmodifier.monsterwavesspaced.desc,ระยะเวลาระหว่างเวฟมอนสเตอร์มากขึ้น
+upgrades.artilleryflakexplosionradius2.title,ขนาดกระสุน 2
+properties.drillbot.amount,พลังขุด {} หน่วย
+upgrades.repellentdelay3.title,ยืดเวลา 3
+ending.appreciationmessage,หวังว่าคุณสนุกกับเกมนี้! เราเห็นคุณค่าความคิดเห็นของคุณ มาร่วมออกความเห็นได้บน Discord หรือ กระทู้ Steam Forums :)
+properties.orchard.battlerootexplosion,ดาเมจระเบิด {}
+upgrades.orchardduration3.desc,ระยะเวลาบัพของผลไม้สูงสุด
+upgrades.dome1damagereduction2.desc,เสริมความแข็งแรงให้กับผิวโดมเพื่อรับดาเมจน้อยลงจากการโจมตีของมอนสเตอร์ระยะประชิด ระยะไกลไม่มีผล
+properties.orchard.speedbuff,บัพเพิ่มความเร็ว {}
+upgrades.jetpackspeed2.desc,ปรับปรุงไอพ่นให้เคลื่อนที่เร็วขึ้น
+upgrades.jetpackspeed3.desc,ปรับปรุงไอพ่นให้เคลื่อนที่เร็วขึ้น
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+title.navbar.options,การตั้งค่า (Options)
+properties.repellent.battledamageovertime,มอนสเตอร์ได้รับดาเมจ {} หน่วยต่อวินาที
+upgrades.repellentoverchargestrength1.title,โอเวอร์ชาร์จยืดเวลา 1
+upgrades.repellentoverchargestrength1.desc,เปิดใช้งานโอเวอร์ชาร์จเพื่อยืดระยะเวลาการจู่โจมถัดไปออกไปเล็กน้อย
+upgrades.blastminingproductiontime1.desc,ลดเวลาในการสร้างระเบิด
+properties.teleporter.teleportresourcescooldown,ระยะเวลาวาร์ปทรัพยากร {} วินาที
+upgrades.artilleryflakmultishot1.desc,ยิงพร้อมกันหลายนัดต่อครั้ง
+properties.converter.ironcobalttime,{} รอบ ในการแปรเปลี่ยน
+pause.options,การตั้งค่า
+options.video.graphicsmode.window,โหมดย่อขนาดหน้าต่าง
+properties.shield.battlereflectspeedup,ความเร็วการสะท้อน {.percent}
+upgrades.swordaimline.title,เส้นวิถี
+level.tutorial.drillbot.handling1,กด | ค้าง เพื่อหยิบดริลเบริท
+upgrades.probestage1.desc,เพิ่มสแกนเนอร์ ทำให้ทำงานได้ดีขึ้น
+level.tutorial.drillbot.handling2,กด | เพื่อเปลี่ยนทิศทางของดริลเบริท
+options.keybindings.rebinding.capture,บันทึก
+properties.prospectionmeter.range,ระยะ {} ช่อง
+properties.stunlaser.speed,ความเร็ว {}
+properties.probe.impulsespeed,ความเร็วการสแกน {}
+upgrades.domehealthmeter.title,อุปกรณ์วัดพลังชีวิต
+options.audio.music.frequency,โหมดเงียบ(รอบที่ไม่มีเสียงเพลง)
+options.audio.volumes.soundvolume,ระดับเสียง
+properties.sword.slicebounceback,ดาบกระเด้งของเมื่อกระทบพื้น
+upgrades.jetpackspeed4.desc,ปรับปรุงไอพ่นให้เคลื่อนที่เร็วขึ้น
+worldmodifier.monsterfragile.desc,มอนสเตอร์มีพลังชีวิตน้อยลง
+level.gameover.prestige.score.personalbest,คุณทำคะแนนสูงกว่าครั้งก่อน!
+properties.prestige.baseperwave,{} แต้มเกียรติยศพื้นฐานต่อรอบ
+loadout.choices.comingsoon,ยังเปิดใช้งาน แต่ใกล้แล้ว
+upgrades.doublelaser.desc,ติดตั้งป้อมปืนเลเซอร์อันที่สอง แต่แบ่งพลังการยิงของคุณระหว่างทั้งสอง
+upgrades.jetpackstrength2.title,เพิ่มน้ำหนัก 2
+upgrades.keeper2bundlestopcenter.title,ศุนย์กลางแรงโน้มถ่วง
+properties.keeper2.spherelifetimeperbounce,เพิ่มเวลาของบอลพลังงาน {} วินาที ต่อครั้งของการกระเด้ง
+upgrades.converterefficientcobalt.desc,แปรเปลี่ยนโคบอล์ทได้ดียิ่งขึ้น แต่ใช่เวลานาน
+properties.orchard.buffduration,ระยะเวลาบัพ {} รอบ
+upgrades.domesandrepair.title,ซ่อมแซ่มด้วยโคบอลต์
+properties.keeper1.maxspeed,ความเร็วสูงสุด {}
+level.station.upgrademenu.cost,ราคา
+upgrades.lasermove1.title,ความเร็วเลเซอร์ 1
+level.tutorial.sworddome.reflecting,สะท้อน
+loadout.petoptions.title,เลือกสัตว์เลี้ยง
+upgrades.domeresourcecounters.title,ช่องสัมภาระ
+level.gameover.unlocknewelementbutton,เลือกของปลดล๊อค
+level.gameover.proceedtounlock,ปลดล๊อคทรัพยากรใหม่!
+upgrades.artilleryshotcooldown2.desc,ยิงไวขึ้น
+level.gameover.keepgadget.title,เลือกแกดเจ็ตเก็บไว้ สำหรับการเล่นครั้งต่อไป
+level.station.battle.navbar.shoot,ยิง
+upgrades.repellentbattlestrongerslowdown1.title,อ่อนเพลีย
+upgrades.dome2.desc,โดมอันทรงพลังพร้อมด้วยดาบทะยานฟ้าที่ผู้พิทักษ์สามารถควบคุมได้อย่างอิสระเพื่อโจมตีผู้บุกรุก
+loadout.difficulty.easy,ยาก
+upgrades.condenserautocollect.title,เก็บทรัพยากรอัตโนมัติ
+upgrades.orchard.title,พฤกษา
+upgrades.keeper2pinballreflectspeedup2.desc,สะท้อนบอลพลังงานกลับอย่างรุนแรง
+upgrades.laserstrength1.title,เพิ่มพลัง 1
+upgrades.lasermove2.title,ความเร็วเลเซอร์ 2
+upgrades.shieldbattlereflectshortuses.desc,เพิ่มจำนวนครั้งของการสะท้อน แต่ระยะเวลาจะสั้นลง
+options.keybindings.action.keeper.drop,วางของ
+level.converter.popup.conversion.to,เป็น
+upgrades.repellent.desc,ติดตั้งถังขนาดใหญ่เพื่อผลิตสารขับไล่มอนสเตอร์ เปิดใช้งานเพื่อฉีดพ่นกระจายสารอกไปด้านนอกโดมเพื่อยืดเวลาของรอบการโจมตีถัดไป
+properties.repellent.battlehealthreduction,ลดเลือดมอนสเตอร์ {.percent}
+loadout.mode.hyperactive,เปราะบาง แต่ เร็ว
+loadout.prestige.miner,Miner
+upgrades.converter.title,เครื่องเปลี่ยนทรัพยากร
+properties.condenser.waterstorage,เก็บ {} น้ำ
+upgrades.jetpackstrength2.desc,ปรับปรุงไอพ่นให้บรรทุกของได้เพิ่มขึ้น
+level.station.navbar.exit,ออก
+options.accessibility.photosensitivity.explanation,ลดแสงกระพิบ
+properties.orchard.overchargeadditionalabilityuses,เพิ่มความสามารถอีก {} ครั้ง หลังจากเปิดใช้งานโอเวอร์ชาร์จ
+worldmodifier.resourcepooriron.desc,โลกนี้มีทรัพยากรเหล็กจำนวนน้อย
+level.gameover.backtomainmenu,กลับสู่เมนูหลัก
+upgrades.orchardbattlerooting.desc,เปิดใช้ขณะต่อสู้ เรียกรากไม้ออกมาบริเวณด้านนอกโดมเพื่อดักจับมอนสเตอร์ระดับกลางที่เหยียบรากไม้
+upgrades.keeper2pinballreflect.desc,สร้างเขตแรงโน้มถ่วงรอบตัวเพื่อสะท้อนบอลกลับไป
+upgrades.laser.title,เลเซอร์
+options.game.tutorials.resettutorials,รีเซ็ตโหมดฝึกสอน
+properties.converter.ironirontime,{} รอบ ในการแปรเปลี่ยน
+title.navbar.newgame,เริ่มเกม
+upgrades.artilleryflakmultishot2.desc,ยิงพร้อมกันหลายนัดต่อครั้ง
+upgrades.swordreflection2.desc,แผ่นป้องกันใหญ่มาก
+upgrades.lasermove3.title,ความเร็วเลเซอร์ 3
+upgrades.lasermove1.desc,เลเซอร์เคลื่อนที่เร็วขึ้น
+properties.lift.orbs,{} ลูก
+level.station.battle.navbar.move,เคลื่อนที่
+upgrades.orchardjetpack2.title,เสริมความเร็วไอพ่น 2
+options.audio.music,เพลง
+worldmodifier.resourceunpredicatableiron.desc,เหล็กจะรวมกันเป็นกลุ่มอยู่อย่างกระจัดกระจายและยากต่อการค้นหา
+properties.shield.maxstrength,พลังชีวิต {} หน่วย
+upgrades.condenserspeed1.title,เร่งผลิต 1
+properties.orchard.battleabilityuses,จำนวนครั้งที่ใช้ได้ในการต่อสู้ {}
+upgrades.shieldstrength2.desc,เกราะดูดซับความเสียหายได้มากยิ่งขึ้น
+upgrades.drillbotbuffstrength2.title,คาเฟอีน
+upgrades.keeper2pinballreflectdamage2.desc,สะท้อนบอลพลังงานออกไปทำความเสียหายมากขึ้นในการกระทบครั้งถัดไป
+level.paused,หยุดชั่วคราว
+level.tutorial.sworddome.stabbing,แทง
+upgrades.stunlaserspeed1.title,ความเร็ว 1
+upgrades.domehealthmeter.desc,แสดงค่าพลังชีวิตโดม
+upgrades.swordlargeblade1.desc,เพิ่มความกว้างและความยาวของดาบเพื่อทำความเสียหายมากขึ้น
+title.navbar.quit,ออกจากเกม
+level.station.battle.navbar.slice,ฟัน 
+level.gameover.stats.timeplayed,เวลาผ่านไป
+properties.teleporter.teleportresources,วาร์ปทรัพยากร
+upgrades.drillbotstrength2.desc,เพิ่มพลังขุดของดริลเบริท
+level.tutorial.drop.popup_2,กด | เพื่อทิ้ง 1 ครั้ง กดค้างเพื่อทิ้งหลายครั้ง
+level.gameover.keepgadget.keeping,แกดเจ็ตที่เก็บไว้: {gadget}
+level.tutorial.drop.popup_1,บรรทุกทรัพยากรจะทำให้คุณช้าลง
+worldmodifier.maprugged.desc,เหมืองขรุขระและไม่ปกติ
+level.tutorial.onewayteleporter1,คุณพบวาร์ปทางเดียว
+upgrades.artilleryshotprediction.title,คาดคะเนการยิง
+upgrades.keeper2bundle.desc,รวบรวมทรัพยากรให้เป็นกลุ่มเดียวและยิงออกไปในทิศทางเดียวกับบอลพลังงาน
+level.tutorial.onewayteleporter2,กด | เพื่อวางตำแหน่งวาร์ป
+level.tutorial.onewayteleporter3,กดอีกครั้งเพื่อวาร์ปกลับ
+properties.lift.capacity,ลูกแก้วขนส่งทรัพยากร {} ชิ้น
+properties.shield.battleabilityduration,ระยะเวลาสกิล {} วินาที
+level.tutorial.teleporter.carry2,เมื่ออยู่ใกล้ๆ กด | เพื่อหยิบ ประตูวาร์ป ขึ้นมา
+level.tutorial.teleporter.carry3,หากคุณกด | คุณจะวาร์ปกลับไป
+upgrades.minerrefuel.desc,เปลี่ยนน้ำให้เป็นเชื้อเพลิงสำหรับโดม หรือจะเติมเชื้อเพลิงให้กับผู้พิทักษ์ได้เช่นกัน
+level.tutorial.teleporter.carry1,คุณสามารถย้าย ประตูวาร์ป ไปที่ไหนก็ได้
+options.keybindings.cancel,ยกเลิก
+level.tutorial.probe.popup_1,กด | เพื่อสแกน
+upgrades.liftcarrykeeper2.desc,ลิฟต์ส่งคุณไวขึ้นอย่างมาก
+level.tutorial.probe.popup_3,"เพื่อเผยตำแหน่งของทรัพยากรใกล้เคียง
+กลับไปที่สถานีเพื่อรับชาร์จ"
+worldmodifier.resourcerichcobalt.desc,โลกนี้มีทรัพยากรโคบอล์ทจำนวนมาก
+upgrades.keeper2pinballdamage4.desc,เพิ่มดาเมจให้กับบอลพลังงานเมื่อกระแทกกับหิน และยังเพิ่มดาเมจให้กับการขุดแบบหมุนอีกด้วย
+properties.sword.stabexplosive,ติดระเบิดที่ปลาย
+properties.drillbot.turnaround,เปลี่ยนทิศทางเมื่อเจอกับกำแพงแข็ง
+upgrades.shieldstrength1.title,เสริมเกราะ 1
+properties.repellent.overchargewavedelay,ขยายระยะยืดเวลาการจู่โจม {} รอบ
+upgrades.swordreflection3.title,สะท้อน 3
+upgrades.dome1.desc,โดมทำเหมืองมาตรฐาน มาพร้อมกับเลเซอร์ที่ทรงประสิทธิภาพและแม่นยำ
+level.tutorial.drillbot.carry,พาดริลเบริทไปยังเหมือง วางดริลเบริทในจุดที่ต้องการขุด
+upgrades.lift.desc,ติดตั้งลิฟต์อัตโนมัติเพื่อนำทรัพยากรจากเหมืองกลับมายังโดม
+upgrades.dome1health2.desc,เพิ่มความแข็งแรงให้กับโครงสร้างโดมอย่างถาวร
+upgrades.converterefficientwater.title,แปรเปลี่ยนน้ำดีขึ้น
+loadout.difficulty.hard.description,ดีมาก พร้อมที่จะรับความพ่ายแพ้แล้วสินะ
+upgrades.artillerymultishot2.title,ยิงต่อเนื่อง 2
+upgrades.swordelectrified.title,ดาบสายฟ้า
+upgrades.drillbotstrength3.desc,เพิ่มพลังขุดของดริลเบริท
+upgrades.shieldbattleinvulnerable.title,อมตะ
+upgrades.keeper2rotationalmining2.title,เสริมการขุดแบบหมุน
+upgrades.stunlaserautonomy1.title,อัตโนมัติ
+level.tutorial.teleporter.teleport1,เมื่ออยู่ใกล้ประตูวาร์ป กด | เพื่อวาร์ปกลับ
+level.tutorial.teleporter.teleport2,คุณสามารถวาร์ปไปกลับได้
+level.gameover.prestige.uploading.failed,อัพโหลดไม่สำเร็จ กำลังลองใหม่อีกครั้ง
+upgrades.lasermove2.desc,เลเซอร์เคลื่อนที่เร็วมากขึ้น
+loadout.mapsize.title,ขนาดแผนที่
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,ระเบิด 1
+upgrades.drillbotturnaround.desc,เมื่อดริลเบริทเดินไปชนกับกำแพงแข็งที่เจาะไม่เข้า ดริลเบริทจะเปลี่ยนทิศทางแทนการนอนหลับ
+properties.dome.autohealamount,ซ่อมแซมพลังชีวิต {} หน่วย
+upgrades.condenserautoovercharge.desc,ทำให้เครื่องมือหลักของคุณโอเวอร์ชาร์จตลอดเวลาโดยไม่ใช้น้ำ แต่เครื่องกลั่นน้ำจะผลิตน้ำได้ช้าลง
+upgrades.teleporterteleportresourcesback.desc,ประตูวาร์ปสามารถจัดส่งทรัพยากรกลับไปยังโดม แต่คุณจะไม่สามารถวาร์ปกลับผ่านประตูวาร์ปได้ คุณยังสามารถวาร์ปจากสถานทีมายังประตูวาร์ปได้อยู่
+ending.wishlistonsteam,เพิ่มเป็นเกมที่อยากได้บน Steam
+properties.sword.reflection,เพิ่มขนาดแผ่นป้องกัน
+upgrades.drillbotduplicate.desc,ดริลเบริท ทำงานร่วมกับฝาแฝด ดริลเลี่ยม
+level.converter.popup.conversion.convert,แลกทรัพยากร
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} น้ำ เปลี่ยนเป็น 1 เหล็ก
+options.title,การตั้งค่า
+upgrades.swordexplosivereflection.desc,สะท้อนการโจมตีของศัตรูกลับไปเมื่อโดนศัตรูจะระเบิดออก
+upgrades.shieldbattlereflectshortuses.title,เพิ่มเวลาสะท้อน
+level.gameover.unlock.skin,ปลดล็อคสกินใหม่!
+level.gameover.stats.destroyedblocks,บล๊อคทำลายไป
+options.keybindings.action.keeper.gravityball,ยิง
+upgrades.orchardjetpack1.title,เสริมความเร็วไอพ่น 1
+upgrades.keeper1.desc,ผู้เชี่ยวชาญที่เปี่ยมล้นไปด้วยทักษะการขุดเหมืองอันยอดเยี่ยม
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,เพิ่มพลัง 3
+upgrades.orchardoverchargebuffduration.desc,บัพของผลไม้อยู่นานขึ้นเมื่อทำการโอเวอร์ชาร์จ
+upgrades.stunlaserduration1.title,ต้านทานความร้อน 1
+loadout.mode.maze.desc,แผนที่เปลี่ยนเป็นเขาวงกตที่เต็มไปด้วยเส้นทางอันคดเคี้ยว และ ทางตัน
+properties.dome.healthfractionrepair,ซ่อมแซม {.percent} ของพลังชีวิตสูงสุด
+upgrades.jetpackstrength3.desc,ปรับปรุงไอพ่นให้บรรทุกของได้เพิ่มขึ้น
+options.input.gamepad.gamepadstickdeadzone.motiondetected,ตรวจจับความเคลื่อนไหว
+upgrades.prospectionmetersand1.title,มิเตอร์ โคบอล์ท
+upgrades.prospectionmeterwater1.desc,แสดงระยะห่างจากทรัพยากรน้ำที่ใกล้ที่สุด
+upgrades.blastminingstickycharge.desc,ระเบิดจะติดกับผนังแรกที่สัมผัสและระเบิดออกเป็นเส้นตรงแทนที่จะระเบิดเป็นวงกว้าง
+options.video,วิดีโอ
+title.navbar.updates,อัปเดต
+loadout.skin,สกิน
+upgrades.drillbotstrength2.title,เพิ่มพลังขุด 2
+level.gameover.win.title,โดมปลอดภัยแล้ว
+level.station.navbar.battle,ต่อสู้
+upgrades.converterirontocobalt.desc,สามารถแปรเปลี่ยนระหว่างโคบอล์ทและเหล็กได้
+upgrades.keeper2rotationalmining2.desc,เพิ่มความเสียหายให้กับการขุดแบบหมุนตามความแข็งของหิน
+level.gameover.unlock.dome,เริ่มเกมใหม่
+pause.gamepadcontrols.pickup,หยิบ
+options.video.graphicsmode.photosensitive,โหมดไวต่อแสง
+upgrades.orchardduration2.desc,ระยะเวลาบัพของผลไม้อยู่นานมากขึ้น
+properties.dome.meleedamagereduction,ลดทอนความเสียหายระยะใกล้ {.percent}
+upgrades.domesandrepairstrong.desc,ซ่อมแซมความเสียหายของโดมด้วยโคบอล์ท
+options.input,การควบคุม
+properties.keeper2.spherereload,รีโหลดบอลพลังงาน {}วินาที
+properties.blastmining.damage,ดาเมจ {}
+upgrades.laserbend.title,เลเซอร์เบี่ยงเบน
+upgrades.swordlargeblade3.desc,ติดตั้งดาบยักษ์ ทำความเสียหายได้มหาศาล แต่ต้องแลกกับความเร็วที่ช้าลง
+loadout.domeoptions.title,เลือกโดม!
+upgrades.shieldoverchargeduration1.desc,โอเวอร์ชาร์จเกราะของคุณจะทำให้สกิลต่อสู้ของเกราะใช้ได้นานขึ้นในการจู่โจมถัดไป
+upgrades.probelong1.title,เพิ่มระยะ
+options.keybindings.rebinding.inputprocessor,กดปุ่มที่ต้องการตั้งค่า
+properties.teleporter.teleportduration,ระยะเวลาวาร์ป {} วินาที
+upgrades.dome2health2.title,พลังชีวิต 2
+upgrades.drillbotduplicate.title,แฝดน้อง
+pause.quit.popup,"คุณจะออกจากเกมใช่ไหม?
+กดอีกครั้งเพื่อยืนยัน
+(บันทึกความคืบหน้าเรียบร้อย)"
+upgrades.prospectionmetersand2.desc,แสดงทิศทางจากทรัพยากรโคบอล์ทที่ใกล้ที่สุด
+upgrades.probepersist1.desc,เพิ่มการจดจำตำแหน่งทรัพยากรของสแกนเนอร์ให้อยู่นานมากยิ่งขึ้น
+upgrades.artilleryshotcooldown2.title,คูลดาวน์ 2
+properties.keeper2.sphereadditionalfirsthitdamage,เพิ่มดาเมจ 1 ครั้ง เมื่อกระทบ {.percent}
+upgrades.shieldbattledestructionprevention.title,ยืนหยัดสู้
+level.gameover.unlock.pet,ปลดล๊อคสัตว์เลี้ยงใหม่!
+upgrades.repellentbattlelongerhealthreduction.desc,เพิ่มระยะเวลาเเละความรุนแรงของการเน่าเปื่อยต่อมอนสเตอร์
+ending.feedbackondiscord,ความคิดเห็นบน Discord
+properties.keeper2.reflectnexthitdamage,เพิ่มดาเมจบอลพลังงานหลังจากสะท้อน {.percent}
+options.video.graphicsmode.borderlesswindow,หน้าต่างไร้ขอบ
+upgrades.keeper2pinballlifetime1.desc,เพิ่มความเสถียรของบอลพลังงาน ทำให้อยู่ได้นานขึ้น
+level.gadgetchoice.title,เลือกแกดเจ็ต
+upgrades.keeper2bundle.title,รวมกลุ่ม
+upgrades.relichunt.title,ล่าสมบัติ
+loadout.mode.doubleiron.desc,เพิ่มจำนวนเหล็กที่ได้เป็น 2 เท่า แต่ค่าใช้จ่ายในการอัพเกรดเป็น 2 เท่า เช่นกัน
+level.tutorial.repair.findcobalt,"ลองค้นหาโคบอล์ท เพื่อใช้ซ่อมแซมโดม
+โคบอล์ทหายากและมีน้อย"
+upgrades.keeper2pinballsplit.title,แยกบอล
+options.input.controls.text,เล่นง่ายขึ้นหากเชื่อมต่อกับ จอยสติ๊ก
+landing.proceed,กดปุ่มใดก็ได้ เพื่อเล่นต่อ
+upgrades.keeper2pinballmorespheres1.desc,เพิ่มตัวสร้างแรงดึงดูด ทำให้ใช้บอลพลังงานได้มากขึ้น
+upgrades.jetpackstrength4.desc,ปรับปรุงไอพ่นให้บรรทุกของได้เพิ่มขึ้น
+upgrades.orchardbattleshieldsecondlayer.desc,เพิ่มเกราะป้องกันอีกหนึ่งขั้น
+level.converter.popup.conversion.time,เกิน {time} รอบ
+properties.keeper2.maxspeed,ความเร็วสูงสุด {}
+properties.laser.aimline,เส้นวิถี
+upgrades.shieldstrength3.desc,เกราะดูดซับความเสียหายได้มากยิ่งขึ้น
+upgrades.repellentovercharge.title,โอเวอร์ชาร์จสารขับไล่
+properties.drillbot.buffstrength,บัพเพิ่มความเร็ว {.percent}
+worldmodifier.hardnesssofter.desc,หินในเหมืองความแข็งลดลง
+level.tutorial.pickup.popup_1,กด | เพื่อเก็บทรัพยากร
+level.tutorial.pickup.popup_3,กดค้างเพื่อเก็บเยอะ ๆ
+pause.gamepadcontrols.drop,วาง
+level.tutorial.fruit.popup_1,ต้นไม้จะมอบผลไม้ให้กับคุณ
+level.tutorial.fruit.popup_2,เมื่ออยู่ใกล้ ๆ กด | เพื่อใช้
+worldmodifier.mapwide.desc,เหมือนกว้างแต่ไม่ลึก
+upgrades.prestigefinishnocobalt.desc,ออกจากดวงดาวเเละกลับบ้าน
+upgrades.prospectionmeteriron2.title,เข็มทิศ เหล็ก
+upgrades.keeper2movement2.title,การลอยตัว 2
+options.keybindings.gamepad,จอยสติ๊ก
+ending.backtomainmenu,กลับสู่เมนูหลัก
+level.tutorial.fullscreen.back,ย้อนกลับ
+upgrades.orchardbattleshield.title,เกราะป้องกัน
+upgrades.blastmining.title,ทุ่นระเบิด
+upgrades.converterirontocobalt.title,แปรเปลี่ยนโคบอล์ท
+upgrades.swordstabfast1.desc,แทงเร็วขึ้นและบ่อยขึ้น
+level.gameover.prestige.score.rankunchanged,ระดับไม่เปลี่ยนแปลง
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,คุณสามารถกลับไปยังโดมผ่านประตูวาร์ปได้อีกครั้ง
+upgrades.orchardjetpack3.title,เสริมความเร็วไอพ่น 3
+level.gameover.unlock.mapsize,ปลดล็อคขนาดแผนที่ใหม่!
+level.station.upgrademenu.inventory,รายการสิ่งของ
+level.gameover.keepgadget.none,ไม่มี
+upgrades.stunlaserdamage1.desc,เพิ่มดาเมจของสตั้นเลเซอร์เล็กน้อย
+properties.repellent.battleabilityduration,ระยะเวลาสกิล {} วินาที
+upgrades.minoriron.desc,ส่งเหล็กกลับเพื่อรับแต้มเกียรติยศในเเต่ละรอบ
+upgrades.teleporter.title,เทเลพอร์ทเตอร์
+ending.teasemessage,สิ่งเหล่านี้กำลังจะมาถึง
+loadout.relichunt.modifiers,เลือกการปรับแต่ง
+options.accessibility,การตั้งค่าเสริม
+loadout.mapsize.small.description,แผนที่ขนาดเล็ก สำหรับเวลาเล่นสั้น ๆ
+upgrades.shieldbattleblastdamage.desc,ระเบิดสายฟ้าสร้างความเสียหายเพิ่มขึ้นและสตั้นศัตรูชั่วครู่
+options.translation.community.desc,งานแปลเหล่านี้เป็นผลงานจากผู้เล่นที่น่ารักของเรา มาร่วมงานกันกับเราได้นะ
+upgrades.prospectionmeterwater2.desc,แสดงทิศทางจากทรัพยากรน้ำที่ใกล้ที่สุด
+upgrades.stunlaserdamage2.title,ดาเมจ 2
+options.keybindings.action.keeper.gadget1,แกดเจ็ต 1
+options.keybindings.action.keeper.gadget2,แกดเจ็ต 2
+properties.repellent.wavedelay,ยืดเวลาการจู่โจม {} รอบ
+options.ok,ตกลง
+upgrades.swordblade1.desc,ปรับปรุงความแรงและความเร็วของดาบของคุณ
+upgrades.shieldoverchargeduration2.title,โอเวอร์ชาร์จเพิ่มระยะเวลาสกิล 2
+properties.sword.slicedamage,ดาเมจการฟันดาบ {} 
+properties.condenser.autocollect,เก็บทรัพยากรอัตโนมัติ
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,เมื่อยิงกลุ่มทรัพยากรออกไปจะอยู่ใต้เส้นศูนย์กลางของโดมไม่ลอยข้ามออกไป
+upgrades.orchardduration1.title,ระยะเวลา 1
+upgrades.drillbotbuffstrength1.title,ขนมบำรุงกำลัง
+upgrades.liftcarrykeeper2.title,ลิฟต์ผู้พิทักษ์ 2
+upgrades.shieldoverchargestrength2.desc,โอเวอร์ชาร์จให้เกราะดูดซับความเสียหายได้เพิ่มมากยิ่งขึ้น
+upgrades.repellentbattleslowdown.title,อ่อนล้า
+properties.sword.aimline,คาดคะเนการยิง
+upgrades.repellentdelay3.desc,ยืดเวลาของการจู่โจมถัดไปให้นานขึ้น
+upgrades.teleporter.desc,ประตูวาร์ป 2 ทิศทาง ติดตั้งอยู่บริเวณด้านล่างของโดม คุณสามารถเคลื่อนย้ายประตูวาปไปที่ตำแหน่งต่างๆภายในเหมืองได้
+level.gameover.stats.monsterskilled,มอนส์เตอร์ที่สังหาร
+upgrades.keeper2pinballreflect.title,สะท้อนบอล
+upgrades.drillbotstrength3.title,เพิ่มพลังขุด 3
+upgrades.shieldbattlereflectspeedup.title,สะท้อนกลับเร็ว
+upgrades.probeswift1.title,สแกนด่วน
+options.game.events.enableseasonal,เปิดใช้กิจกรรม
+upgrades.repellentbattledamageovertime.title,เชื้อราพิษ
+upgrades.dome3health2.title,พลังชีวิต 2
+loadout.mapsize.huge,ใหญ่มาก
+properties.shield.overchargebattleabilityduration,เพิ่มระยะเวลาสกิล {.percent}
+options.keybindings.action.keeper.gravitycollect,สะสมชาร์จ
+loadout.miner.scores.title,คะแนน
+properties.lift.speed,ความเร็วลูกแก้ว {}
+upgrades.drillbotstrength1.title,เพิ่มพลังขุด 1
+level.tutorial.repellent.popup_2,เมื่ออยู่ใกล้ ๆ กด | เพื่อใช้
+level.tutorial.repellent.popup_1,สารขับไล่พร้อมแล้วที่จะชะลอรอบการบุก
+properties.orchard.growthtime,ระยะเวลาในการเติบโต {} รอบ
+properties.keeper2.spherefractiondamage,ดาเมจบอลพลังงาน {.percent} ของความแข็งหิน
+properties.sword.brake,ความไวของดาบ {}
+upgrades.artilleryflakmultishot2.title,ยิงกระจาย 2
+upgrades.swordstabfast2.desc,แทงเร็วขึ้นและบ่อยขึ้น
+upgrades.sword.desc,ดาบอันทรงพลังสามารถทำความเสียหายได้มากขึ้นด้วยระยะการแกว่งดาบที่กว้างขึ้นด้วยการเลื่อนดาบไปตามพื้นผิวของโดม สามารถยิงดาบออกไปเพื่อแทงมอนสเตอร์ที่เข้ามา และบริเวณฐานของดาบเป็นโล่ที่ปัดป้องความเสียหายจากการโจมตีระยะไกลของมอนสเตอร์
+upgrades.artilleryflakmultishot1.title,ยิงกระจาย 1
+upgrades.artilleryshotprediction.desc,แสดงวิถีที่คาดคะเนของกระสุนที่ยิง
+upgrades.shieldbattlereflect.desc,เปิดใช้สกิลต่อสู้เพื่อสะท้อนการโจมตีของมอนสเตอร์เป็นช่วงเวลาสั้นๆ
+upgrades.orchardbattleshieldstrong.title,เกราะแกร่ง
+upgrades.swordlongblade1.title,ดาบยาว 1
+level.station.battle.navbar.stab,แทง
+properties.converter.irontowater,{} เหล็ก เปลี่ยนเป็น 1 น้ำ
+upgrades.minoriron.title,ส่ง เหล็ก
+upgrades.keeper2bundleinfinite.desc,กลุ่มทรัพยากรที่รวบรวมไว้อยู่ได้นานขึ้น
+worldmodifier.resourcedesc,กลุ่มเหล็กมีน้อยลงแต่จำนวนจะมากขึ้น
+loadout.keeper,ผู้พิทักษ์
+upgrades.drillbotstrength4.desc,เพิ่มพลังขุดของดริลเบริท
+upgrades.swordstabexplodedamage.title,ความเสียหายระเบิด
+upgrades.prospectionmeterwater2.title,เข็มทิศ น้ำ
+loadout.keeperoptions.title,เลือกผู้พิทักษ์
+properties.probe.range,{} ช่อง
+upgrades.shield.title,เกราะป้องกัน
+loadout.mapsize.large,ใหญ่
+properties.keeper2.reflectsphere,สะท้อนบอลพลังงานออกไป
+upgrades.orchardbattlerooting.title,กับดักรากไม้
+properties.repellent.growthtime,เวลาการผลิต {} รอบ
+properties.converter.irontocobalt,{} เหล็ก เปลี่ยนเป็น 1 โคบอล์ท
+upgrades.dome3health1.desc,เพิ่มความแข็งแรงให้กับโครงสร้างโดมอย่างถาวร
+upgrades.teleporterteleportresourcescooldown.title,ลดคูลดาวน์การวาร์ป
+upgrades.shieldovercharge.desc,ใช้น้ำเพื่อเพิ่มการดูดซับความเสียหายของเกราะในการจู่โจมถัดไป
+upgrades.stunlaserspeed2.title,ความเร็ว 2
+upgrades.drillbotbuff1.desc,ขนมขบเคี้ยวสำหรับดริลเบริทเติบโตที่บริเวณรังด้านล่างของโดม เมื่อนำของว่างให้กับดริลเบริทจะรู้สึกสดชื่นและมีพลัง
+options.keybindings.action.dome.battle,โหมดต่อสู้
+upgrades.orchardovercharge.title,โอเวอร์ชาร์จเร่งโต
+properties.teleporter.teleportresourcesarea,ระยะวาร์ป {} ช่อง
+upgrades.swordreflection1.desc,เพิ่มขนาดแผ่นป้องกันและสะท้อนการโจมตีของมอนสเตอร์ออกไป
+upgrades.blastminingblast2.title,ระเบิด 2
+upgrades.swordreflection1.title,สะท้อน 1
+upgrades.keeper2pinballlifetime2.desc,เพิ่มความเสถียรของบอลพลังงาน ทำให้อยู่ได้นานขึ้น
+options.keybindings.action.general.left,ซ้าย
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,เพิ่มความแข็งแรงให้กับโครงสร้างโดมอย่างถาวร
+upgrades.drill2.title,ความแรงสว่าน 2
+options.keybindings.rebinding,การเชื่อมต่อ
+level.tutorial.assessor.carry.desc1_1,เมื่อดึงเข้ามาแล้วทรัพยากรจะลอยติดตามคุณ แม้จะปล่อยปุ่มรวบรวมไปแล้วก็ตาม
+upgrades.keeper2pinballdamage1.title,เพิ่มความแรงบอลพลังงาน 1
+upgrades.stunlaserspeed2.desc,สตั้นเลเซอร์จะเคลื่อนที่เร็วขึ้นและติดตามมอนสเตอร์ในขณะที่กำลังคูลดาวน์
+options.keybindings.title,ตั้งค่าปุ่มกด
+upgrades.keeper2pinballmorespheres2.desc,เพิ่มตัวสร้างแรงดึงดูด ทำให้ใช้บอลพลังงานได้มากขึ้น
+level.gameover.prestige.uploading.finalfailed,ขออภัย! อัพโหลดคะแนนไม่สำเร็จ
+upgrades.blastminingblast1.desc,เพิ่มความรุนแรงระเบิด
+upgrades.stunlaserduration2.desc,สตั้นเลเซอร์ทำงานได้ไวขึ้นและยิงได้นานขึ้น
+upgrades.prospectionmetersand1.desc,แสดงระยะห่างจากทรัพยากรโคบอล์ทที่ใกล้ที่สุด
+pause.gamepadcontrols.move,เคลื่อนที่
+properties.blastmining.bombs,จำนวนชาร์จ {} ครั้ง
+upgrades.shieldstrength2.title,เสริมเกราะ 2
+loadout.prestige.cobalt.description,แผนที่ไม่มีโคบอล์ทและไม่สามารถสร้างได้ แต่คุณจะได้รับจำนวนมากเมื่อเริ่มเกม

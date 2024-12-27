@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/laser3Off.wav-fbb9926c6dcec3109e37db7ddc915910.sample"
+
+[deps]
+
+source_file="res://content/sounds/Weapons/Laser/laser3Off.wav"
+dest_files=[ "res://.import/laser3Off.wav-fbb9926c6dcec3109e37db7ddc915910.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

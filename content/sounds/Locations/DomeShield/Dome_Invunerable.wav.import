@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dome_Invunerable.wav-02b67d3146a6f0ff3c0efbd81fc08aed.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/DomeShield/Dome_Invunerable.wav"
+dest_files=[ "res://.import/Dome_Invunerable.wav-02b67d3146a6f0ff3c0efbd81fc08aed.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

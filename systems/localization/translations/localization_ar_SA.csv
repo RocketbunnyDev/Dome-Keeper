@@ -1,0 +1,509 @@
+﻿key,ar_SA
+upgrades.jetpackspeed2.title,السرعة 2
+options.keybindings.action.keeper.gadget1,الأداة 1
+upgrades.jetpackstrength4.title,قوة الحمولة 4
+options.keybindings.action.keeper.gadget2,الأداة 2
+upgrades.laserstrength3.title,القوة 3
+options.accessibility,إمكانية الوصول
+upgrades.swordextendlong1.desc,يتم تحسين قوة الطعنة والقدرة على التوجيه خلال الطيران.
+upgrades.lift.title,المصعد
+upgrades.keeper2pinballreflectdamage2.desc,Reflected spheres will deal much more damage to the rock they hit next.
+upgrades.dome1health1.title,الصحة 1
+upgrades.migration.desc,هاجر من عالم إلى آخر، وقم بتجريد كل منها من الموارد والآثار قبل تجاوزك.
+upgrades.shieldbattledestructionprevention.title,الموقف الأخير
+upgrades.repellentbattlehealthreduction.title,الصعق
+upgrades.prestigewater.desc,أرسل الماء إلى موطنك، ويضيف ذلك 1 إلى الهيبة التي تحصل عليها في كل موجة.
+upgrades.blastminingwaterless.desc,لا يُستخدم الماء للإنتاج بعدئذ، ولكن ذلك يستغرق وقتًا أطول.
+upgrades.repellentoverchargestrength1.desc,يُطوّل زيادة الشحن وقت تأخير الموجة التالية.
+upgrades.dome1health2.title,الصحة 2
+options.cancel,إلغاء
+upgrades.swordaimline.desc,إضافة مهداف ليزر لتوجيه طعنة السيف.
+title.navbar.updates.close,إغلاق
+upgrades.prestigeiron.desc,أرسل الحديد إلى موطنك، ويضيف ذلك 1 إلى الهيبة التي تحصل عليها في كل موجة.
+upgrades.teleporterteleportreactivate.desc,تستعيد البوابة القدرة على نقلك الآني.
+upgrades.sword.desc,سيف متين يلحق مزيدًا من الضرر كلما تأرجح عبر القبة عند التشريح. يمكن إطلاقه لطعن الوحوش وله قاعدة لوحة درع تصد المقذوفات.
+upgrades.stunlaserautonomy1.desc,يتحكم ذكاء اصطناعي بسيط في الليزر الصاعق حتى عندما لا تكون داخل محطة التحكم.
+upgrades.liftcarrykeeper1.desc,يعزز المصعد سرعتك عند التحرك لأعلى بداخله.
+upgrades.liftcarrykeeper2.desc,سيزيد المصعد سرعتك أكثر.
+upgrades.repellentbattleslowdownstun2.desc,استخدم الأبواغ بتكرار أكبر واصعق الوحوش لفترة أطول.
+options.title,الخيارات
+upgrades.minerrefuel.title,إعادة التزويد
+upgrades.domesandrepair.desc,أصلح الأضرار التي لحقت بالقبة باستخدام الكوبالت.
+options.keybindings.rebinding.capture,التقاط
+options.game.tutorials.resettutorials,إعادة تعيين الدروس
+upgrades.repellentovercharge.title,مضاعفة الطارد
+options.keybindings.action.general.left,شمال
+upgrades.keeper2bundleinfinite.desc,Bundles will stay stable for a very long time.
+upgrades.swordreflection2.desc,يزيد حجم لوحة الدرع زيادة أكبر.
+upgrades.repellentbattledamageovertime.desc,تتعرض جميع الوحوش لضرر بسيط في كل ثانية تستمر فيها الأبخرة السامة.
+upgrades.blastminingstickycharge.title,شحنات لاصقة موجهة
+upgrades.swordstabfast1.title,الطعنة السريعة 1
+title.navbar.quit,إنهاء وخروج إلى سطح المكتب
+upgrades.repellentbattlestrongerslowdown1.desc,يعمل الضباب على إبطاء الوحوش أكثر ويستمر لفترة أطول.
+upgrades.keeper2pinballdamage4.title,ضرر المجال الحركي 4
+upgrades.repellentoverchargeduration2.title,مضاعفة مدة قدرة المعركة 2
+upgrades.laserstrength1.desc,تُحسن قوة الليزر لديك، لكنه سيتحرك بسرعة أبطأ خلال إطلاق النار.
+upgrades.artilleryshotprediction.desc,يُظهر المسار المتوقع للقنبلة اليدوية الملقاة.
+upgrades.teleporterteleportresourcesarea.title,منطقة النقل الآني
+upgrades.swordlongblade2.desc,تتم زيادة سرعة النصل أكثر، مما يجعله يرتد عند الاصطدام بالحافة.
+<MISSING KEY >,
+upgrades.lasermove3.title,سرعة الحركة 3
+upgrades.domesandrepairstrong.desc,أصلح الأضرار التي لحقت بالقبة باستخدام الكوبالت.
+options.video.stretchmode.rezised,تغيير الحجم
+upgrades.jetpackspeed1.title,السرعة 1
+upgrades.dome2health1.desc,زيادة الصحة الهيكلية للقبة بشكل دائم، وإصلاحها.
+options.game.screenshake.shakewhenmining,اهتزاز عند التعدين
+upgrades.shieldbattleblastdamage.title,الانفجار المميت
+upgrades.keeper2bundleinfinite.title,Enduring Bundle
+options.game.screenshake,اهتزاز الشاشة
+options.input,الإدخال
+upgrades.orchardbattleshieldstrong.desc,تصبح الدروع المقذوفة أقوى. اكتسب أيضًا قدرة إضافية للاستخدام بعد استخدام المضاعفة.
+upgrades.keeper2pinballmorespheres1.title,Sphere Supply 1
+upgrades.artilleryflakmultishot2.title,الضربة المتعددة المضادة للطائرات 2
+options.keybindings.rebinding.apply,تطبيق
+upgrades.dome2badrepair2.desc,تصلح قبتك نفسها تلقائيًا أكثر إذا تلقت الكثير من الضرر أثناء المعركة.
+upgrades.keeper2pinballreflectspeedup1.title,انعكاس محسّن
+upgrades.artilleryflakmultishot1.title,الضربة المتعددة المضادة للطائرات 1
+upgrades.stunlaserduration2.title,تحمُّل النار 2
+upgrades.dome2health2.title,الصحة 2
+upgrades.dome1health1.desc,زيادة الصحة البنيوية للقبة بشكل دائم.
+options.game.screenshake.shakeintensity,شدة الاهتزاز
+options.audio.volumes.musicvolume,مستوى صوت الموسيقى
+upgrades.dome2health2.desc,زيادة الصحة الهيكلية للقبة بشكل دائم، وإصلاحها.
+options.input.controls,عناصر التحكم
+options.keybindings.action.general.back,إلغاء
+upgrades.stunlaserspeed2.title,السرعة 2
+options.game.tutorials,الدروس التعليمية
+upgrades.orchard.desc,Plant a tree in the dome that grows fruits to buff your movement and mining power.
+upgrades.swordlargeblade2.title,النصل الثقيل 2
+upgrades.swordreflection1.title,الانعكاس 1
+upgrades.prestigecobalt.title,إرسال الكوبالت
+upgrades.jetpackstrength1.desc,تحسين حزام الطيران لحمل موارد أكثر.
+upgrades.repellentdelay1.desc,يزيد من تأخير الموجة التالية من الوحوش.
+options.video.stretchmode.scaled.text,"يجعل اللعبة بدقة ثابتة ويعينها على حسب دقة جهازك.
+لكن قد يسبب بظهور البسكلات، خاصةً في الخطوط الكتابية، لكن لا يسبب أي أخطاء مرئية."
+upgrades.keeper2pinballreflectspeedup1.desc,يتم تشغيل الكرات عند الانعكاس ، مما يؤدي إلى تسريعها وتركها تطفو لفترة أطول عند الانعكاس.
+options.game.events.enableseasonal,تمكين المحتوى الموسمي
+upgrades.orchardduration1.desc,تدوم آثار الثمار لفترة أطول.
+upgrades.laserbend.desc,تثبيت رأس دوار في الليزر يقوم تلقائيًا بتصحيح تصويبك إذا اقترب الهدف.
+upgrades.jetpackstrength2.desc,تحسين حزام الطيران لحمل موارد أكثر.
+upgrades.prestigewater.title,إرسال الماء
+upgrades.laserstrength2.desc,تُحسن قوة الليزر لديك بمقدار هائل، ولكنه سيتحرك بسرعة أبطأ خلال إطلاق النار.
+upgrades.repellentdelay2.desc,يزيد من تأخير الموجة التالية من الوحوش زيادة أكبر.
+upgrades.orchardbattleshieldsecondlayer.desc,ازرع طبقة أخرى من الدروع المقذوفة.
+upgrades.laserstrength2.title,القوة 2
+upgrades.keeper2movement2.title,حركة الجاذبية 2
+options.video.graphicsmode,وضع الرسومات
+upgrades.jetpackspeed1.desc,تحسين حزام الطيران، للتحرك بسرعة أعلى.
+upgrades.blastminingtriple.desc,يُصدر 3 شحنات صغيرة بدلاً من واحدة كبيرة.
+upgrades.dome2badrepair1.desc,تصلح قبتك نفسها تلقائيًا إذا تلقت الكثير من الضرر أثناء المعركة.
+options.video.graphicsmode.borderlesswindow,نافذة بلا حدود
+options.accessibility.highlightmonsters,إبراز الوحوش
+upgrades.repellentbattlestrongerslowdown1.title,الركود
+upgrades.liftorbs.desc,تثبيت جرم مصعد إضافي.
+upgrades.stunlaserdamage1.desc,يضيف قدرًا صغيرًا من الضرر إلى الليزر الصاعق.
+upgrades.keeper2bundle.title,Bundle Shot
+upgrades.jetpackspeed2.desc,تحسين حزام الطيران، للتحرك بسرعة أعلى.
+options.accessibility.critters,Disable Critters
+upgrades.orcharddrill2.desc,"Increase the fruits mining boost, letting you mine even faster."
+upgrades.repellentoverchargestrength2.title,مضاعفة تأخير الموجة 2
+upgrades.orchardovercharge.title,مضاعفة البستان
+upgrades.repellent.title,الطارد
+upgrades.liftcarrykeeper2.title,مصعد الحارس 2
+upgrades.stunlaserspeed1.desc,يتحرك الليزر الصاعق بسرعة أعلى.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,الكشف عن الحركة:
+upgrades.repellentbattleslowdownstun1.title,الشلل
+upgrades.blastminingblast1.desc,يزيد من قوة الانفجار.
+upgrades.teleporterteleportresourcescooldown.title,تهدئة النقل الآني
+options.video.stretchmode,وضع التمدد
+upgrades.swordstabfast2.desc,الطعن بسرعة أعلى وبتكرار أكبر مما سبق.
+upgrades.drill1.desc,تقوية المثقاب ليحفر بسرعة أعلى.
+upgrades.orchardduration3.title,المدة 3
+upgrades.orchardjetpack2.desc,زيادة تعزيز سرعة الثمار، ما يتيح لك التحرك بسرعة أعلى أكثر.
+upgrades.prestige.desc,سجل نقاطًا عن طريق إرسال أكبر عدد ممكن من الموارد إلى موطنك قبل انهيار القبة أو مغادرة الكوكب بأمان.
+upgrades.dome1damagereduction2.desc,تصليب سطح القبة لتقليل الضرر المُتلقى من الوحوش الأرضية، لا يُغير من ضرر القذائف.
+upgrades.orcharddrill2.title,Mining Boost 2
+upgrades.blastminingblast2.desc,يزيد من قوة الانفجار زيادة أكبر.
+upgrades.artilleryflakexplosionradius2.title,نصف قطر مضاد الطائرات 2
+upgrades.repellentbattlestrongerslowdown2.desc,يعمل الضباب على إبطاء الوحوش أكثر مما سبق ويستمر لفترة أطول.
+upgrades.artilleryflakexplosionradius1.desc,انفجار مضاد طائرات أكبر.
+upgrades.keeper2bundlestopcenter.title,Gravity Center
+options.input.gamepad.gamepadstickdeadzone,المنطقة غير الحساسة في عصا الإبهام
+upgrades.keeper2.desc,عامل تعدين غير تقليدي يستخدم تقنية الجاذبية التجريبية.
+upgrades.orchardbattlerooting.desc,نشطه في المعركة لتنمية الجذور خارج القبة، ما سيحبس أي وحش متوسط الحجم يدوس عليها.
+options.keybindings.rebinding.inputprocessor,اضغط على مفتاح جديد لهذا الإجراء
+upgrades.keeper2pinballdamage2.title,ضرر المجال الحركي 2
+upgrades.keeper2pinballdamage1.desc,يحسين الضرر الذي يلحقه المجال الحركي بالصخور عند الاصطدام. كما يحسن أضرار التعدين الدوراني.
+upgrades.swordblade1.title,تحسين التشريح
+upgrades.dome1health2.desc,زيادة الصحة البنيوية للقبة بشكل دائم.
+upgrades.repellentdelay2.title,التأخير 2
+upgrades.orchardbattleshieldsecondlayer.title,الدرع المزدوج الطبقات
+upgrades.keeper2pinballsplit.title,انقسام المجالات
+upgrades.orchardbattlerootingexplosion.title,الفريسة المتفجرة
+upgrades.blastminingproductiontime1.title,وقت الإنتاج
+upgrades.probeswift1.desc,يتم التبديل إلى مسبار سريع قصير المدى به العديد من الشحنات.
+upgrades.laserbend.title,ليزر برأس دوار
+upgrades.shieldoverchargeduration2.title,مضاعفة مدة قدرة المعركة 2
+upgrades.stunlaserduration1.desc,يهدأ الليزر الصاعق بسرعة أعلى ويطلق النار لفترة أطول.
+options.translation.community.title,ترجمات المجتمع
+upgrades.stunlaserdamage1.title,الضرر 1
+upgrades.shieldbattleblastdamage.desc,يزيد من تأثير الضرر والصعق للانفجار الكهربائي.
+options.video.graphicsmode.enablevsync,تمكين التزامن الرأسي
+upgrades.artilleryshotcooldown1.desc,يتم إطلاق النار بوتيرة أعلى.
+upgrades.orchardbattleshield.title,الدرع المقذوف
+options.ok,موافق
+upgrades.probe.title,المسبار
+title.navbar.options,الخيارات
+upgrades.swordlargeblade3.desc,نصل متوحش. إنه قوي جدًا ولكن بطيء الحركة.
+upgrades.teleporterteleportreactivate.title,إعادة تنشيط النقل الآني الشخصي
+upgrades.laserhitprojectiles.title,إذابة المقذوفات
+options.keybindings.action.dome.battleability1,قدرة قتالية
+upgrades.swordfastreflection.title,الانعكاس المتسارع
+options.keybindings.action.general.down,تحت
+upgrades.shieldbattlereflect.title,الانعكاس
+upgrades.repellentbattleslowdownstun2.title,الشلل القوي
+upgrades.swordstabshoot.title,الرمح
+title.navbar.continue,متابعة
+upgrades.prestigefinish.desc,اترك هذا الكوكب وعد إلى موطنك.
+upgrades.dome1.desc,قبة تعدين قياسية مجهزة بليزر دقيق.
+upgrades.swordlongblade2.title,النصل الطويل 2
+upgrades.artilleryshotcooldown2.desc,يتم إطلاق النار بوتيرة أعلى.
+upgrades.dome1damagereduction1.title,التصليب 1
+options.translation.title,اختر لغتك
+options.keybindings.rebinding.cancel,إلغاء
+upgrades.shieldovercharge.title,مضاعفة الدرع
+upgrades.liftspeed1.desc,تتحرك الأجرام بسرعة أعلى.
+upgrades.shieldbattleinvulnerable.desc,يتم تفعيل قدرة قتالية نشطة تجعل قبتك منيعة لفترة قصيرة.
+upgrades.prestigecobalt.desc,أرسل الكوبالت إلى موطنك، ما يزيد من مضاعف نقاط الهيبة التي تحصل عليها كل موجة.
+upgrades.swordlargeblade3.title,النصل الثقيل 3
+upgrades.doublelaser.desc,يتم تركيب برج ليزر ثانٍ، لكن ذلك يقسم قوة إطلاق النار بينهما.
+options.keybindings.action.dome.fire,إطلاق النار 
+upgrades.liftcapacity1.desc,تتمكن الأجرام من نقل موارد أكثر.
+upgrades.repellentoverchargeduration1.title,مضاعفة مدة قدرة المعركة 1
+options.keybindings.apply,تطبيق
+upgrades.domewavemeter.title,مقياس اقتراب الأعداء
+upgrades.repellentdelay1.title,التأخير 1
+options.keybindings.action.dome.battle,تعارك
+upgrades.keeper2pinballlifetime1.title,عمر الكرة الحركية 1
+options.input.gamepad.autoswitch,التعرف التلقائي على جهاز تحكم
+upgrades.repellent.desc,تركيب خزان ينتج سائلًا طاردًا للوحوش. قم بتنشيطه لرشه خارج القبة، ما سيؤخر الموجة القادمة من المهاجمين.
+upgrades.orchardjetpack1.desc,زيادة تعزيز سرعة الثمار، ما يتيح لك التحرك بسرعة أعلى.
+upgrades.prestigefinishnocobalt.desc,اترك هذا الكوكب وعد إلى موطنك.
+upgrades.prestigefinish.title,مغادرة الكوكب
+options.video.graphicsmode.window,نافذة
+upgrades.prestigecobaltnocobalt.desc,أرسل الكوبالت إلى موطنك، ما يزيد من مضاعف نقاط الهيبة التي تحصل عليها كل موجة.
+upgrades.orchardbattlerootingexplosion.desc,قم بتشغيله مجددًا لتفجير جميع الوحوش المحاصرة، وإلحاق الضرر بمن حولهم.
+upgrades.shieldbattleelectroblast.title,الانفجار الكهربائي
+upgrades.swordtargetlock.title,التثبيت على الهدف
+upgrades.dome2health1.title,الصحة 1
+upgrades.repellentoverchargestrength2.desc,إطالة أكثر لوقت تأخير الموجة التالية بعدما تُزيد الشحن.
+upgrades.stunlaser.title,الليزر الصاعق
+upgrades.stunlaserdamage2.title,الضرر 2
+upgrades.relichunt.title,سباق البحث عن الأثر القديم
+upgrades.keeper2pinballmorespheres2.title,Sphere Supply 2
+upgrades.repellentbattleslowdown.title,الإضعاف
+upgrades.condenserautocollect.title,التجميع الآلي
+upgrades.keeper2pinballdamage2.desc,يحسين الضرر الذي يلحقه المجال الحركي بالصخور عند الاصطدام. كما يحسن أضرار التعدين الدوراني.
+options.video.stretchmode.rezised.text,"يُظهر اللعبة في الشاشة الأصلية أو دقة النافذة.
+ستكون الصورة شديدة الوضوح، لكن قد تظهر أخطاء بصرية على شكل خطوط بعرض 1 بكسل."
+upgrades.stunlaser.desc,تثبيت ليزر يستهدف الوحوش الصغيرة ويصعقها تلقائيًا.
+upgrades.repellentdelay3.desc,يزيد من تأخير الموجة التالية من الوحوش زيادة أكبر.
+upgrades.repellentbattleslowdownstun1.desc,استخدم الأبواغ المتطايرة في الضباب لصعق الوحوش وإيقافها عن التقدم لفترة قصيرة.
+upgrades.dome1damagereduction1.desc,تصليب سطح القبة لتقليل الضرر المُتلقى من الوحوش الأرضية، لا يُغير من ضرر المقذوفات.
+upgrades.blastminingblast2.title,الانفجار 2
+upgrades.keeper2pinballlifetime1.desc,ثبّت kinetic ، بحيث تطفو لفترة أطول.
+upgrades.repellentbattlelongerhealthreduction.title,الصعق الشديد
+upgrades.prestigeiron.title,إرسال الحديد
+upgrades.blastmining.desc,يضيف آلة تحت القبة تستخدم الماء لإنتاج شحنات انفجار. انقلها إلى المناجم وأطلقها لتفجيرها.
+upgrades.keeper2movement1.title,حركة الجاذبية 1
+options.input.vibration.strength,شدة الاهتزاز
+upgrades.orchardoverchargebuffduration.title,مضاعفة مدة التعزيز
+options.keybindings.action.general.use,التحكم
+upgrades.keeper2pinballdamagefraction.title,تجاوز صلابة المجال الحركي
+upgrades.blastminingimpactdetonation.desc,ستنفجر شحنة الانفجار عند الاصطدام بسطح.
+upgrades.teleporterteleportduration1.desc,سيستغرق نقلك آنيًا وقتًا أقل.
+upgrades.shieldoverchargestrength1.desc,يزيد مقدار الضرر الذي يمتصه الدرع المضاعف.
+upgrades.shieldbattleelectroblast.desc,يتم تفعيل قدرة قتالية نشطة تنشئ تأثيرًا ميدانيًا مميتًا حول القبة لفترة قصيرة.
+upgrades.jetpackspeed3.desc,تحسين حزام الطيران، للتحرك بسرعة أعلى.
+upgrades.laserhitprojectiles.desc,يؤدي ضرب مقذوفات الطاقة بالليزر إلى إذابتها على الفور.
+upgrades.shield.desc,تركيب درع يمتص بعض الضرر. يُشحن من جديد تلقائيًا.
+options.video.stretchmode.scaled,تحجيم
+upgrades.dome3health1.desc,زيادة الصحة البنيوية للقبة بشكل دائم.
+options.keybindings.action.general,العامة
+upgrades.condenser.title,المكثف
+upgrades.domeresourcecounters.title,المخزون
+options.video.graphicsmode.fullscreen,شاشة كاملة
+options.keybindings.action.keeper,الحارس
+options.keybindings.keyboard,لوحة المفاتيح
+upgrades.keeper2pinballdamagefraction.desc,تتجاوز الكرة الحركية صلابة الصخور وتُتلف جزءا ثابتا من نِقَاط صحتِها.
+options.keybindings.action.general.up,فوق
+upgrades.drill1.title,قوة المثقاب 1
+upgrades.condenserdoublestorage.title,التخزين المزدوج
+upgrades.artilleryshotprediction.title,التنبؤ بالضربات
+upgrades.probestage1.title,المسبار المحسّن
+upgrades.jetpackstrength3.desc,تحسين حزام الطيران لحمل موارد أكثر.
+upgrades.keeper2pinballreflectspeedup2.desc,يتم تشغيل الكرات بشكل مكثف عند انعكاسها.
+upgrades.drill2.desc,تقوية المثقاب ليحفر بسرعة أعلى.
+options.keybindings.rebinding.error.gamepad,لا يمكن تعيين هذا كإدخال لوحة الألعاب
+upgrades.swordreflection3.desc,أقصى حجم للوحة الدرع.
+upgrades.artilleryflakmultishot1.desc,إطلاق المزيد من المقذوفات.
+upgrades.swordextendlong2.desc,تمنح قوة طعنة محسَّنة أكثر وتحكمًا أكثر دقة خلال الطيران.
+upgrades.condenserautoovercharge.title,المضاعفة الآلية
+upgrades.keeper2movement3.title,حركة الجاذبية 3
+upgrades.repellentoverchargestrength1.title,مضاعفة تأخير الموجة 1
+upgrades.teleporterteleportresourcescooldown.desc,يمكن للبوابة نقل الموارد آنيًا بتكرار أكبر.
+upgrades.keeper2bundle.desc,"Attached minerals can be shot as a bundle, in the same way you shoot kinetic spheres."
+upgrades.teleporterteleportduration1.title,مدة النقل الآني
+upgrades.shieldbattleinvulnerable.title,المناعة
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.shieldoverchargeduration1.desc,ستؤدي مضاعفة الدرع أيضًا إلى إطالة أي قدرة للدرع في المعركة تستخدمها في الموجة التالية.
+upgrades.probe.desc,يضيف مسبارًا إلى بدلتك، وعند تشغيله ينتج نبضًا يكشف عن الموارد القريبة. يجب إعادة شحنه بالمحطة تحت القبة.
+upgrades.domesandrepair.title,الإصلاح بالكوبالت
+upgrades.orcharddrill1.desc,"Increase the fruits mining boost, letting you mine faster."
+upgrades.condenserspeed1.title,سرعة الإنتاج 1
+upgrades.domewavecount.desc,ثبّت عدادًا يوضح عدد الموجات التي نجوت منها.
+upgrades.laserstrength1.title,القوة 1
+upgrades.swordstabexplode.title,توصيل القنبلة الطاعنة
+upgrades.proberecharge.title,إعادة الشحن التلقائية
+upgrades.condenserspeed1.desc,تقلل الوقت اللازم لتكثيف وحدة ماء واحدة.
+options.keybindings.action.dome.upgrade,الترقيات
+upgrades.jetpackstrength2.title,قوة الحمولة 2
+upgrades.dome2.desc,قبة قوية بسيف ديناميكي يمكن للحراس إتقان استعماله للسيطرة على المهاجمين.
+upgrades.shieldstrength1.title,القوة 1
+options.video.graphicsmode.photosensitive,وضع الحساسية للضوء
+upgrades.dome2badrepair1.title,استعادة التأثير 1
+upgrades.artilleryflakexplosionradius2.desc,انفجار مضاد طائرات أكبر.
+upgrades.prestige.title,الهيبة
+upgrades.keeper1.title,المهندس
+upgrades.laser.title,الليزر
+upgrades.swordfastreflection.desc,المقذوفات المنعكسة تطير رجوعًا بسرعة أعلى.
+upgrades.artilleryshotcooldown1.title,التهدئة 1
+options.accessibility.photosensitivity.explanation,تقليل الأضواء المتوهجة.
+upgrades.orchardduration1.title,المدة 1
+upgrades.jetpackspeed4.title,السرعة 4
+upgrades.blastmining.title,التعدين التفجيري
+upgrades.keeper2bundlestopcenter.desc,"Shot bundles will stay right under the dome, instead of flying past the central axis."
+upgrades.shieldstrength1.desc,يزيد مقدار الضرر الذي يمكن أن يمتصه درع القبة.
+upgrades.relichunt.desc,ابحث عن الأثر المدفون عميقًا، وأعده إلى قبتك.
+upgrades.orchardjetpack2.title,تعزيز سرعة حزام الطيران 2
+upgrades.shieldstrength2.desc,يزيد من مقدار الضرر الذي يمكن أن يمتصه الدرع أكثر.
+upgrades.orcharddrill3.title,Mining Boost 3
+upgrades.orchardjetpack3.desc,زيادة تعزيز سرعة الثمار، ما يتيح لك التحرك بسرعة بالغة.
+upgrades.keeper2pinballdamage3.desc,يحسين الضرر الذي يلحقه المجال الحركي بالصخور عند الاصطدام. كما يحسن أضرار التعدين الدوراني.
+upgrades.swordstabexplodedamage.desc,يزيد من ضرر القنبلة.
+upgrades.orchardduration3.desc,أقصى مدة لتأثيرات الثمار.
+upgrades.keeper2pinballmorespheres2.desc,أضف وحدة إضافية إلى مولد الجاذبية الخاص بك ، حتى تتمكن من وضع المزيد من المجالات الحركية.
+upgrades.probelong1.title,المدى البعيد
+upgrades.teleporterteleportresourcesback.desc,ستمتلك البوابة القدرة على نقل الموارد، لكن لن تعد بإمكنها نقلك، ما تزال تستطيع التنقل من القبة إلى البوابة.
+options.keybindings.text,"قم بتحرير تخطيط التحكم حسب رغبتك.
+يمكن أن تتداخل المفاتيح من أقسام مختلفة بشكل عام بدون مشكلة (مثل استخدام نفس المفاتيح لتحريك حارسك وسلاح القبة)."
+upgrades.keeper2movement1.desc,قم بتحسين مولد الجاذبية لديك للتحرك بشكل أسرع.
+upgrades.dome3.title,قبة المدفعية
+upgrades.teleporterteleportresourcesback.title,نقل الموارد آنيًا
+upgrades.condenserautoovercharge.desc,يحافظ على مضاعفة أداتك الأساسية دومًا، دون استهلاك الماء. سيتأخر إنتاج ماء المكثف بعد المضاعفة.
+options.input.gamepad,لوحة الألعاب (Gamepad)
+options.translation.community.desc,تُرجمت اللعبة إلى هذه اللغات عن طريق مجتمعنا الرائع، إنضم إليهم إن أحببت!
+upgrades.liftcarrykeeper1.title,مصعد الحارس 1
+upgrades.proberecharge.desc,سيعاد شحن المسبار ببطء من تلقاء نفسه بمرور الوقت.
+upgrades.stunlaserspeed2.desc,يتحرك الليزر الصاعق بسرعة أعلى ويحافظ على تتبع الوحوش عند التهدئة.
+title.navbar.credits,أسماء المشاركين
+upgrades.keeper2movement2.desc,قم بتحسين مولد الجاذبية لديك للتحرك بشكل أسرع.
+upgrades.drill4.title,قوة المثقاب 4
+upgrades.artillerymultishot1.desc,يتم إطلاق عدة قنابل يدوية في كل ضربة.
+upgrades.orcharddrill3.desc,"Increase the fruits mining boost, letting you mine extremely fast."
+upgrades.repellentoverchargeduration2.desc,بعد المضاعفة، ستستمر قدرة المعركة لفترة أطول في الموجة التالية.
+upgrades.drill3.desc,تقوية المثقاب ليحفر بسرعة أعلى.
+upgrades.blastminingstickycharge.desc,تلتصق الشحنات بالجدار الأول الذي تلمسه، وتفجر نفقًا بداخله بدلاً من عمل انفجار دائري.
+upgrades.laseraimline.title,مهداف الليزر
+options.keybindings.action.keeper.gravityball,ضربة مشحونة
+upgrades.minoriron.title,أرسل الحديد
+upgrades.dome1.title,قبة الليزر
+upgrades.orchardoverchargebuffduration.desc,ستستمر آثار الثمار لفترة أطول بعد مضاعفة البستان.
+options.audio.volumes,مستويات الصوت
+upgrades.blastminingblast1.title,الانفجار 1
+upgrades.orcharddrill1.title,Mining Boost 1
+upgrades.swordstabshoot.desc,بدلاً من التراجع بواسطة كابل، ينطلق السيف من القبة مثل الرمح.
+options.keybindings.action.keeper.gravitycollect,تعبئة القوة
+upgrades.stunlaserduration2.desc,يهدأ الليزر الصاعق بسرعة أعلى ويطلق النار لفترة أطول.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+upgrades.shieldbattlereflectshortuses.title,الانعكاس الموقوت
+title.navbar.newgame,لعبة جديدة
+upgrades.shieldbattleactivateondepletion.title,التفعيل عند الاستنفاد
+upgrades.shieldbattlereflectspeedup.title,الانعكاس المتسارع
+upgrades.repellentdelay3.title,التأخير 3
+options.audio.music,الموسيقى
+upgrades.jetpackstrength4.desc,تحسين حزام الطيران لحمل موارد أكثر.
+upgrades.jetpackspeed3.title,السرعة 3
+upgrades.sword.title,السيف
+upgrades.condenserautocollect.desc,يعمل على أتمتة تجميع الماء، ما يلغي الحاجة إلى جمعه يدويًا.
+upgrades.keeper2pinballreflectdamage2.title,Reflection Damage 2
+upgrades.shieldbattlelongerafterdepletion.desc,سيستمر الانفجار لفترة أطول إذا تم تفعيله بعد نفاد درعك.
+options.keybindings.action.dome,القبة
+upgrades.swordexplosivereflection.title,الانعكاس المتفجر
+upgrades.artilleryflakmultishot2.desc,إطلاق المزيد من المقذوفات.
+options.keybindings.action.general.move,تحرك
+upgrades.blastminingproductiontime1.desc,يقلل الوقت اللازم لإنشاء شحنة انفجار.
+upgrades.keeper2pinballdamage4.desc,يحسين الضرر الذي يلحقه المجال الحركي بالصخور عند الاصطدام. كما يحسن أضرار التعدين الدوراني.
+upgrades.swordreflection3.title,الانعكاس 3
+upgrades.repellentbattlehealthreduction.desc,يُضعف كل الوحوش الموجودة، ويقلل فورًا من صحتها المتبقية.
+upgrades.keeper2pinballlifetime2.title,عمر الكرة الحركية 2
+upgrades.probelong1.desc,يزيد من نطاق اختبار اتصال المسبار، لكنه يفقد خانة شحن.
+upgrades.drill2.title,قوة المثقاب 2
+upgrades.laser.desc,ليزر دقيق يتحرك على طول القبة. صُنع في الأصل لتعدين الكويكبات.
+upgrades.orchardjetpack1.title,تعزيز سرعة حزام الطيران 1
+upgrades.domesandrepairstrong.title,الإصلاح القوي بالكوبالت
+options.keybindings.gamepad,لوحة الألعاب (Gamepad)
+upgrades.liftcapacity1.title,السعة
+options.accessibility.highlightmonsters.explanation,يكون خطوط مضيئة حول الوحوش لرؤية أوضح.
+upgrades.keeper1.desc,محترف ماهر وكفء يمتلك مهارات تعدين ممتازة.
+upgrades.artilleryshotcooldown2.title,التهدئة 2
+options.keybindings.action.general.right,يمين
+upgrades.dome3health2.desc,زيادة الصحة البنيوية للقبة بشكل دائم.
+upgrades.prestigecobaltnocobalt.title,إرسال الكوبالت
+options.keybindings.rebinding.error.keyboard,لا يمكن تعيين هذا كإدخال لوحة المفاتيح
+upgrades.artillery.desc,بازوكا الديدان.
+upgrades.shieldbattlereflect.desc,يتم تفعيل قدرة قتالية نشطة تعكس المقذوفات الواردة لفترة قصيرة.
+upgrades.domehealthmeter.title,مقياس الصحة
+upgrades.keeper2pinballreflect.title,انعكاس المجال
+upgrades.shield.title,الدرع
+upgrades.migration.title,الهجرة
+options.input.gamepad.gamepadstickdeadzone.text,"اضبط القيمة بحيث لا يومض الشريط إذا لمست فقط عصي الإبهام دون دفعهما.
+إذا دفعت عصا الإبهام، سيومض الشريط عند تحريك العصا."
+upgrades.swordstabexplodedamage.title,ضرر القنبلة
+upgrades.probeswift1.title,المسبار السريع
+upgrades.blastminingwaterless.title,شحنات بلا ماء
+options.audio.volumes.mastervolume,مستوى الصوت الرئيسي
+upgrades.minerwater.title,أرسل الماء
+upgrades.condenserspeed2.title,سرعة الإنتاج 2
+upgrades.domewavecount.title,عداد الدورات
+upgrades.dome2badrepair2.title,استعادة التأثير 2
+upgrades.teleporter.title,الناقل الآني
+upgrades.dome3health2.title,الصحة 2
+upgrades.laserstrength3.desc,تُحسن قوة الليزر لديك بمقدار ضخم، لكنه حينئذٍ بالكاد يتحرك خلال إطلاق النار.
+upgrades.orchardovercharge.desc,استخدم الماء لمضاعفة بستانك، مما يجعل إنتاج الثمار أسرع.
+upgrades.stunlaserspeed1.title,السرعة 1
+options.keybindings.title,تخطيط التحكم
+upgrades.orchardbattlerootingmore.desc,تنمو المزيد من الجذور التي تدوم لفترة أطول.
+upgrades.lasermove2.desc,تتزايد سرعة حركة الليزر أكثر.
+options.input.controls.text,تُلعب على أفضل نحو مع لوحة ألعاب (Gamepad).
+upgrades.swordlargeblade2.desc,يتم تركيب نصل ضخم. إنه أبطأ، لكنه يسبب أضرارًا جسيمة.
+upgrades.condenserdoublestorage.desc,سينتج المكثف ويخزن وحدتي ماء قبل أن يتوقف عن العمل.
+upgrades.swordlargeblade1.title,النصل الثقيل 1
+upgrades.dome2.title,قبة السيف
+upgrades.repellentbattledamageovertime.title,الأبخرة السامة
+options.game.languages,اللغات
+upgrades.shieldoverchargeduration1.title,مضاعفة مدة قدرة المعركة 1
+upgrades.laseraimline.desc,يُضيف خط نظر لسلاح الليز، ليوضح أين يستهدف.
+upgrades.lasermove3.desc,تصل سرعة حركة الليزر إلى الحد الأقصى.
+upgrades.minerwater.desc,أرسل الماء بعيدًا عن العالم لزيادة مكانتك.
+upgrades.prestigefinishnocobalt.title,مغادرة الكوكب
+upgrades.keeper2pinballsplit.desc,قسّم الكرات القادمة إلى قِسمين، مع تغيِير إتجاهِها بشكل عمودي من حيث أتَت.
+upgrades.teleporter.desc,ناقل آني ذو اتجاهين له محطة أسفل القبة وبوابة يمكن وضعها وتحريكها بين المناجم.
+options.keybindings.cancel,إلغاء
+upgrades.stunlaserautonomy1.title,التحرك المستقل
+upgrades.shieldbattlereflectshortuses.desc,يتم الانعكاس بتكرار أكبر لفترة أقصر من الوقت.
+upgrades.jetpackstrength1.title,قوة الحمولة 1
+options.keybindings.action.keeper.drop,إسقاط
+upgrades.orchardbattlerootingmore.title,الجذور القوية
+upgrades.condenser.desc,يضيف آلة أسفل القبة تنتج الماء ببطء من خلال التكثيف.
+upgrades.domehealthmeter.desc,يعرض الصحة البنيوية للقبة.
+upgrades.swordexplosivereflection.desc,تنفجر المقذوفات المنعكسة عندما تصطدم بشيء ما.
+upgrades.orchard.title,البستان
+options.audio.music.frequency,التكرار(دورات دون موسيقى)
+upgrades.shieldoverchargestrength2.desc,يزيد من مقدار الضرر الذي يمتصه الدرع المضاعف بشكل أكبر.
+upgrades.shieldoverchargeduration2.desc,ستصبح قدرة الدرع في المعركة نشطة لفترة أطول في الموجة التالية بعد المضاعفة.
+upgrades.orchardduration2.desc,تستمر آثار الثمار لفترة أطول.
+options.game,اللعبة
+upgrades.lasermove1.title,سرعة الحركة 1
+upgrades.keeper2pinballdamage1.title,ضرر المجال الحركي 1
+upgrades.lift.desc,تثبيت مصعد آلي يجلب الموارد المستخرجة من المناجم لمعالجتها في القبة.
+upgrades.probepersist1.desc,أضف وحدة ذاكرة إلى المسبار، مع تحديد موقع الموارد لفترة أطول.
+upgrades.stunlaserduration1.title,تحمُّل النار 1
+upgrades.swordaimline.title,خط الهدف
+upgrades.keeper2pinballdamage3.title,ضرر المجال الحركي 3
+upgrades.swordstabexplode.desc,يرسل السيف قنبلة تنفجر في أول عدو يطعنه السيف.
+upgrades.lasermove2.title,سرعة الحركة 2
+upgrades.liftspeed1.title,السرعة
+upgrades.condenserspeed2.desc,تقلل بشكل أكبر من الوقت اللازم لتكثيف وحدة ماء واحدة.
+upgrades.swordtargetlock.desc,عند الطعن، يُثبَّت السيف تلقائيًا بالوحش الأول الذي يستهدفه.
+upgrades.shieldoverchargestrength2.title,مضاعفة قوة الدرع 2
+upgrades.shieldbattleactivateondepletion.desc,تعمل المناعة تلقائيًا على بدء وقت إضافي عند نفاد الدرع.
+upgrades.repellentbattlestrongerslowdown2.title,الركود القوي
+upgrades.artillery.title,سلاح المدفعية
+upgrades.dome3health1.title,الصحة 1
+upgrades.blastminingtriple.title,ثلاث شحنات
+upgrades.shieldbattlelongerafterdepletion.title,تعزيز الاستنفاد
+options.translation.community,ترجمة المجتمع، تم الانتهاء من {completion}%
+title.navbar.credits.close,إغلاق
+upgrades.doublelaser.title,الليزر المزدوج
+upgrades.shieldstrength3.title,القوة 3
+upgrades.keeper2.title,المقيِّم
+upgrades.orchardjetpack3.title,تعزيز سرعة حزام الطيران 3
+upgrades.dome3.desc,غير متوفرة في العرض التوضيحي
+upgrades.jetpackstrength3.title,قوة الحمولة 3
+upgrades.shieldbattlereflectspeedup.desc,تطير المقذوفات المنعكسة بسرعة أكبر، ما يزيد من فرصها في إصابة المهاجم.
+upgrades.miner.desc,"في عوالم خالية من الوحوش ، يمكنك التركيز على التنقيب عن أكبر عدد تريده من الموارد دون 
+ إزعاج."
+upgrades.shieldstrength3.desc,يزيد من مقدار الضرر الذي يمكن أن يمتصه الدرع أكثر.
+upgrades.orchardduration2.title,المدة 2
+upgrades.drill4.desc,تقوية المثقاب ليحفر بسرعة أعلى.
+upgrades.swordstabfast2.title,الطعنة السريعة 2
+upgrades.swordblade1.desc,تحسين قوة تشريح سيفك وسرعته.
+upgrades.keeper2pinballmorespheres1.desc,أضف وحدة إضافية لمولد الجاذبية الخاص بك ، حتى تتمكن من تجميع المزيد من kinetic spheres.
+upgrades.artillerymultishot2.desc,يتم إطلاق عدة قنابل يدوية في كل ضربة.
+options.keybindings.restoredefault,استعادة الوضع الافتراضي
+options.keybindings.action.keeper.pickup,إلتقاط
+upgrades.minerrefuel.desc,حول الماء إلى وقود ، واملأ خزانات الوقود في قبابك حتى تتمكن من إعادة تزويد حارسك بالوقود.
+options.game.events,أحداث
+upgrades.swordelectrified.title,النصل المكهرب
+upgrades.blastminingimpactdetonation.title,تفجير الاصطدام
+upgrades.keeper2pinballreflectspeedup2.title,انعكاس متفوق
+upgrades.swordreflection2.title,الانعكاس 2
+upgrades.swordlargeblade1.desc,يتم توسيع النصل وإطالته، ما يتسبب في مزيد من الضرر.
+upgrades.swordlongblade1.desc,يتم تركيب نصل أطول وأكثر رشاقة.
+upgrades.swordstabfast1.desc,الطعن بسرعة أعلى وبتكرار أكبر.
+upgrades.probepersist1.title,مسبار الذاكرة
+upgrades.artilleryflakexplosionradius1.title,نصف قطر مضاد الطائرات 1
+upgrades.swordextendlong1.title,الطعنة الطويلة 1
+upgrades.minoriron.desc,أرسل الحديد بعيدًا عن العالم لزيادة مكانتك.
+upgrades.drill3.title,قوة المثقاب 3
+upgrades.keeper2movement3.desc,قم بتحسين مولد الجاذبية لديك للتحرك بشكل أسرع.
+options.keybindings.rebinding,إعادة ربط
+upgrades.keeper2pinballreflect.desc,اعكس الكرات ذات مجال الجاذبية الصغير الذي يحتوي على طاقة عالية من حولك.
+upgrades.shieldoverchargestrength1.title,مضاعفة قوة الدرع 1
+upgrades.repellentoverchargeduration1.desc,سيجعل زيادة شحن خزانك لإطالة قدرة النفاث القتالية التي تستخدمها في الموجة القادمة.
+upgrades.orchardbattleshield.desc,ازرع درعًا يحمي القبة من المقذوفات.
+options.video,الفيديو
+options.audio,الصوت
+options.keybindings.action,الإجراء
+upgrades.repellentbattleslowdown.desc,رش ضبابًا مخدرًا خلال المعركة يعمل على إبطاء سرعة كل الوحوش.
+upgrades.teleporterteleportresourcesarea.desc,ستقوم البوابة بنقل الموارد من منطقة أكبر من ذي قبل.
+upgrades.jetpackspeed4.desc,تحسين حزام الطيران، للتحرك بسرعة أعلى.
+upgrades.swordlongblade1.title,النصل الطويل 1
+upgrades.keeper2pinballreflectdamage1.title,Reflection Damage 1
+upgrades.miner.title,منقب
+upgrades.shieldstrength2.title,القوة 2
+options.audio.volumes.soundvolume,مستوى الصوت العام
+upgrades.lasermove1.desc,يتحرك الليزر بسرعة أعلى.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+upgrades.swordelectrified.desc,يمر تيار كهربائي عبر النصل، ما يُلحق ضررًا عند اللمس.
+options.input.controls.keybindings,ارتباطات المفاتيح
+upgrades.artillerymultishot1title,الضربات المتلاحقة 1
+upgrades.swordreflection1.desc,زيادة حجم لوحة الدرع وجعلها تعكس مقذوفات الطاقة.
+upgrades.stunlaserdamage2.desc,يزيد الضرر الذي يسببه الليزر الصاعق.
+upgrades.dome1damagereduction2.title,التصليب 2
+upgrades.swordextendlong2.title,الطعنة الطويلة 2
+upgrades.domeresourcecounters.desc,يعرض المقدار الحالي من الموارد المخزنة.
+upgrades.keeper2pinballlifetime2.desc,ثبّت kinetic ، بحيث تطفو لفترة أطول.
+upgrades.repellentovercharge.desc,استخدام الماء لزيادة شحن خزانك لإنتاج الخزينة التالية من النفاث بشكل أسرع.
+upgrades.artillerymultishot2.title,الضربات المتلاحقة 2
+upgrades.shieldovercharge.desc,يُستخدم الماء لمضاعفة الدرع يدويًا حتى يمتص المزيد من الضرر في الموجة التالية.
+title.navbar.updates,التحديثات
+upgrades.repellentbattlelongerhealthreduction.desc,يطيل ويقوي صعق جميع الوحوش الموجودة.
+upgrades.probestage1.desc,يحسن المسبار، مما يجعله أفضل بشكل عام.
+upgrades.keeper2pinballreflectdamage1.desc,ستلحق الكرات المنعكسة أضرارًا أكبر بكثير بالصخرة التي اصطدمت بها بعد ذلك.
+options.audio.volumes.ambiencevolume,مستوى الصوت المحيطي
+upgrades.domewavemeter.desc,يعرض الوقت المتبقي حتى الموجة التالية من هجوم أشكال الحياة المعادية.
+upgrades.orchardbattleshieldstrong.title,الدروع القوية
+upgrades.orchardbattlerooting.title,كمين الجذور
+upgrades.liftorbs.title,الأجرام 1

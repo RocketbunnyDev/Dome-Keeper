@@ -1,0 +1,276 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://content/keeper/keeper2/tutorial/AssessorTutorial.gd" type="Script" id=2]
+[ext_resource path="res://gui/fonts/FontHeading.tres" type="DynamicFont" id=3]
+[ext_resource path="res://gui/fonts/FontLarge.tres" type="DynamicFont" id=4]
+[ext_resource path="res://content/keeper/keeper2/tutorial/assessor_tut3.webm" type="VideoStream" id=5]
+[ext_resource path="res://content/keeper/keeper2/tutorial/assessor_tut1.webm" type="VideoStream" id=6]
+[ext_resource path="res://content/keeper/keeper2/tutorial/assessor_tut2.webm" type="VideoStream" id=7]
+[ext_resource path="res://gui/buttons/Action.tscn" type="PackedScene" id=8]
+
+[node name="AssessorTutorial" type="CenterContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme = ExtResource( 1 )
+script = ExtResource( 2 )
+isFullscreen = true
+moveOutAfter = -1.0
+moveInDelay = 1.0
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+margin_left = 224.0
+margin_top = 81.0
+margin_right = 1695.0
+margin_bottom = 998.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1459.0
+margin_bottom = 905.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 1431.0
+margin_bottom = 877.0
+
+[node name="Label" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_right = 1415.0
+margin_bottom = 65.0
+custom_fonts/font = ExtResource( 3 )
+text = "upgrades.keeper2.title"
+align = 1
+
+[node name="HBoxContainer" type="GridContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 81.0
+margin_right = 1415.0
+margin_bottom = 748.0
+size_flags_horizontal = 3
+custom_constants/hseparation = 24
+columns = 3
+
+[node name="VideoPlayer1" type="VideoPlayer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 8.0
+margin_right = 458.0
+margin_bottom = 450.0
+size_flags_horizontal = 4
+stream = ExtResource( 7 )
+volume_db = -80.0
+autoplay = true
+expand = false
+
+[node name="VideoPlayer2" type="VideoPlayer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 491.0
+margin_right = 941.0
+margin_bottom = 450.0
+size_flags_horizontal = 4
+stream = ExtResource( 6 )
+volume_db = -80.0
+expand = false
+
+[node name="VideoPlayer3" type="VideoPlayer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 965.0
+margin_right = 1415.0
+margin_bottom = 450.0
+size_flags_horizontal = 4
+stream = ExtResource( 5 )
+volume_db = -80.0
+expand = false
+
+[node name="Text1" type="VBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_top = 466.0
+margin_right = 467.0
+margin_bottom = 667.0
+size_flags_horizontal = 3
+
+[node name="Label2" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text1"]
+margin_right = 467.0
+margin_bottom = 37.0
+rect_min_size = Vector2( 450, 0 )
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "level.tutorial.assessor.spheres"
+align = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text1"]
+margin_top = 53.0
+margin_right = 467.0
+margin_bottom = 78.0
+
+[node name="LabelDesc1_1" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text1/HBoxContainer"]
+margin_right = 16.0
+margin_bottom = 25.0
+text = "t1"
+
+[node name="Action" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text1/HBoxContainer" instance=ExtResource( 8 )]
+margin_left = 32.0
+margin_right = 32.0
+margin_bottom = 25.0
+action = "keeper2_gravityball"
+
+[node name="LabelDesc1_2" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text1/HBoxContainer"]
+margin_left = 48.0
+margin_right = 467.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+text = "t2"
+autowrap = true
+
+[node name="LabelDesc2" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text1"]
+margin_top = 94.0
+margin_right = 467.0
+margin_bottom = 119.0
+text = "level.tutorial.assessor.spheres.desc2"
+autowrap = true
+
+[node name="LabelDesc3" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text1"]
+margin_top = 135.0
+margin_right = 467.0
+margin_bottom = 160.0
+text = "level.tutorial.assessor.spheres.desc3"
+autowrap = true
+
+[node name="Text2" type="VBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 491.0
+margin_top = 466.0
+margin_right = 941.0
+margin_bottom = 667.0
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text2"]
+margin_right = 450.0
+margin_bottom = 37.0
+rect_min_size = Vector2( 450, 0 )
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "level.tutorial.assessor.mining"
+align = 1
+
+[node name="Label4" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text2"]
+margin_top = 53.0
+margin_right = 450.0
+margin_bottom = 78.0
+text = "level.tutorial.assessor.mining.desc"
+autowrap = true
+
+[node name="Label5" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text2"]
+margin_top = 94.0
+margin_right = 450.0
+margin_bottom = 119.0
+text = "level.tutorial.assessor.mining.desc2"
+autowrap = true
+
+[node name="Text3" type="VBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 965.0
+margin_top = 466.0
+margin_right = 1415.0
+margin_bottom = 667.0
+size_flags_horizontal = 3
+
+[node name="Label5" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3"]
+margin_right = 450.0
+margin_bottom = 37.0
+rect_min_size = Vector2( 450, 0 )
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "level.tutorial.assessor.carry"
+align = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3"]
+margin_top = 53.0
+margin_right = 450.0
+margin_bottom = 78.0
+
+[node name="LabelDesc3_1" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3/HBoxContainer"]
+margin_right = 16.0
+margin_bottom = 25.0
+text = "t1"
+
+[node name="Action" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3/HBoxContainer" instance=ExtResource( 8 )]
+margin_left = 32.0
+margin_right = 32.0
+margin_bottom = 25.0
+action = "keeper2_gravitycollect"
+
+[node name="LabelDesc3_2" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3/HBoxContainer"]
+margin_left = 48.0
+margin_right = 450.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+text = "t2"
+autowrap = true
+
+[node name="LabelDesc4" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3"]
+margin_top = 94.0
+margin_right = 450.0
+margin_bottom = 119.0
+text = "level.tutorial.assessor.carry.desc1_1"
+autowrap = true
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3"]
+margin_top = 135.0
+margin_right = 450.0
+margin_bottom = 160.0
+
+[node name="LabelDesc4_1" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3/HBoxContainer2"]
+margin_right = 16.0
+margin_bottom = 25.0
+text = "t1"
+
+[node name="Action" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3/HBoxContainer2" instance=ExtResource( 8 )]
+margin_left = 32.0
+margin_right = 32.0
+margin_bottom = 25.0
+action = "keeper2_gravitycollect"
+
+[node name="LabelDesc4_2" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3/HBoxContainer2"]
+margin_left = 48.0
+margin_right = 450.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+text = "t2"
+autowrap = true
+
+[node name="Label4" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Text3"]
+margin_top = 176.0
+margin_right = 450.0
+margin_bottom = 201.0
+text = "level.tutorial.assessor.carry.desc3"
+autowrap = true
+
+[node name="HSeparator" type="HSeparator" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 764.0
+margin_right = 1415.0
+margin_bottom = 788.0
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 804.0
+margin_right = 1415.0
+margin_bottom = 861.0
+
+[node name="BackButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+margin_right = 699.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+text = "level.tutorial.fullscreen.back"
+
+[node name="Button" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+margin_left = 715.0
+margin_right = 1415.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+text = "level.tutorial.fullscreen.continue"
+
+[connection signal="finished" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/VideoPlayer1" to="." method="_on_VideoPlayer1_finished"]
+[connection signal="finished" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/VideoPlayer2" to="." method="_on_VideoPlayer2_finished"]
+[connection signal="finished" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/VideoPlayer3" to="." method="_on_VideoPlayer3_finished"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2/BackButton" to="." method="_on_BackButton_pressed"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2/Button" to="." method="_on_Button_pressed"]

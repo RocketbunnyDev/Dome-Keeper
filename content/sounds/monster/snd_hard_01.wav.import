@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/snd_hard_01.wav-6131664819d365a3124c6451a01311ed.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/snd_hard_01.wav"
+dest_files=[ "res://.import/snd_hard_01.wav-6131664819d365a3124c6451a01311ed.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

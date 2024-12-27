@@ -1,0 +1,942 @@
+﻿key,zh_CN
+loadout.prestige.title,选择模式变种
+upgrades.shieldbattleelectroblast.title,电场爆炸
+properties.shield.maxstrength,强度：{} 点HP
+options.keybindings.action.general.move,移动
+options.video.stretchmode.rezised,重定尺寸
+level.gameover.unlock.world,已解锁新世界！
+upgrades.blastminingwaterless.desc,生产炸药不再需要用到水，但会花更长的时间。
+properties.blastmining.growthtime,生产时间：{}个周期
+properties.laser.stun,眩晕强度：{}
+exhibition.level.instruction,按任意键即可继续游戏！
+pause.godot,使用 Godot 引擎制作
+upgrades.orchardjetpack2.desc,提升水果对速度的增幅，让你移动速度进一步加快。
+upgrades.artillery.title,火炮
+upgrades.condenser.desc,在穹顶下方添置一台冷凝器，靠冷凝的方式缓慢生产水。
+properties.lift.keeperupwardsspeed,守护者电梯速度：{}
+level.gameover.continue,继续
+upgrades.dome1damagereduction2.title,加固 II
+upgrades.orchardduration2.title,持续时间 II
+upgrades.condenserautoovercharge.title,自动过充
+upgrades.keeper2pinballreflectdamage2.title,反弹伤害 2
+loadout.title,选择装备
+level.tutorial.teleporter_2,你可以使用传送器基站传送至传送门处，反之亦然。
+options.keybindings.action.general.up,上
+level.converter.popup.cancel,取消
+properties.keeper.domefuel,添加燃料 {}
+properties.shield.battleactivateondepletion,护盾耗尽时激活技能
+loadout.prestige.normal,常规
+properties.sword.reflectprojectilesexplosive,反弹回去的能量飞弹会爆炸
+upgrades.swordlargeblade3.title,重刃 III
+upgrades.orcharddrill2.title,采矿增幅 2
+loadout.prestige.normal.description,常规的声望模式。
+upgrades.keeper2pinballreflectdamage1.desc,反弹的球会对接下来撞击的岩石造成更大的伤害。
+options.input.gamepad,手柄
+loadout.choices.locked,尚未解锁
+upgrades.condenserspeed1.desc,缩短冷凝一份水所需的时间。
+upgrades.shieldbattleinvulnerable.desc,主动战斗技能，激活后可让穹顶在短期内免疫一切伤害。
+upgrades.domewavemeter.desc,显示距离敌对生物的下一波进攻还有多少时间。
+upgrades.keeper2pinballreflectspeedup2.title,超强反弹
+upgrades.keeper2movement1.desc,改进你的重力发生器以更快地移动。
+upgrades.repellentoverchargeduration2.desc,过充后，下一波进攻期间的战斗技能会持续得更久。
+upgrades.laserhitprojectiles.desc,激光炮命中能量飞弹时会立刻将其拦截。
+options.keybindings.action.keeper.pickup,拾起
+upgrades.keeper2pinballdamage1.desc,提高动能球在撞击时对岩石造成的伤害。还会提高旋转采矿伤害。
+upgrades.keeper2pinballdamage3.title,动能球伤害 3
+options.video.graphicsmode.enablevsync,启用垂直同步
+options.translation.community,社区翻译，{completion}%完成度
+loadout.difficulty.easy,困难
+worldmodifier.resourcerichiron.desc,该世界有大量铁。
+loadout.miner.fuel,启用需要用水来为守护者的移动补充燃料。
+upgrades.prestigeiron.title,运送铁
+upgrades.stunlaserspeed1.desc,眩晕激光炮的移动速度增加。
+upgrades.keeper2pinballdamage2.desc,提高动能球在撞击时对岩石造成的伤害。还会提高旋转采矿伤害。
+upgrades.drill1.title,钻力 I
+upgrades.prospectionmetersand2.title,指钴罗盘
+upgrades.dome1health1.desc,永久提高穹顶的建筑生命值。
+title.navbar.newgame,新游戏
+properties.repellent.overchargeduration,驱怪剂生产速度加快{}个周期
+properties.sword.retractspeed,收回速度：{} 
+upgrades.lasermove3.desc,激光炮的移动速度达到最大。
+upgrades.stunlaser.title,眩晕激光炮
+options.keybindings.action.general.use,使用
+worldmodifier.monsterfeeble.desc,怪物更加孱弱，只能造成较少伤害。
+upgrades.shield.desc,安装一面可吸收一定伤害的护盾。护盾会自动进行充能。
+options.video.stretchmode.rezised.text,"以原生的屏幕或窗口分辨率渲染游戏。
+画面看上去会十分清晰，但可能会出现1像素宽线条形式的视觉错误。"
+upgrades.orchardbattlerootingexplosion.desc,再次触发，即可引爆所有被困的怪物，对周围造成伤害。
+loadout.mapsize.small,小
+upgrades.probe.desc,在你的衣服上装一个探测器，激活时会发出一道脉冲，显示附近的资源。必须在穹顶下方的基站处充能。
+upgrades.swordlongblade1.desc,安装一副更长且更灵活的剑身。
+upgrades.dome1health1.title,生命值 I
+upgrades.blastminingwaterless.title,无水炸药
+level.tutorial.assessor.carry,重力收集
+upgrades.liftspeed1.desc,提高宝珠的移动速度。
+upgrades.shieldstrength1.desc,提升穹顶护盾可吸收的伤害量。
+upgrades.orchardbattleshieldsecondlayer.title,双层护盾
+upgrades.teleporterteleportresourcescooldown.desc,传送门可以更频繁地传送资源。
+options.input.gamepad.autoswitch,自动检测首选游戏手柄
+level.gameover.unlock.modifiers,已解锁世界调整器！
+properties.sword.slicebrake,削切时降速：{.percent}
+loadout.difficulty.veryeasy,普通
+properties.sword.sliceacceleration,利剑速度：{}
+options.input.gamepad.gamepadstickdeadzone.text,"设定一个值，使长条不会在你仅触碰而不推动摇杆的情况下闪烁。
+如果你推动摇杆，长条应该会在推动过程中闪烁。"
+options.accessibility.highlightmonsters.explanation,在怪物四周呈现较亮的轮廓，以提高可见性。
+properties.upgrade.gameover,结束一局
+upgrades.blastminingstickycharge.title,黏性定向炸药
+upgrades.shieldoverchargestrength2.title,过充护盾强度 II
+upgrades.blastminingblast2.desc,进一步提升爆破威力。
+upgrades.repellentbattlestrongerslowdown2.title,强效停滞
+upgrades.converter.desc,可以转换资源，帮你平衡资源库存。
+level.tutorial.fullscreen.continue,继续
+upgrades.repellentbattleslowdown.desc,战斗期间喷洒一种麻醉喷雾，减慢所有怪物的行动速度。
+loadout.mapsize.medium.description,一张常规大小的地图，适合正正经经的采矿流程。
+properties.orchard.overchargeadditionalbuffduration,过充后获得{}秒额外增益时长
+options.translation.community.title,社群翻译
+upgrades.blastminingtriple.title,三重爆破
+worldmodifier.hardnessextremes.desc,极硬或极软的岩石非常多。
+level.station.battle.navbar.exit,退出
+upgrades.keeper2pinballlifetime2.title,动能球寿命 2
+upgrades.minoriron.desc,将铁送到其他世界以提高你的声望。
+properties.dome.autohealamount,修复 {} 点生命值
+upgrades.migration.title,迁移
+upgrades.converterefficientcobalt.title,高效钴转换
+upgrades.shieldbattledestructionprevention.desc,"当你的穹顶快要被摧毁时，获得一次长时间的伤害免疫。
+使用此技能后，你的护盾要到下一场战斗才可充能。你需要抵挡住两波进攻，才能再次触发背水一战技能。
+"
+upgrades.drill1.desc,强化钻头，挖掘得更快。
+level.gameover.retry,开始另一局
+properties.orchard.overchargeduration,水果生长速度翻倍，持续{}个周期
+upgrades.dome2health1.title,生命值 I
+level.tutorial.station.popup_4,然后按|进入战斗模式，以抵御怪物的攻击。
+level.gameover.stats.timeplayed.unit,分
+upgrades.repellentbattlestrongerslowdown2.desc,喷雾会让怪物的行动速度进一步变慢，并且进一步延长其持续时间。
+loadout.gadgetoptions.title,请选择主配件！
+level.tutorial.station.popup_2,移动到控制台处，按|进入。
+upgrades.dome1damagereduction1.desc,加固穹顶的表面，降低怪物近战攻击对其造成的伤害。飞弹伤害不受影响。
+level.tutorial.station.popup_1,你的穹顶正遭到攻击！
+upgrades.keeper2movement3.title,重力移动 3
+upgrades.jetpackspeed1.desc,改进喷气背包，提高移动速度。
+properties.converter.ironwatertime,{}个周期的转换时间
+level.tutorial.sworddome.slicing.desc,利剑挥动得越快，造成的削切伤害就越高。
+upgrades.liftorbs.desc,额外安装一颗运送宝珠。
+upgrades.proberecharge.desc,探测器会随时间推移自行缓慢充能。
+loadout.gadget,配件
+upgrades.drill4.title,钻力 IV
+properties.probe.rechargetime,完成充能时间：{}个周期 
+upgrades.keeper2pinballdamage4.title,动能球伤害 4
+options.game,游戏设置
+loadout.prestige.cobalt,固定数量钴
+options.input.vibration.strength,振动强度
+upgrades.liftcapacity1.desc,宝珠可携带更多资源。
+loadout.miner.title,选择你的局选项
+level.gameover.stats.difficulty,难度
+upgrades.repellentoverchargestrength2.title,过充延后进攻 II
+upgrades.domesandrepairstrong.title,强效钴维修
+upgrades.stunlaserduration1.desc,缩短眩晕激光炮的冷却时间，延长开火时间。
+level.gameover.prestige.score.rankimproved,你的排名升至{rank}。
+upgrades.stunlaserdamage2.desc,提高眩晕激光炮造成的伤害。
+upgrades.drillbotstrength4.title,钻力 IV
+level.gameover.prestige.title,已完成声望局
+loadout.secondstage.cancel,取消
+upgrades.laseraimline.desc,给激光炮加装瞄准镜，显示正在瞄准的位置。
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,冷凝器在生产并存储两份水后才会停止工作。
+upgrades.swordreflection2.title,反弹 II
+leaderboard.season,Season {season}
+upgrades.drill2.desc,强化钻头，挖掘得更快。
+properties.laser.hitprojectiles,激光炮可命中能量飞弹
+upgrades.dome1damagereduction1.title,加固 I
+properties.sword.stabexplosivedamage,炸弹伤害：{}
+upgrades.drillbotturnaround.title,高级训练
+upgrades.keeper2movement1.title,重力移动 1
+properties.orchard.battleroots,从地里长出{}丛根茎
+upgrades.prospectionmeterrange2.title,范围 II
+upgrades.jetpackspeed4.title,速度 IV
+upgrades.miner.title,矿工
+upgrades.repellentdelay2.desc,进一步增加下一波怪物到来时间的延后量。
+upgrades.orchard.desc,在穹顶内种一棵树，树上结出的水果能提升你的移动速度和采矿威力。
+upgrades.artilleryflakexplosionradius1.title,高射炮爆炸半径 I
+upgrades.shieldbattleelectroblast.desc,主动战斗技能，激活后短期内可在穹顶周围创造出致命的电场效应。
+upgrades.shredgadgettocobalt.desc,拆毁配件并获得{amount}份钴。
+upgrades.prestigecobalt.title,运送钴
+properties.orchard.drillbuff,采矿强度增益 {}
+upgrades.swordlargeblade2.desc,安装一把巨刃。虽然速度较慢，但可以造成大量伤害。
+level.gameover.back,返回
+options.cancel,取消
+options.keybindings.action.dome.fire,开火 
+upgrades.swordstabshoot.title,标枪
+upgrades.blastminingtriple.desc,产生 3 次小型爆破，而非一次大型爆破。
+upgrades.orcharddrill1.title,采矿增幅 1
+upgrades.swordextendlong2.title,长距离刺击 II
+upgrades.artilleryshotcooldown1.desc,提高发射频率。
+upgrades.keeper2pinballdamagefraction.title,动能球硬度超越
+upgrades.doublelaser.title,双重激光炮
+upgrades.jetpackspeed3.title,速度 III
+upgrades.prestigewater.title,运送水
+properties.orchard.battleabilityuses,每场战斗可使用{}次
+upgrades.liftorbs.title,宝珠 I
+upgrades.repellentoverchargeduration1.title,过充战斗技能持续时间 I
+upgrades.drill3.desc,强化钻头，挖掘得更快。
+level.gameover.prestige.uploading.inprocess,正在上传分数……
+loadout.abort,中止
+properties.shield.overchargestrength,过充后强度：{} 点HP
+level.station.navbar.upgrades,升级
+upgrades.keeper2pinballsplit.desc,将传入的球分成两部分，然后垂直于原始球发射出去。
+upgrades.proberecharge.title,自动充能
+properties.sword.stabrange,射程：{} 
+upgrades.liftspeed1.title,速度
+upgrades.domewavecount.desc,安装一个显示你已顶住了多少波进攻的计数器。
+level.converter.popup.title,转换资源
+pause.discord,加入我们的 Discord 频道
+options.keybindings.action.general.back,取消
+upgrades.prospectionmeterrange1.desc,提高勘探仪的侦测范围。
+upgrades.dome2badrepair1.desc,穹顶在战斗中受到大量伤害后，会自动修复一部分损伤。
+upgrades.prestigecobalt.desc,运回钴，提高每击退一波敌人可获得声望点数的倍率。
+upgrades.domesandrepair.desc,使用钴来修复受损的穹顶。
+loadout.skinoptions.title,请选择皮肤！
+loadout.difficulty.medium.description,推荐选用的难度。
+loadout.difficulty.veryeasy.description,依旧不算简单，但比其他难度要休闲。
+options.game.tutorials,教程
+upgrades.orchardbattlerootingmore.desc,长出更多的根茎，且根茎持续时间更久。
+upgrades.probepersist1.title,记忆探测器
+upgrades.keeper2pinballmorespheres2.title,球供应 2
+upgrades.orchardjetpack3.desc,提升水果对速度的增幅，让你移动得极其飞快。
+upgrades.probe.title,探测器
+upgrades.sword.title,利剑
+properties.shield.battledestructionprevention,额外持续时间：{}秒
+upgrades.shieldbattlereflect.title,反弹
+pause.gamepadcontrols.use,使用
+properties.laser.dpsmod,伤害倍率 {.percent}
+upgrades.condenserdoublestorage.title,双倍存储
+upgrades.relichunt.desc,找到深埋于地下的遗物，并将其带回你的穹顶。
+loadout.mapsize.unlock.description,赢下之前大小的地图的一局，可解锁此大小的地图。
+properties.sword.stabdamage,刺击伤害：{} 
+properties.keeper1.drillstrength,钻力：{}
+worldmodifier.mapwildbiomes.desc,生物群落的边界很不规则。
+upgrades.condenser.title,冷凝器
+upgrades.dome2badrepair2.title,受击复原 II
+options.game.screenshake.shakewhenmining,开采时抖动
+upgrades.repellentdelay2.title,延后 II
+level.tutorial.assessor.reflect.desc,按 | 可在极短的时间内反弹传入的动能球。
+properties.drillbot.buffamount,精力充沛时可钻探次数：{}
+upgrades.laserstrength2.title,威力 II
+upgrades.jetpackstrength3.title,携带能力 III
+options.keybindings.action.general,通用
+level.gameover.unlock.gadgetability,新配件战斗技能
+upgrades.jetpackstrength1.desc,改进喷气背包，提高资源携带量。
+upgrades.artillerymultishot1.desc,每次射击发射多枚榴弹。
+properties.sword.reflectprojectiles,反弹能量飞弹
+upgrades.stunlaser.desc,安装一门可以自动攻击并眩晕小型怪物的激光炮。
+upgrades.orchardbattleshieldstrong.desc,飞弹护盾变得更加结实。此外在使用过充后，还能额外获得一项能力。
+upgrades.orchardjetpack1.desc,提升水果对速度的增幅，让你移动速度变快。
+upgrades.laser.desc,一门精准的激光炮，可沿着穹顶外沿移动。原本是用来开采小行星上的矿物的。
+properties.orchard.battleshieldhp,强度：{}点HP
+loadout.keeper,守护者
+worldmodifier.resourceunpredicatablecobalt.desc,钴分布得更松散，位置更难预测。
+title.navbar.quit,退出至桌面
+options.keybindings.rebinding.error.gamepad,无法将此设为手柄输入
+upgrades.repellentbattleslowdownstun1.desc,用喷雾中的挥发性孢子眩晕敌人，让敌人短时间内停在半路。
+upgrades.swordfastreflection.title,加速反弹
+upgrades.stunlaserduration2.title,开火持久力 II
+level.gameover.lose.title,穹顶陷落
+worldmodifier.resourcescatterediron.desc,周围有更多铁矿脉，但规模较小。
+properties.laser.dps,伤害：{}
+options.game.screenshake.shakeintensity,抖动幅度
+worldmodifier.hardnessharder.desc,矿区内有更多较硬的岩石。
+options.video.stretchmode,画面拉伸模式
+worldmodifier.monsterhealthy.desc,怪物拥有较多生命值。
+level.gameover.stats.mapsize,地图大小
+loadout.mode.longtime,长周期
+upgrades.swordreflection3.desc,将剑格的大小加到最大。
+upgrades.repellentbattleslowdownstun2.desc,提高使用孢子的频率和怪物眩晕的时长。
+upgrades.teleporterteleportresourcesarea.title,传送面积
+upgrades.shieldoverchargeduration2.desc,过充后，下一波进攻期间的护盾战斗技能会持续得更久。
+upgrades.shieldoverchargestrength1.title,过充护盾强度 I
+upgrades.drillbotbuffstrength1.desc,零食能够让钻尔伯特的精力充沛状态维持更久。
+upgrades.orchardoverchargebuffduration.title,过充增益时长
+level.tutorial.assessor.spheres.desc3,每次回弹都会为其重新充能。
+loadout.mode.longtime.desc,遭遇攻击的间隔时间翻倍，但攻势会更猛烈。
+level.tutorial.assessor.spheres.desc2,选择一个方向并释放以发射球。
+upgrades.laserstrength1.desc,提高激光炮的威力，但开火时移速会下降。
+level.tutorial.assessor.spheres.desc1,按住 | 可为动能球充能。
+upgrades.jetpackstrength4.title,携带能力 IV
+upgrades.migration.desc,从一个世界搬到另一个世界，夺取各个世界的资源和遗物，直到你被击败为止。
+upgrades.orcharddrill1.desc,提升水果对采矿的增幅，让你的采矿速度变快。
+upgrades.keeper2pinballdamage3.desc,提高动能球在撞击时对岩石造成的伤害。还会提高旋转采矿伤害。
+options.accessibility.highlightmonsters,高亮显示怪物
+upgrades.prestigecobaltnocobalt.title,运送钴
+properties.keeper2.spherebasedamage,球基础伤害 {}
+upgrades.orcharddrill3.desc,提升水果对采矿的增幅，让你的采矿速度极其飞快。
+properties.converter.cobalttoiron,{}份钴转换为一份铁
+level.tutorial.repair.usecobalt,你可以用钴来修复穹顶。穹顶科技树的升级项中可找到该功能。
+upgrades.blastminingimpactdetonation.title,接触引爆
+upgrades.swordfastreflection.desc,被反弹的飞弹往回飞的速度变快。
+upgrades.liftcapacity1.title,携带量
+upgrades.artillery.desc,百战天虫火箭炮。
+properties.sword.electricdamage,电刃伤害：{}
+level.station.upgrademenu.close,关闭
+properties.shield.overchargebattleabilityduration,额外技能持续时间：{.percent}
+pause.title,暂停
+upgrades.artillerymultishot1title,连锁射击 I
+properties.shield.battleadditionalabilitydurationafterdepletion,额外技能持续时间：{}秒
+upgrades.orchardbattlerootingexplosion.title,爆炸性猎物
+upgrades.blastminingproductiontime1.title,生产时间
+options.video.stretchmode.scaled.text,"遵循固定分辨率渲染游戏，并将其适配至您的视图尺寸。
+将带来像素化的视觉效果，尤见于文本字体，但能够避免图像线条错误。"
+upgrades.orchardduration3.title,持续时间 III
+upgrades.domewavecount.title,周期计数器
+upgrades.shredgadgettoiron.title,拆成铁
+options.keybindings.rebinding.apply,应用
+options.keybindings.restoredefault,恢复默认
+upgrades.converterironduplication.title,铁复制
+title.navbar.credits,制作人员名单
+level.gameover.unlock.gadget,新配件
+upgrades.jetpackspeed2.title,速度 II
+loadout.modeoptions.title,请选择游戏模式！
+properties.keeper2.spherebaselifetime,球寿命 {}
+options.video.stretchmode.scaled,比例缩放
+properties.orchard.battleabilityduration,技能持续时间：{}秒
+upgrades.repellentbattleslowdownstun1.title,麻痹
+loadout.difficulty.medium,残酷
+options.audio.volumes,音量
+upgrades.keeper1.title,工程师
+upgrades.drillbotsleepless.title,基础训练
+upgrades.drillbot.title,钻尔伯特
+level.tutorial.assessor.carry.desc1,按住 | 可拉取资源，直到它们被锁定到你身上。
+level.tutorial.assessor.carry.desc2,按 | 可丢下一份资源。
+level.tutorial.drillbot.sleeping1,钻尔伯特每过一段时间，以及遇到无法挖掘的墙壁时，就会开始睡大觉。
+level.tutorial.assessor.carry.desc3,如果你在丢下资源的同时瞄准一个方向，它将极快地加速。
+level.tutorial.drillbot.sleeping2,靠近时，按|即可将其唤醒。
+level.tutorial.drillbot.sleeping3,在它激活时点击 | 可使它转向。
+properties.keeper2.totalspheres,球 {}
+upgrades.shieldbattleblastdamage.title,致命爆炸
+upgrades.domeresourcecounters.desc,显示当前已存储资源的数量。
+upgrades.swordextendlong1.desc,改进刺击的力度和飞行时的制导能力。
+worldmodifier.resourcerichwater.desc,该世界有大量水。
+upgrades.drillbotstrength1.desc,提升钻尔伯特的钻力。
+upgrades.stunlaserautonomy1.desc,即使你离开了控制台，依然会有一个简单的AI时刻操控眩晕激光炮。
+properties.blastmining.radius,爆炸半径：{}格
+upgrades.jetpackstrength1.title,携带能力 I
+options.keybindings.apply,应用
+upgrades.laserstrength2.desc,大幅提高激光炮的威力，但开火时移速会进一步下降。
+properties.laser.movespeedwhilefiring,开火时的移速：{.percent}
+properties.probe.markerretention,标记留存时间：{}秒
+upgrades.swordexplosivereflection.title,爆炸反弹
+upgrades.condenserspeed2.desc,进一步缩短冷凝一份水所需的时间。
+upgrades.condenserspeed2.title,生产速度 II
+properties.stunlaser.firetime,开火时间：{}秒
+options.input.gamepad.gamepadstickdeadzone,摇杆死区
+upgrades.keeper2movement2.desc,改进你的重力发生器以更快地移动。
+upgrades.shieldbattlelongerafterdepletion.desc,护盾耗尽后，激活的电场爆炸可持续更长时间。
+properties.laser.bend,激光炮自动瞄准：{}°
+level.station.upgrademenu.buy,购买
+properties.drillbot.plantgrowthtime,零食生长时间：{}个周期
+loadout.proceed,继续
+upgrades.repellentoverchargeduration1.desc,过充储液罐，同时延长下一波进攻期间所用驱怪剂战斗技能的持续时间。
+upgrades.artilleryshotcooldown1.title,冷却 I
+worldmodifier.resourceunpredicatablewater.desc,水分布得更松散，位置更难预测。
+level.tutorial.blastmining.popup_1,拿取爆破炸药，丢到想要挖掘的地方。
+ending.thankyoumessage,感谢体验本游戏！
+options.keybindings.rebinding.error.keyboard,无法将此设为键盘输入
+upgrades.keeper2pinballdamagefraction.desc,动能球超越了岩石的硬度，并以自身生命值的一定比例对岩石造成损害。
+upgrades.swordlargeblade1.title,重刃 I
+upgrades.shredgadgettoiron.desc,拆毁配件并获得{amount}份铁。
+upgrades.drillbot.desc,领养一只喜欢钻探的可爱生物。将它带入矿区，丢到想让它工作的地方，它就会自行开始钻探。记得定时回来瞧瞧，以便在它磨洋工睡大觉时把它叫醒。
+properties.dome.autohealdamagethreshold,在受到的伤害超过 {} 生命值时激活
+upgrades.dome3health1.title,生命值 I
+title.navbar.updates.close,关闭
+upgrades.swordaimline.desc,安装一个激光瞄准镜，协助利剑精准刺击。
+upgrades.shieldoverchargeduration1.title,过充战斗技能持续时间 I
+level.converter.popup.explanation,选择一个资源转换项以开始！
+upgrades.drillbotbuff1.title,零食
+title.navbar.credits.close,关闭
+upgrades.keeper2movement3.desc,改进你的重力发生器以更快地移动。
+pause.quittotitlescreen,退出至标题页面
+loadout.prestige.countdown.description,声望倍率起初很高，然后随着每个周期慢慢降低。
+upgrades.drill3.title,钻力 III
+upgrades.probestage1.title,改良探测器
+properties.sword.stabarrowhead,增加箭头大小
+loadout.mapsize.huge.description,一张巨大的地图，可以长时间玩上很多局。
+properties.sword.stabspeed,刺击速度：{.percent} 
+level.tutorial.teleporter.take1,你的传送器配备一个基站和一个传送门。你可以在这两者之间传送。
+worldmodifier.mapmaze.desc,矿区就像一个迷宫。
+level.tutorial.teleporter.take2,拿起传送门，并把它放到你喜欢的任意位置。
+options.keybindings.action.dome.battleability1,战斗能力
+upgrades.laserbend.desc,在激光炮上安装一个旋转头，使其能够在瞄准稍有偏差时自动进行校正。
+options.video.graphicsmode.fullscreen,全屏
+options.keybindings.action.general.down,下
+level.tutorial.assessor.spheres,动能球
+level.tutorial.mineraltree1,"你找到了一颗矿物树的种子。它可以长成一棵大树，树根会深深扎入格子中。它产出的资源取决于扎根格子的资源类型。
+把它放到格子上播种。"
+upgrades.blastmining.desc,在穹顶下方添置一台机器，用水来生产爆破炸药。将炸药带入矿区，松开后即可引爆。
+properties.sword.stabcooldown,出剑冷却时间：{}秒 
+upgrades.repellentoverchargestrength2.desc,进一步增加延后量，直至过充后的下一波进攻到来。
+upgrades.probeswift1.desc,切换成一个快速、短距离、每次充能后可使用很多次的探测器。
+properties.drillbot.buffextraamount,额外可钻探次数：{}
+level.gameover.unlock.keeper,新守护者
+upgrades.prospectionmeter.title,勘探仪
+upgrades.shieldbattleactivateondepletion.desc,护盾耗尽时，自动额外激活一次伤害免疫技能。
+upgrades.dome2badrepair1.title,受击复原 I
+upgrades.swordtargetlock.title,目标锁定
+upgrades.laserhitprojectiles.title,拦截飞弹
+upgrades.keeper2pinballreflectspeedup1.title,改进反弹
+properties.shield.battleuses,每场战斗可使用{}次
+options.game.events,活动
+upgrades.artilleryflakexplosionradius1.desc,高射炮炮弹的爆炸半径变大。
+properties.keeper1.speedlosspercarry,负重减速：{}
+level.tutorial.fullscreen.back,返回
+level.gameover.unlockpicker.title,选择解锁项
+upgrades.prospectionmeteriron2.desc,显示距离最近的铁矿床所在方向。
+upgrades.prestige.desc,在穹顶陷落或安全离开星球前，将尽可能多的资源运送回家，从而赚取声望点数。
+properties.prestige.multiplier,每波获得{}倍声望点数
+options.input.controls,控制
+properties.sword.reflectionacceleration,反弹飞弹速度：{.percent}
+loadout.difficult.easier,容易
+upgrades.keeper2pinballreflectdamage1.title,反弹伤害 1
+properties.sword.extendspeed,出剑速度：{} 
+properties.keeper2.reflectspeedup,反弹时的球加速 {.percent}
+loadout.mode.doubleiron,双倍铁矿
+upgrades.dome3.desc,试玩版中不可用
+properties.condenser.growthtime,生产时间：{}个周期
+options.game.languages,语言
+worldmodifier.mapwidebottom.desc,矿区一开始很细长，但深处非常宽。
+loadout.mode.maze,迷宫
+upgrades.dome2health1.desc,永久提高穹顶的建筑生命值，并将其修复。
+properties.drillbot.drillstrength,钻力：{}
+upgrades.keeper2.desc,一名非传统的矿工，会使用试验型的重力科技。
+properties.orchard.battleshields,护盾层数：{}
+level.tutorial.sworddome.reflecting.desc,使用利剑的剑格阻止飞弹，甚至可以使其反弹。
+options.audio.volumes.musicvolume,音乐音量
+loadout.dome,穹顶
+upgrades.swordlongblade2.title,长刃 II
+upgrades.laseraimline.title,激光瞄准镜
+level.tutorial.assessor.bundle.desc1,携带资源时，按住 | 可为射束充能。
+options.keybindings.keyboard,键盘
+level.tutorial.assessor.bundle.desc2,瞄准并释放以发射它，就像发射动能球一样。
+properties.prestige.score,{}点声望
+worldmodifier.mapdeep.desc,矿区更深且更窄。
+upgrades.repellentbattleslowdownstun2.title,强效麻痹
+upgrades.keeper2pinballmorespheres1.title,球供应 1
+upgrades.prestigewater.desc,运回水，每击退一波敌人可获得的声望+1。
+properties.keeper2.bundlestopcenter,中心柱重力场
+upgrades.stunlaserdamage1.title,伤害 I
+upgrades.keeper2pinballlifetime1.title,动能球寿命 1
+properties.repellent.battleslowdown,怪物减速：{.percent}
+upgrades.swordextendlong1.title,长距离刺击 I
+level.gameover.stats.distancetravelled,移动距离
+properties.keeper2.reflectlifetime,反弹时的额外球寿命 {}s
+upgrades.blastminingimpactdetonation.desc,爆破炸药在接触到表面时就会引爆。
+properties.keeper2.spheresplit,拆分传入球
+options.keybindings.action.dome.upgrade,升级
+worldmodifier.resourcepoorcobalt.desc,该世界只有少量钴。
+pause.resumegame,继续游戏
+level.gameover.unlock.difficulty,已解锁新难度！
+properties.stunlaser.cooldown,冷却时间：{}秒
+options.keybindings.action.general.right,右
+level.tutorial.assessor.mining.desc,要移除单块岩石，你可以将旋转的动能球移动到它里面。
+upgrades.teleporterteleportresourcesback.title,传送资源
+upgrades.dome1.title,激光穹顶
+upgrades.keeper2bundleinfinite.title,耐久射束
+upgrades.repellentdelay1.title,延后 I
+upgrades.miner.desc,在没有怪物的世界里，你可以专注于挖矿，获取尽可能多的资源，而无需分心。
+upgrades.repellentbattlestrongerslowdown1.desc,喷雾会让怪物的行动速度变得更慢，并且能持续存在更久。
+upgrades.teleporterteleportresourcesarea.desc,传送门现在可以传送更大面积范围内的资源。
+upgrades.dome3.title,火炮穹顶
+upgrades.swordstabshoot.desc,利剑不需要再用缆绳收回，而是会先蓄能，然后像标枪一样从穹顶射出去。
+upgrades.repellentbattledamageovertime.desc,毒气存在时，所有怪物每秒都会受到少量伤害。
+upgrades.shieldbattleactivateondepletion.title,耗尽时激活
+upgrades.artillerymultishot2.desc,每次射击发射多枚榴弹。
+upgrades.dome1health2.title,生命值 II
+worldmodifier.monsterlethal.desc,怪物更加致命，可造成较多伤害。
+loadout.pet,宠物
+options.keybindings.action,操作
+upgrades.orcharddrill3.title,采矿增幅 3
+options.translation.title,选择语言
+upgrades.prospectionmeterrange1.title,范围 I
+upgrades.dome2badrepair2.desc,穹顶在战斗中受到大量伤害后，会自动修复更多损伤。
+options.audio.volumes.ambiencevolume,环境声音量
+upgrades.prestigecobaltnocobalt.desc,运回钴，提高每击退一波敌人可获得声望点数的倍率。
+worldmodifier.maparms.desc,矿区的土质更加松散。
+loadout.prestige.countdown,倒计时
+upgrades.keeper2pinballdamage2.title,动能球伤害 2
+upgrades.jetpackspeed1.title,速度 I
+upgrades.minerrefuel.title,补充燃料
+upgrades.teleporterteleportduration1.title,传送时长
+properties.probe.charges,使用次数：{}
+loadout.miner.fuel.title,燃料
+exhibition.title.press.anything,按任意键开始游戏
+loadout.mode,模式
+level.tutorial.sworddome.slicing,削切
+properties.condenser.autoovercharge,自动过充
+upgrades.teleporterteleportduration1.desc,缩短传送你自己的用时。
+upgrades.minerwater.title,运送水
+title.navbar.continue,继续
+upgrades.orchardbattleshield.desc,长出一层能够替穹顶抵挡飞弹的护盾。
+upgrades.liftcarrykeeper1.title,守护者电梯 I
+options.input.controls.keybindings,按键绑定
+properties.keeper2.bundlespheres,射束球
+upgrades.shieldovercharge.title,过充护盾
+properties.condenser.overchargedelay,生产延后：{} 个周期
+upgrades.keeper2.title,顾问
+level.tutorial.assessor.mining,旋转采矿
+upgrades.repellentoverchargeduration2.title,过充战斗技能持续时间 II
+upgrades.swordblade1.title,削切改进
+properties.converter.irontoiron,{}份铁转换为一份铁
+exhibition.level.description,返回主菜单倒计时：
+level.tutorial.assessor.mining.desc2,你可以停止采矿而不射出球，方法是首先释放方向键。
+worldmodifier.monsterslow.desc,怪物移动速度较慢。
+upgrades.orcharddrill2.desc,提升水果对采矿的增幅，让你的采矿速度进一步加快。
+loadout.difficulty.easy.description,在许多方面容许稍有失误。
+upgrades.swordstabexplode.title,剑载炸弹
+level.gameover.stats.additionalgadget,额外配件
+upgrades.drillbotbuffstrength2.desc,享用完零食后，钻尔伯特能工作更长时间，然后才会感到昏昏欲睡。
+upgrades.laserstrength3.desc,巨幅提高激光炮的威力，但开火时几乎无法移动。
+loadout.mapsize.medium,中
+loadout.difficulty.hard,自虐
+level.gameover.stats.wavessurvived,存活波数
+properties.stunlaser.damage,伤害：{}
+options.keybindings.rebinding.cancel,取消
+level.tutorial.sworddome.stabbing.desc,利剑刺击，远距离伤害敌人。
+level.gameover.unlock.gamemodevariant,新游戏模式变体
+upgrades.prestigefinish.title,离开星球
+properties.keeper2.bundleduration,射束寿命 {.percent}
+upgrades.shieldstrength3.title,强度 III
+options.audio.volumes.mastervolume,主音量
+upgrades.shieldbattlelongerafterdepletion.title,耗尽增幅
+options.keybindings.text,"根据你的喜好编辑键位。
+不同分组的操作可以使用重复的按键，一般不会有什么问题（比如，你可以使用相同的按键来移动守护者和穹顶武器）。"
+properties.shield.battleblastdamage,每秒{}点爆炸伤害
+loadout.mapsize.large.description,一张大地图，可以持续玩上一个多小时。
+upgrades.drill4.desc,强化钻头，挖掘得更快。
+upgrades.drillbotsleepless.desc,钻尔伯特在感到睡意前的工作时长大大增加。
+upgrades.swordlargeblade2.title,重刃 II
+upgrades.swordlongblade2.desc,进一步提高剑身的速度，使其在碰到边缘时会回弹。
+upgrades.prestigefinishnocobalt.title,离开星球
+worldmodifier.hardnessmoderated.desc,极硬或极软的岩石非常少。
+upgrades.converterironduplication.desc,复制铁。
+upgrades.prestigefinish.desc,离开这颗星球回家。
+upgrades.dome2health2.desc,永久提高穹顶的建筑生命值，并将其修复。
+upgrades.prestige.title,声望
+upgrades.liftcarrykeeper1.desc,电梯可令你上行速度加快。
+upgrades.repellentbattlehealthreduction.desc,削弱所有在场的怪物，立刻降低其余下的生命值。
+upgrades.dome2.title,利剑穹顶
+worldmodifier.monsterfast.desc,怪物移动速度较快。
+upgrades.condenserautocollect.desc,自动化收集水，这样就无需手动拾取了。
+upgrades.lift.title,电梯
+options.game.screenshake,屏幕抖动
+options.keybindings.action.dome,穹顶
+upgrades.swordstabexplodedamage.desc,提高炸弹的伤害。
+level.gameover.stats.resourcesmined,开采资源数
+worldmodifier.resourcepoorwater.desc,该世界只有少量水。
+upgrades.prospectionmeter.desc,一个可以显示最近资源距离的仪器。升级后还可以显示方向。
+upgrades.shredgadgettocobalt.title,拆成钴
+upgrades.swordelectrified.desc,剑身上带有电流，能对触碰到的目标造成伤害。
+upgrades.artilleryflakexplosionradius2.desc,高射炮炮弹的爆炸半径变大。
+upgrades.prospectionmeterwater1.title,水源勘探仪
+upgrades.minerwater.desc,将水送到其他世界以提高你的声望。
+options.video.graphicsmode,画面模式
+upgrades.shieldbattlereflectspeedup.desc,反弹回去的飞弹速度增加，从而有更高几率命中袭击者。
+properties.shield.battleblaststun,爆炸眩晕：{}
+loadout.mode.hyperactive.desc,怪物移动速度大幅提高，但生命值较少。
+upgrades.swordstabexplode.desc,利剑会携带一枚炸弹，在刺击第一个敌人时引爆。
+upgrades.swordstabfast2.title,快速刺击 II
+upgrades.converterefficientwater.desc,水转换变得更高效，但会多花一点时间。
+upgrades.orchardduration1.desc,提高水果生效的持续时间。
+loadout.difficulty.title,难度
+exhibition.level.heading,你还在吗？
+level.gameover.unlock.gamemode,新游戏模式
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,凋零
+upgrades.teleporterteleportreactivate.title,重新激活个人传送
+loadout.miner.scores,用火箭将资源送出星球，20 个周期后达到高分。与声望模式相同，但没有怪物。
+options.audio,音频
+upgrades.repellentovercharge.desc,用水过充储液罐，使其能更快生产出下一罐驱怪剂。
+upgrades.domewavemeter.title,敌袭预警器
+upgrades.prospectionmeterrange2.desc,进一步提高勘探仪的侦测范围。
+upgrades.keeper2pinballreflectspeedup1.desc,球在反弹时会获得能量，这将使它们加速并让它们在反弹时漂浮更长时间。
+upgrades.shieldoverchargestrength1.desc,提升过充后的护盾可吸收的伤害量。
+upgrades.repellentdelay1.desc,增加下一波怪物到来时间的延后量。
+upgrades.repellentbattlelongerhealthreduction.title,强效凋零
+upgrades.swordtargetlock.desc,刺击时，利剑会自动锁定瞄准的第一只怪物。
+upgrades.orchardovercharge.desc,用水过充果园，使其更快结出水果。
+upgrades.orchardbattlerootingmore.title,强壮根茎
+upgrades.swordextendlong2.desc,进一步改进刺击的力度和飞行时的精准控制能力。
+upgrades.swordstabfast1.title,快速刺击 I
+upgrades.probelong1.desc,提高探测器的探测距离，但每次充能后可使用的次数减一。
+upgrades.repellent.title,驱怪剂
+worldmodifier.monsterwavesspaced.desc,怪物攻击的间隔时间较长。
+upgrades.artilleryflakexplosionradius2.title,高射炮爆炸半径 II
+properties.drillbot.amount,可钻探次数：{}
+upgrades.repellentdelay3.title,延后 III
+ending.appreciationmessage,祝你玩得愉快！我们时刻欢迎你的反馈，你可以在 Discord 频道或 Steam 论坛上向我们传达你的想法 :)
+properties.orchard.battlerootexplosion,爆炸伤害 {}
+upgrades.orchardduration3.desc,水果生效的持续时间达到最大。
+upgrades.dome1damagereduction2.desc,进一步加固穹顶的表面，降低怪物近战攻击对其造成的伤害。飞弹伤害不受影响。
+properties.orchard.speedbuff,移动速度增益 {}
+upgrades.jetpackspeed2.desc,改进喷气背包，提高移动速度。
+upgrades.jetpackspeed3.desc,改进喷气背包，提高移动速度。
+options.accessibility.critters.explanation,关闭矿洞中作为视觉效果的蠕虫，昆虫和蜘蛛等生物
+pause.options,设置
+properties.repellent.battledamageovertime,怪物每秒受到{}点伤害
+upgrades.repellentoverchargestrength1.title,过充延后进攻 I
+upgrades.repellentoverchargestrength1.desc,过充也会增加延后时间，直至下一波进攻的到来。
+upgrades.blastminingproductiontime1.desc,缩短制作一枚爆破炸药所需的时间。
+properties.teleporter.teleportresourcescooldown,资源传送时长：{}秒
+upgrades.artilleryflakmultishot1.desc,发射更多飞弹。
+properties.converter.ironcobalttime,{}个周期的转换时间
+options.title,设置
+options.video.graphicsmode.window,窗口
+properties.shield.battlereflectspeedup,反弹飞弹速度：{.percent}
+upgrades.swordaimline.title,瞄准线
+level.tutorial.drillbot.handling1,长按|再次拾取钻尔伯特。
+upgrades.probestage1.desc,改良探测器，提升其总体性能。
+level.tutorial.drillbot.handling2,若钻尔伯特在地上，按|可让其改变方向。
+options.keybindings.rebinding.capture,捕获
+properties.prospectionmeter.range,范围：{}格
+properties.stunlaser.speed,速度：{}
+properties.probe.impulsespeed,脉冲速度：{}
+upgrades.domehealthmeter.title,生命值计量表
+options.audio.music.frequency,频率（没有音乐的周期）
+options.audio.volumes.soundvolume,音效音量
+properties.sword.slicebounceback,利剑碰到边缘时会回弹
+upgrades.jetpackspeed4.desc,改进喷气背包，提高移动速度。
+worldmodifier.monsterfragile.desc,怪物拥有较少生命值。
+level.gameover.prestige.score.personalbest,新的最高记录！
+properties.prestige.baseperwave,每波获得{}点基础声望
+loadout.choices.comingsoon,暂不可用，但即将推出。
+upgrades.doublelaser.desc,安装第二门激光炮，但两门炮会平分原来的火力。
+upgrades.jetpackstrength2.title,携带能力 II
+upgrades.keeper2bundlestopcenter.title,重力中心
+properties.keeper2.spherelifetimeperbounce,每次回弹的额外球寿命 {}s
+upgrades.converterefficientcobalt.desc,钴转换变得更高效，但会多花一点时间。
+properties.orchard.buffduration,增益持续时长：{}个周期
+upgrades.domesandrepair.title,钴维修
+properties.keeper2.maxspeed,最快速度 {}
+level.station.upgrademenu.cost,花费
+upgrades.lasermove1.title,移动速度 I
+level.tutorial.sworddome.reflecting,反弹
+loadout.petoptions.title,请选择宠物！
+level.station.upgrademenu.inventory,库存
+level.gameover.unlocknewelementbutton,选择解锁项
+level.gameover.proceedtounlock,解锁一个新元素
+upgrades.artilleryshotcooldown2.desc,提高发射频率。
+level.gameover.keepgadget.title,选择要保留至下一局使用的配件
+level.station.battle.navbar.shoot,射击
+upgrades.repellentbattlestrongerslowdown1.title,停滞
+upgrades.dome2.desc,强大的穹顶，配有一把可活动的利剑，守护者可以操控这把剑来轻松对付袭击者。
+loadout.difficult.harder,困难
+upgrades.condenserautocollect.title,自动收集
+upgrades.orchard.title,果园
+upgrades.keeper2pinballreflectspeedup2.desc,球在反弹时会附带强电。
+upgrades.laserstrength1.title,威力 I
+upgrades.lasermove2.title,移动速度 II
+upgrades.shieldbattlereflectshortuses.desc,提高反弹的频率，但缩短其持续时间。
+options.keybindings.action.keeper.drop,放下
+level.converter.popup.conversion.to,为
+upgrades.repellent.desc,安装储液罐，以生产驱赶怪物的液体。激活后会将液体喷洒到穹顶外面，延后下一波进攻的到来时间。
+properties.repellent.battlehealthreduction,怪物生命值降低：{.percent}
+loadout.mode.hyperactive,快但弱
+loadout.prestige.miner,Miner
+upgrades.converter.title,资源转换器
+properties.condenser.waterstorage,可存储{}份水
+upgrades.jetpackstrength2.desc,改进喷气背包，提高资源携带量。
+level.station.navbar.exit,退出
+options.accessibility.photosensitivity.explanation,减少闪光。
+properties.orchard.overchargeadditionalabilityuses,过充后可额外使用{}次技能
+worldmodifier.resourcepooriron.desc,该世界只有少量铁。
+level.gameover.backtomainmenu,返回主菜单
+upgrades.orchardbattlerooting.desc,在战斗期间激活，可让根茎在穹顶外生长，困住任何踩到它们的中等体形怪物。
+upgrades.keeper2pinballreflect.desc,反弹你周围具有高强度、小重力场的球。
+upgrades.laser.title,激光炮
+options.game.tutorials.resettutorials,重置教程
+properties.converter.ironirontime,{}个周期的转换时间
+loadout.secondstage.start,开始一局
+upgrades.artilleryflakmultishot2.desc,发射更多飞弹。
+upgrades.swordreflection2.desc,进一步增加剑格的大小。
+upgrades.lasermove3.title,移动速度 III
+upgrades.lasermove1.desc,提高激光炮的移动速度。
+properties.lift.orbs,{}颗宝珠
+level.station.battle.navbar.move,移动
+upgrades.orchardjetpack2.title,喷气背包速度增幅 II
+options.audio.music,音乐
+worldmodifier.resourceunpredicatableiron.desc,铁矿脉分布得更松散，位置更难预测。
+properties.dome.maxhealth,生命值：{}点HP
+upgrades.condenserspeed1.title,生产速度 I
+properties.repellent.battleuses,每场战斗可使用{}次
+upgrades.shieldstrength2.desc,进一步提升护盾可吸收的伤害量。
+upgrades.drillbotbuffstrength2.title,牛磺酸添加剂
+upgrades.keeper2pinballreflectdamage2.desc,反弹的球会对接下来撞击的岩石造成更大的伤害。
+level.paused,已暂停
+level.tutorial.sworddome.stabbing,刺击
+upgrades.stunlaserspeed1.title,速度 I
+upgrades.domehealthmeter.desc,显示穹顶建筑的生命值。
+upgrades.swordlargeblade1.desc,增加剑身的长度和宽度，让其能够造成更多伤害。
+pause.quitgame,退出游戏
+level.station.battle.navbar.slice,削切 
+level.gameover.stats.timeplayed,游戏时长
+properties.teleporter.teleportresources,传送资源
+upgrades.drillbotstrength2.desc,提升钻尔伯特的钻力。
+level.tutorial.drop.popup_2,按|可丢下一份，长按可丢下多份。
+level.gameover.keepgadget.keeping,保留的配件：{gadget}
+level.tutorial.drop.popup_1,携带资源时，你的移速会下降。
+worldmodifier.maprugged.desc,矿区形状坑坑洼洼且不规则。
+level.tutorial.onewayteleporter1,你刚刚找到了一个单向传送器！
+properties.sword.aimline,瞄准预测
+upgrades.keeper2bundle.desc,附着的矿物可以成束发射，就像发射动能球一样。
+level.tutorial.onewayteleporter2,按|放置眼睛。
+level.tutorial.onewayteleporter3,再按一次，即可传送回去。
+properties.lift.capacity,宝珠能携带{}份资源
+properties.shield.battleabilityduration,技能持续时间：{}秒
+level.tutorial.teleporter.carry2,靠近传送门时，长按|即可再次拾取。
+level.tutorial.teleporter.carry3,按下|可让你传送回去。
+upgrades.minerrefuel.desc,将水转化为燃料，填满穹顶的燃料储存库，以便为守护者补充燃料。
+level.tutorial.teleporter.carry1,你可以将传送门移动到你想要的任何地方。
+options.keybindings.cancel,取消
+level.tutorial.probe.popup_1,按|发出一道探测脉冲。
+upgrades.liftcarrykeeper2.desc,电梯可进一步加快你的速度。
+level.tutorial.probe.popup_3,"探测脉冲可以显示附近一些资源的位置。
+需要在基站处充能。"
+worldmodifier.resourcerichcobalt.desc,该世界有大量钴。
+upgrades.keeper2pinballdamage4.desc,提高动能球在撞击时对岩石造成的伤害。还会提高旋转采矿伤害。
+properties.sword.stabexplosive,已安放剑尖炸弹
+properties.drillbot.turnaround,撞击到坚硬墙壁时转身
+upgrades.shieldstrength1.title,强度 I
+properties.repellent.overchargewavedelay,额外进攻延后：{}个周期
+upgrades.swordreflection3.title,反弹 III
+upgrades.dome1.desc,标准的采矿穹顶，配有一门精准的激光炮。
+level.tutorial.drillbot.carry,将钻尔伯特从缸中取出，放置到矿区内想挖掘的地方。
+upgrades.lift.desc,安装一部自动化电梯，将开采到的资源运送到穹顶以待处理。
+upgrades.dome1health2.desc,永久提高穹顶的建筑生命值。
+upgrades.converterefficientwater.title,高效水转换
+loadout.difficulty.hard.description,好吧，反正要被攻陷的是你的穹顶。
+upgrades.artillerymultishot2.title,连锁射击 II
+upgrades.swordelectrified.title,电刃
+upgrades.drillbotstrength3.desc,提升钻尔伯特的钻力。
+upgrades.shieldbattleinvulnerable.title,伤害免疫
+upgrades.keeper2rotationalmining2.title,改进的旋转采矿
+upgrades.stunlaserautonomy1.title,自主
+level.tutorial.teleporter.teleport1,靠近传送门时，按下 | 可传送回来。
+level.tutorial.teleporter.teleport2,你还可以传送到其他方向。
+level.gameover.prestige.uploading.failed,上传失败，请重试
+upgrades.lasermove2.desc,进一步提高激光炮的移动速度。
+loadout.mapsize.title,地图大小
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,爆破 I
+upgrades.drillbotturnaround.desc,在遇到不可破坏的墙壁时，钻尔伯特不会打瞌睡，而是会转身离开。
+properties.dome.baserepair,修复：{}点HP
+upgrades.condenserautoovercharge.desc,让你的主配件永久处于过充状态，不用担心把水用完。冷凝器在过充后，会延后水的生产。
+upgrades.teleporterteleportresourcesback.desc,传送门现在可用于传送资源，但无法再传送你。你仍然可以从穹顶传送到传送门。
+ending.wishlistonsteam,将游戏添加至 Steam 愿望单
+properties.sword.reflection,增加剑格的大小
+upgrades.drillbotduplicate.desc,叫来和钻尔伯特长得一模一样的双胞胎兄弟，钻尔哈特。
+level.converter.popup.conversion.convert,转换
+leaderboard.loading,loading...
+properties.converter.watertoiron,{}份水转换为一份铁
+title.navbar.options,设置
+upgrades.swordexplosivereflection.desc,被反弹的飞弹在命中东西时会爆炸。
+upgrades.shieldbattlereflectshortuses.title,定时反弹
+level.gameover.unlock.skin,已解锁新皮肤！
+level.gameover.stats.destroyedblocks,摧毁方块数
+options.keybindings.action.keeper.gravityball,蓄力射击
+upgrades.orchardjetpack1.title,喷气背包速度增幅 I
+upgrades.keeper1.desc,一名熟练、高效的专家，掌握着一流的开采技巧。
+properties.laser.movespeedmod,移动速度倍率 {.percent}
+upgrades.laserstrength3.title,威力 III
+upgrades.orchardoverchargebuffduration.desc,过充果园后，水果的效果会持续得更久。
+upgrades.stunlaserduration1.title,开火持久力 I
+loadout.mode.maze.desc,地图就像一个迷宫，里面有许多岔路、死胡同和弯弯绕绕。
+properties.dome.healthfractionrepair,修复总生命值的{.percent}
+upgrades.jetpackstrength3.desc,改进喷气背包，提高资源携带量。
+options.input.gamepad.gamepadstickdeadzone.motiondetected,侦测到动作：
+upgrades.prospectionmetersand1.title,钴源勘探仪
+upgrades.prospectionmeterwater1.desc,显示与最近的水源之间的距离。
+upgrades.blastminingstickycharge.desc,炸药会粘在触碰到的第一面墙壁上，并且不会形成圆形的爆炸范围，而是会炸出一条隧道。
+options.video,画面
+title.navbar.updates,更新内容
+loadout.skin,皮肤
+upgrades.drill2.title,钻力 II
+level.gameover.win.title,你的穹顶得救了
+level.station.navbar.battle,战斗
+upgrades.converterirontocobalt.desc,可以将钴转换成铁，反之亦然。
+upgrades.keeper2rotationalmining2.desc,增加旋转采矿造成的伤害，超越岩石硬度。
+level.gameover.unlock.dome,新穹顶
+pause.gamepadcontrols.pickup,拾取
+options.video.graphicsmode.photosensitive,光敏模式
+upgrades.orchardduration2.desc,进一步提高水果生效的持续时间。
+properties.dome.meleedamagereduction,近战伤害减免：{.percent}
+upgrades.domesandrepairstrong.desc,使用钴来修复受损的穹顶。
+options.input,输入
+properties.keeper2.spherereload,球重新加载时间 {}s
+properties.blastmining.damage,伤害：{}
+upgrades.laserbend.title,旋转头激光炮
+upgrades.swordlargeblade3.desc,巨大无比的剑身。威力惊人，但移动得很慢。
+loadout.domeoptions.title,请选择穹顶！
+upgrades.shieldoverchargeduration1.desc,过充护盾，同时延长下一波进攻期间所用护盾战斗技能的持续时间。
+upgrades.probelong1.title,长距离探测
+options.keybindings.rebinding.inputprocessor,按下要与此操作绑定的新按键
+properties.teleporter.teleportduration,传送时长：{}秒
+upgrades.dome2health2.title,生命值 II
+upgrades.drillbotduplicate.title,兄弟
+pause.quit.popup,"确定要退出吗？
+再次按下以确认。
+（游戏进度已保存）"
+upgrades.prospectionmetersand2.desc,显示距离最近的钴矿床所在方向。
+upgrades.probepersist1.desc,给探测器加装一个记忆模块，使其能够更长时间地标示出资源的位置。
+upgrades.artilleryshotcooldown2.title,冷却 II
+properties.keeper2.sphereadditionalfirsthitdamage,额外的首次命中伤害 {.percent}
+upgrades.shieldbattledestructionprevention.title,背水一战
+level.gameover.unlock.pet,已解锁新宠物！
+upgrades.repellentbattlelongerhealthreduction.desc,延长并强化所有在场怪物受到的凋零效果。
+ending.feedbackondiscord,在 Discord 频道上反馈意见
+properties.keeper2.reflectnexthitdamage,下一次回弹时的额外球伤害 {.percent}
+options.video.graphicsmode.borderlesswindow,无边框窗口
+upgrades.keeper2pinballlifetime1.desc,使动能球稳定，以便让它漂浮更长时间。
+level.gadgetchoice.title,选择一个配件！
+upgrades.keeper2bundle.title,成束射击
+upgrades.relichunt.title,猎寻遗物
+loadout.mode.doubleiron.desc,双倍铁储量，但升级时也需要双倍的铁。
+level.tutorial.repair.findcobalt,"试着找些钴。你可以用钴来修复穹顶。
+钴很稀有，且数量有限。"
+upgrades.keeper2pinballsplit.title,拆分球
+options.input.controls.text,使用手柄游玩效果最佳。
+landing.proceed,按任意键继续
+upgrades.keeper2pinballmorespheres1.desc,为你的重力发生器添加一个额外的模块，以便它可以携带更多的动能球。
+upgrades.jetpackstrength4.desc,改进喷气背包，提高资源携带量。
+upgrades.orchardbattleshieldsecondlayer.desc,再长出一层飞弹护盾。
+level.converter.popup.conversion.time,超过 {time} 个周期
+properties.keeper1.maxspeed,最快速度：{}
+properties.laser.aimline,瞄准线
+upgrades.shieldstrength3.desc,进一步提升护盾可吸收的伤害量。
+upgrades.repellentovercharge.title,过充驱怪剂
+properties.drillbot.buffstrength,精力充沛时提速：{.percent}
+worldmodifier.hardnesssofter.desc,矿区内有更多较软的岩石。
+level.tutorial.pickup.popup_1,按|拾取一份资源。
+level.tutorial.pickup.popup_3,长按可拾取多份。
+pause.gamepadcontrols.drop,丢下
+level.tutorial.fruit.popup_1,你的第一颗助力水果成熟了。
+level.tutorial.fruit.popup_2,站在水果旁，按|即可食用。
+worldmodifier.mapwide.desc,矿区更宽且更浅。
+upgrades.prestigefinishnocobalt.desc,离开这颗星球回家。
+upgrades.prospectionmeteriron2.title,指铁罗盘
+upgrades.keeper2movement2.title,重力移动 2
+options.keybindings.gamepad,手柄
+ending.backtomainmenu,返回主菜单
+pause.gamepadcontrols.back,返回
+upgrades.shield.title,护盾
+upgrades.blastmining.title,爆破采矿
+upgrades.converterirontocobalt.title,钴转换
+upgrades.swordstabfast1.desc,提高刺击的速度和频率。
+level.gameover.prestige.score.rankunchanged,排名无变化。
+options.accessibility.critters,关闭昆虫效果
+upgrades.teleporterteleportreactivate.desc,恢复传送门传送你的能力。
+upgrades.orchardjetpack3.title,喷气背包速度增幅 III
+level.gameover.unlock.mapsize,已解锁新的地图大小！
+upgrades.domeresourcecounters.title,库存
+level.gameover.keepgadget.none,无
+upgrades.stunlaserdamage1.desc,小幅提高眩晕激光炮的伤害。
+properties.repellent.battleabilityduration,技能持续时间：{}秒
+upgrades.prestigeiron.desc,运回铁，每击退一波敌人可获得的声望+1。
+upgrades.teleporter.title,传送器
+ending.teasemessage,新内容小预告：
+loadout.relichunt.modifiers,选择调整器
+options.accessibility,可访问性
+loadout.mapsize.small.description,一张小型地图，适合较短的流程。
+upgrades.shieldbattleblastdamage.desc,提升电场爆炸的伤害和眩晕效果。
+options.translation.community.desc,这些语言是被我们美好的社群所翻译。如果你喜欢的话就加入他们吧！
+upgrades.prospectionmeterwater2.desc,显示距离最近的水源所在方向。
+upgrades.stunlaserdamage2.title,伤害 II
+options.keybindings.action.keeper.gadget1,配件1
+options.keybindings.action.keeper.gadget2,配件2
+properties.repellent.wavedelay,进攻延后：{}个周期
+options.ok,确定
+upgrades.swordblade1.desc,改进利剑削切的力度和速度。
+upgrades.shieldoverchargeduration2.title,过充战斗技能持续时间 II
+properties.sword.slicedamage,削切伤害：{} 
+properties.condenser.autocollect,自动收集
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,射束将留在穹顶下方，而不是飞过中心轴。
+upgrades.orchardduration1.title,持续时间 I
+upgrades.drillbotbuffstrength1.title,营养零食
+upgrades.liftcarrykeeper2.title,守护者电梯 II
+upgrades.shieldoverchargestrength2.desc,进一步提升过充后的护盾可吸收的伤害量。
+upgrades.repellentbattleslowdown.title,衰弱
+upgrades.artilleryshotprediction.title,射击预测
+upgrades.repellentdelay3.desc,进一步增加下一波怪物到来时间的延后量。
+upgrades.teleporter.desc,一个双向传送器，其基站位于穹顶下方，另一头的传送门可以放置或移动到矿区的各个位置。
+level.gameover.stats.monsterskilled,击杀怪物数
+upgrades.keeper2pinballreflect.title,球反弹
+upgrades.drillbotstrength3.title,钻力 III
+upgrades.shieldbattlereflectspeedup.title,加速反弹
+upgrades.probeswift1.title,快速探测器
+options.game.events.enableseasonal,启用季节性内容
+upgrades.repellentbattledamageovertime.title,毒气
+upgrades.dome3health2.title,生命值 II
+loadout.mapsize.huge,巨大
+properties.repellent.overchargebattleabilityduration,额外技能持续时间：{.percent}
+options.keybindings.action.keeper.gravitycollect,蓄力收集
+loadout.miner.scores.title,分数
+properties.lift.speed,宝珠速度：{}
+upgrades.drillbotstrength1.title,钻力 I
+level.tutorial.repellent.popup_2,靠近时，按|即可将其激活。
+level.tutorial.repellent.popup_1,驱怪剂已就绪，随时准备延后下一波进攻。
+properties.orchard.growthtime,生长时间：{}个周期
+properties.keeper2.spherefractiondamage,超越岩石硬度的球伤害 {.percent}
+properties.sword.brake,利剑机动性：{}
+upgrades.artilleryflakmultishot2.title,高射炮多重射击 II
+upgrades.swordstabfast2.desc,进一步提高刺击的速度和频率。
+upgrades.sword.desc,一把坚固的利剑，削切时沿着穹顶挥动的距离越远，造成的伤害就越高。也可以发射出去刺击怪物，同时其底部的剑格可抵挡飞弹。
+upgrades.artilleryflakmultishot1.title,高射炮多重射击 I
+upgrades.artilleryshotprediction.desc,显示榴弹发射出去的预测轨迹。
+upgrades.shieldbattlereflect.desc,主动战斗技能，激活后可让穹顶在短期内反弹袭来的飞弹。
+upgrades.orchardbattleshieldstrong.title,强效护盾
+upgrades.swordlongblade1.title,长刃 I
+level.station.battle.navbar.stab,刺击
+properties.converter.irontowater,{}份铁转换为一份水
+upgrades.minoriron.title,运送铁
+upgrades.keeper2bundleinfinite.desc,射束将在很长一段时间内保持稳定。
+worldmodifier.resourcedesc,周围仅有少量铁矿脉，但规模非常大。
+options.keybindings.action.keeper,守护者
+upgrades.drillbotstrength4.desc,提升钻尔伯特的钻力。
+upgrades.swordstabexplodedamage.title,炸弹伤害
+upgrades.prospectionmeterwater2.title,指水罗盘
+loadout.keeperoptions.title,请选择守护者！
+properties.probe.range,{}格范围
+upgrades.orchardbattleshield.title,飞弹护盾
+loadout.mapsize.large,大
+properties.keeper2.reflectsphere,反弹传入球
+upgrades.orchardbattlerooting.title,陷阱根茎
+properties.repellent.growthtime,生产时间：{}个周期
+properties.converter.irontocobalt,{}份铁转换为一份钴
+upgrades.dome3health1.desc,永久提高穹顶的建筑生命值。
+upgrades.teleporterteleportresourcescooldown.title,传送冷却
+upgrades.shieldovercharge.desc,使用水手动过充护盾，使其在下一波进攻中吸收更多伤害。
+upgrades.stunlaserspeed2.title,速度 II
+upgrades.drillbotbuff1.desc,穹顶下方的巢穴里长有零食。把这些零食带给钻尔伯特，它就会开心地放口大嚼，从而变得精力充沛。
+options.keybindings.action.dome.battle,战斗
+upgrades.orchardovercharge.title,过充果园
+properties.teleporter.teleportresourcesarea,传送距离：{}格
+upgrades.swordreflection1.desc,增加剑格的大小，令其反弹能量飞弹。
+upgrades.blastminingblast2.title,爆破 II
+upgrades.swordreflection1.title,反弹 I
+upgrades.keeper2pinballlifetime2.desc,使动能球稳定，以便让它漂浮更长时间。
+options.keybindings.action.general.left,左
+properties.laser.movespeed,移动速度 {}
+upgrades.dome3health2.desc,永久提高穹顶的建筑生命值。
+upgrades.drillbotstrength2.title,钻力 II
+options.keybindings.rebinding,重新绑定
+level.tutorial.assessor.carry.desc1_1,一旦被锁定到你身上，即使你释放收集按键，它们也会跟着你。
+upgrades.keeper2pinballdamage1.title,动能球伤害 1
+upgrades.stunlaserspeed2.desc,眩晕激光炮的移动速度进一步增加，且在冷却期间会一直追踪怪物。
+options.keybindings.title,键位
+upgrades.keeper2pinballmorespheres2.desc,为你的重力发生器添加一个额外的模块，以便它可以携带更多的动能球。
+level.gameover.prestige.uploading.finalfailed,很抱歉，上传新分数失败！
+upgrades.blastminingblast1.desc,提升爆破威力。
+upgrades.stunlaserduration2.desc,缩短眩晕激光炮的冷却时间，延长开火时间。
+upgrades.prospectionmetersand1.desc,显示与最近的钴矿床之间的距离。
+pause.gamepadcontrols.move,移动
+properties.blastmining.bombs,充能层数 {}
+upgrades.shieldstrength2.title,强度 II
+loadout.prestige.cobalt.description,地图上挖不到钴，也无法自己生成，但开局自带大量的钴。

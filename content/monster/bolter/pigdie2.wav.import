@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pigdie2.wav-bdd4ecb7a3c5b2858e94bbefe1417eb6.sample"
+
+[deps]
+
+source_file="res://content/monster/bolter/pigdie2.wav"
+dest_files=[ "res://.import/pigdie2.wav-bdd4ecb7a3c5b2858e94bbefe1417eb6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

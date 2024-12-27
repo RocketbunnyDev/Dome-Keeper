@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/TechHover.wav-5257d8cd4d7c1e540caea2ed58b12e49.sample"
+
+[deps]
+
+source_file="res://content/sounds/UI/TechHover.wav"
+dest_files=[ "res://.import/TechHover.wav-5257d8cd4d7c1e540caea2ed58b12e49.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

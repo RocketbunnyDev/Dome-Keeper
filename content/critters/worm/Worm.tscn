@@ -1,0 +1,153 @@
+[gd_scene load_steps=33 format=2]
+
+[ext_resource path="res://content/critters/worm/worm_anne.png" type="Texture" id=1]
+[ext_resource path="res://content/sounds/critters/WormSpawn01.wav" type="AudioStream" id=2]
+[ext_resource path="res://content/sounds/critters/worm.wav" type="AudioStream" id=3]
+[ext_resource path="res://content/sounds/critters/WormSpawn_chime.wav" type="AudioStream" id=4]
+[ext_resource path="res://content/sounds/critters/WormDespawn_chime_02.wav" type="AudioStream" id=5]
+[ext_resource path="res://content/sounds/critters/WormSpawn02.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/sounds/critters/WormDespawn_chime_01.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/sounds/critters/WormSpawn_chime2.wav" type="AudioStream" id=8]
+[ext_resource path="res://content/critters/worm/Worm.gd" type="Script" id=9]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=10]
+
+[sub_resource type="AtlasTexture" id=40]
+atlas = ExtResource( 1 )
+region = Rect2( 0, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=41]
+atlas = ExtResource( 1 )
+region = Rect2( 24, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=42]
+atlas = ExtResource( 1 )
+region = Rect2( 48, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=43]
+atlas = ExtResource( 1 )
+region = Rect2( 72, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=44]
+atlas = ExtResource( 1 )
+region = Rect2( 96, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=45]
+atlas = ExtResource( 1 )
+region = Rect2( 120, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=46]
+atlas = ExtResource( 1 )
+region = Rect2( 144, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=47]
+atlas = ExtResource( 1 )
+region = Rect2( 168, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=27]
+atlas = ExtResource( 1 )
+region = Rect2( 0, 48, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=28]
+atlas = ExtResource( 1 )
+region = Rect2( 24, 48, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=29]
+atlas = ExtResource( 1 )
+region = Rect2( 48, 48, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=30]
+atlas = ExtResource( 1 )
+region = Rect2( 72, 48, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=31]
+atlas = ExtResource( 1 )
+region = Rect2( 96, 48, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=32]
+atlas = ExtResource( 1 )
+region = Rect2( 0, 24, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=33]
+atlas = ExtResource( 1 )
+region = Rect2( 24, 24, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=34]
+atlas = ExtResource( 1 )
+region = Rect2( 48, 24, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=35]
+atlas = ExtResource( 1 )
+region = Rect2( 72, 24, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=36]
+atlas = ExtResource( 1 )
+region = Rect2( 96, 24, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=37]
+atlas = ExtResource( 1 )
+region = Rect2( 120, 24, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=38]
+atlas = ExtResource( 1 )
+region = Rect2( 144, 24, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=39]
+atlas = ExtResource( 1 )
+region = Rect2( 168, 24, 24, 24 )
+
+[sub_resource type="SpriteFrames" id=25]
+animations = [ {
+"frames": [ SubResource( 40 ), SubResource( 41 ), SubResource( 42 ), SubResource( 43 ), SubResource( 44 ), SubResource( 45 ), SubResource( 46 ), SubResource( 47 ) ],
+"loop": false,
+"name": "appear",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 27 ), SubResource( 28 ), SubResource( 29 ), SubResource( 30 ), SubResource( 31 ) ],
+"loop": false,
+"name": "disappear",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 32 ), SubResource( 33 ), SubResource( 34 ), SubResource( 35 ), SubResource( 36 ), SubResource( 37 ), SubResource( 38 ), SubResource( 39 ) ],
+"loop": true,
+"name": "idle",
+"speed": 10.0
+} ]
+
+[node name="Worm" type="Node2D" groups=["critters_worm"]]
+z_index = 2
+script = ExtResource( 9 )
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+frames = SubResource( 25 )
+animation = "idle"
+
+[node name="deathTimer" type="Timer" parent="."]
+
+[node name="Spawn" parent="." instance=ExtResource( 10 )]
+bus = "Mine"
+maxAudibleDistance = 180.0
+minAudibleDistance = 24.0
+streams = [ ExtResource( 2 ), ExtResource( 6 ) ]
+
+[node name="SpawnChime" parent="Spawn" instance=ExtResource( 10 )]
+volume_db = -9.664
+pitch_scale = 1.03
+bus = "NoMusic"
+maxAudibleDistance = 180.0
+minAudibleDistance = 24.0
+streams = [ ExtResource( 8 ), ExtResource( 4 ) ]
+
+[node name="Despawn" parent="." instance=ExtResource( 10 )]
+stream = ExtResource( 3 )
+bus = "Mine"
+maxAudibleDistance = 180.0
+minAudibleDistance = 24.0
+
+[node name="SpawnChime2" parent="Despawn" instance=ExtResource( 10 )]
+bus = "NoMusic"
+maxAudibleDistance = 180.0
+minAudibleDistance = 24.0
+streams = [ ExtResource( 7 ), ExtResource( 5 ) ]
+
+[connection signal="animation_finished" from="AnimatedSprite" to="." method="_on_AnimatedSprite_animation_finished"]
+[connection signal="timeout" from="deathTimer" to="." method="_on_deathTimer_timeout"]

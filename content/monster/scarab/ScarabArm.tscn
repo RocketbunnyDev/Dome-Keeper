@@ -1,0 +1,137 @@
+[gd_scene load_steps=27 format=2]
+
+[ext_resource path="res://content/monster/scarab/armssheet.png" type="Texture" id=1]
+[ext_resource path="res://content/monster/scarab/ScarabArm.gd" type="Script" id=2]
+[ext_resource path="res://content/monster/FlashMaterial.tres" type="Material" id=3]
+[ext_resource path="res://systems/audio/Sound.gd" type="Script" id=4]
+[ext_resource path="res://content/sounds/monster/STINGRAY/STING_SHOOT_01.wav" type="AudioStream" id=5]
+
+[sub_resource type="AtlasTexture" id=2]
+atlas = ExtResource( 1 )
+region = Rect2( 0, 65, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=1]
+atlas = ExtResource( 1 )
+region = Rect2( 0, 0, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=3]
+atlas = ExtResource( 1 )
+region = Rect2( 0, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=4]
+atlas = ExtResource( 1 )
+region = Rect2( 80, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=5]
+atlas = ExtResource( 1 )
+region = Rect2( 160, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=6]
+atlas = ExtResource( 1 )
+region = Rect2( 240, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=7]
+atlas = ExtResource( 1 )
+region = Rect2( 480, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=8]
+atlas = ExtResource( 1 )
+region = Rect2( 320, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=9]
+atlas = ExtResource( 1 )
+region = Rect2( 400, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=10]
+atlas = ExtResource( 1 )
+region = Rect2( 560, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=11]
+atlas = ExtResource( 1 )
+region = Rect2( 640, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=12]
+atlas = ExtResource( 1 )
+region = Rect2( 720, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=13]
+atlas = ExtResource( 1 )
+region = Rect2( 800, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=14]
+atlas = ExtResource( 1 )
+region = Rect2( 880, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=15]
+atlas = ExtResource( 1 )
+region = Rect2( 960, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=16]
+atlas = ExtResource( 1 )
+region = Rect2( 1040, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=17]
+atlas = ExtResource( 1 )
+region = Rect2( 1120, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=18]
+atlas = ExtResource( 1 )
+region = Rect2( 1200, 130, 80, 65 )
+
+[sub_resource type="AtlasTexture" id=19]
+atlas = ExtResource( 1 )
+region = Rect2( 1280, 130, 80, 65 )
+
+[sub_resource type="SpriteFrames" id=20]
+animations = [ {
+"frames": [ SubResource( 2 ) ],
+"loop": true,
+"name": "right",
+"speed": 5.0
+}, {
+"frames": [ SubResource( 1 ) ],
+"loop": true,
+"name": "left",
+"speed": 5.0
+}, {
+"frames": [ SubResource( 3 ), SubResource( 4 ), SubResource( 5 ), SubResource( 6 ), SubResource( 7 ), SubResource( 8 ), SubResource( 7 ), SubResource( 9 ), SubResource( 7 ), SubResource( 10 ), SubResource( 11 ), SubResource( 12 ), SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ), SubResource( 17 ), SubResource( 18 ), SubResource( 19 ) ],
+"loop": true,
+"name": "grow",
+"speed": 10.0
+} ]
+
+[sub_resource type="CapsuleShape2D" id=21]
+radius = 12.0
+height = 10.0
+
+[node name="ScarabArm" type="Area2D" groups=["monster"]]
+z_index = -1
+script = ExtResource( 2 )
+techId = "scarabarm"
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+material = ExtResource( 3 )
+position = Vector2( -4, 0.5 )
+frames = SubResource( 20 )
+animation = "right"
+
+[node name="HitboxDefault" type="CollisionShape2D" parent="."]
+position = Vector2( 0, 0.5 )
+shape = SubResource( 21 )
+
+[node name="ImpactSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 5 )
+volume_db = 1.748
+bus = "World"
+script = ExtResource( 4 )
+randomPitch = 0.0
+
+[node name="GrowAndBurstSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 5 )
+volume_db = 1.748
+bus = "World"
+script = ExtResource( 4 )
+randomPitch = 0.0
+
+[connection signal="animation_finished" from="Sprite" to="." method="_on_Sprite_animation_finished"]
+[connection signal="frame_changed" from="Sprite" to="." method="_on_Sprite_frame_changed"]

@@ -1,0 +1,29 @@
+[gd_scene format=2]
+
+[node name="LeaderboardEntry1" type="HBoxContainer"]
+margin_right = 40.0
+margin_bottom = 40.0
+size_flags_horizontal = 0
+size_flags_vertical = 0
+alignment = 1
+
+[node name="Rank" type="Label" parent="."]
+margin_right = 200.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 200, 0 )
+size_flags_vertical = 1
+
+[node name="Player" type="Label" parent="."]
+margin_left = 204.0
+margin_right = 404.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 200, 0 )
+size_flags_vertical = 1
+
+[node name="Score" type="Label" parent="."]
+margin_left = 408.0
+margin_right = 608.0
+margin_bottom = 40.0
+rect_min_size = Vector2( 200, 0 )
+size_flags_vertical = 1
+size_flags_stretch_ratio = 0.0

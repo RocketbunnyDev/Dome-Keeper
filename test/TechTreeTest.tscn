@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://content/techtree/TechTreePopup.tscn" type="PackedScene" id=1]
+[ext_resource path="res://test/TechTreeTest.gd" type="Script" id=2]
+
+[node name="Control" type="ScrollContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+script = ExtResource( 2 )
+
+[node name="TechtreePopup" parent="." instance=ExtResource( 1 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_right = 1920.0
+margin_bottom = 1080.0
+
+[node name="Camera2D" type="Camera2D" parent="." groups=["cameras"]]
+position = Vector2( 1416, 719 )
+zoom = Vector2( 2, 2 )

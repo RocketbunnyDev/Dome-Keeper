@@ -1,0 +1,57 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://content/drop/Drop.gd" type="Script" id=1]
+[ext_resource path="res://content/drop/iron/icon_selector2.png" type="Texture" id=2]
+[ext_resource path="res://content/drop/iron/carried.png" type="Texture" id=3]
+[ext_resource path="res://content/drop/ShredMaterial.tres" type="Material" id=4]
+[ext_resource path="res://content/drop/iron/iron_smol.png" type="Texture" id=5]
+[ext_resource path="res://content/shared/HighlightShader.material" type="Material" id=6]
+[ext_resource path="res://content/drop/flash/DropFlash.tscn" type="PackedScene" id=7]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=8]
+[ext_resource path="res://content/shared/drops/DropEnterTrigger.tscn" type="PackedScene" id=9]
+
+
+[sub_resource type="PhysicsMaterial" id=6]
+resource_local_to_scene = true
+friction = 0.6
+bounce = 0.25
+
+[node name="MineralDrop" type="RigidBody2D" groups=["drops"]]
+z_index = 22
+collision_layer = 1066
+collision_mask = 2
+physics_material_override = SubResource( 6 )
+contacts_reported = 1
+contact_monitor = true
+can_sleep = false
+script = ExtResource( 1 )
+carryableType = "resource"
+canTeleport = true
+hasInterDropCollisionSound = true
+arrivalDistanceToTarget = 10.0
+
+[node name="Sprite" type="Sprite" parent="."]
+light_mask = 0
+material = ExtResource( 4 )
+texture = ExtResource( 5 )
+
+[node name="CarrySprite" type="Sprite" parent="."]
+texture = ExtResource( 3 )
+
+[node name="FocusSprite" type="Sprite" parent="."]
+material = ExtResource( 6 )
+z_index = 30
+texture = ExtResource( 2 )
+
+[node name="DropFlash" parent="." instance=ExtResource( 7 )]
+
+[node name="DropEnterTrigger" parent="." instance=ExtResource( 9 )]
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="BumpSound" parent="." instance=ExtResource( 8 )]
+volume_db = -6.0
+bus = "Mine"
+randomVolume = 0.0
+maxAudibleDistance = 200.0
+minAudibleDistance = 50.0

@@ -1,0 +1,67 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://gui/buttons/Action.tscn" type="PackedScene" id=2]
+[ext_resource path="res://content/gadgets/blastMining/blast_tutpic.png" type="Texture" id=3]
+[ext_resource path="res://content/keeper/keeper2/tutorial/AssessorReflectTutorial.gd" type="Script" id=4]
+
+[node name="AssessorReflectTutorial" type="MarginContainer"]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -237.0
+margin_top = -81.0
+grow_horizontal = 0
+grow_vertical = 0
+theme = ExtResource( 1 )
+script = ExtResource( 4 )
+moveOutAfter = 90.0
+moveInDelay = 5.0
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 221.0
+margin_bottom = 65.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 193.0
+margin_bottom = 37.0
+
+[node name="TextureRect" type="TextureRect" parent="PanelContainer/HBoxContainer"]
+visible = false
+margin_right = 58.0
+margin_bottom = 94.0
+rect_min_size = Vector2( 58, 50 )
+texture = ExtResource( 3 )
+expand = true
+stretch_mode = 6
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/HBoxContainer"]
+margin_right = 70.0
+margin_bottom = 25.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/HBoxContainer/VBoxContainer"]
+margin_right = 70.0
+margin_bottom = 25.0
+
+[node name="LabelDesc1" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+margin_right = 16.0
+margin_bottom = 25.0
+text = "t1"
+
+[node name="Action" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer" instance=ExtResource( 2 )]
+margin_left = 32.0
+margin_right = 32.0
+margin_bottom = 25.0
+action = "keeper2_gravityball"
+
+[node name="LabelDesc2" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+margin_left = 48.0
+margin_right = 70.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+text = "t2"

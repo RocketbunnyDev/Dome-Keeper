@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SelectRepellent.wav-aa5d059f9b156841d398ca699129a224.sample"
+
+[deps]
+
+source_file="res://content/sounds/UI/SelectRepellent.wav"
+dest_files=[ "res://.import/SelectRepellent.wav-aa5d059f9b156841d398ca699129a224.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

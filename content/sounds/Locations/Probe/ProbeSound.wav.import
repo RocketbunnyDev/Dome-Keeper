@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ProbeSound.wav-0f53b168dcc2e38519db90d677e8f009.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Probe/ProbeSound.wav"
+dest_files=[ "res://.import/ProbeSound.wav-0f53b168dcc2e38519db90d677e8f009.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

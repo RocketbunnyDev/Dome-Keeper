@@ -1,0 +1,178 @@
+[gd_scene load_steps=20 format=2]
+
+[ext_resource path="res://systems/audio/Sound.gd" type="Script" id=1]
+[ext_resource path="res://content/monster/stag/Stag.gd" type="Script" id=2]
+[ext_resource path="res://content/sounds/Bastards/stunfire.wav" type="AudioStream" id=3]
+[ext_resource path="res://content/sounds/monster/Stag/stag barrage.wav" type="AudioStream" id=4]
+[ext_resource path="res://content/sounds/monster/Scarab/FastShot_01.wav" type="AudioStream" id=5]
+[ext_resource path="res://content/monster/stag/spriteframes.tres" type="SpriteFrames" id=6]
+[ext_resource path="res://content/sounds/monster/Scarab/FastShot_02.wav" type="AudioStream" id=7]
+[ext_resource path="res://content/sounds/monster/Scarab/FastShot_03.wav" type="AudioStream" id=8]
+[ext_resource path="res://content/sounds/monster/Scarab/FastShot_04.wav" type="AudioStream" id=9]
+[ext_resource path="res://content/sounds/Locations/Orchard/MonsterExplode.wav" type="AudioStream" id=10]
+[ext_resource path="res://content/sounds/monster/worm/StagDie.wav" type="AudioStream" id=11]
+[ext_resource path="res://content/sounds/monster/worm/Worm_Emerge.wav" type="AudioStream" id=12]
+[ext_resource path="res://content/sounds/monster/Stag/Splash pyramid.wav" type="AudioStream" id=13]
+[ext_resource path="res://content/sounds/monster/Stag/stag enter.wav" type="AudioStream" id=14]
+[ext_resource path="res://content/sounds/monster/Stag/stag wave.wav" type="AudioStream" id=15]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=17]
+[ext_resource path="res://content/monster/FlashMaterial.tres" type="Material" id=30]
+
+[sub_resource type="CapsuleShape2D" id=34]
+radius = 12.0
+height = 50.0
+
+[sub_resource type="CircleShape2D" id=107]
+radius = 7.0
+
+[node name="Stag" type="Area2D" groups=["monster"]]
+collision_layer = 128
+collision_mask = 0
+script = ExtResource( 2 )
+techId = "stag"
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+material = ExtResource( 30 )
+position = Vector2( 0, -43 )
+frames = ExtResource( 6 )
+animation = "ground"
+frame = 18
+
+[node name="HitboxDefault" type="CollisionShape2D" parent="."]
+position = Vector2( 0, -34 )
+shape = SubResource( 34 )
+disabled = true
+
+[node name="HitPosition" type="Position2D" parent="."]
+position = Vector2( 25, -15 )
+
+[node name="DieSound" parent="." instance=ExtResource( 17 )]
+stream = ExtResource( 11 )
+volume_db = 5.244
+pitch_scale = 0.83
+bus = "Important"
+randomVolume = 1.0
+randomPitch = 0.2
+
+[node name="DieSound2" parent="DieSound" instance=ExtResource( 17 )]
+stream = ExtResource( 13 )
+volume_db = 10.051
+pitch_scale = 0.83
+bus = "World"
+randomVolume = 1.0
+randomPitch = 0.2
+
+[node name="BarrageSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 4 )
+volume_db = -9.613
+pitch_scale = 1.2
+bus = "World"
+script = ExtResource( 1 )
+randomPitch = 0.12
+
+[node name="BarrageSound2" type="AudioStreamPlayer" parent="BarrageSound"]
+stream = ExtResource( 12 )
+volume_db = -6.991
+pitch_scale = 0.67
+bus = "Important"
+script = ExtResource( 1 )
+randomPitch = 0.07
+
+[node name="StagShot" type="AudioStreamPlayer" parent="."]
+volume_db = -8.302
+pitch_scale = 1.63
+bus = "World"
+script = ExtResource( 1 )
+randomPitch = 0.12
+streams = [ ExtResource( 5 ), ExtResource( 7 ), ExtResource( 8 ), ExtResource( 9 ) ]
+
+[node name="GroundPoundSound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 10 )
+volume_db = 1.748
+pitch_scale = 0.75
+bus = "World"
+script = ExtResource( 1 )
+randomPitch = 0.12
+
+[node name="GroundPoundSound2" type="AudioStreamPlayer" parent="GroundPoundSound"]
+stream = ExtResource( 15 )
+volume_db = 1.748
+pitch_scale = 1.09
+bus = "World"
+script = ExtResource( 1 )
+randomPitch = 0.08
+
+[node name="StartPound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 3 )
+volume_db = 2.622
+pitch_scale = 0.64
+bus = "World"
+script = ExtResource( 1 )
+randomPitch = 0.0
+
+[node name="StagEnters" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 14 )
+volume_db = 2.185
+pitch_scale = 0.54
+bus = "Important"
+script = ExtResource( 1 )
+randomPitch = 0.0
+
+[node name="StepCollisions" type="Area2D" parent="."]
+collision_layer = 524288
+collision_mask = 0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StepCollisions"]
+position = Vector2( 0, -1 )
+shape = SubResource( 107 )
+
+[node name="Shot1" type="Position2D" parent="."]
+position = Vector2( 15, -61 )
+__meta__ = {
+"_gizmo_extents_": 4.0
+}
+
+[node name="Shot4" type="Position2D" parent="."]
+position = Vector2( 5, -69 )
+__meta__ = {
+"_gizmo_extents_": 4.0
+}
+
+[node name="Shot7" type="Position2D" parent="."]
+position = Vector2( -17, -64 )
+__meta__ = {
+"_gizmo_extents_": 4.0
+}
+
+[node name="Shot10" type="Position2D" parent="."]
+position = Vector2( -3, -69 )
+__meta__ = {
+"_gizmo_extents_": 4.0
+}
+
+[node name="Shot12" type="Position2D" parent="."]
+position = Vector2( -9, -77 )
+__meta__ = {
+"_gizmo_extents_": 4.0
+}
+
+[node name="Shot14" type="Position2D" parent="."]
+position = Vector2( 15, -61 )
+__meta__ = {
+"_gizmo_extents_": 4.0
+}
+
+[node name="Shot17" type="Position2D" parent="."]
+position = Vector2( 6, -71 )
+__meta__ = {
+"_gizmo_extents_": 4.0
+}
+
+[node name="Ground1" type="Position2D" parent="."]
+position = Vector2( 43, -3 )
+__meta__ = {
+"_gizmo_extents_": 4.0
+}
+
+[connection signal="animation_finished" from="Sprite" to="." method="_on_Sprite_animation_finished"]
+[connection signal="frame_changed" from="Sprite" to="." method="_on_Sprite_frame_changed"]

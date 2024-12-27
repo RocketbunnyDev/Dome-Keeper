@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DragResourcesLoop.wav-1ac162ad0e8f8c321ba5701c5f089b6c.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper1/DragResourcesLoop.wav"
+dest_files=[ "res://.import/DragResourcesLoop.wav-1ac162ad0e8f8c321ba5701c5f089b6c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

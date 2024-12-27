@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Sonar_02.ogg-f0f737dc05228f7bfb11082d311eae26.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/Sonar_02.ogg"
+dest_files=[ "res://.import/Sonar_02.ogg-f0f737dc05228f7bfb11082d311eae26.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,62 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://content/weather/meteor/meteor.png" type="Texture" id=1]
+[ext_resource path="res://content/weather/meteor/meteor.gd" type="Script" id=2]
+
+[sub_resource type="AtlasTexture" id=4]
+atlas = ExtResource( 1 )
+region = Rect2( 0, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=5]
+atlas = ExtResource( 1 )
+region = Rect2( 32, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=6]
+atlas = ExtResource( 1 )
+region = Rect2( 64, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=7]
+atlas = ExtResource( 1 )
+region = Rect2( 96, 0, 32, 32 )
+
+[sub_resource type="SpriteFrames" id=3]
+animations = [ {
+"frames": [ SubResource( 4 ), SubResource( 5 ), SubResource( 6 ), SubResource( 7 ) ],
+"loop": true,
+"name": "default",
+"speed": 24.0
+} ]
+
+[sub_resource type="Gradient" id=9]
+offsets = PoolRealArray( 0, 0.0865801, 0.376623 )
+colors = PoolColorArray( 1, 1, 1, 1, 1, 0.585938, 0, 1, 1, 1, 1, 1 )
+
+[sub_resource type="GradientTexture" id=10]
+gradient = SubResource( 9 )
+
+[sub_resource type="ParticlesMaterial" id=8]
+lifetime_randomness = 0.64
+emission_shape = 2
+emission_box_extents = Vector3( 15, 1, 1 )
+flag_disable_z = true
+spread = 180.0
+gravity = Vector3( 0, 0, 0 )
+initial_velocity = 5.0
+initial_velocity_random = 1.0
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+color_ramp = SubResource( 10 )
+
+[node name="Meteor" type="AnimatedSprite"]
+modulate = Color( 0.858824, 0.858824, 0.858824, 1 )
+frames = SubResource( 3 )
+script = ExtResource( 2 )
+
+[node name="Particles2D" type="Particles2D" parent="."]
+position = Vector2( -16, 0 )
+amount = 400
+visibility_rect = Rect2( -2000, -2000, 4000, 4000 )
+local_coords = false
+process_material = SubResource( 8 )
+
+[node name="Tween" type="Tween" parent="."]

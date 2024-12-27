@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/lightning_up.wav-eb04fd644475518d41d44b09654153bd.sample"
+
+[deps]
+
+source_file="res://content/sounds/Weapons/obelisk/lightning_up.wav"
+dest_files=[ "res://.import/lightning_up.wav-eb04fd644475518d41d44b09654153bd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

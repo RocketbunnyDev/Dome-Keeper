@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://content/weather/lightning/LightningStrikePosition.gd" type="Script" id=1]
+
+[node name="LightningStrike01" type="Position2D" groups=["weather-lightningstrike"]]
+position = Vector2( -114, 226 )
+script = ExtResource( 1 )

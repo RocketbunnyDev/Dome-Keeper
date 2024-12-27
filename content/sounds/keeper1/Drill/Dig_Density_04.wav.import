@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dig_Density_04.wav-f74380df10f3e54aa9c3c0402f93eb5c.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper1/Drill/Dig_Density_04.wav"
+dest_files=[ "res://.import/Dig_Density_04.wav-f74380df10f3e54aa9c3c0402f93eb5c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

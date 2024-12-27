@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Blop StereoUP 03.wav-bf1b411bbfa74672e0c935fc9d946a35.sample"
+
+[deps]
+
+source_file="res://content/dome/shredder/Retro Blop StereoUP 03.wav"
+dest_files=[ "res://.import/Retro Blop StereoUP 03.wav-bf1b411bbfa74672e0c935fc9d946a35.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

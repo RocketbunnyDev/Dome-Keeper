@@ -1,0 +1,470 @@
+[gd_scene load_steps=14 format=2]
+
+[ext_resource path="res://content/sounds/landing/flying_in.wav" type="AudioStream" id=1]
+[ext_resource path="res://stages/landing/bg.png" type="Texture" id=5]
+[ext_resource path="res://stages/landing/clouds.png" type="Texture" id=6]
+[ext_resource path="res://stages/landing/FlyingDome.tscn" type="PackedScene" id=7]
+[ext_resource path="res://stages/landing/LandingStage.gd" type="Script" id=8]
+[ext_resource path="res://gui/theme.tres" type="Theme" id=9]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=10]
+
+[sub_resource type="Animation" id=1]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/path = NodePath("..:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 1 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("sky:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Vector2( 963, 2024 ) ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("sky:visible")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ true ]
+}
+tracks/3/type = "value"
+tracks/3/path = NodePath("falling:position")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Vector2( 966, -71 ) ]
+}
+tracks/4/type = "value"
+tracks/4/path = NodePath("falling:visible")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ true ]
+}
+tracks/5/type = "value"
+tracks/5/path = NodePath("FlyingDome:visible")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ false ]
+}
+tracks/6/type = "value"
+tracks/6/path = NodePath("FlyingDome:position")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Vector2( 960, -120 ) ]
+}
+tracks/7/type = "value"
+tracks/7/path = NodePath("Camera2D:zoom")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Vector2( 0.5, 0.5 ) ]
+}
+tracks/8/type = "value"
+tracks/8/path = NodePath("Camera2D:position")
+tracks/8/interp = 1
+tracks/8/loop_wrap = true
+tracks/8/imported = false
+tracks/8/enabled = true
+tracks/8/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Vector2( 960, 270 ) ]
+}
+tracks/9/type = "value"
+tracks/9/path = NodePath("streaks:visible")
+tracks/9/interp = 1
+tracks/9/loop_wrap = true
+tracks/9/imported = false
+tracks/9/enabled = true
+tracks/9/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ false ]
+}
+tracks/10/type = "value"
+tracks/10/path = NodePath("../../LandingLabel:visible")
+tracks/10/interp = 1
+tracks/10/loop_wrap = true
+tracks/10/imported = false
+tracks/10/enabled = true
+tracks/10/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ true ]
+}
+tracks/11/type = "value"
+tracks/11/path = NodePath("../../LandingLabel:modulate")
+tracks/11/interp = 1
+tracks/11/loop_wrap = true
+tracks/11/imported = false
+tracks/11/enabled = true
+tracks/11/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 1 ) ]
+}
+tracks/12/type = "value"
+tracks/12/path = NodePath("FallingSound:volume_db")
+tracks/12/interp = 1
+tracks/12/loop_wrap = true
+tracks/12/imported = false
+tracks/12/enabled = true
+tracks/12/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ 0.0 ]
+}
+
+[sub_resource type="Animation" id=2]
+resource_name = "default"
+length = 15.0
+step = 0.05
+tracks/0/type = "method"
+tracks/0/path = NodePath("../../..")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 5, 12.3 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"values": [ {
+"args": [  ],
+"method": "start"
+}, {
+"args": [  ],
+"method": "start_shaking"
+}, {
+"args": [  ],
+"method": "end"
+} ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("sky:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 12 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 960, 700 ), Vector2( 960, 250 ) ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("sky:visible")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 12 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 1,
+"values": [ true, false ]
+}
+tracks/3/type = "value"
+tracks/3/path = NodePath("falling:position")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/keys = {
+"times": PoolRealArray( 0, 5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 960, -50 ), Vector2( 960, 270 ) ]
+}
+tracks/4/type = "value"
+tracks/4/path = NodePath("falling:visible")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/keys = {
+"times": PoolRealArray( 0, 5, 12 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 1,
+"values": [ true, false, false ]
+}
+tracks/5/type = "value"
+tracks/5/path = NodePath("FlyingDome:visible")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/keys = {
+"times": PoolRealArray( 0, 5, 12 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 1,
+"values": [ false, true, false ]
+}
+tracks/6/type = "value"
+tracks/6/path = NodePath("FlyingDome:position")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/keys = {
+"times": PoolRealArray( 0, 5, 10.7, 12 ),
+"transitions": PoolRealArray( 1, 1, 3.03143, 1 ),
+"update": 0,
+"values": [ Vector2( 960, -120 ), Vector2( 960, 270 ), Vector2( 960, 270 ), Vector2( 960, 800 ) ]
+}
+tracks/7/type = "value"
+tracks/7/path = NodePath("streaks:visible")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/keys = {
+"times": PoolRealArray( 0, 5, 12 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 1,
+"values": [ false, true, false ]
+}
+tracks/8/type = "value"
+tracks/8/path = NodePath("Camera2D:zoom")
+tracks/8/interp = 1
+tracks/8/loop_wrap = true
+tracks/8/imported = false
+tracks/8/enabled = true
+tracks/8/keys = {
+"times": PoolRealArray( 0, 4.7, 5, 8.2, 8.3, 9.7, 9.8, 10.7, 12 ),
+"transitions": PoolRealArray( 1, 4, 1, 1, 1, 1, 1, -2, 1 ),
+"update": 0,
+"values": [ Vector2( 0.5, 0.5 ), Vector2( 0.5, 0.5 ), Vector2( 0.4, 0.4 ), Vector2( 0.4, 0.4 ), Vector2( 0.3, 0.3 ), Vector2( 0.3, 0.3 ), Vector2( 0.2, 0.2 ), Vector2( 0.2, 0.2 ), Vector2( 0.4, 0.4 ) ]
+}
+tracks/9/type = "value"
+tracks/9/path = NodePath("Camera2D:position")
+tracks/9/interp = 1
+tracks/9/loop_wrap = true
+tracks/9/imported = false
+tracks/9/enabled = true
+tracks/9/keys = {
+"times": PoolRealArray( 0, 5, 5.5, 6.1, 6.7, 7.8, 8.5, 9.8, 10.7 ),
+"transitions": PoolRealArray( 1, 0.5, -2, 0.5, -2, -2, 2, -2, 1 ),
+"update": 0,
+"values": [ Vector2( 960, 270 ), Vector2( 960, 270 ), Vector2( 960, 240 ), Vector2( 960, 300 ), Vector2( 960, 150 ), Vector2( 960, 150 ), Vector2( 960, 230 ), Vector2( 960, 200 ), Vector2( 960, 300 ) ]
+}
+tracks/10/type = "value"
+tracks/10/path = NodePath("../../LandingLabel:visible")
+tracks/10/interp = 1
+tracks/10/loop_wrap = true
+tracks/10/imported = false
+tracks/10/enabled = true
+tracks/10/keys = {
+"times": PoolRealArray( 0, 0.15, 0.2, 0.3, 0.35, 0.4, 0.45, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1, 1, 1, 1, 1 ),
+"update": 1,
+"values": [ false, true, false, true, false, true, false, true ]
+}
+tracks/11/type = "value"
+tracks/11/path = NodePath("../../LandingLabel:modulate")
+tracks/11/interp = 1
+tracks/11/loop_wrap = true
+tracks/11/imported = false
+tracks/11/enabled = true
+tracks/11/keys = {
+"times": PoolRealArray( 0, 1.35, 2.6 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 1 ), Color( 1, 1, 1, 1 ), Color( 1, 1, 1, 0 ) ]
+}
+tracks/12/type = "value"
+tracks/12/path = NodePath("FallingSound:volume_db")
+tracks/12/interp = 1
+tracks/12/loop_wrap = true
+tracks/12/imported = false
+tracks/12/enabled = true
+tracks/12/keys = {
+"times": PoolRealArray( 0, 3.1 ),
+"transitions": PoolRealArray( 0.353553, 1 ),
+"update": 0,
+"values": [ -80.0, 0.0 ]
+}
+
+[sub_resource type="ParticlesMaterial" id=3]
+lifetime_randomness = 0.38
+flag_disable_z = true
+spread = 2.0
+gravity = Vector3( 0, -30, 0 )
+initial_velocity = 20.0
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+
+[sub_resource type="Gradient" id=6]
+offsets = PoolRealArray( 0, 0.251082, 1 )
+colors = PoolColorArray( 1, 1, 1, 1, 1, 0.585938, 0, 1, 0.289062, 0.289062, 0.289062, 1 )
+
+[sub_resource type="GradientTexture" id=5]
+gradient = SubResource( 6 )
+
+[sub_resource type="ParticlesMaterial" id=7]
+lifetime_randomness = 0.79
+emission_shape = 1
+emission_sphere_radius = 1.0
+flag_disable_z = true
+spread = 90.0
+gravity = Vector3( 0, -60, 0 )
+initial_velocity = 30.0
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+damping = 20.0
+damping_random = 1.0
+color_ramp = SubResource( 5 )
+
+[node name="LandingSequence" type="Node"]
+script = ExtResource( 8 )
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="ViewportContainer" type="ViewportContainer" parent="CanvasLayer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+stretch = true
+
+[node name="Viewport" type="Viewport" parent="CanvasLayer/ViewportContainer"]
+size = Vector2( 1920, 1080 )
+handle_input_locally = false
+render_target_update_mode = 3
+
+[node name="sky2" type="Sprite" parent="CanvasLayer/ViewportContainer/Viewport"]
+modulate = Color( 0, 0, 0, 1 )
+position = Vector2( 960, 250 )
+texture = ExtResource( 5 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="CanvasLayer/ViewportContainer/Viewport"]
+autoplay = "default"
+anims/RESET = SubResource( 1 )
+anims/default = SubResource( 2 )
+
+[node name="sky" type="Sprite" parent="CanvasLayer/ViewportContainer/Viewport"]
+position = Vector2( 963, 2024 )
+texture = ExtResource( 5 )
+
+[node name="falling" type="Particles2D" parent="CanvasLayer/ViewportContainer/Viewport"]
+position = Vector2( 966, -71 )
+rotation = -1.57079
+amount = 100
+lifetime = 2.0
+randomness = 0.8
+local_coords = false
+process_material = SubResource( 3 )
+
+[node name="flames" type="Particles2D" parent="CanvasLayer/ViewportContainer/Viewport/falling"]
+amount = 200
+lifetime = 0.5
+randomness = 0.8
+local_coords = false
+process_material = SubResource( 7 )
+
+[node name="Camera2D" type="Camera2D" parent="CanvasLayer/ViewportContainer/Viewport"]
+position = Vector2( 960, 270 )
+current = true
+zoom = Vector2( 0.5, 0.5 )
+process_mode = 0
+drag_margin_left = 0.0
+drag_margin_top = 0.0
+drag_margin_right = 0.0
+drag_margin_bottom = 0.0
+
+[node name="FlyingDome" parent="CanvasLayer/ViewportContainer/Viewport" instance=ExtResource( 7 )]
+visible = false
+position = Vector2( 960, -120 )
+z_index = 0
+
+[node name="streaks" type="Sprite" parent="CanvasLayer/ViewportContainer/Viewport"]
+visible = false
+position = Vector2( 967, 253 )
+texture = ExtResource( 6 )
+region_enabled = true
+region_rect = Rect2( 0, 0, 960, 1250 )
+
+[node name="FallingSound" parent="CanvasLayer/ViewportContainer/Viewport" instance=ExtResource( 10 )]
+stream = ExtResource( 1 )
+bus = "Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="LandingLabel" type="Label" parent="CanvasLayer"]
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+margin_top = -24.5
+margin_bottom = 24.5
+theme = ExtResource( 9 )
+align = 1
+
+[node name="MarginContainer" type="MarginContainer" parent="CanvasLayer"]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -334.0
+margin_top = -57.0
+grow_horizontal = 0
+theme = ExtResource( 9 )
+
+[node name="ContinueLabel" type="Label" parent="CanvasLayer/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 318.0
+margin_bottom = 41.0
+grow_horizontal = 0
+text = "landing.proceed"
+align = 2
+
+[node name="Tween" type="Tween" parent="."]

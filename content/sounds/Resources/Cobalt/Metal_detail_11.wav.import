@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Metal_detail_11.wav-86af32ff211561952cdc930e7d1486e6.sample"
+
+[deps]
+
+source_file="res://content/sounds/Resources/Cobalt/Metal_detail_11.wav"
+dest_files=[ "res://.import/Metal_detail_11.wav-86af32ff211561952cdc930e7d1486e6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

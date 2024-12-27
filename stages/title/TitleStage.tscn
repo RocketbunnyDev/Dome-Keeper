@@ -1,0 +1,1296 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://stages/title/TitleStage.gd" type="Script" id=1]
+[ext_resource path="res://stages/title/titlescreen.png" type="Texture" id=2]
+[ext_resource path="res://gui/theme.tres" type="Theme" id=3]
+[ext_resource path="res://gui/fonts/FontLarge.tres" type="DynamicFont" id=4]
+[ext_resource path="res://content/shared/Overlay.tscn" type="PackedScene" id=5]
+[ext_resource path="res://gui/panels/panel_outside.tres" type="StyleBox" id=6]
+[ext_resource path="res://My Video.webm" type="VideoStream" id=7]
+[ext_resource path="res://stages/title/VideoPlayer.gd" type="Script" id=8]
+[ext_resource path="res://gui/fonts/FontSmall.tres" type="DynamicFont" id=9]
+[ext_resource path="res://gui/fonts/FontVeryLarge.tres" type="DynamicFont" id=10]
+
+[node name="TitleStage" type="Node"]
+script = ExtResource( 1 )
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+
+[node name="TextureRect" type="TextureRect" parent="Canvas"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+texture = ExtResource( 2 )
+expand = true
+stretch_mode = 6
+
+[node name="NoStreamContainer" type="PanelContainer" parent="Canvas"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -473.0
+margin_top = -175.5
+margin_right = 473.0
+margin_bottom = 175.5
+custom_styles/panel = ExtResource( 6 )
+
+[node name="NoStreamLabel" type="Label" parent="Canvas/NoStreamContainer"]
+margin_left = 32.0
+margin_top = 32.0
+margin_right = 914.0
+margin_bottom = 319.0
+custom_fonts/font = ExtResource( 10 )
+text = "Please do not stream this playtest version, or publish videos on youtube & such.
+It's not finished, and will give a wrong impression to some viewers."
+autowrap = true
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas"]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -131.0
+margin_right = 131.0
+margin_bottom = 57.0
+theme = ExtResource( 3 )
+
+[node name="BuildLabel" type="Label" parent="Canvas/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 258.0
+margin_bottom = 41.0
+text = "Pre alpha Demo build"
+
+[node name="MainMenu" type="MarginContainer" parent="Canvas"]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -528.0
+margin_top = -137.0
+margin_right = 528.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_vertical = 4
+theme = ExtResource( 3 )
+custom_constants/margin_right = 8
+custom_constants/margin_top = 8
+custom_constants/margin_left = 8
+custom_constants/margin_bottom = 8
+
+[node name="Panel" type="PanelContainer" parent="Canvas/MainMenu"]
+margin_left = 8.0
+margin_top = 8.0
+margin_right = 1585.0
+margin_bottom = 129.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource( 3 )
+custom_styles/panel = ExtResource( 6 )
+
+[node name="VBoxContainer" type="HBoxContainer" parent="Canvas/MainMenu/Panel"]
+margin_left = 32.0
+margin_top = 32.0
+margin_right = 1545.0
+margin_bottom = 89.0
+rect_min_size = Vector2( 220, 0 )
+size_flags_vertical = 4
+custom_constants/separation = 20
+
+[node name="ContinueButton" type="Button" parent="Canvas/MainMenu/Panel/VBoxContainer"]
+margin_right = 248.0
+margin_bottom = 57.0
+rect_min_size = Vector2( 175, 0 )
+text = "title.navbar.continue"
+
+[node name="NewGameButton" type="Button" parent="Canvas/MainMenu/Panel/VBoxContainer"]
+margin_left = 268.0
+margin_right = 529.0
+margin_bottom = 57.0
+rect_min_size = Vector2( 175, 0 )
+text = "title.navbar.newgame"
+
+[node name="LocalCoopButton" type="Button" parent="Canvas/MainMenu/Panel/VBoxContainer"]
+visible = false
+margin_top = 126.0
+margin_right = 202.0
+margin_bottom = 179.0
+rect_min_size = Vector2( 175, 0 )
+focus_neighbour_right = NodePath("../WhatsNewButton")
+text = "local coop"
+
+[node name="OptionsButton" type="Button" parent="Canvas/MainMenu/Panel/VBoxContainer"]
+margin_left = 549.0
+margin_right = 783.0
+margin_bottom = 57.0
+rect_min_size = Vector2( 175, 0 )
+text = "title.navbar.options"
+
+[node name="UnlockEverythingButton" type="Button" parent="Canvas/MainMenu/Panel/VBoxContainer"]
+visible = false
+margin_left = 803.0
+margin_right = 1025.0
+margin_bottom = 57.0
+rect_min_size = Vector2( 175, 0 )
+text = "Unlock Everything"
+
+[node name="WhatsNewButton" type="Button" parent="Canvas/MainMenu/Panel/VBoxContainer"]
+margin_left = 803.0
+margin_right = 1046.0
+margin_bottom = 57.0
+rect_min_size = Vector2( 175, 0 )
+text = "title.navbar.updates"
+
+[node name="CreditsButton" type="Button" parent="Canvas/MainMenu/Panel/VBoxContainer"]
+margin_left = 1066.0
+margin_right = 1295.0
+margin_bottom = 57.0
+rect_min_size = Vector2( 175, 0 )
+text = "title.navbar.credits"
+
+[node name="QuitButton" type="Button" parent="Canvas/MainMenu/Panel/VBoxContainer"]
+margin_left = 1315.0
+margin_right = 1513.0
+margin_bottom = 57.0
+rect_min_size = Vector2( 175, 0 )
+text = "title.navbar.quit"
+
+[node name="Overlay" parent="Canvas" instance=ExtResource( 5 )]
+
+[node name="DiscordArea" type="MarginContainer" parent="Canvas"]
+visible = false
+margin_right = 40.0
+margin_bottom = 40.0
+
+[node name="WhatsNewArea" type="MarginContainer" parent="Canvas"]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_top = -57.0
+margin_right = 59.0
+grow_vertical = 0
+theme = ExtResource( 3 )
+
+[node name="VersionLabel" type="Label" parent="Canvas/WhatsNewArea"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 43.0
+margin_bottom = 41.0
+grow_horizontal = 0
+theme = ExtResource( 3 )
+text = "v5"
+align = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="PatchNotesPanel" type="PanelContainer" parent="Canvas"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -444.5
+margin_top = -393.5
+margin_right = 444.5
+margin_bottom = 393.5
+theme = ExtResource( 3 )
+custom_styles/panel = ExtResource( 6 )
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/PatchNotesPanel"]
+margin_left = 32.0
+margin_top = 32.0
+margin_right = 857.0
+margin_bottom = 755.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/PatchNotesPanel/VBoxContainer"]
+margin_right = 825.0
+margin_bottom = 610.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer"]
+margin_right = 801.0
+margin_bottom = 6870.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Label103" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_right = 801.0
+margin_bottom = 37.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v2.3.2"
+align = 1
+
+[node name="Label104" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 53.0
+margin_right = 801.0
+margin_bottom = 106.0
+text = "- fixed never seeing the second world after unlocking it and playing relic hunt"
+autowrap = true
+
+[node name="HSeparator11" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 122.0
+margin_right = 801.0
+margin_bottom = 146.0
+
+[node name="Label105" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 162.0
+margin_right = 801.0
+margin_bottom = 199.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v2.3.1"
+align = 1
+
+[node name="Label106" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 215.0
+margin_right = 801.0
+margin_bottom = 324.0
+text = "- fixed monsters not getting hit by laser, if there is a projectile between monster and laser
+- fixed destroyed projectiles still catching the laser, allowing projectiles behind it to pass through"
+autowrap = true
+
+[node name="Label107" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 340.0
+margin_right = 801.0
+margin_bottom = 403.0
+custom_fonts/font = ExtResource( 9 )
+text = "- scarab won't flash white when invulnerable and hit
+- fixed squidley getting stuck when trying to carry off a resource that is in the lift, but pushed onto an impassable ceiling"
+autowrap = true
+
+[node name="HSeparator12" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 419.0
+margin_right = 801.0
+margin_bottom = 443.0
+
+[node name="Label100" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 459.0
+margin_right = 801.0
+margin_bottom = 496.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v2.3 Balance & Improvements"
+align = 1
+
+[node name="Label101" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 512.0
+margin_right = 801.0
+margin_bottom = 1181.0
+text = "- fixed crash when switching between some audio devices
+- nerfed stag
+    - 1000hp -> 800hp
+    - 10 dmg air projectile -> 8 dmg air projectile
+    - 100 dmg ground projectile -> 80 dmg ground projectile
+- nerfed scarab
+    - 1200hp -> 1000hp
+    - 40 dmg -> 25 dmg
+	    - only goes invincible once 
+- fixed gadget duplication exploit via saving and reloading in the right moment
+- tree seed won't grow on indestructible tiles anymore
+- fixed orchard shield not actually protecting from stag and scarab projectiles
+- orchard shield now also blocks worm rocks
+- buffed sword fast stab damage across all upgrades
+- increased sword dome health by 25%
+- changed how Javelin works. The sword now reappears immediately after shooting, and you are never blocked from moving the pad after shooting, but you can't control the Javelin anymore. To keep the timing, the charging does take slightly longer. To improve feedback on charging being finished, it charges not linear and ends with a sound and animation.
+- halfed the cost increase of buying lift orbs repeatably"
+autowrap = true
+
+[node name="Label102" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1197.0
+margin_right = 801.0
+margin_bottom = 1348.0
+custom_fonts/font = ExtResource( 9 )
+text = "- fixed rare crash when reloading save and the squidley cave has been found
+- fixed stag and scarab projectiles not getting reflected by sword dome
+- increased damage and size of explosion of projectiles that got reflected by sword dome
+- fixed scarab getting stuck outside of screen
+- improved the timing of the scarab losing its arms
+- fixed stun laser sometimes not targetting stag
+- fixed stun laser sometimes wobbling in place instead of targetting an enemy"
+autowrap = true
+
+[node name="HSeparator10" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1364.0
+margin_right = 801.0
+margin_bottom = 1388.0
+
+[node name="Label97" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1404.0
+margin_right = 801.0
+margin_bottom = 1441.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v2.2 - Hard Pressed"
+align = 1
+
+[node name="Label98" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1457.0
+margin_right = 801.0
+margin_bottom = 1678.0
+text = "- added two very strong, late game monsters: the stag and the scarab
+- added a new prestige mode variation named \"Miner\", where you dig for 20 cycles without monsters
+- added a new world that is exclusive to prestige
+- added seasons to leaderboard. We had so many changes to balance already, and with the new monsters we start season 2. Season 1 scores are still visible in the leaderboard an via steam."
+autowrap = true
+
+[node name="Label99" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1694.0
+margin_right = 801.0
+margin_bottom = 1845.0
+custom_fonts/font = ExtResource( 9 )
+text = "- improved map generation, so that resource distribution is closer to what it was before the last change especially for prestige mode
+- fixed rat animation when he's stuck in a corner
+- stingray will now fly at lower heights, to differentiate more from flyer
+- improved stingray death sound
+- showing friends highscores in prestige by default, but remembering your last choice.
+- increased driller size back to what it was meant to be originally"
+autowrap = true
+
+[node name="HSeparator9" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1861.0
+margin_right = 801.0
+margin_bottom = 1885.0
+
+[node name="Label94" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1901.0
+margin_right = 801.0
+margin_bottom = 1938.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v2.1 - Caves & Critters"
+align = 1
+
+[node name="Label95" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1954.0
+margin_right = 801.0
+margin_bottom = 2231.0
+text = "- added 4 new caves
+- added critters, small creatures roaming the mines. They can be disabled via options.
+- shield can now be overcharged during battle
+- changed how double laser affects movement speed and damage
+- improved Assessor movement
+- smaller Assessor rebalances: spheres reload a bit faster, some upgrades are a bit cheaper, re-arranged some upgrades to access sphere split earlier. Deeper changes will come in a later update, thank you for all the feedback!"
+autowrap = true
+
+[node name="Label96" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 2247.0
+margin_right = 801.0
+margin_bottom = 2508.0
+custom_fonts/font = ExtResource( 9 )
+text = "- improved all icons for Assessor
+- translated thousands of words across many languages
+- fixed dome sometimes being destroyed before invulnerability on shield depletion was able to take effect
+- shield hud now also shows overcharge status and ability duration
+- fixed last bomb upgrade for sword long stab not having an effect
+- divers will now spawn again
+- fixed butterflies only coming from the left side
+- improved all monster energy projectile sprites
+- game never switches to mouse and keyboard controls, when playing on Steam Deck
+- fixed wave timer not running initially when reloading game
+- fixed squids pathfinding getting confused when scanner cave was used"
+autowrap = true
+
+[node name="HSeparator8" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 2524.0
+margin_right = 801.0
+margin_bottom = 2548.0
+
+[node name="Label91" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 2564.0
+margin_right = 801.0
+margin_bottom = 2601.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v2.0 - Assessor"
+align = 1
+
+[node name="Label92" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 2617.0
+margin_right = 801.0
+margin_bottom = 3034.0
+text = "- added the Assessor, a new keeper based around control of gravity. Also comes with a completely new OST and 4 Achievements.
+- added a new monster, the Stingray. It's a lowest tier flying monster, bringing a bit of variety early on, replacing the flyer in some worlds.
+- improved sprites for Rockman
+- buffed orchard:
+Root explosion deals a fixed, high amount of damage.
+Fruit buff upgrades are much cheaper.
+Shield last for much longer and is a bit cheaper.
+- more community translated languages now available
+- reworked sword impact recurperation and added visual effect for when it's active. It will now activate during the battle, as soon as the damage threshold is reached.
+- added alternative tooltips for other controller types than xbox. Automatic detection should work for PS4 and Switch Pro controller."
+autowrap = true
+
+[node name="Label93" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 3050.0
+margin_right = 801.0
+margin_bottom = 3179.0
+custom_fonts/font = ExtResource( 9 )
+text = "- improved sprites for keepers ins loadout screen
+- added option to set how often music plays
+- improved colors of orchard fruit in HUD, for better readability towards the end
+- improved animations for unlockable screen
+- improved some worm and sword sounds
+- wave counter and inventory now cost 1 water"
+autowrap = true
+
+[node name="HSeparator7" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 3195.0
+margin_right = 801.0
+margin_bottom = 3219.0
+
+[node name="Label88" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 3235.0
+margin_right = 801.0
+margin_bottom = 3272.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v1.5 - Halloween"
+align = 1
+
+[node name="Label89" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 3288.0
+margin_right = 801.0
+margin_bottom = 3565.0
+text = "- added a pet, new cave and decorations for Halloween. Only available until the 13th November, but unlock permanently if you get it now. You can disable seasonal content via options, if you prefer \"vanilla\".
+- fixed pet and egg not saving properly
+- improved many sounds
+- gamepad bindings now also got alternative key bindings and axis can also be bound (stick or trigger)
+- laser strength 3 and double laser are not mutually exclusive anymore"
+autowrap = true
+
+[node name="Label90" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 3581.0
+margin_right = 801.0
+margin_bottom = 3952.0
+custom_fonts/font = ExtResource( 9 )
+text = "- pet's don't duplicate on reload anymore
+- skin unlocks are now also listed when showing what was unlocked this run
+- fixed keeper slowing down when moving stick and then pressing and releasing dpad in the same direction
+- fixed prestige maps just stopping at a fixed depth, instead of fading out naturally
+- fixed double iron modifier not being remembered to be selected previously
+- fixed lift not going through the middle of indestructible parts where there was no border tile
+- added animation for sword dome in loadout screen. Also added dummy monster to show the sword impact better.
+- shield reflection stage 2 from 2s to 3s
+- sword fast stab 2 does adds 20 instead of 10 damage to the stab
+- sword stab cooldown change for bomb upgrade goes from +3s to +1s
+- sword stab last bomb upgrade now has 3 charges instead of 2
+- sword javelin upgrade adds 40 damage instead of 50
+- orchard roots now spawns 6 and 12 roots, instead of 4 and 8. Additionally, it lasts for 12s and 24s, intead of 10s and 20s. This is only a small step, orchard needs some more serious buffs or additions.
+- removed empty drillbert upgrade"
+autowrap = true
+
+[node name="HSeparator6" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 3968.0
+margin_right = 801.0
+margin_bottom = 3992.0
+
+[node name="Label85" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 4008.0
+margin_right = 801.0
+margin_bottom = 4045.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v1.4"
+align = 1
+
+[node name="Label86" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 4061.0
+margin_right = 801.0
+margin_bottom = 4254.0
+text = "- added option to detect used gamepad automatically. If you got problems with a gamepad, try changing this setting.
+- fixed some tiles being indestructible, that should not be. Affected resources in border tiles, but also unreachable chambers.
+- lift can now pass through indestructible terrain, so should be viable on all maps
+- fixed laser sound playing permanently in some cases"
+autowrap = true
+
+[node name="Label87" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 4270.0
+margin_right = 801.0
+margin_bottom = 4553.0
+custom_fonts/font = ExtResource( 9 )
+text = "- repeatable drill upgrade of the engineer is now much stronger, going from a 50% to a 120% increase
+- fixed long probe marker retention being overwritten if purchasing an upgrade with shorter retention
+- reduced probe auto recharge time from 0.8 to 0.5 cycles 
+- disabled HDR, so there should not be any effect on monitor brightness anymore
+- orchard root now pauses properly
+- exploit of reloading the game to \"roll\" higher yields from tiles should not work anymore
+- fixed a \"fixed cobalt\" run causing that no cobalt would spawn in next run
+- reduced amount of very hard and very soft rock a bit (effectively lowered the increase from last patch to 50%)
+- fixed all \"fixed cobalt\" runs markes as cheated, if the cobalt multiplier was bought
+- removed some false positives from the cheat detection"
+autowrap = true
+
+[node name="HSeparator5" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 4569.0
+margin_right = 801.0
+margin_bottom = 4593.0
+
+[node name="Label82" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 4609.0
+margin_right = 801.0
+margin_bottom = 4646.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v1.3"
+align = 1
+
+[node name="Label83" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 4662.0
+margin_right = 801.0
+margin_bottom = 4967.0
+text = "- fixed cheat detection having a lot of false positives. Old highscores might be gone now, as they falsely got flagged as cheated.
+- added \"double iron\" run modifier
+- automatically switching to larger font sizes, when playing on steam deck
+- fixed big ticks going into a state of being stunned and invincible, when caught in an orchard root while burrowing
+- fixed stun laser trying to rotate underneath the dome
+- fixed maze and long cycle modifier being incomptible
+- memory upgrade of probe is now not exclusive to the other higher tier upgrades"
+autowrap = true
+
+[node name="Label84" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 4983.0
+margin_right = 801.0
+margin_bottom = 5376.0
+custom_fonts/font = ExtResource( 9 )
+text = "- changed condenser code slightly, possible fixing an issue with it stopping production
+- possibly fixed teleporter teleporting to the same place where it started
+- pet will now not wildly jump positions if out of sight
+- controller vibration will now only happen if controller is actually used
+- fixed orchard and repellent charging up in the initial grace period, where no monsters spawn
+- reduced number of monsters that can be on screen at the same time, more so for hardest difficulty
+- punishers are much more effective now, and won't trigger when not intended
+- fixed controller not vibrating, if any given vibration would go over 100%
+- focus continue button in main menu, if it is available
+- increased the density spread, so more tiles belong to the extreme hardness stages
+- increased difference between hardness 2 and 3, raised hardness 5 a bit and lowered progression between biomes slightly
+- fixed map being cut off when zoomed out in 16:10
+- changed font for hungarian
+- prestige scores of 0 won't be uploaded anymore
+- fixed mode button not switching correctly to the button left of it, for some languages
+- reduced drillbert drill upgrade costs a bit"
+autowrap = true
+
+[node name="HSeparator4" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 5392.0
+margin_right = 801.0
+margin_bottom = 5416.0
+
+[node name="Label79" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 5432.0
+margin_right = 801.0
+margin_bottom = 5469.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v1.2"
+align = 1
+
+[node name="Label80" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 5485.0
+margin_right = 801.0
+margin_bottom = 5958.0
+text = "- Added accessibility option to always highlight monsters with an outline
+- Orchard fruit buff cannot be stacked anymore, but repeated use will refresh the buff
+- Added missing sword dome tutorial popup
+- Allowing bind of pick up and drop to the same key again, as in the Dome Romantik prototype
+- Added huge map for relic hunt
+- Showing up to 3 unlocks now, instead of 2 at most
+- Improved controller detection, which might solve issues with some models being unresponsive
+- Added information on which rule in the cheat detection was triggered, allowing us to improve it in the next patch, after seeing what causes the false positives
+- Lift now starts with an additional orb, and more orbs cost 1 water instead of 2
+- Teleporter won't teleport resources during battle anymore"
+autowrap = true
+
+[node name="Label81" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 5974.0
+margin_right = 801.0
+margin_bottom = 6367.0
+custom_fonts/font = ExtResource( 9 )
+text = "- Fixed repair indicator on health bar sometimes staying visible after closing the tech tree
+- Fixed vibration setting from options not being applied
+- Fixed keeper not moving if exiting the station with an already rotated joystick
+- Fixed keeper being stuck in pickup mode if the station was entered holding the pickup key and use and pickup being bound to the same button
+- Fixed one instance of the cheat detection triggering erroneously
+- Fixed some small errors in the savegames
+- Fixed issue where final battle music was playing after the wave was over, overlapping the win music
+- Fixed condenser, converter, and drillbert achievements not counting properly, if the game was saved and reloaded
+- Improved blue underground biome color to be more distinct from grey
+- Rendering all percentage values without digits after the decimal point in the upgrade tree
+- Improved rock texture for medium rock hardness
+- Fixed unlock potentially getting lost if immediately exiting the game upon unlock
+- Selected gadget in keep gadget popup is now animated, for better visibility
+- Fixed button focus in loadout stage not jumping from gadget to mode as expected
+- Reduced condenser production delay on overcharge from 0.75 to 0.5 cycles"
+autowrap = true
+
+[node name="HSeparator3" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 6383.0
+margin_right = 801.0
+margin_bottom = 6407.0
+
+[node name="Label73" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 6423.0
+margin_right = 801.0
+margin_bottom = 6460.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "v1.1"
+align = 1
+
+[node name="Label74" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 6476.0
+margin_right = 801.0
+margin_bottom = 6725.0
+text = "- fixed issues where reloadng a savegame would crash related to shield and mineral tree. If you still experience that, please send us the crashing savegame, so we can debug it.
+- added controller vibration, strength adjustable in the options
+- added font for leaderboard that supports non latin characters in player names
+- improved cheat detection for leaderboards
+- fixed UI not being responsive to joystick anymore, if alternative key mapping was applied"
+autowrap = true
+
+[node name="Label75" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+margin_top = 6741.0
+margin_right = 801.0
+margin_bottom = 6870.0
+custom_fonts/font = ExtResource( 9 )
+text = "- fixed newly unlocked pet or map size not persisting immediately
+- fixed keeping a gadget not working when the run was started with a kept gadget
+- changed run modifiers to be checkboxes instead of buttons
+- improved sounds for beast and ticks
+- fixed snow being misplaced in world 3
+- fixed raw fury splash screen for 21:9 aspect ratio"
+autowrap = true
+
+[node name="HSeparator" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer"]
+margin_top = 626.0
+margin_right = 825.0
+margin_bottom = 650.0
+
+[node name="CancelButton" type="Button" parent="Canvas/PatchNotesPanel/VBoxContainer"]
+margin_left = 261.0
+margin_top = 666.0
+margin_right = 563.0
+margin_bottom = 723.0
+size_flags_horizontal = 4
+size_flags_vertical = 0
+text = "title.navbar.updates.close"
+
+[node name="CreditsPanel" type="PanelContainer" parent="Canvas"]
+visible = false
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -484.5
+margin_top = -490.0
+margin_right = 484.5
+margin_bottom = 490.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource( 3 )
+custom_styles/panel = ExtResource( 6 )
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/CreditsPanel"]
+margin_left = 32.0
+margin_top = 32.0
+margin_right = 937.0
+margin_bottom = 948.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/CreditsPanel/VBoxContainer"]
+margin_right = 905.0
+margin_bottom = 803.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+scroll_horizontal_enabled = false
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer"]
+margin_right = 881.0
+margin_bottom = 4465.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 865.0
+margin_bottom = 4449.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_constants/separation = 10
+
+[node name="GridContainer" type="GridContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_right = 849.0
+margin_bottom = 805.0
+size_flags_horizontal = 3
+custom_constants/vseparation = 24
+columns = 2
+
+[node name="Label22" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_right = 207.0
+margin_bottom = 117.0
+size_flags_horizontal = 2
+custom_fonts/font = ExtResource( 4 )
+text = "Direction 
+Game Design
+Production"
+
+[node name="Label23" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_left = 433.0
+margin_top = 46.0
+margin_right = 630.0
+margin_bottom = 71.0
+size_flags_horizontal = 2
+text = "René Habermann"
+
+[node name="Label33" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_top = 191.0
+margin_right = 136.0
+margin_bottom = 228.0
+size_flags_horizontal = 2
+custom_fonts/font = ExtResource( 4 )
+text = "Pixel Art"
+align = 1
+
+[node name="Label25" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_left = 433.0
+margin_top = 141.0
+margin_right = 804.0
+margin_bottom = 278.0
+size_flags_horizontal = 2
+text = "Anne Hecker (IdinaKloppstock)
+Brandon Schenk (penusbmic)
+Davis Hill
+UnfuneralOD
+Fabian Delgado (Luucky_NANA)"
+
+[node name="Label26" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_top = 310.0
+margin_right = 211.0
+margin_bottom = 347.0
+size_flags_horizontal = 2
+custom_fonts/font = ExtResource( 4 )
+text = "Programming"
+align = 1
+
+[node name="Label29" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_left = 433.0
+margin_top = 302.0
+margin_right = 631.0
+margin_bottom = 355.0
+size_flags_horizontal = 2
+text = "René Habermann
+John Watson"
+
+[node name="Label31" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_top = 379.0
+margin_right = 90.0
+margin_bottom = 416.0
+size_flags_horizontal = 2
+custom_fonts/font = ExtResource( 4 )
+text = "Music"
+align = 1
+
+[node name="Label27" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_left = 433.0
+margin_top = 385.0
+margin_right = 620.0
+margin_bottom = 410.0
+size_flags_horizontal = 2
+text = "Cameron Paxton"
+
+[node name="Label37" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_top = 440.0
+margin_right = 214.0
+margin_bottom = 477.0
+size_flags_horizontal = 2
+custom_fonts/font = ExtResource( 4 )
+text = "Sound Design"
+align = 1
+
+[node name="Label36" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_left = 433.0
+margin_top = 446.0
+margin_right = 579.0
+margin_bottom = 471.0
+size_flags_horizontal = 2
+text = "Martin Kvale"
+
+[node name="Label28" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_top = 501.0
+margin_right = 247.0
+margin_bottom = 578.0
+size_flags_horizontal = 2
+custom_fonts/font = ExtResource( 4 )
+text = "Additional 
+Graphic Effects"
+
+[node name="Label30" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_left = 433.0
+margin_top = 513.0
+margin_right = 689.0
+margin_bottom = 566.0
+size_flags_horizontal = 2
+text = "Raffaele Picca
+Robert-Jan Zandvoort"
+
+[node name="Label35" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_top = 602.0
+margin_right = 226.0
+margin_bottom = 639.0
+size_flags_horizontal = 2
+custom_fonts/font = ExtResource( 4 )
+text = "Art Consulting"
+align = 1
+
+[node name="Label38" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_left = 433.0
+margin_top = 608.0
+margin_right = 644.0
+margin_bottom = 633.0
+size_flags_horizontal = 2
+text = "Thomas Feichtmeir"
+
+[node name="Label39" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_top = 663.0
+margin_right = 158.0
+margin_bottom = 700.0
+size_flags_horizontal = 2
+custom_fonts/font = ExtResource( 4 )
+text = "Cover Art"
+align = 1
+
+[node name="Label40" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_left = 433.0
+margin_top = 669.0
+margin_right = 548.0
+margin_bottom = 694.0
+size_flags_horizontal = 2
+text = "Russ Gray"
+
+[node name="Label41" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_top = 746.0
+margin_right = 112.0
+margin_bottom = 783.0
+size_flags_horizontal = 2
+custom_fonts/font = ExtResource( 4 )
+text = "Interns"
+align = 1
+
+[node name="Label42" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+margin_left = 433.0
+margin_top = 724.0
+margin_right = 617.0
+margin_bottom = 805.0
+size_flags_horizontal = 2
+text = "Steffen Schmidt
+Fio Leukert
+Annika Jung"
+
+[node name="HSeparator" type="HSeparator" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 815.0
+margin_right = 849.0
+margin_bottom = 839.0
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 849.0
+margin_right = 849.0
+margin_bottom = 918.0
+
+[node name="Label30" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 833.0
+margin_bottom = 53.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "Published by RAW FURY"
+align = 1
+
+[node name="GridContainer2" type="GridContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 928.0
+margin_right = 849.0
+margin_bottom = 1793.0
+columns = 3
+
+[node name="Label" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer2"]
+margin_top = 14.0
+margin_right = 253.0
+margin_bottom = 851.0
+text = "Jónas Antonsson
+Gordon Van Dyke
+David Martinez
+Daniel Jonsson
+Roland Smedberg
+Liam O’Neill
+Mia Sun
+Kjartan Freyr Jónsson
+Naseer Alkhouri
+Gerinda Meijerink
+Rachel Tiu
+Rasmus Liljenberg
+Johan Toresson
+Solveig Samuelsdottir
+Jeanette Bauer
+Timothy Busby
+Cristian Caileanu
+Mea Nilimaa
+Loke Wallmo
+Vladimir Kovač
+Tomislav Gojević
+Domagoj Šalković
+Angelica Norgren
+Erika Karlberg
+Susie McBeth
+Ivan Gabriel Juricic
+Nicole De Bernardi
+Dimitrije Dokic
+Sven Farszky
+Garnett Lee"
+
+[node name="Label2" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer2"]
+margin_left = 269.0
+margin_right = 573.0
+margin_bottom = 865.0
+text = "Matejka Ivančić
+Ivan Krešimir Imbrija
+Carly Shields
+Juliette Auverny-Bennetot
+Íris Stefánsdóttir
+Tonči Jukić
+Zeke Lugmair
+Jacob Kroon
+Dario Zubović
+Ivan Gradečak
+Ana Balentović
+Elena Christensen
+Mai Dinh
+Marcus Herbertsson
+Paul Wilson
+Elisabeth Bergqvist
+Borna Cmrečnjak
+Izet Seferagić
+Scott Roberts
+Filip Zachrisson Hansen
+Domagoj Alagić
+Matt Edwards
+Hanja Grgičević
+Matija Mladiček
+Aron Thompson
+Michael Grass
+Andrew Terrett
+Dino Tarvainen
+Gemma Garner
+Sarah Gonidec
+Linda Johansen"
+
+[node name="Label3" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer2"]
+margin_left = 589.0
+margin_top = 14.0
+margin_right = 849.0
+margin_bottom = 851.0
+text = "Fiona Martin
+Iris Andresdottir
+Ida Czerwonka
+Juraj Kraskovic
+Dubravko Jurina
+Morten Larssen
+Jocce Marklund
+Grgur Žučko
+Liam Sigrell
+Alan Kertz
+Kristina Petrač
+Sara Divjak
+Claire Sharkey
+Dino Milačić
+Deana Banic-Krizaj
+Alessandro Cossidente
+Valentina Cindrić
+Mery Stancu
+Pontus Rundqvist
+Cecilia Asp
+Jordan Tayler
+Mariela Gonzales
+Ana Sundji
+Michaela Woods
+Ivica Jezernik
+Daniel Stewart
+Tina Nilsson
+Michele di Nardo
+Matko Pavlić
+Mylene Lourdel"
+
+[node name="HSeparator2" type="HSeparator" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 1803.0
+margin_right = 849.0
+margin_bottom = 1827.0
+
+[node name="MarginContainer2" type="MarginContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 1837.0
+margin_right = 849.0
+margin_bottom = 1906.0
+
+[node name="Label31" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/MarginContainer2"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 833.0
+margin_bottom = 53.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 4 )
+text = "Special thanks to our beautiful Playtest community!"
+align = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 1916.0
+margin_right = 849.0
+margin_bottom = 4433.0
+size_flags_horizontal = 3
+
+[node name="Label31" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_right = 416.0
+margin_bottom = 2517.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "ash
+Moon Called Charon
+5CH4773NF3U3R
+aegon1
+Alchy
+Alpha
+AndriiD
+AnnO
+apoisonedgift
+Auto
+Bartholomew The 4th
+Basilisk
+bawavasu
+beta
+BigBadaboom
+Bisch
+blazouf
+bluedrake121
+boba325
+bocchai
+BOSS
+Celestial_itus
+cranberry
+cranberry sword
+Cryen
+Cryorus
+Cyantist
+Cynthia7979
+d3dc
+Dadik2580
+dang
+DarkerThrawn
+Darkstrong
+DB_alfa
+Decycle
+DeFroze
+demonyga
+DeusVoltz
+Dome dwarf
+domepotato
+dreanki
+Droideka
+Ember
+EnigmaUprising
+Eric Decker
+Faityy
+FalseSenseOfSelf
+Flop
+Frosty
+G4M3ZL4Y3R
+Geo
+Gigimooshi2
+grimm
+Grumman
+hackysack
+Halee!
+Handsome Toast
+Happy Log
+Heinrich
+hello_world
+Hogu
+Hurpix
+Hypersloths
+hypurrtext
+IgnisTeine
+Iro
+Isador
+iulian
+Izuna Neko
+jaaaco
+jealfredo
+JoKingSpace
+Jonicas Alt 1
+joshiii03
+JTxic
+Jukebox Legend
+Jynxed
+Kao
+KDShadow
+KillDay
+konomiyu
+Kopie
+Krautkopf89
+Kurbis
+Lady Scylla
+Leo
+leowitchhh
+LiesLiesLies
+Light-DelaBlue
+Lion of WISE isles"
+align = 1
+autowrap = true
+
+[node name="Label33" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 432.0
+margin_right = 849.0
+margin_bottom = 2517.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "LoganDark
+Manuel
+maxbk7
+MazeAsh
+MillieMM
+Mirał
+Mr_DomeTest
+Mulpi
+myakhie
+Märtren
+Nakul
+Night/Clouds
+ninja5511
+Nodens
+Noremac3113
+Nothing To See here
+Nurp
+nyan
+Nyoshi
+NyxyN
+Nонбук
+Old Man Bryan
+Omni Adachi
+OpenJaguar560
+P-G of JC, SPG, & PB
+PAG_Pt4h
+palex00
+Panzerkampfwagen VI königstiger
+parchmentEngineer
+Peanut Juice
+Pingal
+Pizzaboy
+pomf
+powergeeks
+Psychodata
+Puff
+Quetsle
+Raphmine
+rasok
+RiamuYui
+robertEK
+Rubjeee
+Ruri
+Saice
+Samwich
+scubapenguin
+sebseb
+sharpie
+Shock321
+Sin Marama
+SirRaffley
+sjig
+Sleepy Goat
+Sleepyheadstyle
+SleepyTime
+smudge
+SnadBox_Gal
+SOB
+SockTheSock
+starrylamb
+STAY6FEET
+Ste
+steamdwarfjr
+Sydney
+Taha
+the walking dead
+TheBiggestDisappointment
+TheCuteFoxxy
+therpderp
+TreasureBloke
+Tricky
+tuxle
+u/nubatpython
+Unique_Name2
+Varnim
+WanderingShadow
+WhiteAndBlack
+Wobble Cat
+WolfMeryX
+YellowSkrub
+Yog_
+Zerronyx
+ziggy2shoes
+zimny11
+Ben
+axerity
+Big Chungo
+GhostXi"
+align = 1
+autowrap = true
+
+[node name="HSeparator" type="HSeparator" parent="Canvas/CreditsPanel/VBoxContainer"]
+margin_top = 819.0
+margin_right = 905.0
+margin_bottom = 843.0
+
+[node name="CancelButton" type="Button" parent="Canvas/CreditsPanel/VBoxContainer"]
+margin_left = 308.0
+margin_top = 859.0
+margin_right = 596.0
+margin_bottom = 916.0
+rect_min_size = Vector2( 200, 0 )
+size_flags_horizontal = 4
+size_flags_vertical = 0
+text = "title.navbar.credits.close"
+
+[node name="VideoPlayer" type="VideoPlayer" parent="Canvas"]
+visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+stream = ExtResource( 7 )
+script = ExtResource( 8 )
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/VideoPlayer"]
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -57.0
+theme = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="Canvas/VideoPlayer/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 1904.0
+margin_bottom = 41.0
+text = "press anything to play"
+align = 1
+
+[node name="Tween" type="Tween" parent="Canvas/VideoPlayer"]
+
+[node name="Tween" type="Tween" parent="."]
+
+[connection signal="pressed" from="Canvas/MainMenu/Panel/VBoxContainer/ContinueButton" to="." method="_on_ContinueButton_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/VBoxContainer/NewGameButton" to="." method="_on_NewGameButton_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/VBoxContainer/LocalCoopButton" to="." method="_on_LocalCoopButton_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/VBoxContainer/OptionsButton" to="." method="_on_OptionsButton_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/VBoxContainer/UnlockEverythingButton" to="." method="_on_UnlockEverythingButton_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/VBoxContainer/WhatsNewButton" to="." method="_on_WhatsNewButton_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/VBoxContainer/CreditsButton" to="." method="_on_CreditsButton_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/VBoxContainer/QuitButton" to="." method="_on_QuitButton_pressed"]
+[connection signal="pressed" from="Canvas/PatchNotesPanel/VBoxContainer/CancelButton" to="." method="_on_ClosePatchNotesButton_pressed"]
+[connection signal="pressed" from="Canvas/CreditsPanel/VBoxContainer/CancelButton" to="." method="_on_CloseCreditsButton_pressed"]

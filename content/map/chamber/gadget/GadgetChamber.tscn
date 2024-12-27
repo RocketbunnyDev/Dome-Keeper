@@ -1,0 +1,179 @@
+[gd_scene load_steps=35 format=2]
+
+[ext_resource path="res://content/shared/Usable.tscn" type="PackedScene" id=1]
+[ext_resource path="res://content/map/TileCover.tscn" type="PackedScene" id=2]
+[ext_resource path="res://content/drop/gadget/GadgetDrop.tscn" type="PackedScene" id=3]
+[ext_resource path="res://content/map/chamber/cover.png" type="Texture" id=4]
+[ext_resource path="res://content/sounds/Locations/ChamberRelic/NoiseFloor09.wav" type="AudioStream" id=5]
+[ext_resource path="res://content/sounds/Locations/RelicSwitchChamber/switchChamberAppear.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/map/chamber/gadget/gadget_chamber_sheet.png" type="Texture" id=7]
+[ext_resource path="res://content/drop/gadget/gadget.png" type="Texture" id=8]
+[ext_resource path="res://content/map/chamber/gadget/GadgetChamber.gd" type="Script" id=9]
+[ext_resource path="res://content/drop/gadget/focussed.png" type="Texture" id=10]
+
+[sub_resource type="AtlasTexture" id=4]
+atlas = ExtResource( 7 )
+region = Rect2( 40, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=5]
+atlas = ExtResource( 7 )
+region = Rect2( 80, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=6]
+atlas = ExtResource( 7 )
+region = Rect2( 120, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=7]
+atlas = ExtResource( 7 )
+region = Rect2( 160, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=8]
+atlas = ExtResource( 7 )
+region = Rect2( 200, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=9]
+atlas = ExtResource( 7 )
+region = Rect2( 240, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=10]
+atlas = ExtResource( 7 )
+region = Rect2( 280, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=11]
+atlas = ExtResource( 7 )
+region = Rect2( 320, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=12]
+atlas = ExtResource( 7 )
+region = Rect2( 360, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=13]
+atlas = ExtResource( 7 )
+region = Rect2( 400, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=14]
+atlas = ExtResource( 7 )
+region = Rect2( 440, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=15]
+atlas = ExtResource( 7 )
+region = Rect2( 480, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=16]
+atlas = ExtResource( 7 )
+region = Rect2( 520, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=17]
+atlas = ExtResource( 7 )
+region = Rect2( 560, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=18]
+atlas = ExtResource( 7 )
+region = Rect2( 600, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=19]
+atlas = ExtResource( 7 )
+region = Rect2( 640, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=20]
+atlas = ExtResource( 7 )
+region = Rect2( 680, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=21]
+atlas = ExtResource( 7 )
+region = Rect2( 720, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=22]
+atlas = ExtResource( 7 )
+region = Rect2( 760, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=26]
+atlas = ExtResource( 7 )
+region = Rect2( 800, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=25]
+atlas = ExtResource( 7 )
+region = Rect2( 840, 0, 40, 40 )
+
+[sub_resource type="AtlasTexture" id=24]
+atlas = ExtResource( 7 )
+region = Rect2( 0, 0, 40, 40 )
+
+[sub_resource type="SpriteFrames" id=23]
+animations = [ {
+"frames": [ SubResource( 4 ), SubResource( 5 ), SubResource( 6 ), SubResource( 7 ), SubResource( 8 ), SubResource( 9 ), SubResource( 10 ), SubResource( 11 ), SubResource( 12 ), SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ), SubResource( 17 ), SubResource( 18 ), SubResource( 19 ), SubResource( 20 ), SubResource( 21 ), SubResource( 22 ), SubResource( 26 ) ],
+"loop": false,
+"name": "opening",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 25 ) ],
+"loop": false,
+"name": "empty",
+"speed": 0.0
+}, {
+"frames": [ SubResource( 24 ) ],
+"loop": false,
+"name": "default",
+"speed": 0.0
+} ]
+
+[sub_resource type="TileSet" id=1]
+0/name = "cover.png 0"
+0/texture = ExtResource( 4 )
+0/tex_offset = Vector2( 0, 0 )
+0/modulate = Color( 1, 1, 1, 1 )
+0/region = Rect2( 0, 0, 25, 24 )
+0/tile_mode = 0
+0/occluder_offset = Vector2( 0, 0 )
+0/navigation_offset = Vector2( 0, 0 )
+0/shape_offset = Vector2( 0, 0 )
+0/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+0/shape_one_way = false
+0/shape_one_way_margin = 0.0
+0/shapes = [  ]
+0/z_index = 0
+
+[node name="GadgetChamber" type="Node2D" groups=["saveable"]]
+z_index = -10
+script = ExtResource( 9 )
+GIZMO_SCENE = ExtResource( 3 )
+type = "gadget"
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+position = Vector2( 24, 24 )
+frames = SubResource( 23 )
+
+[node name="SocketedGizmo" type="Sprite" parent="."]
+position = Vector2( 24, 24 )
+texture = ExtResource( 8 )
+
+[node name="GizmoSpawn" type="Position2D" parent="."]
+position = Vector2( 24, 23 )
+z_index = 50
+
+[node name="ChamberAmb" type="AudioStreamPlayer" parent="GizmoSpawn"]
+stream = ExtResource( 5 )
+volume_db = -8.739
+pitch_scale = 0.8
+bus = "Mine"
+
+[node name="Usable" parent="." instance=ExtResource( 1 )]
+position = Vector2( 24, 23 )
+visibleOnFocus = NodePath("../FocusMarker")
+
+[node name="TileCover" parent="." instance=ExtResource( 2 )]
+visible = false
+tile_set = SubResource( 1 )
+tile_data = PoolIntArray( 0, 0, 0, 1, 0, 0, 65536, 0, 0, 65537, 0, 0 )
+
+[node name="DoorOpen" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 6 )
+volume_db = 12.0
+bus = "Mine"
+
+[node name="FocusMarker" type="Sprite" parent="."]
+position = Vector2( 24, 24 )
+texture = ExtResource( 10 )
+
+[connection signal="animation_finished" from="Sprite" to="." method="_on_Sprite_animation_finished"]
+[connection signal="frame_changed" from="Sprite" to="." method="_on_Sprite_frame_changed"]

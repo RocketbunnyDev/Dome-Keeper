@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://content/map/decorations/square/edges ceiling.png" type="Texture" id=1]
+[ext_resource path="res://content/map/decorations/BorderDecoration.gd" type="Script" id=2]
+
+[node name="Seaweed" type="Sprite" groups=["decoration"]]
+texture = ExtResource( 1 )
+offset = Vector2( -4, -5 )
+hframes = 5
+frame = 2
+script = ExtResource( 2 )

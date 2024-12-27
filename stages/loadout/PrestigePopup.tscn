@@ -1,0 +1,161 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://gui/panels/panel_outside.tres" type="StyleBox" id=2]
+[ext_resource path="res://gui/fonts/FontHeading.tres" type="DynamicFont" id=3]
+[ext_resource path="res://stages/loadout/PrestigePopup.gd" type="Script" id=4]
+
+[sub_resource type="ButtonGroup" id=5]
+
+[node name="PrestigePopup" type="CenterContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+theme = ExtResource( 1 )
+script = ExtResource( 4 )
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+margin_left = 455.0
+margin_top = 282.0
+margin_right = 1464.0
+margin_bottom = 798.0
+rect_min_size = Vector2( 800, 460 )
+custom_styles/panel = ExtResource( 2 )
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer"]
+margin_left = 32.0
+margin_top = 32.0
+margin_right = 977.0
+margin_bottom = 484.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 929.0
+margin_bottom = 436.0
+
+[node name="PanelTitleLabel" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_right = 913.0
+margin_bottom = 65.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 3 )
+text = "loadout.prestige.title"
+align = 1
+
+[node name="HBoxContainer" type="GridContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 81.0
+margin_right = 913.0
+margin_bottom = 211.0
+columns = 3
+
+[node name="PrestigeMode1Button" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_right = 280.0
+margin_bottom = 57.0
+rect_min_size = Vector2( 200, 0 )
+size_flags_horizontal = 3
+toggle_mode = true
+group = SubResource( 5 )
+text = "loadout.prestige.normal"
+
+[node name="PrestigeMode2Button" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 296.0
+margin_right = 570.0
+margin_bottom = 57.0
+rect_min_size = Vector2( 200, 0 )
+size_flags_horizontal = 3
+toggle_mode = true
+group = SubResource( 5 )
+text = "loadout.prestige.cobalt"
+
+[node name="PrestigeMode3Button" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_left = 586.0
+margin_right = 913.0
+margin_bottom = 57.0
+rect_min_size = Vector2( 200, 0 )
+size_flags_horizontal = 3
+toggle_mode = true
+group = SubResource( 5 )
+text = "loadout.prestige.countdown"
+
+[node name="PrestigeMode4Button" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+margin_top = 73.0
+margin_right = 280.0
+margin_bottom = 130.0
+rect_min_size = Vector2( 200, 0 )
+rect_pivot_offset = Vector2( 131, -85 )
+size_flags_horizontal = 3
+toggle_mode = true
+group = SubResource( 5 )
+text = "loadout.prestige.miner"
+
+[node name="ModeExplanationLabel" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 227.0
+margin_right = 913.0
+margin_bottom = 307.0
+rect_min_size = Vector2( 500, 80 )
+size_flags_horizontal = 3
+align = 1
+autowrap = true
+
+[node name="HSeparator" type="HSeparator" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 323.0
+margin_right = 913.0
+margin_bottom = 347.0
+size_flags_vertical = 10
+
+[node name="PanelTitleLabel2" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer"]
+visible = false
+margin_top = 194.0
+margin_right = 521.0
+margin_bottom = 259.0
+size_flags_horizontal = 3
+custom_fonts/font = ExtResource( 3 )
+text = "Difficulty"
+align = 1
+
+[node name="HSeparator2" type="HSeparator" parent="PanelContainer/MarginContainer/VBoxContainer"]
+visible = false
+margin_top = 275.0
+margin_right = 521.0
+margin_bottom = 299.0
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 363.0
+margin_right = 913.0
+margin_bottom = 420.0
+
+[node name="CancelButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+margin_right = 448.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+text = "loadout.secondstage.cancel"
+
+[node name="StartButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+margin_left = 464.0
+margin_right = 913.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+text = "loadout.secondstage.start"
+
+[node name="Tween" type="Tween" parent="."]
+
+[connection signal="focus_entered" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode1Button" to="." method="_on_PrestigeMode1Button_focus_entered"]
+[connection signal="focus_exited" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode1Button" to="." method="updateFocusText"]
+[connection signal="mouse_entered" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode1Button" to="." method="_on_PrestigeMode1Button_mouse_entered"]
+[connection signal="mouse_exited" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode1Button" to="." method="updateFocusText"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode1Button" to="." method="_on_PrestigeMode1Button_pressed"]
+[connection signal="focus_entered" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode2Button" to="." method="_on_PrestigeMode2Button_focus_entered"]
+[connection signal="focus_exited" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode2Button" to="." method="updateFocusText"]
+[connection signal="mouse_entered" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode2Button" to="." method="_on_PrestigeMode2Button_mouse_entered"]
+[connection signal="mouse_exited" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode2Button" to="." method="updateFocusText"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode2Button" to="." method="_on_PrestigeMode2Button_pressed"]
+[connection signal="focus_entered" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode3Button" to="." method="_on_PrestigeMode3Button_focus_entered"]
+[connection signal="focus_exited" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode3Button" to="." method="updateFocusText"]
+[connection signal="mouse_entered" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode3Button" to="." method="_on_PrestigeMode3Button_mouse_entered"]
+[connection signal="mouse_exited" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode3Button" to="." method="updateFocusText"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode3Button" to="." method="_on_PrestigeMode3Button_pressed"]
+[connection signal="focus_entered" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode4Button" to="." method="_on_PrestigeMode4Button_focus_entered"]
+[connection signal="focus_exited" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode4Button" to="." method="updateFocusText"]
+[connection signal="mouse_entered" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode4Button" to="." method="_on_PrestigeMode4Button_mouse_entered"]
+[connection signal="mouse_exited" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode4Button" to="." method="updateFocusText"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PrestigeMode4Button" to="." method="_on_PrestigeMode4Button_pressed"]

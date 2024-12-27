@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ENGINEER Collapse [loop].ogg-98e7c9eb2a51cb8a4941959547e8b5e1.oggstr"
+
+[deps]
+
+source_file="res://content/music/ENGINEER Collapse [loop].ogg"
+dest_files=[ "res://.import/ENGINEER Collapse [loop].ogg-98e7c9eb2a51cb8a4941959547e8b5e1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

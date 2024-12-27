@@ -1,0 +1,35 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://content/keeper/keeper2/player1/pinballhit.png" type="Texture" id=1]
+[ext_resource path="res://content/keeper/keeper2/PinballHit.gd" type="Script" id=2]
+
+[sub_resource type="AtlasTexture" id=6]
+atlas = ExtResource( 1 )
+region = Rect2( 0, 0, 48, 48 )
+
+[sub_resource type="AtlasTexture" id=7]
+atlas = ExtResource( 1 )
+region = Rect2( 48, 0, 48, 48 )
+
+[sub_resource type="AtlasTexture" id=8]
+atlas = ExtResource( 1 )
+region = Rect2( 96, 0, 48, 48 )
+
+[sub_resource type="AtlasTexture" id=9]
+atlas = ExtResource( 1 )
+region = Rect2( 144, 0, 48, 48 )
+
+[sub_resource type="SpriteFrames" id=5]
+animations = [ {
+"frames": [ SubResource( 6 ), SubResource( 7 ), SubResource( 8 ), SubResource( 9 ) ],
+"loop": false,
+"name": "hit",
+"speed": 24.0
+} ]
+
+[node name="PinballHit" type="AnimatedSprite"]
+frames = SubResource( 5 )
+animation = "hit"
+script = ExtResource( 2 )
+
+[connection signal="animation_finished" from="." to="." method="_on_PinballHit_animation_finished"]

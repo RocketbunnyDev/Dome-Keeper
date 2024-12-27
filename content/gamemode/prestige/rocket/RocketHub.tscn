@@ -1,0 +1,44 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://content/gamemode/prestige/rocket/rocket_animations.tres" type="SpriteFrames" id=1]
+[ext_resource path="res://content/gamemode/prestige/rocket/RocketHub.gd" type="Script" id=2]
+[ext_resource path="res://content/sounds/Events/Rocket/rocketLiftoff.wav" type="AudioStream" id=3]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=4]
+
+[node name="RocketHub" type="Node2D" groups=["pauseL"]]
+script = ExtResource( 2 )
+
+[node name="Back" type="AnimatedSprite" parent="."]
+position = Vector2( -2, -34 )
+frames = ExtResource( 1 )
+animation = "empty"
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+position = Vector2( -2, -34 )
+frames = ExtResource( 1 )
+animation = "empty"
+frame = -1
+playing = true
+
+[node name="Front" type="AnimatedSprite" parent="."]
+position = Vector2( -2, -34 )
+z_index = 1
+frames = ExtResource( 1 )
+animation = "empty"
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="RocketPosition" type="Position2D" parent="."]
+position = Vector2( 1, -37 )
+__meta__ = {
+"_gizmo_extents_": 5.0
+}
+
+[node name="RocketLaunch" parent="." instance=ExtResource( 4 )]
+stream = ExtResource( 3 )
+bus = "World"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[connection signal="animation_finished" from="Sprite" to="." method="_on_Sprite_animation_finished"]
+[connection signal="animation_finished" from="Front" to="." method="_on_Front_animation_finished"]

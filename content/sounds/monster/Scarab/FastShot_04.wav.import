@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/FastShot_04.wav-f23d955a07ff864c6771c1f473a9ab2f.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/Scarab/FastShot_04.wav"
+dest_files=[ "res://.import/FastShot_04.wav-f23d955a07ff864c6771c1f473a9ab2f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

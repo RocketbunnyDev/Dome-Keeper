@@ -1,0 +1,1399 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://gui/fonts/FontLarge.tres" type="DynamicFont" id=1]
+[ext_resource path="res://tool/MapGeneration/MapArchetypeBuilder.gd" type="Script" id=3]
+[ext_resource path="res://content/shared/EmptyCamera2D.gd" type="Script" id=9]
+[ext_resource path="res://gui/theme.tres" type="Theme" id=10]
+
+[sub_resource type="ButtonGroup" id=1]
+
+[node name="MapArchetypeBuilder" type="Node2D"]
+script = ExtResource( 3 )
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2( 1711, 1929 )
+current = true
+zoom = Vector2( 4, 4 )
+script = ExtResource( 9 )
+
+[node name="Generators" type="Node2D" parent="."]
+
+[node name="TileData" type="Node2D" parent="."]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Controls" type="MarginContainer" parent="CanvasLayer"]
+anchor_bottom = 1.0
+margin_right = 517.0
+rect_min_size = Vector2( 560, 0 )
+theme = ExtResource( 10 )
+
+[node name="PanelContainer" type="PanelContainer" parent="CanvasLayer/Controls"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 586.0
+margin_bottom = 1064.0
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CanvasLayer/Controls/PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 558.0
+margin_bottom = 1036.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+scroll_horizontal_enabled = false
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer"]
+margin_right = 522.0
+margin_bottom = 1759.0
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_right = 522.0
+margin_bottom = 25.0
+text = "close with F1"
+align = 1
+
+[node name="RunGenerationButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 41.0
+margin_right = 522.0
+margin_bottom = 98.0
+rect_min_size = Vector2( 470, 0 )
+focus_mode = 0
+enabled_focus_mode = 0
+text = "Run Generation (F2)"
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 114.0
+margin_right = 522.0
+margin_bottom = 171.0
+
+[node name="SaveButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer2"]
+margin_right = 253.0
+margin_bottom = 57.0
+focus_mode = 0
+size_flags_horizontal = 3
+enabled_focus_mode = 0
+text = "Save Archetype"
+
+[node name="LoadButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer2"]
+margin_left = 269.0
+margin_right = 522.0
+margin_bottom = 57.0
+focus_mode = 0
+size_flags_horizontal = 3
+enabled_focus_mode = 0
+text = "Load Archetype"
+
+[node name="CurrentArchetypeLabel" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 187.0
+margin_right = 522.0
+margin_bottom = 212.0
+align = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 228.0
+margin_right = 522.0
+margin_bottom = 256.0
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer"]
+margin_top = 1.0
+margin_right = 60.0
+margin_bottom = 26.0
+text = "Maps"
+
+[node name="MapCountSlider" type="HSlider" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer"]
+margin_left = 76.0
+margin_right = 506.0
+margin_bottom = 28.0
+size_flags_horizontal = 3
+min_value = 1.0
+max_value = 40.0
+value = 9.0
+scrollable = false
+
+[node name="MapCountLabel" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer"]
+margin_left = 522.0
+margin_top = 1.0
+margin_right = 522.0
+margin_bottom = 26.0
+mouse_filter = 0
+size_flags_horizontal = 8
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 272.0
+margin_right = 522.0
+margin_bottom = 329.0
+
+[node name="BiomesButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3"]
+margin_right = 163.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+toggle_mode = true
+group = SubResource( 1 )
+text = "biomes"
+
+[node name="HardnessButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3"]
+margin_left = 179.0
+margin_right = 342.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+toggle_mode = true
+group = SubResource( 1 )
+text = "hardness"
+
+[node name="ClearRunsButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3"]
+margin_left = 358.0
+margin_right = 522.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+toggle_mode = true
+group = SubResource( 1 )
+text = "clear runs"
+
+[node name="Size" type="VBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 345.0
+margin_right = 522.0
+margin_bottom = 458.0
+custom_constants/separation = 4
+
+[node name="HSeparator" type="HSeparator" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size"]
+margin_right = 522.0
+margin_bottom = 8.0
+custom_constants/separation = 8
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size"]
+margin_top = 12.0
+margin_right = 522.0
+margin_bottom = 49.0
+custom_fonts/font = ExtResource( 1 )
+text = "Size"
+align = 1
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size"]
+margin_top = 53.0
+margin_right = 522.0
+margin_bottom = 81.0
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+margin_top = 1.0
+margin_right = 68.0
+margin_bottom = 26.0
+text = "Depth"
+
+[node name="DepthSlider" type="HSlider" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+margin_left = 84.0
+margin_right = 506.0
+margin_bottom = 28.0
+size_flags_horizontal = 3
+min_value = 10.0
+max_value = 200.0
+step = 5.0
+value = 40.0
+scrollable = false
+
+[node name="DepthLabel" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+margin_left = 522.0
+margin_top = 1.0
+margin_right = 522.0
+margin_bottom = 26.0
+size_flags_horizontal = 8
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size"]
+margin_top = 85.0
+margin_right = 522.0
+margin_bottom = 113.0
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer3"]
+margin_top = 1.0
+margin_right = 67.0
+margin_bottom = 26.0
+text = "Width"
+
+[node name="WidthSlider" type="HSlider" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer3"]
+margin_left = 83.0
+margin_right = 506.0
+margin_bottom = 28.0
+size_flags_horizontal = 3
+min_value = 10.0
+max_value = 200.0
+step = 5.0
+value = 40.0
+scrollable = false
+
+[node name="WidthLabel" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer3"]
+margin_left = 522.0
+margin_top = 1.0
+margin_right = 522.0
+margin_bottom = 26.0
+size_flags_horizontal = 8
+
+[node name="HSeparator3" type="HSeparator" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 474.0
+margin_right = 522.0
+margin_bottom = 482.0
+custom_constants/separation = 8
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 498.0
+margin_right = 522.0
+margin_bottom = 535.0
+custom_fonts/font = ExtResource( 1 )
+text = "Viability"
+align = 1
+
+[node name="ViabilityButton" type="CheckBox" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label4"]
+margin_left = 50.0
+margin_top = -12.0
+margin_right = 110.0
+margin_bottom = 45.0
+focus_mode = 0
+enabled_focus_mode = 0
+
+[node name="Viability" type="VBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 551.0
+margin_right = 522.0
+margin_bottom = 1123.0
+custom_constants/separation = 4
+
+[node name="HBoxContainer5" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_right = 522.0
+margin_bottom = 142.0
+custom_constants/vseparation = 4
+custom_constants/hseparation = 4
+columns = 4
+
+[node name="Control3" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_right = 135.0
+margin_bottom = 25.0
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 139.0
+margin_right = 264.0
+margin_bottom = 25.0
+text = "base"
+align = 1
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 268.0
+margin_right = 393.0
+margin_bottom = 25.0
+text = "delta"
+align = 1
+
+[node name="Label6" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 397.0
+margin_right = 522.0
+margin_bottom = 25.0
+text = "exp"
+align = 1
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_top = 34.0
+margin_right = 135.0
+margin_bottom = 59.0
+text = "Base"
+
+[node name="ViabilityBase" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 139.0
+margin_top = 29.0
+margin_right = 233.0
+margin_bottom = 64.0
+size_flags_horizontal = 0
+text = "100"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 268.0
+margin_top = 29.0
+margin_right = 393.0
+margin_bottom = 64.0
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 397.0
+margin_top = 29.0
+margin_right = 522.0
+margin_bottom = 64.0
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_top = 73.0
+margin_right = 135.0
+margin_bottom = 98.0
+text = "Large Noise"
+
+[node name="FieldViabilityLargeBase" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 139.0
+margin_top = 68.0
+margin_right = 233.0
+margin_bottom = 103.0
+size_flags_horizontal = 0
+text = "90"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldViabilityLargeDelta" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 268.0
+margin_top = 68.0
+margin_right = 362.0
+margin_bottom = 103.0
+size_flags_horizontal = 0
+text = "30"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldViabilityLargeExponent" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 397.0
+margin_top = 68.0
+margin_right = 491.0
+margin_bottom = 103.0
+size_flags_horizontal = 0
+text = "1.5"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_top = 112.0
+margin_right = 135.0
+margin_bottom = 137.0
+text = "Small Noise"
+
+[node name="FieldViabilitySmallBase" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 139.0
+margin_top = 107.0
+margin_right = 264.0
+margin_bottom = 142.0
+size_flags_horizontal = 3
+text = "30"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldViabilitySmallDelta" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 268.0
+margin_top = 107.0
+margin_right = 393.0
+margin_bottom = 142.0
+size_flags_horizontal = 3
+text = "20"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldViabilitySmallExponent" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+margin_left = 397.0
+margin_top = 107.0
+margin_right = 522.0
+margin_bottom = 142.0
+size_flags_horizontal = 3
+text = "1.5"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_top = 146.0
+margin_right = 522.0
+margin_bottom = 158.0
+rect_min_size = Vector2( 0, 12 )
+
+[node name="GridContainer" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_top = 162.0
+margin_right = 522.0
+margin_bottom = 265.0
+custom_constants/vseparation = 4
+custom_constants/hseparation = 4
+columns = 4
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_right = 130.0
+margin_bottom = 25.0
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_left = 134.0
+margin_right = 260.0
+margin_bottom = 25.0
+text = "start"
+align = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_left = 264.0
+margin_right = 390.0
+margin_bottom = 25.0
+text = "factor"
+align = 1
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_left = 394.0
+margin_right = 520.0
+margin_bottom = 25.0
+text = "exp"
+align = 1
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_top = 34.0
+margin_right = 130.0
+margin_bottom = 59.0
+rect_min_size = Vector2( 130, 0 )
+text = "Stop Depth"
+
+[node name="FieldStopDepthStart" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_left = 134.0
+margin_top = 29.0
+margin_right = 260.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "0.5"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldStopDepthFactor" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_left = 264.0
+margin_top = 29.0
+margin_right = 390.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "10"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldStopDepthExponent" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_left = 394.0
+margin_top = 29.0
+margin_right = 520.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "2"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_top = 73.0
+margin_right = 130.0
+margin_bottom = 98.0
+rect_min_size = Vector2( 130, 0 )
+text = "Stop Width"
+
+[node name="FieldStopWidthStart" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_left = 134.0
+margin_top = 68.0
+margin_right = 260.0
+margin_bottom = 103.0
+size_flags_horizontal = 3
+text = "0.5"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldStopWidthFactor" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_left = 264.0
+margin_top = 68.0
+margin_right = 390.0
+margin_bottom = 103.0
+size_flags_horizontal = 3
+text = "10"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldStopWidthExponent" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+margin_left = 394.0
+margin_top = 68.0
+margin_right = 520.0
+margin_bottom = 103.0
+size_flags_horizontal = 3
+text = "2"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_top = 269.0
+margin_right = 522.0
+margin_bottom = 281.0
+rect_min_size = Vector2( 0, 12 )
+
+[node name="GridContainer2" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_top = 285.0
+margin_right = 522.0
+margin_bottom = 349.0
+custom_constants/vseparation = 4
+custom_constants/hseparation = 4
+columns = 4
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+margin_right = 130.0
+margin_bottom = 25.0
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+margin_left = 134.0
+margin_right = 260.0
+margin_bottom = 25.0
+text = "until"
+align = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+margin_left = 264.0
+margin_right = 390.0
+margin_bottom = 25.0
+text = "exp y"
+align = 1
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+margin_left = 394.0
+margin_right = 520.0
+margin_bottom = 25.0
+text = "exp x"
+align = 1
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+margin_top = 34.0
+margin_right = 130.0
+margin_bottom = 59.0
+rect_min_size = Vector2( 130, 0 )
+text = "Tight Entry"
+
+[node name="FieldTightEntryUntil" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+margin_left = 134.0
+margin_top = 29.0
+margin_right = 260.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "0.6"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldTightEntryExpY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+margin_left = 264.0
+margin_top = 29.0
+margin_right = 390.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "3"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldTightEntryExpX" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+margin_left = 394.0
+margin_top = 29.0
+margin_right = 520.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "2"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Control5" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_top = 353.0
+margin_right = 522.0
+margin_bottom = 365.0
+rect_min_size = Vector2( 0, 12 )
+
+[node name="GridContainer4" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_top = 369.0
+margin_right = 522.0
+margin_bottom = 433.0
+custom_constants/vseparation = 4
+custom_constants/hseparation = 4
+columns = 5
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+margin_right = 130.0
+margin_bottom = 25.0
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+margin_left = 134.0
+margin_right = 228.0
+margin_bottom = 25.0
+text = "offset"
+align = 1
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+margin_left = 232.0
+margin_right = 326.0
+margin_bottom = 25.0
+text = "scale"
+align = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+margin_left = 330.0
+margin_right = 424.0
+margin_bottom = 25.0
+text = "min"
+align = 1
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+margin_left = 428.0
+margin_right = 522.0
+margin_bottom = 25.0
+text = "max"
+align = 1
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+margin_top = 34.0
+margin_right = 130.0
+margin_bottom = 59.0
+rect_min_size = Vector2( 130, 0 )
+text = "Hardness"
+
+[node name="FieldHardnessOffset" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+margin_left = 134.0
+margin_top = 29.0
+margin_right = 228.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "0.0"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldHardnessScale" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+margin_left = 232.0
+margin_top = 29.0
+margin_right = 326.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "5"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="FieldHardnessMin" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+margin_left = 330.0
+margin_top = 29.0
+margin_right = 424.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "0"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldHardnessMax" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+margin_left = 428.0
+margin_top = 29.0
+margin_right = 522.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "5"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Control4" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_top = 437.0
+margin_right = 522.0
+margin_bottom = 449.0
+rect_min_size = Vector2( 0, 12 )
+
+[node name="GridContainer3" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_top = 453.0
+margin_right = 522.0
+margin_bottom = 517.0
+custom_constants/vseparation = 4
+custom_constants/hseparation = 4
+columns = 4
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+margin_right = 122.0
+margin_bottom = 25.0
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+margin_left = 126.0
+margin_right = 320.0
+margin_bottom = 25.0
+text = "strength"
+align = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+margin_left = 324.0
+margin_right = 518.0
+margin_bottom = 25.0
+text = "falloff y"
+align = 1
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+margin_left = 522.0
+margin_right = 522.0
+margin_bottom = 25.0
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+margin_top = 34.0
+margin_right = 122.0
+margin_bottom = 59.0
+text = "Keep Core"
+
+[node name="FieldKeepCoreStrength" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+margin_left = 126.0
+margin_top = 29.0
+margin_right = 320.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "0.6"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldKeepCoreFalloffY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+margin_left = 324.0
+margin_top = 29.0
+margin_right = 518.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "3"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="Control3" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_top = 521.0
+margin_right = 522.0
+margin_bottom = 533.0
+rect_min_size = Vector2( 0, 12 )
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+margin_top = 537.0
+margin_right = 522.0
+margin_bottom = 572.0
+custom_constants/separation = 4
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer"]
+margin_top = 5.0
+margin_right = 125.0
+margin_bottom = 30.0
+rect_min_size = Vector2( 125, 0 )
+text = "Thin Top"
+
+[node name="FieldThinTop" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer"]
+margin_left = 129.0
+margin_right = 223.0
+margin_bottom = 35.0
+text = "32"
+align = 1
+
+[node name="HSeparator2" type="HSeparator" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1139.0
+margin_right = 522.0
+margin_bottom = 1147.0
+custom_constants/separation = 8
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1163.0
+margin_right = 522.0
+margin_bottom = 1200.0
+custom_fonts/font = ExtResource( 1 )
+text = "Biome"
+align = 1
+
+[node name="BiomeButton" type="CheckBox" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label3"]
+margin_left = 50.0
+margin_top = -13.0
+margin_right = 110.0
+margin_bottom = 44.0
+focus_mode = 0
+enabled_focus_mode = 0
+
+[node name="Biome" type="VBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+visible = false
+margin_top = 628.0
+margin_right = 474.0
+margin_bottom = 813.0
+custom_constants/separation = 4
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome"]
+margin_right = 474.0
+
+[node name="HBoxContainer5" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome"]
+margin_top = 4.0
+margin_right = 474.0
+margin_bottom = 185.0
+custom_constants/vseparation = 4
+custom_constants/hseparation = 4
+columns = 4
+
+[node name="Control7" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_right = 137.0
+margin_bottom = 25.0
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 141.0
+margin_right = 249.0
+margin_bottom = 25.0
+text = "base"
+align = 1
+
+[node name="Label6" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 253.0
+margin_right = 361.0
+margin_bottom = 25.0
+text = "delta"
+align = 1
+
+[node name="Label7" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 365.0
+margin_right = 473.0
+margin_bottom = 25.0
+text = "exp"
+align = 1
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_top = 34.0
+margin_right = 137.0
+margin_bottom = 59.0
+text = "Start"
+
+[node name="BiomeStart" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 141.0
+margin_top = 29.0
+margin_right = 249.0
+margin_bottom = 64.0
+text = "0.5"
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 253.0
+margin_top = 29.0
+margin_right = 361.0
+margin_bottom = 64.0
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 365.0
+margin_top = 29.0
+margin_right = 473.0
+margin_bottom = 64.0
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_top = 73.0
+margin_right = 137.0
+margin_bottom = 98.0
+text = "Depth Scale"
+
+[node name="BiomeDepthScale" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 141.0
+margin_top = 68.0
+margin_right = 249.0
+margin_bottom = 103.0
+text = "0.08"
+
+[node name="Control3" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 253.0
+margin_top = 68.0
+margin_right = 361.0
+margin_bottom = 103.0
+
+[node name="Control4" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 365.0
+margin_top = 68.0
+margin_right = 473.0
+margin_bottom = 103.0
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_top = 112.0
+margin_right = 137.0
+margin_bottom = 137.0
+text = "Dist Scale"
+
+[node name="BiomeDistScale" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 141.0
+margin_top = 107.0
+margin_right = 249.0
+margin_bottom = 142.0
+text = "20.0"
+
+[node name="Control5" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 253.0
+margin_top = 107.0
+margin_right = 361.0
+margin_bottom = 142.0
+
+[node name="Control6" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 365.0
+margin_top = 107.0
+margin_right = 473.0
+margin_bottom = 142.0
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_top = 151.0
+margin_right = 137.0
+margin_bottom = 176.0
+text = "Noise"
+
+[node name="FieldBiomeNoiseBase" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 141.0
+margin_top = 146.0
+margin_right = 249.0
+margin_bottom = 181.0
+size_flags_horizontal = 3
+text = "0.5"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldBiomeNoiseDelta" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 253.0
+margin_top = 146.0
+margin_right = 361.0
+margin_bottom = 181.0
+size_flags_horizontal = 3
+text = "0.45"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldBiomeNoiseExponent" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+margin_left = 365.0
+margin_top = 146.0
+margin_right = 473.0
+margin_bottom = 181.0
+size_flags_horizontal = 3
+text = "1.5"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="HSeparator" type="HSeparator" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1216.0
+margin_right = 522.0
+margin_bottom = 1224.0
+custom_constants/separation = 8
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1240.0
+margin_right = 522.0
+margin_bottom = 1277.0
+custom_fonts/font = ExtResource( 1 )
+text = "Resources"
+align = 1
+
+[node name="ResourcesButton" type="CheckBox" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label2"]
+margin_left = 50.0
+margin_top = -10.0
+margin_right = 110.0
+margin_bottom = 47.0
+focus_mode = 0
+enabled_focus_mode = 0
+
+[node name="Resources" type="VBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+margin_top = 1293.0
+margin_right = 522.0
+margin_bottom = 1759.0
+custom_constants/separation = 4
+
+[node name="GenerateResourcesCheckBox" type="CheckBox" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources"]
+margin_right = 522.0
+margin_bottom = 57.0
+pressed = true
+text = " generate resources"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources"]
+margin_top = 61.0
+margin_right = 522.0
+margin_bottom = 61.0
+
+[node name="HBoxContainer5" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources"]
+margin_top = 65.0
+margin_right = 522.0
+margin_bottom = 207.0
+custom_constants/vseparation = 4
+custom_constants/hseparation = 4
+columns = 3
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_right = 74.0
+margin_bottom = 25.0
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_left = 78.0
+margin_right = 172.0
+margin_bottom = 25.0
+text = "rate"
+align = 1
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_left = 176.0
+margin_right = 270.0
+margin_bottom = 25.0
+text = "removal"
+align = 1
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_top = 34.0
+margin_right = 74.0
+margin_bottom = 59.0
+text = "Iron"
+
+[node name="IronRate" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_left = 78.0
+margin_top = 29.0
+margin_right = 172.0
+margin_bottom = 64.0
+text = "10"
+
+[node name="IronRemoval" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_left = 176.0
+margin_top = 29.0
+margin_right = 270.0
+margin_bottom = 64.0
+text = "0.2"
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_top = 73.0
+margin_right = 74.0
+margin_bottom = 98.0
+text = "Water"
+
+[node name="WaterRate" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_left = 78.0
+margin_top = 68.0
+margin_right = 172.0
+margin_bottom = 103.0
+text = "8"
+
+[node name="WaterRemoval" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_left = 176.0
+margin_top = 68.0
+margin_right = 270.0
+margin_bottom = 103.0
+text = "0.2"
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_top = 112.0
+margin_right = 74.0
+margin_bottom = 137.0
+text = "Cobalt"
+
+[node name="CobaltRate" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_left = 78.0
+margin_top = 107.0
+margin_right = 172.0
+margin_bottom = 142.0
+text = "8"
+
+[node name="CobaltRemoval" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+margin_left = 176.0
+margin_top = 107.0
+margin_right = 270.0
+margin_bottom = 142.0
+text = "0.2"
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources"]
+margin_top = 211.0
+margin_right = 522.0
+margin_bottom = 223.0
+rect_min_size = Vector2( 0, 12 )
+
+[node name="GridContainer2" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources"]
+margin_top = 227.0
+margin_right = 522.0
+margin_bottom = 466.0
+custom_constants/vseparation = 4
+custom_constants/hseparation = 4
+columns = 4
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_right = 139.0
+margin_bottom = 25.0
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 143.0
+margin_right = 261.0
+margin_bottom = 25.0
+text = "base"
+align = 1
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 265.0
+margin_right = 383.0
+margin_bottom = 25.0
+text = "per y"
+align = 1
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 387.0
+margin_right = 522.0
+margin_bottom = 25.0
+text = "randomness"
+align = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_top = 34.0
+margin_right = 139.0
+margin_bottom = 59.0
+text = "Iron Cluster"
+align = 1
+
+[node name="FieldIronClusterSizeBase" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 143.0
+margin_top = 29.0
+margin_right = 261.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "1.5"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldIronClusterSizePerY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 265.0
+margin_top = 29.0
+margin_right = 383.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "0.2"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldIronClusterSizeRandomness" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 387.0
+margin_top = 29.0
+margin_right = 522.0
+margin_bottom = 64.0
+size_flags_horizontal = 3
+text = "0.02"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_top = 68.0
+margin_right = 139.0
+margin_bottom = 93.0
+
+[node name="Label6" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 143.0
+margin_top = 68.0
+margin_right = 261.0
+margin_bottom = 93.0
+text = "amount"
+align = 1
+
+[node name="Label7" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 265.0
+margin_top = 68.0
+margin_right = 383.0
+margin_bottom = 93.0
+text = "start y"
+align = 1
+
+[node name="Label8" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 387.0
+margin_top = 68.0
+margin_right = 522.0
+margin_bottom = 93.0
+text = "step y"
+align = 1
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_top = 102.0
+margin_right = 139.0
+margin_bottom = 127.0
+text = "Gadgets"
+
+[node name="FieldGadgetAmount" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 143.0
+margin_top = 97.0
+margin_right = 261.0
+margin_bottom = 132.0
+size_flags_horizontal = 3
+text = "3"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldGadgetStartY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 265.0
+margin_top = 97.0
+margin_right = 383.0
+margin_bottom = 132.0
+size_flags_horizontal = 3
+text = "15"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldGadgetStepY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 387.0
+margin_top = 97.0
+margin_right = 522.0
+margin_bottom = 132.0
+size_flags_horizontal = 3
+text = "17"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Label9" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_top = 141.0
+margin_right = 139.0
+margin_bottom = 166.0
+text = "Relics"
+
+[node name="FieldRelicAmount" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 143.0
+margin_top = 136.0
+margin_right = 261.0
+margin_bottom = 171.0
+text = "1"
+align = 1
+
+[node name="Control3" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 265.0
+margin_top = 136.0
+margin_right = 383.0
+margin_bottom = 171.0
+
+[node name="FieldRelicStepY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 387.0
+margin_top = 136.0
+margin_right = 522.0
+margin_bottom = 171.0
+text = "1"
+align = 1
+
+[node name="Control4" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_top = 175.0
+margin_right = 139.0
+margin_bottom = 200.0
+
+[node name="Label10" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 143.0
+margin_top = 175.0
+margin_right = 261.0
+margin_bottom = 200.0
+text = "amount"
+align = 1
+
+[node name="Label11" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 265.0
+margin_top = 175.0
+margin_right = 383.0
+margin_bottom = 200.0
+text = "min d"
+align = 1
+
+[node name="Label12" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 387.0
+margin_top = 175.0
+margin_right = 522.0
+margin_bottom = 200.0
+text = "max d"
+align = 1
+
+[node name="Label13" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_top = 209.0
+margin_right = 139.0
+margin_bottom = 234.0
+text = "Relic Switch"
+
+[node name="FieldRelicSwitchAmount" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 143.0
+margin_top = 204.0
+margin_right = 261.0
+margin_bottom = 239.0
+size_flags_horizontal = 3
+text = "2"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldRelicSwitchMinD" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 265.0
+margin_top = 204.0
+margin_right = 383.0
+margin_bottom = 239.0
+size_flags_horizontal = 3
+text = "10"
+align = 1
+virtual_keyboard_enabled = false
+
+[node name="FieldRelicSwitchMaxD" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+margin_left = 387.0
+margin_top = 204.0
+margin_right = 522.0
+margin_bottom = 239.0
+size_flags_horizontal = 3
+text = "20"
+align = 1
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="SelectArchetypePopup" type="PanelContainer" parent="CanvasLayer"]
+visible = false
+margin_left = 554.0
+margin_top = 141.0
+margin_right = 992.0
+margin_bottom = 234.0
+theme = ExtResource( 10 )
+
+[node name="MarginContainer" type="MarginContainer" parent="CanvasLayer/SelectArchetypePopup"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 426.0
+margin_bottom = 81.0
+
+[node name="ArchetypeList" type="VBoxContainer" parent="CanvasLayer/SelectArchetypePopup/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 398.0
+margin_bottom = 53.0
+
+[node name="Label" type="Label" parent="CanvasLayer/SelectArchetypePopup/MarginContainer/ArchetypeList"]
+margin_right = 382.0
+margin_bottom = 37.0
+custom_fonts/font = ExtResource( 1 )
+text = "Load Archetype!"
+
+[node name="Control" type="Control" parent="CanvasLayer/SelectArchetypePopup"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 426.0
+margin_bottom = 81.0
+mouse_filter = 2
+
+[node name="CloseArchetypeButton" type="Button" parent="CanvasLayer/SelectArchetypePopup/Control"]
+margin_left = 363.0
+margin_top = 6.0
+margin_right = 411.0
+margin_bottom = 63.0
+text = "X"
+
+[node name="SaveArchetypePopup" type="PanelContainer" parent="CanvasLayer"]
+margin_left = 554.0
+margin_top = 141.0
+margin_right = 992.0
+margin_bottom = 234.0
+theme = ExtResource( 10 )
+
+[node name="MarginContainer" type="MarginContainer" parent="CanvasLayer/SaveArchetypePopup"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 426.0
+margin_bottom = 81.0
+
+[node name="SaveArchetypeList" type="VBoxContainer" parent="CanvasLayer/SaveArchetypePopup/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 398.0
+margin_bottom = 53.0
+
+[node name="Label" type="Label" parent="CanvasLayer/SaveArchetypePopup/MarginContainer/SaveArchetypeList"]
+margin_right = 382.0
+margin_bottom = 37.0
+custom_fonts/font = ExtResource( 1 )
+text = "Save Archetype!"
+
+[node name="Control" type="Control" parent="CanvasLayer/SaveArchetypePopup"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 426.0
+margin_bottom = 81.0
+mouse_filter = 2
+
+[node name="CloseSaveArchetypeButton" type="Button" parent="CanvasLayer/SaveArchetypePopup/Control"]
+margin_left = 363.0
+margin_top = 6.0
+margin_right = 411.0
+margin_bottom = 63.0
+text = "X"
+
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/RunGenerationButton" to="." method="_on_RunGenerationButton_pressed"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer2/SaveButton" to="." method="_on_SaveButton_pressed"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer2/LoadButton" to="." method="_on_LoadButton_pressed"]
+[connection signal="value_changed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer/MapCountSlider" to="." method="_on_MapCountSlider_value_changed"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3/BiomesButton" to="." method="_on_BiomesButton_pressed"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3/HardnessButton" to="." method="_on_HardnessButton_pressed"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3/ClearRunsButton" to="." method="_on_ClearRunsButton_pressed"]
+[connection signal="value_changed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2/DepthSlider" to="." method="_on_DepthSlider_value_changed"]
+[connection signal="value_changed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer3/WidthSlider" to="." method="_on_WidthSlider_value_changed"]
+[connection signal="toggled" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label4/ViabilityButton" to="." method="_on_ViabilityButton_toggled"]
+[connection signal="toggled" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label3/BiomeButton" to="." method="_on_BiomeButton_toggled"]
+[connection signal="toggled" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label2/ResourcesButton" to="." method="_on_ResourcesButton_toggled"]
+[connection signal="pressed" from="CanvasLayer/SelectArchetypePopup/Control/CloseArchetypeButton" to="." method="_on_CloseArchetypeButton_pressed"]
+[connection signal="pressed" from="CanvasLayer/SaveArchetypePopup/Control/CloseSaveArchetypeButton" to="." method="_on_CloseSaveArchetypeButton_pressed"]

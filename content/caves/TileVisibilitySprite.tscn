@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://content/map/single_white_tile.png" type="Texture" id=1]
+
+[node name="TileVisibilitySprite" type="Sprite"]
+texture = ExtResource( 1 )
+centered = false

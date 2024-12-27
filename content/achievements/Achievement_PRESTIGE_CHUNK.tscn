@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://content/achievements/Achievement_PRESTIGE_CHUNK.gd" type="Script" id=1]
+
+[node name="Achievement" type="Node"]
+script = ExtResource( 1 )

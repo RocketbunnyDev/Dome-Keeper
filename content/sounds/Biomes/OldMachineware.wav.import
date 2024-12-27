@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/OldMachineware.wav-a6291b14e203127403e444f22cc73ae3.sample"
+
+[deps]
+
+source_file="res://content/sounds/Biomes/OldMachineware.wav"
+dest_files=[ "res://.import/OldMachineware.wav-a6291b14e203127403e444f22cc73ae3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

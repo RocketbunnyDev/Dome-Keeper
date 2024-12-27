@@ -1,0 +1,945 @@
+﻿key,vi_VN
+loadout.prestige.title,Choose a Mode Variation
+upgrades.shieldbattleelectroblast.title,Vụ nổ điện
+properties.orchard.battleshieldhp,Strength {} hp
+level.station.battle.navbar.move,Move
+options.video.stretchmode.rezised,Hiệu năng cao
+level.gameover.unlock.world,Đã mở khóa thế giới mới!
+upgrades.blastminingwaterless.desc,"Does not use water for production anymore, but takes longer."
+properties.blastmining.growthtime,Production time {} cycles
+properties.laser.stun,Stun Strength {}
+exhibition.level.instruction,Nhấn phím bất kì để tiếp tục chơi!
+pause.godot,Made with Godot
+upgrades.orchardjetpack2.desc,"Trái cây tăng tốc độ di chuyển của jetpack, cho phép bạn di chuyển nhanh hơn nữa."
+upgrades.artillery.title,Pháo Binh
+upgrades.condenser.desc,Adds a machine under the dome that slowly produces water through condensation.
+properties.lift.keeperupwardsspeed,Keeper Lift Speed {}
+level.tutorial.fullscreen.continue,continue
+upgrades.dome1damagereduction2.title,Làm cứng 2
+upgrades.orchardduration2.title,Thời lượng 2
+upgrades.condenserautoovercharge.title,Auto Overcharge
+upgrades.keeper2pinballreflectdamage2.title,Reflection Damage 2
+loadout.title,CHOOSE YOUR LOADOUT
+level.tutorial.teleporter_2,"Use the Teleporter Station to teleport to the Portal, and vice versa."
+options.keybindings.action.general.up,Lên
+loadout.secondstage.cancel,Cancel
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,Activate ability on shield depletion
+loadout.prestige.normal,Regular
+properties.sword.reflectprojectilesexplosive,Reflected Energy Projectiles are explosive
+upgrades.swordlargeblade3.title,Trọng kiếm 3
+upgrades.orcharddrill2.title,Đẩy mạnh Khai thác 2
+loadout.prestige.normal.description,Send resources offworld to gain prestige among the keepers.
+upgrades.keeper2pinballreflectdamage1.desc,Reflected spheres will deal much more damage to the rock they hit next.
+options.input.gamepad,Tay cầm chơi trò chơi
+loadout.choices.locked,Not yet unlocked.
+upgrades.condenserspeed1.desc,Giảm thời gian cần thiết để ngưng tụ nước.
+upgrades.shieldbattleinvulnerable.desc,Trigger an active combat ability that makes your dome invulnerable for a short time.
+upgrades.domewavemeter.desc,Hiển thị thời gian làn sóng tấn công tiếp theo của các dạng sống thù địch.
+upgrades.keeper2pinballreflectspeedup2.title,Superior Reflection
+upgrades.keeper2movement1.desc,Cải thiện máy tạo trọng lực để di chuyển nhanh hơn.
+upgrades.repellentoverchargeduration2.desc,"After overcharging, the battle ability will last longer in the next wave."
+upgrades.laserhitprojectiles.desc,Bắn vào các đường đạn năng lượng bằng tia laser ngay lập tức phá chúng.
+options.keybindings.action.keeper.pickup,Nhặt lên
+upgrades.keeper2pinballdamage1.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+upgrades.keeper2pinballdamage3.title,Kinetic Sphere Damage 3
+options.video.graphicsmode.enablevsync,Bật đồng bộ dọc
+options.translation.community,{completion}% đã hoàn thành
+loadout.difficult.harder,harder
+worldmodifier.resourcerichiron.desc,Thế giới này có nhiều sắt hơn.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,Gửi sắt
+upgrades.stunlaserspeed1.desc,Khẩu laser gây choáng di chuyển nhanh hơn.
+upgrades.keeper2pinballdamage2.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+upgrades.drill1.title,Sức khoan 1
+upgrades.prospectionmetersand2.title,La bàn coban
+upgrades.dome1health1.desc,Tăng vĩnh viễn máu căn cứ của bạn.
+title.navbar.newgame,Trò chơi mới
+properties.repellent.overchargeduration,Increase Repellent production speed for {} cycles
+properties.sword.retractspeed,Retract Speed {} 
+upgrades.lasermove3.desc,Vũ khí laser di chuyển ở tốc độ tối đa.
+upgrades.stunlaser.title,Laser làm choáng
+pause.gamepadcontrols.use,Use
+worldmodifier.monsterfeeble.desc,"Bọn quái vật yếu đuối hơn, gây ít sát thương hơn"
+upgrades.shield.desc,Cài đặt một tấm chắn sẽ hấp thụ một số thiệt hại. Sạc tự động.
+options.video.stretchmode.rezised.text,"Tạo hình ảnh trò chơi ở màn hình gốc hoặc độ phân giải cửa sổ.
+Nhìn sắc nét, nhưng lỗi hiển thị 1 đường rộng pixel có thể xuất hiện."
+upgrades.orchardbattlerootingexplosion.desc,"Trigger again to cause all trapped monsters to explode, dealing damage around them."
+loadout.mapsize.small,Small
+upgrades.probe.desc,Adds a probe to your suit which when triggered sends out a pulse that reveals nearby resources. Must be recharged at the station under the dome.
+upgrades.swordlongblade1.desc,Nâng cấp thành một thanh kiếm dài và thanh mảnh hơn.
+upgrades.dome1health1.title,Máu 1
+upgrades.blastminingwaterless.title,Sản xuất không cần nước
+level.tutorial.assessor.carry,Gravity Collect
+upgrades.liftspeed1.desc,Các quả cầu di chuyển nhanh hơn.
+upgrades.shieldstrength1.desc,Tăng lượng sát thương mà lá chắn có thể hấp thụ.
+upgrades.orchardbattleshieldsecondlayer.title,Tấm chắn hai lớp
+upgrades.teleporterteleportresourcescooldown.desc,The portal can teleport resources more often.
+options.input.gamepad.autoswitch,automatic detection of preferred gamepad
+level.gameover.unlock.modifiers,World modifiers unlocked!
+properties.sword.slicebrake,Speed Loss on Slice {.percent}
+loadout.difficulty.veryeasy,Normal
+properties.sword.sliceacceleration,Sword Speed {}
+options.input.gamepad.gamepadstickdeadzone.text,"Đặt giá trị để thanh không nhấp nháy nếu chạm vào cần điều khiển mà không đẩy chúng.
+Nếu bạn đẩy cần điều khiển, thanh sẽ di chuyển khi di chuyển thanh."
+options.accessibility.highlightmonsters.explanation,"Thêm một đường viền sáng màu xung quanh các con quái vật, để hiển thị rõ hơn."
+properties.upgrade.gameover,Kết thúc màn chơi
+upgrades.blastminingstickycharge.title,Bom nổ theo hướng cố định
+upgrades.shieldoverchargestrength2.title,Quá tải độ cứng của lá chắn 2
+upgrades.blastminingblast2.desc,Tăng mạnh sức công phá của vụ nổ.
+upgrades.repellentbattlestrongerslowdown2.title,Siêu trì trệ
+upgrades.converter.desc,"Có thể chuyển đổi tài nguyên, giúp bạn cân bằng kho tài nguyên của mình."
+loadout.proceed,Bắt đầu
+upgrades.repellentbattleslowdown.desc,Spray a numbing mist during battle that slows all monsters down.
+loadout.mapsize.medium.description,An average sized map for a proper mining session.
+properties.orchard.overchargeadditionalbuffduration,{} cycles additional buff duration after overcharge
+options.translation.community.title,Bản dịch cộng đồng
+upgrades.blastminingtriple.title,Triple Charges
+worldmodifier.hardnessextremes.desc,Có rất nhiều đá vô cùng cứng và đá mềm.
+level.station.battle.navbar.exit,Exit
+upgrades.keeper2pinballlifetime2.title,Kinetic Sphere Lifetime 2
+upgrades.minoriron.desc,Gửi sắt ra khỏi hành tinh để tăng uy tín của bạn.
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,Di cư
+upgrades.converterefficientcobalt.title,Chuyển đổi Coban hiệu quả
+upgrades.shieldbattledestructionprevention.desc,"Gain a long period of invulnerability when your dome is about to be destroyed.
+After that, your shield does not charge for the next battle. Last stand can only be triggered again after 2 completed waves.
+"
+upgrades.drill1.desc,Gia cường sức mạnh cho máy khoan để đào nhanh hơn.
+level.gameover.retry,Bắt đầu màn chơi khác
+properties.orchard.overchargeduration,Fruit growth speed doubles for {} cycles
+upgrades.dome2health1.title,Máu 1
+level.tutorial.station.popup_4,Then hit | to enter battle mode and defend.
+level.gameover.stats.timeplayed.unit,m
+upgrades.repellentbattlestrongerslowdown2.desc,The mist slows monsters even more and lasts for longer.
+loadout.gadgetoptions.title,Chọn phụ kiện chính của bạn!
+level.tutorial.station.popup_2,Move to the station and hit | to enter it.
+upgrades.dome1damagereduction1.desc,Gia cố bề mặt căn cứ để nhận ít sát thương hơn từ các đòn cận chiến của quái vật. Sát thương tầm xa không bị ảnh hưởng.
+level.tutorial.station.popup_1,Your dome is under attack!
+upgrades.keeper2movement3.title,Gravitational Movement 3
+upgrades.jetpackspeed1.desc,Cái thiện ba lô phản lực để di chuyển nhanh hơn.
+properties.converter.ironwatertime,{} cycles Conversion Time
+level.tutorial.sworddome.slicing.desc,"The faster the sword swings, the higher the slice damage."
+upgrades.liftorbs.desc,Lắp đặt thêm một quả cầu nâng.
+upgrades.proberecharge.desc,The probe will slowly recharges on its own over time.
+loadout.gadget,PHỤ KIỆN
+upgrades.drill4.title,Sức khoan 4
+properties.probe.rechargetime,Complete Recharge Time {} cycles 
+upgrades.keeper2pinballdamage4.title,Kinetic Sphere Damage 4
+options.game,Game
+loadout.prestige.cobalt,Fixed Cobalt
+options.input.vibration.strength,Cường độ rung
+upgrades.liftcapacity1.desc,Các quả cầu có thể mang nhiều tài nguyên hơn.
+loadout.miner.title,Choose Your Run Options
+loadout.difficulty.title,Difficulty
+upgrades.repellentoverchargestrength2.title,Quá tải sự trì hoãn 2
+upgrades.domesandrepairstrong.title,Sửa chữa nhiều bằng Coban
+upgrades.stunlaserduration1.desc,The stun laser cools down faster and fires for longer.
+level.gameover.prestige.score.rankimproved,Bạn đã cải thiện xếp hạng của mình đến {rank}.
+upgrades.stunlaserdamage2.desc,Increases damage done by the stun laser.
+upgrades.drillbotstrength4.title,Sức mạnh 4
+level.gameover.prestige.title,PRESTIGE RUN FINISHED
+level.converter.popup.cancel,Hủy
+upgrades.laseraimline.desc,"Thêm các điểm ngắm mục tiêu vào tia laser, hiển thị nơi nó đang nhắm mục tiêu."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,"Máy ngưng tụ sẽ sản xuất và lưu trữ hai nước, trước khi nó ngừng hoạt động."
+upgrades.swordreflection2.title,Phản chiếu 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,Gia cường sức mạnh cho máy khoan để đào nhanh hơn.
+properties.laser.hitprojectiles,laser hits energy projectiles
+upgrades.dome1damagereduction1.title,Làm cứng 1
+properties.sword.stabexplosivedamage,Bomb Damage {}
+upgrades.drillbotturnaround.title,Huấn luyện nâng cao
+upgrades.keeper2movement1.title,Gravitational Movement 1
+properties.orchard.battleroots,Grow {} Roots on the ground
+upgrades.prospectionmeterrange2.title,Phạm vi 2
+upgrades.jetpackspeed4.title,Tốc độ 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,Tăng đáng kể thời gian trì hoãn của đợt quái vật tiếp theo.
+upgrades.orchard.desc,"Trồng một cây trong căn cứ, cây có khả năng mọc ra trái cây giúp tăng cường khả năng di chuyển và khai thác."
+upgrades.artilleryflakexplosionradius1.title,Hỏa lực 1
+upgrades.shieldbattleelectroblast.desc,Trigger an active combat ability that creates a deadly field effect around your dome for a short time.
+upgrades.shredgadgettocobalt.desc,Dùng công cụ cắt nhỏ và thu được {amount} coban.
+upgrades.prestigecobalt.title,Gửi Coban
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,"Nâng cấp thành một thanh kiếm lớn hơn. Tốc độ chậm hơn, nhưng gây sát thương lớn hơn."
+pause.gamepadcontrols.back,Back
+options.cancel,Hủy
+options.keybindings.action.dome.fire,Bắn 
+upgrades.swordstabshoot.title,Phóng đao
+upgrades.blastminingtriple.desc,Produces 3 small charges instead of a large one.
+upgrades.orcharddrill1.title,Đẩy mạnh Khai thác 1
+upgrades.swordextendlong2.title,Đâm kiếm 2
+upgrades.artilleryshotcooldown1.desc,Khai hỏa thường xuyên hơn.
+upgrades.keeper2pinballdamagefraction.title,Kinetic Sphere Hardness Transcendence
+upgrades.doublelaser.title,Laser kép
+upgrades.jetpackspeed3.title,Tốc độ 3
+upgrades.minerwater.title,Gửi Nước
+properties.orchard.battleabilityuses,Uses per Battle {}
+upgrades.liftorbs.title,Quả cầu 1
+upgrades.repellentoverchargeduration1.title,Quá tải thời lượng chiến đấu 1
+upgrades.drill3.desc,Gia cường sức mạnh cho máy khoan để đào nhanh hơn.
+level.gameover.prestige.uploading.inprocess,đang tải lên điểm số ...
+loadout.abort,Hủy bỏ
+properties.shield.overchargestrength,Overcharge Strength {}hp
+level.station.navbar.upgrades,Upgrades
+upgrades.keeper2pinballsplit.desc,"Split incoming spheres into two, launching them perpendicular to the original."
+upgrades.proberecharge.title,Sạc tự động
+properties.sword.stabrange,Range {} 
+upgrades.liftspeed1.title,Tốc độ
+upgrades.domewavecount.desc,Cài đặt 1 bộ đếm bạn đã sống sót qua bao nhiêu làn sóng.
+level.converter.popup.title,Chuyển đổi tài nguyên
+pause.discord,Join us on Discord
+options.keybindings.action.general.back,Hủy
+upgrades.prospectionmeterrange1.desc,Tăng phạm vi dò tìm của máy dò.
+upgrades.dome2badrepair1.desc,Căn cứ của bạn sẽ tự động sửa chữa nếu nhận nhiều sát thương trong trận chiến.
+upgrades.prestigecobalt.desc,"Gửi Coban về, tăng hệ số điểm danh vọng bạn nhận được mỗi đợt."
+upgrades.domesandrepair.desc,Sửa chữa các hư hỏng cho căn cứ của bạn bằng coban.
+loadout.skinoptions.title,Choose your Skin!
+loadout.difficulty.medium.description,Dome‘s intended difficulty.
+loadout.difficulty.veryeasy.description,"Still not easy, but more relaxed than the other difficulties."
+options.game.tutorials,Hướng dẫn
+upgrades.orchardbattlerootingmore.desc,"Phát triển nhiều rễ hơn, tồn tại lâu hơn."
+upgrades.probepersist1.title,Máy dò đánh dấu
+upgrades.keeper2pinballmorespheres2.title,Sphere Supply 2
+upgrades.orchardjetpack3.desc,"Trái cây tăng tốc độ di chuyển của jetpack, cho phép bạn di chuyển cực nhanh."
+upgrades.probe.title,Máy dò
+upgrades.sword.title,Kiếm
+properties.shield.battledestructionprevention,Additional Duration {}s
+upgrades.shieldbattlereflect.title,Phản chiếu
+options.keybindings.action.general.use,Dùng
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,Bộ lưu trữ kép
+upgrades.relichunt.desc,Tìm các cổ vật bị chôn sâu và đưa nó trở lại căn cứ của bạn.
+loadout.mapsize.unlock.description,"Win a run with the previous map size, to unlock this map size."
+properties.sword.stabdamage,Stab Damage {} 
+properties.keeper1.drillstrength,Drill Strength {}
+worldmodifier.mapwildbiomes.desc,The biomes borders are very irregular.
+upgrades.condenser.title,Ngưng tụ
+upgrades.dome2badrepair2.title,Tự động sửa chữa 2
+options.game.screenshake.shakewhenmining,Lắc khi đào
+upgrades.repellentdelay2.title,Trì hoãn 2
+level.tutorial.assessor.reflect.desc,Hit|to reflect incoming kinetic spheres for a very short time.
+properties.drillbot.buffamount,Energized Drillings {} hits
+upgrades.laserstrength2.title,Sức mạnh 2
+upgrades.jetpackstrength3.title,Sức vận chuyển 3
+options.keybindings.action.general,Tổng quan
+level.gameover.unlock.gadgetability,New Gadget Battle Ability
+upgrades.jetpackstrength1.desc,Cải thiện ba lô phản lực để mang được nhiều tài nguyên hơn.
+upgrades.artillerymultishot1.desc,Phóng nhiều lựu đạn mỗi lần bắn.
+properties.sword.reflectprojectiles,Reflect Energy Projectiles
+upgrades.stunlaser.desc,Install a laser that auto targets and stuns monsters.
+upgrades.orchardbattleshieldstrong.desc,"Lá chắn đạn kiên cố hơn. Có được khả năng sử dụng bổ sung, sau khi sử dụng quá tải."
+upgrades.orchardjetpack1.desc,"Trái cây tăng tốc độ di chuyển của jetpack, cho phép bạn di chuyển nhanh hơn."
+upgrades.laser.desc,Một tia laser chính xác di chuyển dọc theo căn cứ của bạn. Ban đầu được tạo ra để khai thác các tiểu hành tinh.
+properties.shield.maxstrength,Strength {} hp
+options.keybindings.action.keeper,Nhân vật
+worldmodifier.resourceunpredicatablecobalt.desc,Cobalt ngày càng phân tán và khó đoán hơn.
+title.navbar.quit,Thoát trò chơi
+options.keybindings.rebinding.error.gamepad,Không thể cài phím này trên tay cầm chơi trò chơi
+upgrades.repellentbattleslowdownstun1.desc,"Use volatile spores in the mist to stun monsters, stopping them in their tracks for a short time."
+upgrades.swordfastreflection.title,Phản chiếu siêu tốc
+upgrades.stunlaserduration2.title,Hạ nhiệt 2
+level.gameover.lose.title,THE DOME IS LOST
+worldmodifier.resourcescatterediron.desc,"Xung quanh có nhiều cụm sắt hơn, nhưng chúng nhỏ hơn."
+properties.laser.dps,Damage {}
+options.game.screenshake.shakeintensity,Cường độ lắc
+worldmodifier.hardnessharder.desc,Trong hầm mỏ có nhiều đá cứng hơn.
+options.video.stretchmode,Cài đặt đồ họa
+worldmodifier.monsterhealthy.desc,Bọn quái vật khỏe hơn.
+level.gameover.stats.mapsize,Map Size
+loadout.mode.longtime,Long Cycles
+upgrades.swordreflection3.desc,Kích cỡ lá chắn to tối đa.
+upgrades.repellentbattleslowdownstun2.desc,Làm choáng quái vật thường xuyên và lâu hơn.
+upgrades.teleporterteleportresourcesarea.title,Khu vực dịch chuyển
+upgrades.shieldoverchargeduration2.desc,Your shield battle ability will be active even longer in the next wave after overcharging.
+upgrades.shieldoverchargestrength1.title,Quá tải độ cứng của lá chắn 1
+upgrades.drillbotbuffstrength1.desc,Tiếp thêm năng lượng cho Drillbert lâu hơn.
+upgrades.orchardoverchargebuffduration.title,Thời lượng buff quá tải
+level.tutorial.assessor.spheres.desc3,It recharges its power with each bounce.
+loadout.mode.longtime.desc,"You have twice as much time between waves, but the waves will be stronger."
+level.tutorial.assessor.spheres.desc2,Choose a direction and release to shoot the sphere.
+upgrades.laserstrength1.desc,"Cải thiện sức mạnh vũ khí laser, nhưng nó sẽ di chuyển chậm khi bắn."
+level.tutorial.assessor.spheres.desc1,Hold|to charge a kinetic sphere.
+upgrades.jetpackstrength4.title,Sức vận chuyển 4
+upgrades.migration.desc,"Di chuyển từ thế giới này sang thế giới khác, khai thác từng tài nguyên và cổ vật trước khi bạn bị tiêu diệt."
+upgrades.orcharddrill1.desc,"Increase the fruits mining boost, letting you mine faster."
+upgrades.keeper2pinballdamage3.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+options.accessibility.highlightmonsters,Làm các con quái vật nổi bật hơn
+upgrades.prestigecobaltnocobalt.title,Gửi Coban
+properties.keeper2.spherebasedamage,Sphere Base Damage {}
+upgrades.orcharddrill3.desc,"Increase the fruits mining boost, letting you mine extremely fast."
+properties.converter.cobalttoiron,{} cobalt to one iron
+level.tutorial.repair.usecobalt,You can use your cobalt to repair your dome. It's an upgrade in the dome tech tree.
+upgrades.blastminingimpactdetonation.title,Tác động kích nổ
+upgrades.swordfastreflection.desc,Đạn bị phản chiếu sẽ bay ngược trở lại nhanh hơn.
+upgrades.liftcapacity1.title,Sức chứa
+upgrades.artillery.desc,Pháo Bazooka
+properties.sword.electricdamage,Electrified Sword Damage {}
+level.station.upgrademenu.close,Close
+properties.shield.overchargebattleabilityduration,Additional Ability Duration {.percent}
+pause.title,TẠM DỪNG
+upgrades.artillerymultishot1title,Bắn chuỗi 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Additional Ability Duration {}s
+upgrades.orchardbattlerootingexplosion.title,Mồi nổ
+upgrades.blastminingproductiontime1.title,Thời gian sản xuất
+options.video.stretchmode.scaled.text,"Tạo hình ảnh trò chơi ở 1 độ phân giải cố định và chia tỷ lệ nó theo độ phân giải của bạn.
+Có thể được pixel hóa, đặc biệt là trong phông chữ, nhưng không có lỗi hàng pixel."
+upgrades.orchardduration3.title,Thời lượng 3
+upgrades.domewavecount.title,Bộ đếm chu kỳ
+upgrades.shredgadgettoiron.title,Cắt nhỏ sắt
+options.keybindings.rebinding.apply,Áp dụng
+options.keybindings.restoredefault,Khôi phục mặc định
+upgrades.converterironduplication.title,Sao chép sắt
+title.navbar.credits,Những người đóng góp
+level.gameover.unlock.gadget,Phụ kiện mới
+upgrades.jetpackspeed2.title,Tốc độ 2
+loadout.modeoptions.title,Chọn chế độ chơi!
+properties.keeper2.spherebaselifetime,Sphere Lifetime {}
+options.video.stretchmode.scaled,Theo tỉ lệ
+properties.orchard.battleabilityduration,Ability Duration {}s
+upgrades.repellentbattleslowdownstun1.title,Chất tê liệt
+loadout.difficulty.medium,Brutal
+options.audio.volumes,Âm lượng
+upgrades.keeper1.title,Kĩ sư
+upgrades.drillbotsleepless.title,Huấn luyện cơ bản
+upgrades.drillbot.title,Drillbert
+level.tutorial.assessor.carry.desc1,"Hold|to pull in resources, until they are locked onto you."
+level.tutorial.assessor.carry.desc2,Hit|to drop a resource.
+level.tutorial.drillbot.sleeping1,"Drillbert goes to sleep after a while, or when it meets a wall it can't dig."
+level.tutorial.assessor.carry.desc3,"If you aim into a direction while dropping a resource, it will be accelerated heavily."
+level.tutorial.drillbot.sleeping2,"When close to it, hit | to wake it."
+level.tutorial.drillbot.sleeping3,You can make it turn around by hitting | when it's awake.
+properties.keeper2.totalspheres,Spheres {}
+upgrades.shieldbattleblastdamage.title,Vụ nổ chết người
+upgrades.domeresourcecounters.desc,Hiển thị số lượng tài nguyên hiện có ở trong mỏ.
+upgrades.swordextendlong1.desc,Nâng cấp lực đâm của kiếm và khả năng điều khiển đường bay của kiếm sau khi phóng ra.
+worldmodifier.resourcerichwater.desc,Thế giới này có nhiều nước hơn.
+upgrades.drillbotstrength1.desc,Tăng cường sức đào của Drillbert.
+upgrades.stunlaserautonomy1.desc,A simple AI will control the stun laser even when you are not inside the control station.
+properties.blastmining.radius,Explosion radius {} tiles
+upgrades.jetpackstrength1.title,Sức vận chuyển 1
+options.keybindings.apply,Lưu
+upgrades.laserstrength2.desc,"Cải thiện đáng kể sức mạnh vũ khí laser, nhưng nó sẽ di chuyển chậm hơn khi bắn."
+properties.laser.movespeedwhilefiring,Speed while Firing {.percent}
+properties.probe.markerretention,Marker Retention {}s
+upgrades.swordexplosivereflection.title,Phản chiếu bùng nổ
+upgrades.condenserspeed2.desc,Giảm đáng kể thời gian cần thiết để ngưng tụ nước.
+upgrades.condenserspeed2.title,Tốc độ sản xuất 2
+properties.stunlaser.firetime,Fire Time {}s
+options.input.gamepad.gamepadstickdeadzone,Thumbstick dead zone
+upgrades.keeper2movement2.desc,Cải thiện máy tạo trọng lực để di chuyển nhanh hơn.
+upgrades.shieldbattlelongerafterdepletion.desc,The blast will last longer if triggered after your shield runs out.
+properties.laser.bend,laser auto aims {}°
+level.station.upgrademenu.buy,Buy
+properties.drillbot.plantgrowthtime,Treat Growth Time {} cycles
+title.navbar.continue,Tiếp tục
+upgrades.repellentoverchargeduration1.desc,Overcharging your tank will also prolong any repellent battle ability you use in the next wave.
+upgrades.artilleryshotcooldown1.title,Làm lạnh 1
+worldmodifier.resourceunpredicatablewater.desc,Nước thì rải rác hơn và khó đoán hơn.
+level.tutorial.blastmining.popup_1,Take the Blast Charge and drop it where you want to clear rocks.
+ending.thankyoumessage,Cảm ơn vì đã chơi!
+options.keybindings.rebinding.error.keyboard,Không thể cài phím này trên bàn phím
+upgrades.keeper2pinballdamagefraction.desc,The kinetic sphere transcends rock hardness and damages the rock by a fixed fraction of its health.
+upgrades.swordlargeblade1.title,Trọng kiếm 1
+upgrades.shredgadgettoiron.desc,Dùng công cụ cắt nhỏ và thu được {amount} sắt.
+upgrades.drillbot.desc,Adopt a loveable creature that loves to dig. Carry it into the mine and drop off where you want it to work. Check back to wake it up when it goes to sleep on the job.
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,Máu 1
+title.navbar.updates.close,Đóng
+upgrades.swordaimline.desc,Thêm một tầm ngắm laser để hỗ trợ khả năng ngắm đâm kiếm.
+upgrades.shieldoverchargeduration1.title,Quá tải thời lượng chiến đấu 1
+level.converter.popup.explanation,Pick a resource conversion to start!
+upgrades.drillbotbuff1.title,Bồi dưỡng
+title.navbar.credits.close,Đóng
+upgrades.keeper2movement3.desc,Cải thiện máy tạo trọng lực để di chuyển nhanh hơn.
+pause.quittotitlescreen,Quay về Màn hình chính
+loadout.prestige.countdown.description,The prestige multiplier starts high and decreases each cycle.
+upgrades.drill3.title,Sức khoan 3
+upgrades.probestage1.title,Cải tiến máy dò
+properties.sword.stabarrowhead,Increase Arrowhead Size
+loadout.mapsize.huge.description,A huge map for the longest runs.
+properties.sword.stabspeed,Stab Speed {.percent} 
+level.tutorial.teleporter.take1,Your teleporter has a station and a portal. You can teleport between them.
+worldmodifier.mapmaze.desc,Mỏ là một mê cung.
+level.tutorial.teleporter.take2,Grab the Portal and place it where you like.
+options.keybindings.action.dome.battleability1,Kỹ năng chiến đấu
+upgrades.laserbend.desc,Install a swivel head into the laser that automatically corrects your aim if it comes close.
+options.video.graphicsmode.fullscreen,Toàn màn hình
+options.keybindings.action.general.down,Xuống
+level.tutorial.assessor.spheres,Kinetic Spheres
+level.tutorial.mineraltree1,"You just found a mineral tree seed. It can grow into a tree which roots into tiles. It will grow resources depending on the resources of the rooted tiles.
+Drop it on a tile to plant the seed."
+upgrades.blastmining.desc,Adds a machine under the dome that produces blast charges. Carry them into the mines and release to detonate.
+properties.sword.stabcooldown,Extend Cooldown {}s 
+upgrades.repellentoverchargestrength2.desc,Further increase the delay until the next wave after overcharging.
+upgrades.probeswift1.desc,"Switch to a fast, short range probe with many charges."
+properties.drillbot.buffextraamount,Additional Drilling {} hits
+level.gameover.unlock.keeper,New Keeper
+upgrades.prospectionmeter.title,Máy dò tài nguyên
+upgrades.shieldbattleactivateondepletion.desc,Invulnerability automatically activates an additional time when the shield runs out.
+upgrades.dome2badrepair1.title,Tự động sửa chữa 1
+upgrades.swordtargetlock.title,Khóa mục tiêu
+upgrades.laserhitprojectiles.title,Phá hủy đạn tầm xa
+upgrades.keeper2pinballreflectspeedup1.title,Improved Reflection
+properties.shield.battleuses,Uses per Battle {}
+options.game.events,Sự kiện
+upgrades.artilleryflakexplosionradius1.desc,Vụ nổ pháo lớn hơn.
+properties.keeper1.speedlosspercarry,Carry Slowdown {}
+level.gameover.back,Quay lại
+level.gameover.unlocknewelementbutton,Pick your unlock
+upgrades.prospectionmeteriron2.desc,Displays the direction to the nearest iron deposits.
+upgrades.prestige.desc,Ghi điểm bằng cách gửi về nhà nhiều tài nguyên nhất có thể trước khi căn cứ của bạn bị phá hủy hoặc bạn rời khỏi hành tinh một cách an toàn.
+properties.prestige.multiplier,{} Prestige Multiplier per Wave
+options.input.controls,Điều khiển
+properties.sword.reflectionacceleration,Reflected Projectile Speed {.percent}
+loadout.difficult.easier,easier
+upgrades.keeper2pinballreflectdamage1.title,Reflection Damage 1
+properties.sword.extendspeed,Extend Speed {} 
+properties.keeper2.reflectspeedup,Sphere Speedup on Reflection {.percent}
+loadout.mode.doubleiron,Double Iron
+upgrades.dome3.desc,không có trong bản thử nghiệm
+properties.condenser.growthtime,Production Time {} cycles
+options.game.languages,Ngôn ngữ
+worldmodifier.mapwidebottom.desc,"Mỏ lúc đầu hẹp, và càng rộng khi càng xuống sâu."
+loadout.mode.maze,Maze
+upgrades.dome2health1.desc,Tăng vĩnh viễn máu căn cứ của bạn và sửa chữa căn cứ.
+properties.drillbot.drillstrength,Drill Strength {}
+upgrades.keeper2.desc,Một thợ mỏ độc đáo sử dụng công nghệ trọng lực thử nghiệm.
+properties.orchard.battleshields,Shield Layers {}
+level.tutorial.sworddome.reflecting.desc,"Use the sword's shield pad to stop projectiles, or even reflect them."
+options.audio.volumes.musicvolume,Âm lượng nhạc
+loadout.dome,DOME
+upgrades.swordlongblade2.title,Lưỡi kiếm dài 2
+upgrades.laseraimline.title,Tia ngắm laser
+level.tutorial.assessor.bundle.desc1,"Hold|while carrying resources, to charge a bundle."
+options.keybindings.keyboard,Bàn phím
+level.tutorial.assessor.bundle.desc2,"Aim and release to shoot it, the same way you fire a kinetic sphere."
+properties.prestige.score,{} Prestige
+worldmodifier.mapdeep.desc,Mỏ sâu hơn và hẹp hơn.
+upgrades.repellentbattleslowdownstun2.title,Tê liệt mạnh
+upgrades.keeper2pinballmorespheres1.title,Sphere Supply 1
+upgrades.prestigewater.desc,"Gửi nước về, thêm 1 điểm cho danh vọng bạn nhận được mỗi đợt."
+properties.keeper2.bundlestopcenter,Center Column Gravity Field
+upgrades.stunlaserdamage1.title,Sát thương 1
+upgrades.keeper2pinballlifetime1.title,Kinetic Sphere Lifetime 1
+properties.repellent.battleslowdown,Monster Slowdown {.percent}
+upgrades.swordextendlong1.title,Đâm kiếm 1
+level.gameover.stats.distancetravelled,Quãng đường đã đi
+properties.keeper2.reflectlifetime,Additional Sphere Lifetime on Reflection {}s
+upgrades.blastminingimpactdetonation.desc,The blast charge will explode on impact with a surface.
+properties.keeper2.spheresplit,Split Incoming Spheres
+options.keybindings.action.dome.upgrade,Nâng cấp
+worldmodifier.resourcepoorcobalt.desc,Thế giới này có ít cobalt hơn.
+pause.resumegame,Tiếp tục chơi
+level.gameover.unlock.difficulty,Đã mở khóa độ khó mới!
+properties.stunlaser.cooldown,Hồi chiêu
+options.keybindings.action.general.right,Phải
+level.tutorial.assessor.mining.desc,"To remove a single rock, you can move the rotating kinetic sphere into it."
+upgrades.teleporterteleportresourcesback.title,Dịch chuyển tài nguyên
+upgrades.dome1.title,Căn cứ Laser
+upgrades.keeper2bundleinfinite.title,Enduring Bundle
+upgrades.repellentdelay1.title,Trì hoãn 1
+upgrades.miner.desc,"Trong thế giới không có quái vật, bạn có thể tập trung khai thác bao nhiêu tài nguyên tùy thích mà không bị phân tâm.
+"
+upgrades.repellentbattlestrongerslowdown1.desc,The mist slows monsters more and lasts longer.
+upgrades.teleporterteleportresourcesarea.desc,Cổng sẽ dịch chuyển tài nguyên từ một khu vực rộng lớn hơn trước.
+upgrades.dome3.title,Căn cứ pháo
+upgrades.swordstabshoot.desc,"Instead of retracting with a cable, the sword charges and is shot from the dome like a javelin."
+upgrades.repellentbattledamageovertime.desc,All monsters take a little damage for each second the toxic fumes persist.
+upgrades.shieldbattleactivateondepletion.title,Tự động kích hoạt
+upgrades.artillerymultishot2.desc,Phóng nhiều lựu đạn mỗi lần bắn.
+upgrades.dome1health2.title,Máu 2
+worldmodifier.monsterlethal.desc,"Bọn quái vật nguy hiểm hơn, gây nhiều sát thương hơn."
+loadout.pet,Pet
+options.keybindings.action,Hành động
+upgrades.orcharddrill3.title,Đẩy mạnh Khai thác 3
+options.translation.title,CHỌN NGÔN NGỮ CỦA BẠN
+upgrades.prospectionmeterrange1.title,Phạm vi 1
+upgrades.dome2badrepair2.desc,Căn cứ của bạn sẽ tự động sửa chữa nếu nhận nhiều sát thương trong trận chiến.
+options.audio.volumes.ambiencevolume,Âm lượng môi trường xung quanh
+upgrades.prestigecobaltnocobalt.desc,"Gửi Coban về, tăng hệ số điểm danh vọng bạn nhận được mỗi đợt."
+worldmodifier.maparms.desc,Mỏ còn bị nứt nhiều hơn.
+loadout.prestige.countdown,Countdown
+upgrades.keeper2pinballdamage2.title,Kinetic Sphere Damage 2
+upgrades.jetpackspeed1.title,Tốc độ 1
+upgrades.minerrefuel.title,Refuel
+upgrades.teleporterteleportduration1.title,Thời lượng dịch chuyển
+properties.blastmining.bombs,Charges {}
+loadout.miner.fuel.title,Fuel
+exhibition.title.press.anything,Nhấn phím bất kì để chơi
+loadout.mode,CHẾ ĐỘ
+level.tutorial.sworddome.slicing,Slice
+properties.condenser.autoovercharge,Automated Overcharge
+upgrades.teleporterteleportduration1.desc,Dịch chuyển bản thân sẽ mất ít thời gian hơn.
+upgrades.prestigewater.title,Gửi nước
+level.gameover.continue,Tiếp tục
+upgrades.orchardbattleshield.desc,Tạo một lá chắn bảo vệ mái vòm khỏi đạn.
+upgrades.liftcarrykeeper1.title,Nâng người bảo quản 1
+options.input.controls.keybindings,Gán phím/nút
+properties.keeper2.bundlespheres,Bundle Spheres
+upgrades.shieldovercharge.title,Quá tải lá chắn
+properties.condenser.overchargedelay,Production Delay {} cycles
+upgrades.keeper2.title,Người đánh giá
+level.tutorial.assessor.mining,Rotational Mining
+upgrades.repellentoverchargeduration2.title,Quá tải thời lượng chiến đấu 2
+upgrades.swordblade1.title,Cải thiện sức chém
+properties.converter.irontoiron,{} iron to one iron
+exhibition.level.description,Quay trở lại màn hình chính trong ...
+level.tutorial.assessor.mining.desc2,"You can stop mining without shooting a sphere, by first releasing the directional keys."
+worldmodifier.monsterslow.desc,Bọn quái vật chậm hơn.
+upgrades.orcharddrill2.desc,"Increase the fruits mining boost, letting you mine even faster."
+loadout.difficulty.easy.description,A bit more forgiving in many aspects.
+upgrades.swordstabexplode.title,Phóng bom
+level.gameover.stats.additionalgadget,Additional Gadget
+upgrades.drillbotbuffstrength2.desc,"Sau khi được bồi dưỡng, Drillbert sẽ làm việc lâu hơn trước khi buồn ngủ."
+upgrades.laserstrength3.desc,"Cải thiện một lượng lớn sức mạnh vũ khí laser, nhưng nó hầu như không di chuyển khi bắn."
+loadout.mapsize.medium,Medium
+loadout.difficulty.hard,Chính bạn muốn vậy nhé
+level.gameover.stats.wavessurvived,Waves Survived
+properties.stunlaser.damage,Damage {}
+options.keybindings.rebinding.cancel,Hủy
+level.tutorial.sworddome.stabbing.desc,Extend the sword and stab distant enemies.
+level.gameover.unlock.gamemodevariant,New Game Mode Variant
+upgrades.prestigefinish.title,Rời khỏi hành tinh
+properties.keeper2.bundleduration,Bundle Lifetime {.percent}
+upgrades.shieldstrength3.title,Độ cứng 3
+options.audio.volumes.mastervolume,Âm lượng tổng
+upgrades.shieldbattlelongerafterdepletion.title,Tăng khi cạn kiệt
+options.keybindings.text,"Chỉnh sửa bảng điều khiển phù hợp với bạn.
+Các phím từ các phần khác nhau thường có thể chồng chéo lên nhau mà không có vấn đề gì (như sử dụng các phím giống nhau để di chuyển nhân vật và vũ khí căn cứ)."
+properties.shield.battleblastdamage,{} Blast Damage per second
+loadout.mapsize.large.description,A large map for sessions lasting more than an hour.
+upgrades.drill4.desc,Gia cường sức mạnh cho máy khoan để đào nhanh hơn.
+upgrades.drillbotsleepless.desc,Drillbert sẽ làm việc lâu hơn nữa trước khi buồn ngủ.
+upgrades.swordlargeblade2.title,Trọng kiếm 2
+upgrades.swordlongblade2.desc,"Tăng thêm tốc độ di chuyển của lưỡi kiếm, làm cho nó nảy ngược lại lên khi đâm vào cạnh."
+upgrades.prestigefinishnocobalt.title,Rời khỏi hành tinh
+worldmodifier.hardnessmoderated.desc,Có rất ít đá vô cùng cứng và đá mềm.
+upgrades.converterironduplication.desc,Nhân bản số sắt.
+upgrades.prestigefinish.desc,Rời khỏi hành tinh này và trở về nhà.
+upgrades.dome2health2.desc,Tăng vĩnh viễn máu căn cứ của bạn và sửa chữa căn cứ.
+upgrades.prestige.title,Danh vọng
+upgrades.liftcarrykeeper1.desc,The lift boosts your speed when moving upwards inside it.
+upgrades.repellentbattlehealthreduction.desc,"Làm suy yếu tất cả quái vật hiện tại, ngay lập tức giảm lượng máu còn lại của chúng."
+upgrades.dome2.title,Căn cứ kiếm
+worldmodifier.monsterfast.desc,Bọn quái vật nhanh hơn.
+upgrades.condenserautocollect.desc,"Automates water collection, removing the need for you to pick it up manually."
+upgrades.lift.title,Thang máy
+options.game.screenshake,Màn hình rung
+options.keybindings.action.dome,Căn cứ
+upgrades.swordstabexplodedamage.desc,Tăng sát thương của bom.
+level.gameover.stats.resourcesmined,Tài nguyên đã khai thác
+worldmodifier.resourcepoorwater.desc,Thế giới này có ít nước hơn.
+upgrades.prospectionmeter.desc,A meter showing the distance to the nearest resources. Can be upgraded to also show direction.
+upgrades.shredgadgettocobalt.title,Cắt nhỏ Coban
+upgrades.swordelectrified.desc,"Có một dòng điện chạy qua lưỡi kiếm, gây thêm sát thương khi chạm vào quái vật."
+upgrades.artilleryflakexplosionradius2.desc,Vụ nổ pháo lớn hơn.
+upgrades.prospectionmeterwater1.title,Đầu dò nước
+upgrades.minerwater.desc,Gửi nước ra khỏi hành tinh để tăng uy tín của bạn.
+options.video.graphicsmode,Chế độ màn hình
+upgrades.shieldbattlereflectspeedup.desc,"Reflected projectiles fly back at a higher speed, increasing their chances of hitting the attacker."
+properties.shield.battleblaststun,Blast Stun {}
+loadout.mode.hyperactive.desc,"Monsters move much faster, but have less health."
+upgrades.swordstabexplode.desc,"Thanh kiếm phóng ra một quả bom, phát nổ trên kẻ thù đầu tiên mà thanh kiếm đâm vào."
+upgrades.swordstabfast2.title,Tốc độ đâm 2
+upgrades.converterefficientwater.desc,"Chuyển đổi nước trở nên hiệu quả hơn, nhưng mất một chút thời gian."
+upgrades.orchardduration1.desc,Hiệu quả của trái cây kéo dài hơn.
+level.gameover.stats.difficulty,Độ khó
+exhibition.level.heading,Bạn vẫn ở đây chứ?
+level.gameover.unlock.gamemode,Chế độ chơi mới
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Khô Héo
+upgrades.teleporterteleportreactivate.title,Kích hoạt lại cho phép dịch chuyển bản thân
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,Âm thanh
+upgrades.repellentovercharge.desc,Use water to overcharge your tank to produce the next load of repellent faster.
+upgrades.domewavemeter.title,Máy dự báo làn sóng quái vật
+upgrades.prospectionmeterrange2.desc,Tăng phạm vi dò tìm của máy dò.
+upgrades.keeper2pinballreflectspeedup1.desc,"Spheres are powered when reflected, which will accelerate them and let them float for longer upon reflection."
+upgrades.shieldoverchargestrength1.desc,Increases how much damage the overcharged shield absorbs.
+upgrades.repellentdelay1.desc,Tăng thời gian trì hoãn của đợt quái vật tiếp theo.
+upgrades.repellentbattlelongerhealthreduction.title,Khô héo kịch liệt
+upgrades.swordtargetlock.desc,"Khi phóng kiếm ra để đâm, lưỡi kiếm tự động khóa vào con quái vật đầu tiên nó ngắm tới."
+upgrades.orchardovercharge.desc,"Sử dụng nước ở mức quá tải để tưới cho vườn cây ăn quả của bạn, giúp cây ra quả nhanh hơn."
+upgrades.orchardbattlerootingmore.title,Vững chắc
+upgrades.swordextendlong2.desc,Nâng cấp hơn nữa lực đâm của kiếm và khả năng điều khiển đương bay chuẩn xác hơn.
+upgrades.swordstabfast1.title,Tốc độ đâm 1
+upgrades.probelong1.desc,"Increases the range of the probe ping, but lose a charge slot."
+upgrades.repellent.title,Máy đẩy lùi
+worldmodifier.monsterwavesspaced.desc,Các đợt quái vật cách xa nhau hơn.
+upgrades.artilleryflakexplosionradius2.title,Hỏa lực 2
+properties.drillbot.amount,Drilling {} hits
+upgrades.repellentdelay3.title,Trì hoãn 3
+ending.appreciationmessage,"Mong là các bạn đã có khoảng thời gian vui vẻ! Chúng tôi luôn đánh giá cao phản hồi của bạn, cho chúng tôi biết bạn nghĩ gì trên Discord hoặc Diễn đàn Steam :)
+"
+properties.orchard.battlerootexplosion,Explosion damage {}
+upgrades.orchardduration3.desc,Hiệu quả của trái cây kéo dài mức tối đa.
+upgrades.dome1damagereduction2.desc,Gia cố bề mặt căn cứ để nhận ít sát thương hơn từ các đòn cận chiến của quái vật. Sát thương tầm xa không bị ảnh hưởng.
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,Cái thiện ba lô phản lực để di chuyển nhanh hơn.
+upgrades.jetpackspeed3.desc,Cái thiện ba lô phản lực để di chuyển nhanh hơn.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,Cài đặt
+properties.repellent.battledamageovertime,Monsters take {} damage per second
+upgrades.repellentoverchargestrength1.title,Quá tải sự trì hoãn 1
+upgrades.repellentoverchargestrength1.desc,Overcharging also increases the delay time until the next wave.
+upgrades.blastminingproductiontime1.desc,Giảm thời gian cần thiết để tạo ra một quả bom.
+properties.teleporter.teleportresourcescooldown,Resource Teleport Duration {}s
+upgrades.artilleryflakmultishot1.desc,Phóng nhiều đạn hơn.
+properties.converter.ironcobalttime,{} cycles Conversion Time
+options.title,Cài đặt
+options.video.graphicsmode.window,Cửa sổ
+properties.shield.battlereflectspeedup,Reflected Projectile Speed {.percent}
+properties.laser.aimline,Aim Line
+level.tutorial.drillbot.handling1,Hold | to pick up Drillbert again.
+upgrades.probestage1.desc,Làm cho máy dò tốt hơn về mọi mặt.
+level.tutorial.drillbot.handling2,"Hit | to make it change direction, if on ground."
+options.keybindings.rebinding.capture,Thay đổi
+properties.prospectionmeter.range,Range {} tiles
+properties.stunlaser.speed,Speed {}
+properties.probe.impulsespeed,Impulse Speed {}
+upgrades.domehealthmeter.title,Thanh máu
+options.audio.music.frequency,Frequentness (cycles without music)
+options.audio.volumes.soundvolume,Âm lượng âm thanh
+properties.sword.slicebounceback,Sword Bounce On Edge
+upgrades.jetpackspeed4.desc,Cái thiện ba lô phản lực để di chuyển nhanh hơn.
+worldmodifier.monsterfragile.desc,Bọn quái vật yếu hơn.
+level.gameover.prestige.score.personalbest,Kỉ lục cá nhân mới!
+properties.prestige.baseperwave,{} Uy danh cơ bản trên mỗi đợt
+loadout.choices.comingsoon,"Not yet available, but coming soon."
+upgrades.doublelaser.desc,"Lắp đặt vũ khí laser thứ hai, nhưng chia đôi hỏa lực sang hai khẩu."
+upgrades.jetpackstrength2.title,Sức vận chuyển 2
+upgrades.keeper2bundlestopcenter.title,Gravity Center
+properties.keeper2.spherelifetimeperbounce,Additional Sphere Lifetime per Bounce {}s
+upgrades.converterefficientcobalt.desc,"Việc chuyển đổi coban trở nên rất hiệu quả, nhưng mất nhiều thời gian."
+properties.orchard.buffduration,Buff Duration {} cycles
+upgrades.domesandrepair.title,Sửa chữa bằng coban
+properties.keeper1.maxspeed,Top Speed {}
+level.station.upgrademenu.cost,Cost
+upgrades.lasermove1.title,Tốc độ di chuyển 1
+level.tutorial.sworddome.reflecting,Reflect
+loadout.petoptions.title,Choose your Pet!
+upgrades.domeresourcecounters.title,Kho tài nguyên
+level.gameover.unlockpicker.title,PICK YOUR UNLOCK
+level.gameover.proceedtounlock,Unlock a new element
+upgrades.artilleryshotcooldown2.desc,Khai hỏa thường xuyên hơn.
+level.gameover.keepgadget.title,Chọn một phụ kiện để giữ cho lần chơi tiếp theo của bạn
+level.station.battle.navbar.shoot,Shoot
+upgrades.repellentbattlestrongerslowdown1.title,Trì trệ
+upgrades.dome2.desc,Căn cứ mạnh với một thanh kiếm uy lực mà người chơi có thể thành thạo để áp đảo những kẻ tấn công.
+loadout.difficulty.easy,Hard
+upgrades.condenserautocollect.title,Tự động thu thập
+upgrades.orchard.title,Vườn Cây
+upgrades.keeper2pinballreflectspeedup2.desc,Spheres are intensely powered up when reflected.
+upgrades.laserstrength1.title,Sức mạnh 1
+upgrades.lasermove2.title,Tốc độ di chuyển 2
+upgrades.shieldbattlereflectshortuses.desc,Phản chiếu thường xuyên hơn trong khoảng thời gian ngắn hơn.
+options.keybindings.action.keeper.drop,Thả
+level.converter.popup.conversion.to,thành
+upgrades.repellent.desc,"Install a tank that produces a monster repelling liquid. Activate to spray it outside the dome, delaying the next wave of attackers."
+properties.repellent.battlehealthreduction,Monster Health Reduction {.percent}
+loadout.mode.hyperactive,Quick & Feeble
+upgrades.miner.title,Miner
+upgrades.converter.title,Bộ chuyển đổi tài nguyên
+properties.condenser.waterstorage,Stores {} water
+upgrades.jetpackstrength2.desc,Cải thiện ba lô phản lực để mang được nhiều tài nguyên hơn.
+level.station.navbar.exit,Exit
+options.accessibility.photosensitivity.explanation,Giảm thiểu các ánh sáng nhấp nháy.
+properties.orchard.overchargeadditionalabilityuses,{} additional ability uses after overcharge
+worldmodifier.resourcepooriron.desc,Thế giới này có ít sắt hơn.
+level.gameover.backtomainmenu,Quay về màn hình chính
+upgrades.orchardbattlerooting.desc,Activate in battle to grow roots outside the dome that will trap any medium sized monster stepping on them.
+upgrades.keeper2pinballreflect.desc,"Reflect spheres with a high powered, small gravity field around yourself."
+upgrades.laser.title,Laser
+options.game.tutorials.resettutorials,Đặt lại hướng dẫn
+properties.converter.ironirontime,{} cycles Conversion Time
+loadout.secondstage.start,Start Run
+upgrades.artilleryflakmultishot2.desc,Phóng nhiều đạn hơn.
+upgrades.swordreflection2.desc,Kích cỡ lá chắn lớn hơn nữa.
+upgrades.lasermove3.title,Tốc độ di chuyển 3
+upgrades.lasermove1.desc,Vũ khí laser di chuyển nhanh hơn.
+properties.lift.orbs,{} Orbs
+options.keybindings.action.general.move,Di chuyển
+upgrades.orchardjetpack2.title,Tốc độ Jetpack 2
+options.audio.music,Âm nhạc
+worldmodifier.resourceunpredicatableiron.desc,Các cụm sắt phân tán hơn và khó đoán hơn.
+properties.dome.maxhealth,Health {}hp
+upgrades.condenserspeed1.title,Tốc độ sản xuất 1
+properties.repellent.battleuses,Uses per Battle {}
+upgrades.shieldstrength2.desc,Tăng đáng kể lượng sát thương mà lá chắn có thể hấp thụ.
+upgrades.drillbotbuffstrength2.title,Taurine Addition
+upgrades.keeper2pinballreflectdamage2.desc,Reflected spheres will deal much more damage to the rock they hit next.
+level.paused,Paused
+level.tutorial.sworddome.stabbing,Stab
+upgrades.stunlaserspeed1.title,Tốc độ 1
+upgrades.domehealthmeter.desc,Hiển thị máu của căn cứ.
+upgrades.swordlargeblade1.desc,"Mở rộng và kéo dài lưỡi kiếm, tăng khả năng sát thương."
+pause.quitgame,Thoát trò chơi
+level.station.battle.navbar.slice,Slice 
+level.gameover.stats.timeplayed,Thời gian chơi
+properties.teleporter.teleportresources,Teleport Resources
+upgrades.drillbotstrength2.desc,Tăng cường sức đào của Drillbert.
+level.tutorial.drop.popup_2,Hit | to drop one. Hold to drop many.
+level.gameover.keepgadget.keeping,Gadget to keep: {gadget}
+level.tutorial.drop.popup_1,Carried resources slow you down.
+worldmodifier.maprugged.desc,Mỏ này gồ ghề và không đều.
+level.tutorial.onewayteleporter1,You just found a one way teleporter!
+properties.sword.aimline,Aim Prediction
+upgrades.keeper2bundle.desc,"Attached minerals can be shot as a bundle, in the same way you shoot kinetic spheres."
+level.tutorial.onewayteleporter2,Press|to place the eye.
+level.tutorial.onewayteleporter3,Press again to teleport back to it.
+properties.lift.capacity,Orbs carry {} resources
+properties.shield.battleabilityduration,Ability Duration {}s
+level.tutorial.teleporter.carry2,"Hold | to pick up the portal again, when close to it."
+level.tutorial.teleporter.carry3,"If you hit |, you will teleport back."
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,You can move the portal anywhere you want.
+options.keybindings.cancel,Hủy
+level.tutorial.probe.popup_1,Hit | to emit a probe impulse.
+upgrades.liftcarrykeeper2.desc,Thang máy sẽ tăng tốc độ của bạn nhiều hơn nữa.
+level.tutorial.probe.popup_3,"It reveals some of the nearby resources.
+Recharge back at the station."
+worldmodifier.resourcerichcobalt.desc,Thế giới này có nhiều cobalt hơn.
+upgrades.keeper2pinballdamage4.desc,Improve the damage the kinetic sphere deals to rocks upon impact. Also improves rotational mining damage.
+properties.sword.stabexplosive,Tip Bomb Mounted
+properties.drillbot.turnaround,Turn around when hitting a hard wall
+upgrades.shieldstrength1.title,Độ cứng 1
+properties.repellent.overchargewavedelay,Additional Wave Delay {} cycles
+upgrades.swordreflection3.title,Phản chiếu 3
+upgrades.dome1.desc,Căn cứ khai thác tiêu chuẩn được trang bị tia laser chính xác.
+level.tutorial.drillbot.carry,"Take Drillbert from its tank, and place it in the mine, where it should dig."
+upgrades.lift.desc,Install an automated lift that brings mined resources up for processing in the dome.
+upgrades.dome1health2.desc,Tăng vĩnh viễn máu căn cứ của bạn.
+upgrades.converterefficientwater.title,Chuyển đổi nước hiệu quả
+loadout.difficulty.hard.description,"Well, it's your Dome to lose."
+upgrades.artillerymultishot2.title,Bắn chuỗi 2
+upgrades.swordelectrified.title,Lưỡi kiếm sét
+upgrades.drillbotstrength3.desc,Tăng cường sức đào của Drillbert.
+upgrades.shieldbattleinvulnerable.title,Bất khả xâm phạm
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,Tự do hoạt động
+level.tutorial.teleporter.teleport1,"When close to the portal, hit | to teleport back."
+level.tutorial.teleporter.teleport2,You can also teleport in the other direction.
+level.gameover.prestige.uploading.failed,"tải lên thất bại, hãy thử lại xem"
+upgrades.lasermove2.desc,Vũ khí laser di chuyển nhanh hơn nữa.
+loadout.mapsize.title,Map Size
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Hỏa lực 1
+upgrades.drillbotturnaround.desc,"Khi gặp một bức tường không thể phá hủy, Drillbert sẽ xoay người thay vì chợp mắt đứng xem."
+properties.dome.baserepair,"
+Hồi phục {}máu"
+upgrades.condenserautoovercharge.desc,"Keeps your primary gadget permanently overcharged, without using up water. Condenser water production will be delayed after overcharging."
+upgrades.teleporterteleportresourcesback.desc,"The portal now teleports resources, but can't teleport you back anymore. You can still teleport from the dome to the portal."
+ending.wishlistonsteam,Thêm vào danh sách ước trên Steam
+properties.sword.reflection,Increase Shield Pad Size
+upgrades.drillbotduplicate.desc,"Drillbert có được một anh em song sinh giống hệt, Drilliam."
+level.converter.popup.conversion.convert,đổi
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} water to one iron
+title.navbar.options,Cài đặt
+upgrades.swordexplosivereflection.desc,Đạn bị phản chiếu sẽ phát nổ nếu bay trúng kẻ địch.
+upgrades.shieldbattlereflectshortuses.title,Tần suất phản chiếu
+level.gameover.unlock.skin,Đã mở khóa trang phục mới!
+level.gameover.stats.destroyedblocks,Số lượng khối đã phá hủy
+options.keybindings.action.keeper.gravityball,Charge Shot
+upgrades.orchardjetpack1.title,Tốc độ Jetpack 1
+upgrades.keeper1.desc,"Một chuyên gia giỏi, hiệu quả với kỹ năng khai thác xuất sác."
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,Sức mạnh 3
+upgrades.orchardoverchargebuffduration.desc,The fruit effects will last for longer after overcharging the orchard.
+upgrades.stunlaserduration1.title,Hạ nhiệt 1
+loadout.mode.maze.desc,"The map is maze-like, with many arms, dead ends and twists."
+properties.dome.healthfractionrepair,Repair {.percent} of total hp
+upgrades.jetpackstrength3.desc,Cải thiện ba lô phản lực để mang được nhiều tài nguyên hơn.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,phát hiện chuyển động:
+upgrades.prospectionmetersand1.title,Đầu dò coban
+upgrades.prospectionmeterwater1.desc,Displays the distance to the nearest water deposits.
+upgrades.blastminingstickycharge.desc,"Các quả bom dính vào bức tường đầu tiên mà chúng chạm vào, làm nổ thành một đường hầm thay vì một vụ nổ hình tròn."
+options.video,Màn hình
+title.navbar.updates,Cập nhật
+loadout.skin,Skin
+upgrades.drillbotstrength2.title,Sức mạnh 2
+level.gameover.win.title,YOUR DOME IS SAVED
+level.station.navbar.battle,Battle
+upgrades.converterirontocobalt.desc,Cho phép chuyển đổi coban thành sắt và ngược lại.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,New Dome
+pause.gamepadcontrols.pickup,Pickup
+options.video.graphicsmode.photosensitive,Hiệu ứng ánh sáng
+upgrades.orchardduration2.desc,Hiệu quả của trái cây kéo dài hơn nữa.
+properties.dome.meleedamagereduction,Giảm sát thương cận chiến đi {.percent}
+upgrades.domesandrepairstrong.desc,Sửa chữa các hư hỏng cho căn cứ của bạn bằng coban.
+options.input,Đầu vào
+properties.keeper2.spherereload,Sphere Reload {}s
+properties.blastmining.damage,Damage {}
+upgrades.laserbend.title,Laser xoay
+upgrades.swordlargeblade3.desc,Một thanh kiếm khổng lồ. Khả năng sát thương cực lớn nhưng tốc độ di chuyển chậm.
+loadout.domeoptions.title,Choose your Dome!
+upgrades.shieldoverchargeduration1.desc,Overcharging your shield will also prolong any shield battle ability you use in the next wave.
+upgrades.probelong1.title,Tầm xa
+options.keybindings.rebinding.inputprocessor,Nhấn 1 phím mới cho hành động này…
+properties.teleporter.teleportduration,Teleport Duration {}s
+upgrades.dome2health2.title,Máu 2
+upgrades.drillbotduplicate.title,Anh chị em
+pause.quit.popup,"Are you sure you want to quit?
+Press again to do so.
+(your progress is saved)"
+upgrades.prospectionmetersand2.desc,Displays the direction to the nearest cobalt deposits.
+upgrades.probepersist1.desc,"Add a memory module to the probe, marking the location of resources for longer."
+upgrades.artilleryshotcooldown2.title,Làm lạnh 2
+properties.keeper2.sphereadditionalfirsthitdamage,Additional First Hit Damage {.percent}
+upgrades.shieldbattledestructionprevention.title,Hy vọng cuối cùng
+level.gameover.unlock.pet,Đã mở khóa thú cưng mới!
+upgrades.repellentbattlelongerhealthreduction.desc,Kéo dài và tăng cường sự khô héo của tất cả các quái vật hiện tại.
+ending.feedbackondiscord,Phản hồi tại Discord
+properties.keeper2.reflectnexthitdamage,Additional Sphere Damage on Reflection for Next Bounce {.percent}
+options.video.graphicsmode.borderlesswindow,Cửa sổ không viền
+upgrades.keeper2pinballlifetime1.desc,"Stabilize the kinetic sphere, so it will float for longer."
+level.gadgetchoice.title,CHỌN MỘT PHỤ KIỆN!
+upgrades.keeper2bundle.title,Bundle Shot
+upgrades.relichunt.title,Thợ săn cổ vật
+loadout.mode.doubleiron.desc,"Iron desposits are twice as rich, but upgrades cost twice the iron too."
+level.tutorial.repair.findcobalt,"Try to find some cobalt. You can repair your dome with it.
+It is rare and finite."
+upgrades.keeper2pinballsplit.title,Split Spheres
+options.input.controls.text,Chơi tốt nhất với tay cầm chơi trò chơi.
+landing.proceed,Nhấn phím bất kì để tiếp tục
+upgrades.keeper2pinballmorespheres1.desc,"Add an additional module to your gravity generator, so it can corral more kinetic spheres."
+upgrades.jetpackstrength4.desc,Cải thiện ba lô phản lực để mang được nhiều tài nguyên hơn.
+upgrades.orchardbattleshieldsecondlayer.desc,Tăng một lớp lá chắn đạn khác.
+level.converter.popup.conversion.time,over {time} cycles
+properties.keeper2.maxspeed,Top Speed {}
+upgrades.swordaimline.title,Tia ngắm
+upgrades.shieldstrength3.desc,Tăng đáng kể lượng sát thương mà lá chắn có thể hấp thụ.
+upgrades.repellentovercharge.title,Quá tải máy đẩy lùi
+properties.drillbot.buffstrength,Energized Speedup {.percent}
+worldmodifier.hardnesssofter.desc,Trong hầm mỏ có nhiều đá mềm hơn.
+level.tutorial.pickup.popup_1,Hit | to pick up a resource.
+level.tutorial.pickup.popup_3,Hold to pick up many.
+pause.gamepadcontrols.drop,Drop
+level.tutorial.fruit.popup_1,Your orchard just grew its first fruit.
+level.tutorial.fruit.popup_2,"When next to it, hit | to consume it."
+worldmodifier.mapwide.desc,Mỏ rộng hơn và nông hơn.
+upgrades.prestigefinishnocobalt.desc,Rời khỏi hành tinh này và trở về nhà.
+upgrades.prospectionmeteriron2.title,La bàn sắt
+upgrades.keeper2movement2.title,Gravitational Movement 2
+options.keybindings.gamepad,Tay cầm
+ending.backtomainmenu,Trở về màn hình chính
+level.tutorial.fullscreen.back,back
+upgrades.shield.title,Lá chắn
+upgrades.blastmining.title,Bom khai thác
+upgrades.converterirontocobalt.title,Chuyển đổi coban
+upgrades.swordstabfast1.desc,Đâm nhanh hơn và thường xuyên hơn.
+level.gameover.prestige.score.rankunchanged,Không có thay đổi trong xếp hạng.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,Cổng nhận lại khả năng dịch chuyển bạn.
+upgrades.orchardjetpack3.title,Tốc độ Jetpack 3
+level.gameover.unlock.mapsize,New map size unlocked!
+level.station.upgrademenu.inventory,Inventory
+level.gameover.keepgadget.none,none
+upgrades.stunlaserdamage1.desc,Adds a small amount of damage to the stun laser.
+properties.repellent.battleabilityduration,Ability Duration {}s
+upgrades.prestigeiron.desc,"Gửi sắt về, thêm 1 điểm cho danh vọng bạn nhận được mỗi đợt."
+upgrades.teleporter.title,Dịch chuyển
+ending.teasemessage,Một trò đùa nho nhỏ về những gì sắp tới:
+loadout.relichunt.modifiers,Choose your Modifiers
+options.accessibility,Trợ năng
+loadout.mapsize.small.description,A small map for shorter sessions.
+upgrades.shieldbattleblastdamage.desc,Increases the damage and stun effect of the electro blast.
+options.translation.community.desc,Những ngôn ngữ này được dịch bởi cộng đồng dáng yêu. Tham gia với họ nếu bạn thích!
+upgrades.prospectionmeterwater2.desc,Displays the direction to the nearest water deposits.
+upgrades.stunlaserdamage2.title,Sát thương 2
+options.keybindings.action.keeper.gadget1,Phụ kiện 1
+options.keybindings.action.keeper.gadget2,Phụ kiện 2
+properties.repellent.wavedelay,Wave Delay {} cycles
+options.ok,OK
+upgrades.swordblade1.desc,Cải thiện sức mạnh và tốc độ cắt của thanh kiếm.
+upgrades.shieldoverchargeduration2.title,Quá tải thời lượng chiến đấu 2
+properties.sword.slicedamage,Slice Damage {} 
+properties.condenser.autocollect,Automatic Collection
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,"Shot bundles will stay right under the dome, instead of flying past the central axis."
+upgrades.orchardduration1.title,Thời lượng 1
+upgrades.drillbotbuffstrength1.title,Món ăn bổ dưỡng
+upgrades.liftcarrykeeper2.title,Nâng người bảo quản 2
+upgrades.shieldoverchargestrength2.desc,Further increases how much damage the overcharged shield absorbs.
+upgrades.repellentbattleslowdown.title,Chất suy nhược
+upgrades.artilleryshotprediction.title,Dự đoán đường bắn
+upgrades.repellentdelay3.desc,Tăng đáng kể thời gian trì hoãn của đợt quái vật tiếp theo.
+upgrades.teleporter.desc,A two-way teleporter with a station under the dome and portal that can be placed and moved around the mines.
+level.gameover.stats.monsterskilled,Quái vật đã giết
+upgrades.keeper2pinballreflect.title,Sphere Reflection
+upgrades.drillbotstrength3.title,Sức mạnh 3
+upgrades.shieldbattlereflectspeedup.title,Phản chiếu siêu tốc
+upgrades.probeswift1.title,Dò nhanh
+options.game.events.enableseasonal,kích hoạt nội dung theo mùa
+upgrades.repellentbattledamageovertime.title,Khói độc
+upgrades.dome3health2.title,Máu 2
+loadout.mapsize.huge,Huge
+properties.repellent.overchargebattleabilityduration,Additional Ability Duration {.percent}
+options.keybindings.action.keeper.gravitycollect,Charge Collect
+loadout.miner.scores.title,Scores
+properties.lift.speed,Orb Speed {}
+upgrades.drillbotstrength1.title,Sức mạnh 1
+level.tutorial.repellent.popup_2,"When close to it, hit | to activate it."
+level.tutorial.repellent.popup_1,Your repellent is ready to delay the next wave.
+properties.orchard.growthtime,Growth time {} cycles
+properties.keeper2.spherefractiondamage,Sphere Damage transcending Rock Hardness {.percent}
+properties.sword.brake,Sword Agility {}
+upgrades.artilleryflakmultishot2.title,Giàn pháo đa nòng 2
+upgrades.swordstabfast2.desc,Đâm nhanh hơn và thường xuyên hơn.
+upgrades.sword.desc,"Một thanh kiếm chắc chắn, với khả năng sát thương phụ thuộc vào khoảng cách nó di chuyển trên bề mặt căn cứ. Kiếm cũng có thể được bắn ra để đâm xuyên qua quái vật, và có một lá chắn ở đầu chuôi kiếm có khả năng chắn đạn."
+upgrades.artilleryflakmultishot1.title,Giàn pháo đa nòng 1
+upgrades.artilleryshotprediction.desc,Hiển thị quỹ đạo dự kiến của quả lựu đạn được phóng.
+upgrades.shieldbattlereflect.desc,Trigger an active combat ability that reflects incoming projectiles for a short time.
+upgrades.orchardbattleshieldstrong.title,Lá chắn kiên cố
+upgrades.swordlongblade1.title,Lưỡi kiếm dài 1
+level.station.battle.navbar.stab,Stab
+properties.converter.irontowater,{} iron to one water
+upgrades.minoriron.title,Gửi Sắt
+upgrades.keeper2bundleinfinite.desc,Bundles will stay stable for a very long time.
+worldmodifier.resourcedesc,"Xung quanh chỉ có vài cụm sắt, nhưng chúng rất lớn."
+loadout.keeper,NGƯỜI BẢO QUẢN
+upgrades.drillbotstrength4.desc,Tăng cường sức đào của Drillbert.
+upgrades.swordstabexplodedamage.title,Sát thương nổ
+upgrades.prospectionmeterwater2.title,La bàn nước
+loadout.keeperoptions.title,Choose your Keeper!
+properties.probe.range,{} tiles Range
+upgrades.orchardbattleshield.title,Lá chắn đạn
+loadout.mapsize.large,Large
+properties.keeper2.reflectsphere,Reflect Incoming Spheres
+upgrades.orchardbattlerooting.title,Rễ cây bẫy quái
+properties.repellent.growthtime,Production time {} cycles
+properties.converter.irontocobalt,{} iron to one cobalt
+upgrades.dome3health1.desc,Tăng vĩnh viễn máu căn cứ của bạn.
+upgrades.teleporterteleportresourcescooldown.title,Làm lạnh dịch chuyển
+upgrades.shieldovercharge.desc,Use water to manually overcharge your shield so it absorbs more damage in the next wave.
+upgrades.stunlaserspeed2.title,Tốc độ 2
+upgrades.drillbotbuff1.desc,Treats grow at the nest under the dome. Take them to Drillbert who will happily gobble them up to get energized.
+options.keybindings.action.dome.battle,Chế độ chiến đấu
+upgrades.orchardovercharge.title,Quá tải vườn cây ăn quả
+properties.teleporter.teleportresourcesarea,Teleport Range {} tiles
+upgrades.swordreflection1.desc,Tăng kích thước lá chắn và phản chiếu ngược lại đường đạn của kẻ địch.
+upgrades.blastminingblast2.title,Hỏa lực 2
+upgrades.swordreflection1.title,Phản chiếu 1
+upgrades.keeper2pinballlifetime2.desc,"Stabilize the kinetic sphere, so it will float for longer."
+options.keybindings.action.general.left,Trái
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Tăng vĩnh viễn máu căn cứ của bạn.
+upgrades.drill2.title,Sức khoan 2
+options.keybindings.rebinding,Gán
+level.tutorial.assessor.carry.desc1_1,"Once locked onto you, they will follow you even if you release the collection key."
+upgrades.keeper2pinballdamage1.title,Kinetic Sphere Damage 1
+upgrades.stunlaserspeed2.desc,Khẩu laser gây choáng di chuyển nhanh hơn nữa và tiếp tục ngắm bắn quái vật khi hạ nhiệt.
+options.keybindings.title,BẢNG ĐIỀU KHIỂN
+upgrades.keeper2pinballmorespheres2.desc,"Add an additional module to your gravity generator, so it can corral more kinetic spheres."
+level.gameover.prestige.uploading.finalfailed,"tải lên điểm số mới thất bại, xin lỗi!"
+upgrades.blastminingblast1.desc,Tăng sức công phá của vụ nổ.
+upgrades.stunlaserduration2.desc,Khẩu laser làm lạnh nhanh hơn và bắn lâu hơn.
+upgrades.prospectionmetersand1.desc,Displays the distance to the nearest cobalt deposits.
+pause.gamepadcontrols.move,Move
+properties.probe.charges,Charges {}
+upgrades.shieldstrength2.title,Độ cứng 2
+loadout.prestige.cobalt.description,"The map has no cobalt and you can't generate it, but you start with plenty of it."

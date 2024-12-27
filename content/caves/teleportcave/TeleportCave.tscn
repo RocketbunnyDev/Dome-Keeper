@@ -1,0 +1,179 @@
+[gd_scene load_steps=28 format=2]
+
+[ext_resource path="res://content/caves/teleportcave/teleportcave-Sheet.png" type="Texture" id=1]
+[ext_resource path="res://content/map/Parallaxer.gd" type="Script" id=2]
+[ext_resource path="res://content/caves/teleportcave/focus.png" type="Texture" id=3]
+[ext_resource path="res://content/shared/Usable.tscn" type="PackedScene" id=4]
+[ext_resource path="res://content/caves/teleportcave/TeleportCave.gd" type="Script" id=5]
+[ext_resource path="res://content/caves/teleportcave/teleporteye-mine-Sheet.png" type="Texture" id=6]
+[ext_resource path="res://content/caves/teleportcave/teleporteye-takeout-Sheet.png" type="Texture" id=7]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=8]
+[ext_resource path="res://content/sounds/Biomes/TeleportTouch.wav" type="AudioStream" id=9]
+[ext_resource path="res://content/sounds/Biomes/OldMachineware.wav" type="AudioStream" id=10]
+[ext_resource path="res://content/caves/teleportcave/teleportcave_alpha_map_blurred.png" type="Texture" id=11]
+
+[sub_resource type="AtlasTexture" id=10]
+atlas = ExtResource( 7 )
+region = Rect2( 0, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=11]
+atlas = ExtResource( 7 )
+region = Rect2( 32, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=12]
+atlas = ExtResource( 7 )
+region = Rect2( 64, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=13]
+atlas = ExtResource( 7 )
+region = Rect2( 96, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=14]
+atlas = ExtResource( 7 )
+region = Rect2( 128, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=15]
+atlas = ExtResource( 7 )
+region = Rect2( 160, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=16]
+atlas = ExtResource( 7 )
+region = Rect2( 192, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=1]
+atlas = ExtResource( 6 )
+region = Rect2( 0, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=2]
+atlas = ExtResource( 6 )
+region = Rect2( 24, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=3]
+atlas = ExtResource( 6 )
+region = Rect2( 48, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=4]
+atlas = ExtResource( 6 )
+region = Rect2( 72, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=5]
+atlas = ExtResource( 6 )
+region = Rect2( 96, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=6]
+atlas = ExtResource( 6 )
+region = Rect2( 120, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=7]
+atlas = ExtResource( 6 )
+region = Rect2( 144, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=8]
+atlas = ExtResource( 6 )
+region = Rect2( 168, 0, 24, 24 )
+
+[sub_resource type="SpriteFrames" id=9]
+animations = [ {
+"frames": [ SubResource( 10 ), SubResource( 11 ), SubResource( 12 ), SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ) ],
+"loop": false,
+"name": "taken",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 1 ), SubResource( 2 ), SubResource( 3 ), SubResource( 4 ), SubResource( 5 ), SubResource( 6 ), SubResource( 7 ), SubResource( 8 ) ],
+"loop": true,
+"name": "default",
+"speed": 10.0
+} ]
+
+[node name="TeleportCave" type="Node2D" groups=["saveable", "unstyled"]]
+z_index = -40
+script = ExtResource( 5 )
+biome = "yellow"
+
+[node name="ExtraBackground" type="ColorRect" parent="."]
+margin_left = -3.0
+margin_top = -6.0
+margin_right = 74.0
+margin_bottom = 52.0
+mouse_filter = 2
+color = Color( 0.129412, 0.105882, 0.0862745, 1 )
+
+[node name="Sprites" type="Control" parent="."]
+margin_right = 66.0
+margin_bottom = 48.0
+rect_clip_content = true
+script = ExtResource( 2 )
+start_offset = 0.4
+scaling = 0.5
+
+[node name="Sprite1" type="Sprite" parent="Sprites"]
+position = Vector2( 34, 22 )
+texture = ExtResource( 1 )
+hframes = 4
+vframes = 2
+
+[node name="ExtraBackground" type="ColorRect" parent="Sprites/Sprite1"]
+margin_left = -96.0
+margin_top = -51.0
+margin_right = 88.0
+margin_bottom = 57.0
+mouse_filter = 2
+color = Color( 0.741176, 0.490196, 0.176471, 1 )
+
+[node name="Sprite2" type="Sprite" parent="Sprites"]
+position = Vector2( 34, 22 )
+texture = ExtResource( 1 )
+hframes = 4
+vframes = 2
+frame = 1
+
+[node name="Eye" type="AnimatedSprite" parent="Sprites/Sprite2"]
+position = Vector2( -1, 0 )
+frames = SubResource( 9 )
+
+[node name="FocusMarker" type="Sprite" parent="Sprites/Sprite2"]
+texture = ExtResource( 3 )
+
+[node name="Sprite3" type="Sprite" parent="Sprites"]
+position = Vector2( 34, 22 )
+texture = ExtResource( 1 )
+hframes = 4
+vframes = 2
+frame = 2
+
+[node name="Sprite4" type="Sprite" parent="Sprites"]
+position = Vector2( 34, 22 )
+texture = ExtResource( 1 )
+hframes = 4
+vframes = 2
+frame = 3
+
+[node name="Usable" parent="." instance=ExtResource( 4 )]
+position = Vector2( 34, 22 )
+visibleOnFocus = NodePath("../Sprites/Sprite2/FocusMarker")
+
+[node name="CaveAmb" parent="Usable" instance=ExtResource( 8 )]
+stream = ExtResource( 10 )
+volume_db = -11.808
+bus = "Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 12.0
+minAudibleDistance = 36.0
+fadeInTime = 0.1
+fadeOutTime = 3.0
+loop = true
+
+[node name="EyeCloseSound" parent="." instance=ExtResource( 8 )]
+stream = ExtResource( 9 )
+volume_db = -3.933
+bus = "Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="AlphaMap" type="Sprite" parent="."]
+visible = false
+position = Vector2( 36, 24 )
+texture = ExtResource( 11 )
+
+[connection signal="animation_finished" from="Sprites/Sprite2/Eye" to="." method="_on_Eye_animation_finished"]

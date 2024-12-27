@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/unHoly.ogg-a1b579149261b80e65b733cc2cd2f8b9.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/unHoly.ogg"
+dest_files=[ "res://.import/unHoly.ogg-a1b579149261b80e65b733cc2cd2f8b9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

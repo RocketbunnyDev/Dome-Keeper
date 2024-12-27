@@ -1,0 +1,303 @@
+monsters:
+	waveInterval: 60.0
+	waveIntervalProgressionPerSqrt1000: 45.0
+	timeBetweenMonsters: 0.1, 1.0, 2.5, 4.0, 6.0
+	weightModTimeBetweenMonsters: 1.5, 1.2, 1.0, 0.8, 0.5
+	minimumTimingMod: 0.3
+	maximumTimingModAtRunWeight: 500
+
+multiplayer:
+	tileHealthIncreasePerPlayer: 0.15
+	upgradeCostIncreasePerPlayer: 0.4
+	tileRichnessIncreasePerPlayer: 0.5
+	domeHealthIncreasePerPlayer: 0.1
+
+map:
+	tileBaseHealth: 3.0
+	ironAdditionalHealth: 2.0
+	sandAdditionalHealth: 3.0
+	waterAdditionalHealth: 1.0
+	gadgetAdditionalHealth: 6.0
+	relicAdditionalHealth: 8.0
+	tileHealthBaseMultiplier: 1.0
+	hardnessMultiplier0: 0.5
+	hardnessMultiplier1: 1.0
+	hardnessMultiplier2: 2.0
+	hardnessMultiplier3: 4.0
+	hardnessMultiplier4: 10.0
+	tileHealthMultiplierPerLayer: 2.1
+
+artifacts:
+	gadgetChoicesPerArtifact: 2
+
+wavemeter:
+	stage: 0, 1
+	delayStage: 0, 1, 2, 3
+
+caveteleporter:
+	cooldown: 0.5
+
+dummy:
+	health: 999999999
+	damage: 0
+	fullStunThreshold: 1.0
+	stunPriority: 1
+	tier: 1
+	size: medium
+
+walker:
+	health: 40
+	damage: 12
+	fullStunThreshold: 1.0
+	stunPriority: 2
+	tier: 1
+	size: medium
+	moveType: walk_medium
+	speed: 90.0
+	variants: left,right
+	weight: 20
+	minRunWeight: 0
+
+rockman:
+	health: 60
+	damage: 10
+	fullStunThreshold: 2.0
+	stunPriority: 2
+	tier: 1
+	size: medium
+	moveType: walk_medium
+	speed: 55.0
+	variants: left,right
+	weight: 20
+	minRunWeight: 0
+	initialPunchSpeed: 0.5
+	additionalPunchSpeed: 2.0
+	speedupTime: 20.0
+
+mucker:
+	health: 180
+	damage: 40
+	fullStunThreshold: 2.5
+	stunPriority: 2
+	tier: 3
+	size: medium
+	moveType: walk_medium
+	speed: 30.0
+	variants: left,right
+	weight: 100
+	minRunWeight: 150
+
+flyer:
+	health: 20
+	damage: 15
+	fullStunThreshold: 0.2
+	stunPriority: 1
+	tier: 1
+	size: medium
+	moveType: flyspots
+	speed: 120
+	shotspeed: 225
+	maxshots: 4
+	minshots: 2
+	variants: left,right
+	spawnpoint: fly_top_corner
+	weight: 25
+	minRunWeight: 30
+
+stingray:
+	health: 15
+	damage: 15
+	fullStunThreshold: 0.5
+	stunPriority: 1
+	tier: 1
+	size: medium
+	moveType: flyspots
+	speed: 250
+	shotspeed: 225
+	maxshots: 3
+	minshots: 2
+	variants: left,right
+	spawnpoint: fly_low
+	weight: 25
+	minRunWeight: 30
+
+driller:
+	health: 800
+	damage: 40.0
+	fullStunThreshold: 10.0
+	stunPriority: 3
+	tier: 3
+	size: large
+	moveType: walk_large
+	speed: 16.0
+	variants: left,right
+	weight: 200
+	minRunWeight: 350
+
+diver:
+	health: 30
+	damage: 150
+	fullStunThreshold: 1.0
+	stunPriority: 0
+	tier: 3
+	size: medium
+	moveType: dive
+	announcedelay: 2.0
+	divespeed: 600
+	retreatspeed: 80
+	risespeed: 60
+	variants: left,right
+	spawnpoint: fly_top_corner
+	weight: 70
+	minRunWeight: 250
+
+tick:
+	health: 2
+	damage: 10
+	fullStunThreshold: 0.2
+	stunPriority: 1
+	tier: 2
+	size: small
+	moveType: walk_medium
+	speed: 30.0
+	variants: left,right
+	groupsize: 20
+	grouprandom: 2
+	interspawntime: 0.1
+	weight: 30
+	minRunWeight: 70
+
+bigtick:
+	health: 20
+	damage: 25
+	fullStunThreshold: 0.2
+	stunPriority: 1
+	tier: 4
+	size: medium
+	moveType: walk_medium
+	speed: 50.0
+	burrowtime: 5.0
+	variants: left,right
+	groupsize: 12
+	grouprandom: 2
+	interspawntime: 0.2
+	weight: 100
+	minRunWeight: 300
+
+worm:
+	health: 80
+	fullStunThreshold: 3.5
+	stunPriority: 2
+	tier: 2
+	size: medium
+	moveType: walk_medium
+	variants: left,right
+	weight: 60
+	minRunWeight: 120
+
+rock:
+	tier: 99
+	health: 6
+	fullStunThreshold: 1000.0
+	stunPriority: 0
+	damage: 80
+	size: projectile
+
+bolter:
+	health: 135
+	damage: 60
+	fullStunThreshold: 1.5
+	stunPriority: 1
+	tier: 3
+	speed: 45
+	size: medium
+	moveType: flyspots
+	variants: left,right
+	spawnpoint: fly_low
+	weight: 80
+	minRunWeight: 200
+
+shifter:
+	health: 30
+	damage: 150
+	fullStunThreshold: 0.6
+	stunPriority: 1
+	tier: 4
+	shotspeed: 170
+	size: medium
+	moveType: flyspots
+	variants: left,right
+	spawnpoint: fly_top_corner
+	weight: 120
+	spawnpoint: fly_onscreen
+	minRunWeight: 400
+
+butterfly:
+	health: 100
+	damage: 12
+	fullStunThreshold: 1.0
+	stunPriority: 1
+	tier: 3
+	size: medium
+	moveType: flyspots
+	speed: 60
+	shotspeed: 330
+	variants: left_high,right_high
+	spawnpoint: fly_high
+	weight: 140
+	minRunWeight: 250
+
+beast:
+	health: 250
+	damage: 20
+	fullStunThreshold: 5.0
+	stunPriority: 3
+	tier: 3
+	size: medium
+	moveType: walk_medium
+	speed: 120
+	variants: left,right
+	meleetarget: top
+	weight: 140
+	minRunWeight: 250
+
+scarab:
+	health: 1000
+	damage: 25
+	fullStunThreshold: 10.0
+	stunPriority: 3
+	tier: 4
+	size: medium
+	moveType: flyspots
+	speed: 120
+	shotspeed: 250
+	variants: center
+	spawnpoint: fly_top
+	weight: 500
+	minRunWeight: 900
+	single: true
+	repeatable: false
+
+scarabarm:
+	health: 60
+	fullStunThreshold: 10.0
+	stunPriority: 99
+	tier: 4
+	size: medium
+	speed: 500
+
+stag:
+	health: 800
+	airprojectiledamage: 8
+	airprojectilespeed: 150
+	groundprojectiledamage: 80
+	groundprojectilespeed: 90
+	fullStunThreshold: 4.0
+	stunPriority: 4
+	tier: 4
+	size: large
+	moveType: walk_large
+	speed: 12.0
+	variants: left,right
+	weight: 280
+	minRunWeight: 550

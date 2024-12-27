@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/lasert.wav-ab59945b01a4143ab7fbb1191f1c4e2b.sample"
+
+[deps]
+
+source_file="res://content/gadgets/blastMining/lasert.wav"
+dest_files=[ "res://.import/lasert.wav-ab59945b01a4143ab7fbb1191f1c4e2b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

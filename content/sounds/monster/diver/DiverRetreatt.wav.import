@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DiverRetreatt.wav-bfb0a045654ca96739c739dbd484798e.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/diver/DiverRetreatt.wav"
+dest_files=[ "res://.import/DiverRetreatt.wav-bfb0a045654ca96739c739dbd484798e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

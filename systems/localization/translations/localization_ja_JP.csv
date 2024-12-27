@@ -1,0 +1,985 @@
+﻿key,ja_JP
+loadout.prestige.title,モードを選択せよ
+upgrades.shieldbattleelectroblast.title,電磁ブラスト
+properties.orchard.battleshieldhp,強度 {}HP
+options.keybindings.action.general.move,移動
+options.video.stretchmode.rezised,リサイズ
+level.gameover.unlock.world,新たな世界が解放された！
+upgrades.blastminingwaterless.desc,作成に時間がかかるようになるが、爆風弾の作成に水が不要になる。
+properties.condenser.growthtime,精製時間 {} サイクル
+properties.laser.stun,スタン強度 {}
+exhibition.level.instruction,キーを押してゲームを続けよう！
+pause.godot,開発プラットフォーム：godot
+upgrades.orchardjetpack2.desc,移動スピードの上昇効果を増強し、より早く移動できるようになる。
+upgrades.artillery.title,砲撃
+upgrades.condenser.desc,ドーム下部に凝縮機を導入する。凝縮器は結露の作用を利用してゆっくりと水を精製する。
+properties.lift.keeperupwardsspeed,キーパー移動速度 {}
+level.tutorial.fullscreen.continue,続ける
+upgrades.dome1damagereduction2.title,硬度強化+2
+upgrades.orchardduration2.title,持続時間+2
+upgrades.condenserautoovercharge.title,"自動オーバー
+チャージ"
+upgrades.keeper2pinballreflectdamage2.title,反射ダメージ+2
+loadout.title,探索の準備をせよ
+level.tutorial.teleporter_2,ステーションを使うと、転送機にテレポートできる。転送機からステーションにも戻れる。
+options.keybindings.action.general.up,上
+level.converter.popup.cancel,やめる
+properties.keeper.domefuel,燃料追加 {}
+properties.shield.battleactivateondepletion,シールド枯渇時スキル起動機能
+loadout.prestige.normal,レギュラー
+properties.sword.reflectprojectilesexplosive,エナジー性投射物への爆発性物質追加
+upgrades.swordlargeblade3.title,ヘビーブレード+3
+upgrades.orcharddrill2.title,採掘ブースト+2
+loadout.prestige.normal.description,資源を世界の外へと送り、他のキーパーたちよりもたくさんの名声ポイントを稼ごう。
+upgrades.keeper2pinballreflectdamage1.desc,破壊球が反射されると次に衝突する岩に対してより多くのダメージを与えるようになる。
+options.input.gamepad,コントローラー
+loadout.choices.locked,ロック中。
+upgrades.condenserspeed1.desc,水を精製する時間を短縮する。
+upgrades.shieldbattleinvulnerable.desc,戦闘スキル。ドームが短時間、無敵になる。
+upgrades.domewavemeter.desc,"敵生命体の襲来ウェーブ到達までの時間を
+表示する。"
+upgrades.keeper2pinballreflectspeedup2.title,高性能反射
+upgrades.keeper2movement1.desc,重力生成器を改良してより素早く移動できるようになる。
+upgrades.repellentoverchargeduration2.desc,オーバーチャージすると、次ウェーブで戦闘スキルがさらに長く持続する。
+upgrades.laserhitprojectiles.desc,レーザーが投射物に当たると、即座に投射物が分解されるようにる。
+options.keybindings.action.keeper.pickup,拾う
+upgrades.keeper2pinballdamage1.desc,破壊球が岩に当たったときのダメージが増加する。回転採掘のダメージも増える。
+upgrades.keeper2pinballdamage3.title,破壊球強化+3
+options.video.graphicsmode.enablevsync,垂直同期を有効にする
+options.translation.community,{completion}%完了
+loadout.difficult.harder,難易度を上げる
+worldmodifier.resourcerichiron.desc,鉄が豊富なワールド。
+loadout.miner.fuel,キーパーの移動ユニットに水の補給が必要になる。
+upgrades.prestigeiron.title,鉄ポイント
+upgrades.stunlaserspeed1.desc,スタンレーザーの移動スピードが上昇する。
+upgrades.keeper2pinballdamage2.desc,破壊球が岩に当たったときのダメージが増加する。回転採掘のダメージも増える。
+upgrades.drill1.title,ドリル強化+1
+upgrades.prospectionmetersand2.title,コバルト探査用コンパス
+upgrades.dome1health1.desc,ドームの耐久値が増加する。
+title.navbar.newgame,ニューゲーム
+properties.repellent.overchargeduration,精製スピード  {}サイクル
+properties.sword.retractspeed,引きスピード {} 
+upgrades.lasermove3.desc,レーザー砲塔の移動速度が最大になる。
+upgrades.stunlaser.title,スタンレーザー
+options.keybindings.action.general.use,使う
+worldmodifier.monsterfeeble.desc,敵が弱くなり、与えてくるダメージが小さくなる。
+upgrades.shield.desc,"受けたダメージの一部を吸収できる
+シールド。自動的に再チャージする。"
+options.video.stretchmode.rezised.text,"ウィンドウまたはフルスクリーン解像度で、ゲームをレンダリングします。
+映像がシャープになりますが、１ピクセル幅の線形で視覚的な誤差が生じる場合があります。"
+upgrades.orchardbattlerootingexplosion.desc,もう一度起動すると、捕われたモンスターが爆発して周囲にもダメージを与える。
+loadout.mapsize.small,小
+upgrades.probe.desc,キーパーに装着する探査機を導入する。手動でパルスを放つことで、近くの資源の位置がわかる。使用の際は、ドーム下部のステーションで充電しよう。
+upgrades.swordlongblade1.desc,長さが強化された軽快なソードを導入する。
+upgrades.dome1health1.title,耐久度+1
+upgrades.blastminingwaterless.title,無水生産機能
+level.tutorial.assessor.carry,重力収集
+upgrades.liftspeed1.desc,オーブの移動スピードが上昇する。
+upgrades.shieldstrength1.desc,ドームシールドが吸収できるダメージが増加する。
+upgrades.orchardbattleshieldsecondlayer.title,二層シールド
+upgrades.teleporterteleportresourcescooldown.desc,転送機による資源転送の頻度を上げる。
+options.input.gamepad.autoswitch,最適なコントローラーの自動検出
+level.gameover.unlock.modifiers,ワールドのオプションがアンロックされた！
+properties.sword.slicebrake,なぎ払い減速 {.percent}
+loadout.difficulty.veryeasy,ノーマル
+properties.sword.sliceacceleration,ソードの移動速度 {}
+options.input.gamepad.gamepadstickdeadzone.text,"コントローラースティックを押し込まず
+触れただけの時にバー上の四角が動かないよう値を設定します。
+押し込んだ状態でスティックを動かした時に四角が動くようにしてください。"
+options.accessibility.highlightmonsters.explanation,モンスターの輪郭を明るく表示して見やすさを向上させます。
+properties.upgrade.gameover,ステージを終了
+upgrades.blastminingstickycharge.title,粘着縦穴式爆破機能
+upgrades.shieldoverchargestrength2.title,ドームシールド強化+2
+upgrades.blastminingblast2.desc,爆風のパワーをさらに増強する。
+upgrades.repellentbattlestrongerslowdown2.title,減速効果（改+）
+upgrades.converter.desc,資源を別の資源へと変換できるようになり、貯蔵資源のかたよりを調整しやすくなる。
+loadout.proceed,次へ
+upgrades.repellentbattleslowdown.desc,戦闘中に、すべての敵を麻痺させる霧を噴射するようになる。
+loadout.mapsize.medium.description,標準的なプレイ時間用の中規模マップ
+properties.orchard.overchargeadditionalbuffduration,オーバーチャージ後の追加時間 {}秒
+options.translation.community.title,コミュニティ翻訳
+upgrades.blastminingtriple.title,三連チャージ
+worldmodifier.hardnessextremes.desc,とても硬い岩と柔らかい岩が非常に多く出現する。
+level.station.battle.navbar.exit,やめる
+upgrades.keeper2pinballlifetime2.title,破壊球持続+2
+upgrades.minoriron.desc,鉄を世界の外へと送り、名声を増加させる。
+properties.dome.baserepair,修復 {}HP
+upgrades.migration.title,惑星移住
+upgrades.converterefficientcobalt.title,コバルト変換率効率化
+upgrades.shieldbattledestructionprevention.desc,ドーム耐久値がわずかになると、長時間無敵になる。ただし次のウェーブでは使用できず再使用には2ウェーブ経過する必要がある。
+upgrades.drill1.desc,ドリルが強化され、採掘速度が向上する。
+level.gameover.retry,新しいステージを始める
+properties.orchard.overchargeduration,フルーツ成長速度2倍：{}サイクル
+upgrades.dome2health1.title,耐久度+1
+level.tutorial.station.popup_4,|を押して戦闘モードに移行しドームを防衛する。
+level.gameover.stats.timeplayed.unit,分
+upgrades.repellentbattlestrongerslowdown2.desc,霧の麻痺効果がさらに強化され、効果の持続時間も長くなる。
+loadout.gadgetoptions.title,主要ガジェットを選んでください
+level.tutorial.station.popup_2,ドーム内の端末に|でアクセスする。
+upgrades.dome1damagereduction1.desc,ドームの硬度を高め近接攻撃からのダメージを軽減する。ただし、投射物によるダメージには効果がない。
+level.tutorial.station.popup_1,敵生命体がドームを攻撃中！
+upgrades.keeper2movement3.title,重力機動+3
+upgrades.jetpackspeed1.desc,ジェットパックが改良され、移動スピードが上昇する。
+properties.converter.ironwatertime,変換時間 {}サイクル
+level.tutorial.sworddome.slicing.desc,ソードを速くなぎ払うと、なぎ払いのダメージが大きくなる。
+upgrades.liftorbs.desc,運搬オーブを1つ追加する。
+upgrades.proberecharge.desc,探査機の充電が時間経過で自動的に回復するようになる。
+loadout.gadget,ガジェット
+upgrades.drill4.title,ドリル強化+4
+properties.probe.rechargetime,充電時間 {}サイクル 
+upgrades.keeper2pinballdamage4.title,破壊球強化+4
+options.game,ゲーム
+loadout.prestige.cobalt,コバルト制限モード
+options.game.screenshake.shakeintensity,ゆれの強さ
+upgrades.liftcapacity1.desc,オーブが運搬できる資源の数が増える。
+loadout.miner.title,ステージオプションを選んでください
+level.gameover.stats.difficulty,難易度
+upgrades.repellentoverchargestrength2.title,遅延効果（改）+2
+upgrades.domesandrepairstrong.title,コバルトリペア（改）
+upgrades.stunlaserduration1.desc,スタンレーザーのクールダウン時間が早まり照射時間が延びるようになる。
+level.gameover.prestige.score.rankimproved,ランキングが {rank} に上がりました。
+upgrades.stunlaserdamage2.desc,スタンレーザーによるダメージが増加する。
+upgrades.drillbotstrength4.title,強化+4
+level.gameover.prestige.title,名声チャレンジ終了
+options.keybindings.action.general.back,キャンセル
+upgrades.laseraimline.desc,砲塔に照準を搭載し、レーザー発射時の軌道をわかりやすくする。
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,凝縮機が水を2つ精製するようになる。
+upgrades.swordreflection2.title,リフレクター+2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,ドリルが強化され、採掘速度が向上する。
+properties.laser.hitprojectiles,レーザーがエネルギー性の投射物を破壊するようになる。
+upgrades.dome1damagereduction1.title,硬度強化+1
+properties.sword.stabexplosivedamage,爆弾ダメージ {}
+upgrades.drillbotturnaround.title,"超・体力増強
+プログラム"
+upgrades.keeper2movement1.title,重力機動+1
+properties.orchard.battleroots,トラップ根冠 {}本
+upgrades.prospectionmeterrange2.title,探査範囲+2
+upgrades.jetpackspeed4.title,スピード強化+4
+loadout.prestige.miner,採掘師
+upgrades.repellentdelay2.desc,ウェーブ到達の遅延効果をもっと増強する。
+upgrades.orchard.desc,果樹を導入する。樹に実ったフルーツを食べると、採掘と移動の速度が上昇する。
+upgrades.artilleryflakexplosionradius1.title,砲撃射程+1
+upgrades.shieldbattleelectroblast.desc,戦闘スキル。敵にダメージを与えるエリアをドーム周囲に短時間だけ作り出す。
+upgrades.shredgadgettocobalt.desc,ガジェットを粉砕し、コバルト {amount} 個に変換する。
+upgrades.prestigecobalt.title,コバルトポイント
+properties.orchard.drillbuff,採掘スピード強化 {}
+upgrades.swordlargeblade2.desc,ソードが大きくなる。移動スピードが下がるが、ダメージが上昇する。
+level.gameover.back,もどる
+level.station.navbar.exit,やめる
+options.keybindings.action.dome.fire,攻撃
+upgrades.swordstabshoot.title,ジャベリン
+upgrades.blastminingtriple.desc,"大きな爆風弾を１つ製造する代わりに
+小さな爆風弾を３つ製造するようになる。"
+upgrades.orcharddrill1.title,採掘ブースト+1
+upgrades.swordextendlong2.title,長距離射出+2
+upgrades.artilleryshotcooldown1.desc,発射頻度が向上する。
+upgrades.keeper2pinballdamagefraction.title,硬度無視破壊球
+upgrades.doublelaser.title,ダブルレーザー
+upgrades.jetpackspeed3.title,スピード強化+3
+upgrades.prestigewater.title,水ポイント
+properties.shield.battleuses,戦闘ごとの使用回数 {}回
+upgrades.liftorbs.title,オーブ+1
+upgrades.repellentoverchargeduration1.title,スキル強化+1
+upgrades.drill3.desc,ドリルが強化され、採掘速度が向上する。
+level.gameover.prestige.uploading.inprocess,スコアを送信中
+loadout.secondstage.cancel,やめる
+properties.shield.overchargestrength,オーバーチャージ強度 {}HP
+level.station.navbar.upgrades,アップグレードメニュー
+upgrades.keeper2pinballsplit.desc,飛んでくる破壊球を2つに分割し、元の方向と垂直な方向に発射する。
+upgrades.proberecharge.title,自動リチャージ
+properties.sword.stabrange,間合い {} 
+upgrades.liftspeed1.title,スピードアップ
+upgrades.domewavecount.desc,"生き延びたウェーブ数を表示する計測器を
+導入する。"
+level.converter.popup.title,資源の変換
+pause.discord,Discordサーバーに参加
+loadout.abort,やめる
+upgrades.prospectionmeterrange1.desc,鉱床メーターの検出範囲を拡張する。
+upgrades.dome2badrepair1.desc,ドーム耐久値が戦闘時に大幅に減ると、戦闘後に自動回復する。
+upgrades.prestigecobalt.desc,"コバルトを送ると名声ポイントの倍率が
+増えるようになる"
+upgrades.domesandrepair.desc,コバルトを消費してドームを修復する。
+loadout.skinoptions.title,スキンを選択せよ
+loadout.difficulty.medium.description,ドームが想定する標準的な難易度
+loadout.difficulty.veryeasy.description,簡単ではないが、他のレベルよりは気楽な難易度
+options.game.tutorials,チュートリアル
+upgrades.orchardbattlerootingmore.desc,強度が増した根をより多く張りめぐらせる。
+upgrades.probepersist1.title,メモリー強化
+upgrades.keeper2pinballmorespheres2.title,破壊球補充+2
+upgrades.orchardjetpack3.desc,"移動スピードの上昇効果を増強し、さらに
+早く移動できるようになる。"
+upgrades.probe.title,探査機
+upgrades.sword.title,ソード
+properties.shield.battleadditionalabilitydurationafterdepletion,追加スキル持続時間 {}秒
+upgrades.shieldbattlereflect.title,反射効果
+pause.gamepadcontrols.use,使う
+properties.laser.dpsmod,ダメージ補正 {.percent}
+upgrades.liftcapacity1.title,容量強化
+upgrades.relichunt.desc,深く埋められた遺物を見つけ出して、ドームに持ち帰ろう。
+loadout.mapsize.unlock.description,このマップサイズのアンロックには、1つ小さなサイズでのステージクリアが必要
+properties.sword.stabdamage,刺突ダメージ {} 
+properties.keeper1.drillstrength,ドリル強度 {}
+worldmodifier.mapwildbiomes.desc,バイオームの境界が非常に不規則な地下鉱山。
+upgrades.condenser.title,凝縮製水機
+upgrades.dome2badrepair2.title,衝撃波療法+2
+options.game.screenshake.shakewhenmining,採掘時のゆれ
+upgrades.repellentdelay2.title,遅延効果+2
+level.tutorial.assessor.reflect.desc,タイミングよく|を押すと、向かってくる破壊球を反射させられる。
+properties.drillbot.buffamount,エネルギッシュ採掘 {}回
+upgrades.laserstrength2.title,パワー+2
+upgrades.jetpackstrength3.title,運搬力+3
+options.keybindings.action.general,一般
+level.gameover.unlock.gadgetability,新ガジェットの戦闘スキル
+upgrades.jetpackstrength1.desc,ジェットパックが改良され、運べる資源の数が増える。
+upgrades.artillerymultishot1.desc,ショットごとに、数発のグレネードを一緒に発射する。
+properties.sword.reflectprojectiles,エネルギー性投射物反射機能
+upgrades.stunlaser.desc,敵を自動追尾し、気絶させるレーザーを導入する。
+upgrades.orchardbattleshieldstrong.desc,"果樹のシールドを強化し、さらにオーバー
+チャージで追加アビリティが使用できる。"
+upgrades.orchardjetpack1.desc,移動スピードの上昇効果を増強し、すばやく移動できるようになる。
+upgrades.laser.desc,ドームの外周に沿って砲塔が移動する精密なレーザー。もとは小惑星を採掘するために作られた。
+properties.shield.maxstrength,強度 {}HP
+loadout.keeper,キーパー
+worldmodifier.resourceunpredicatablecobalt.desc,コバルトのブロックがあちこちに散らばり、見つけにくくなる。
+title.navbar.quit,ゲームを終わる
+options.keybindings.rebinding.error.gamepad,このボタンは割り当てられません
+upgrades.repellentbattleslowdownstun1.desc,飛散する胞子を霧に添加し、敵が短時間だけ気絶するようになる。
+upgrades.swordfastreflection.title,加速リフレクター
+upgrades.stunlaserduration2.title,急速冷却+2
+level.gameover.lose.title,ドーム全壊　任務失敗
+worldmodifier.resourcescatterediron.desc,鉄の鉱床が増えるが、ひとかたまりのサイズが小さくなる。
+properties.laser.dps,ダメージ {}
+options.input.vibration.strength,ゆれの強さ
+worldmodifier.hardnessharder.desc,硬い岩がたくさん出現する。
+options.video.stretchmode,ストレッチモード
+worldmodifier.monsterhealthy.desc,敵の体力が増える。
+level.gameover.stats.mapsize,マップのサイズ
+loadout.mode.longtime,ロングサイクル
+upgrades.swordreflection3.desc,シールドパッドが最大の大きさになる。
+upgrades.repellentbattleslowdownstun2.desc,胞子が飛散する頻度が増え、気絶状態の持続時間もさらに伸びるようになる。
+upgrades.teleporterteleportresourcesarea.title,転送エリア拡張
+upgrades.shieldoverchargeduration2.desc,"オーバーチャージによる戦闘スキルの持続
+時間が、さらに伸びるようになる。"
+upgrades.shieldoverchargestrength1.title,ドームシールド強化+1
+upgrades.drillbotbuffstrength1.desc,フードに栄養が添加されて、ディグモの活動時間が長くなる。
+upgrades.orchardoverchargebuffduration.title,"オーバーチャージ
+果実効果持続"
+level.tutorial.assessor.spheres.desc3,衝突のたびに破壊球のエネルギーはチャージされる。
+loadout.mode.longtime.desc,ウェーブ到達までの時間が2倍になるが、敵が強くなる。
+level.tutorial.assessor.spheres.desc2,狙いを決めてボタンを離すと破壊球が発射される。
+upgrades.laserstrength1.desc,レーザーの威力が上がる。ただし、発射中の移動スピードは遅くなる。
+level.tutorial.assessor.spheres.desc1,|長押しで破壊球をチャージ。
+upgrades.jetpackstrength4.title,運搬力+4
+upgrades.migration.desc,さまざまな世界に移り住み、敵対生物に屈することなく資源や謎の遺物を探し当てよう。
+upgrades.orcharddrill1.desc,採掘スピードの上昇効果を増強し、より早く採掘できるようになる。
+upgrades.keeper2pinballdamage3.desc,破壊球が岩に当たったときのダメージが増加する。回転採掘のダメージも増える。
+options.accessibility.highlightmonsters,モンスターの強調
+upgrades.prestigecobaltnocobalt.title,コバルトポイント
+properties.keeper2.spherebasedamage,破壊球基本ダメージ {}
+upgrades.orcharddrill3.desc,採掘スピードの上昇効果を増強し、きわめて早く採掘できるようになる。
+properties.converter.cobalttoiron,コバルト{}個→鉄1個
+level.tutorial.repair.usecobalt,コバルトを使ってドームを修理できる。ドームの技術アップグレードツリーを見てみよう。
+upgrades.blastminingimpactdetonation.title,衝撃性爆破機能
+upgrades.swordfastreflection.desc,シールドが反射した投射物が加速して飛んでいくようになる。
+upgrades.condenserdoublestorage.title,容量強化
+upgrades.artillery.desc,バズーカ砲を導入する。
+properties.sword.electricdamage,電磁ソードダメージ{}
+level.station.upgrademenu.close,とじる
+properties.shield.overchargebattleabilityduration,追加スキル持続時間 {.percent}
+pause.title,ポーズ
+upgrades.artillerymultishot1title,チェイン・ショット+1
+properties.shield.battledestructionprevention,追加スキル持続時間 {}秒
+upgrades.orchardbattlerootingexplosion.title,捕獲対象爆破
+upgrades.blastminingproductiontime1.title,作成時間
+options.video.stretchmode.scaled.text,"固定解像度でゲームをレンダリングし、現在使用しているモニターの解像度に合わせます。
+特にフォントをピクセル化でき、視覚的な線の誤差がありません。"
+upgrades.orchardduration3.title,持続時間+3
+upgrades.domewavecount.title,サイクル計測器
+upgrades.shredgadgettoiron.title,鉄に加工
+options.keybindings.rebinding.apply,適用
+options.keybindings.restoredefault,初期設定にもどす
+upgrades.converterironduplication.title,鉄増産機能
+title.navbar.credits,クレジット
+level.gameover.unlock.gadget,新たなガジェット
+upgrades.jetpackspeed2.title,スピード強化+2
+loadout.modeoptions.title,ゲームモードを選んでください
+properties.keeper2.spherebaselifetime,破壊球持続時間 {}
+options.video.stretchmode.scaled,スケール
+properties.orchard.battleabilityduration,スキル持続時間 {}秒
+upgrades.repellentbattleslowdownstun1.title,麻痺効果
+loadout.difficulty.medium,ベテラン
+options.audio.volumes,音量
+upgrades.keeper1.title,エンジニア
+upgrades.drillbotsleepless.title,"基礎体力向上
+プログラム"
+upgrades.drillbot.title,ディグモ
+level.tutorial.assessor.carry.desc1,|長押しで資源を引き寄せてキーパーに固定する。
+level.tutorial.assessor.carry.desc2,|を押すと資源を1つ落とす。
+level.tutorial.drillbot.sleeping1,しばらく採掘するか、壊せない壁にぶつかるとディグモは居眠りする。
+level.tutorial.assessor.carry.desc3,特定方向を狙いながら資源を落とすと、資源を大きく加速させられる。
+level.tutorial.drillbot.sleeping2,そばに行き|を押すと起きる。
+level.tutorial.drillbot.sleeping3,デグモが起きている時に|を押すと方向転換する。
+properties.keeper2.totalspheres,破壊球 {}
+upgrades.shieldbattleblastdamage.title,電圧強化
+upgrades.domeresourcecounters.desc,貯蔵する資源量が表示されるようになる。
+upgrades.swordextendlong1.desc,"刀身が発射されるときのガイド機能と
+刺突パワーを強化する。"
+worldmodifier.resourcerichwater.desc,水が豊富なワールド。
+upgrades.drillbotstrength1.desc,ディグモの採掘パワーが強化される。
+upgrades.stunlaserautonomy1.desc,"AIを導入する。キーパーが採掘中でも、
+AIがスタンレーザーを起動し操作する。"
+properties.blastmining.radius,爆風範囲 {}ブロック
+upgrades.jetpackstrength1.title,運搬力+1
+options.keybindings.apply,適用
+upgrades.laserstrength2.desc,レーザーの威力が大幅に上昇する。ただし、発射中の移動スピードは遅くなる。
+properties.laser.movespeedwhilefiring,照射中スピード {.percent}
+properties.probe.markerretention,マーカー持続時間 {}秒
+upgrades.swordexplosivereflection.title,爆破リフレクター
+upgrades.condenserspeed2.desc,水を精製する時間をさらに短縮する。
+upgrades.condenserspeed2.title,精製機能+2
+properties.stunlaser.firetime,発射時間 {}秒
+options.input.gamepad.gamepadstickdeadzone,スティックの感知無効範囲
+upgrades.keeper2movement2.desc,重力生成器を改良してより素早く移動できるようになる。
+upgrades.shieldbattlelongerafterdepletion.desc,ドームシールドがエネルギー切れになった後電磁ブラストの持続効果が伸びる。
+properties.laser.bend,レーザー自動照準 {}°
+level.station.upgrademenu.buy,導入する
+properties.drillbot.plantgrowthtime,エサ生成時間 {}秒
+title.navbar.continue,コンティニュー
+upgrades.repellentoverchargeduration1.desc,"タンクをオーバーチャージすると、次の
+ウェーブで戦闘スキル持続時間が伸びる。"
+upgrades.artilleryshotcooldown1.title,クールダウン+1
+worldmodifier.resourceunpredicatablewater.desc,水のブロックがあちこちに散らばり、見つけにくくなる。
+level.tutorial.blastmining.popup_1,爆風弾を運び、爆破したい場所へ設置する。
+ending.thankyoumessage,Thank you for playing!
+options.keybindings.rebinding.error.keyboard,このキーは割り当てられません
+upgrades.keeper2pinballdamagefraction.desc,破壊球が岩の硬度を無視するようになり、岩の耐久値の一定割合に等しいダメージを与えるようになる。
+upgrades.swordlargeblade1.title,ヘビーブレード+1
+upgrades.shredgadgettoiron.desc,ガジェットを粉砕し、鉄 {amount} 個に変換する。
+upgrades.drillbot.desc,採掘が大好きなかわいいヤツが仲間になる。採掘させたい場所に連れていこう。疲れると居眠りするので、適度に様子を見に行こう。
+properties.dome.autohealdamagethreshold,発動：総耐久値以上の被ダメージ
+upgrades.dome3health1.title,耐久度+1
+title.navbar.updates.close,とじる
+upgrades.swordaimline.desc,刺突攻撃のためのレーザー照準を導入する。
+upgrades.shieldoverchargeduration1.title,スキル強化+1
+level.converter.popup.explanation,変換する資源を選んで作業を開始しよう
+upgrades.drillbotbuff1.title,ディグモフード
+title.navbar.credits.close,とじる
+upgrades.keeper2movement3.desc,重力生成器を改良してより素早く移動できるようになる。
+pause.quittotitlescreen,タイトル画面にもどる
+loadout.prestige.countdown.description,ポイント倍率が高い状態で始まり、サイクルを経るごとに倍率が減っていくモード。
+upgrades.drill3.title,ドリル強化+3
+upgrades.probestage1.title,改良型探査機
+properties.sword.stabarrowhead,刃先サイズアップ
+loadout.mapsize.huge.description,長時間プレイ向けの巨大なマップ
+properties.sword.stabspeed,刺突スピード {.percent} 
+level.tutorial.teleporter.take1,転送機にはステーションがある。転送機とステーション間を行き来できる。
+worldmodifier.mapmaze.desc,迷路のような坑道が拡がる地下鉱山。
+level.tutorial.teleporter.take2,ポータルを拾い、好きな場所に置こう。
+options.keybindings.action.dome.battleability1,戦闘スキル
+upgrades.laserbend.desc,レーザーにスイベルが搭載され、照準が補正されるようになる。
+options.video.graphicsmode.fullscreen,フルスクリーン
+options.keybindings.action.general.down,下
+level.tutorial.assessor.spheres,破壊球
+level.tutorial.mineraltree1,「鉱物の木」の種を見つけた。ブロックの上で成長し、根を張ったブロックに応じた資源を生みだすようになる。木を植えたいブロックの上に種を置いてみよう。
+upgrades.blastmining.desc,ドーム下部に、爆風弾の製造機を導入する。爆風弾の製造には水を使用し、坑道に運び離すと爆発する。
+properties.sword.stabcooldown,刺突クールダウン {}秒 
+upgrades.repellentoverchargestrength2.desc,オーバーチャージにより、次ウェーブまでの遅延時間がさらに延びる。
+upgrades.probeswift1.desc,感知範囲は狭いが充電スロットが多い短距離型の探査機に切り替える。
+properties.drillbot.buffextraamount,採掘パワー強化 {}回
+level.gameover.unlock.keeper,新たなキーパー
+upgrades.prospectionmeter.title,鉱床メーター
+upgrades.shieldbattleactivateondepletion.desc,"シールドが切れると、自動的に無敵状態が
+継続するようになる。"
+upgrades.dome2badrepair1.title,衝撃波療法+1
+upgrades.swordtargetlock.title,ターゲット・ロック
+upgrades.laserhitprojectiles.title,投射物分解機能
+upgrades.keeper2pinballreflectspeedup1.title,反射強化
+properties.repellent.battleuses,戦闘ごとの使用回数 {}回
+options.game.events,イベント
+upgrades.artilleryflakexplosionradius1.desc,爆発の火花が大きくなる。
+properties.keeper1.speedlosspercarry,運搬減速補正 {}
+level.tutorial.fullscreen.back,もどる
+level.gameover.unlocknewelementbutton,アンロックする対象を選択
+upgrades.prospectionmeteriron2.desc,最も近い鉄の鉱床がある方向を表示する。
+upgrades.prestige.desc,ドームが陥落するか、自ら惑星を去るまでに多くの資源をドームに運び母星へ送れ。
+properties.prestige.multiplier,ウェーブごとのポイント倍率 {}
+options.input.controls,操作
+properties.shield.battlereflectspeedup,反射した投射物のスピ―ド {.percent}
+loadout.difficult.easier,難易度を下げる
+upgrades.keeper2pinballreflectdamage1.title,反射ダメージ+1
+properties.sword.extendspeed,刺突スピード {} 
+properties.keeper2.reflectspeedup,破壊球の反射時スピードアップ {.percent}
+loadout.mode.doubleiron,ダブルアイアン
+upgrades.dome3.desc,体験版では選べません
+properties.repellent.growthtime,精製時間 {} サイクル
+options.game.languages,言語
+worldmodifier.mapwidebottom.desc,地層が深くなるにつれて横幅がどんどん広くなる鉱山。
+loadout.mode.maze,ラビリンス
+upgrades.dome2health1.desc,"ドーム耐久値の上限を増やし、耐久値も
+全回復させる。"
+properties.drillbot.drillstrength,ドリル強度 {}
+upgrades.keeper2.desc,実験的な重力技術を駆使して採掘する、異彩を放つ採掘士。
+properties.orchard.battleshields,シールドの層 {}
+level.tutorial.sworddome.reflecting.desc,ソードのシールドパッドを使えば、投射物を防いだり、反射したりできる。
+options.audio.volumes.musicvolume,ミュージック音量
+loadout.dome,ドーム
+upgrades.swordlongblade2.title,ロングブレード+2
+upgrades.laseraimline.title,レーザーサイト
+level.tutorial.assessor.bundle.desc1,資源運搬中に|長押しでバンドルをチャージする。
+options.keybindings.keyboard,キーボード
+level.tutorial.assessor.bundle.desc2,破壊球を発射するのと同じように、狙いを定めてボタンを離せばバンドルを発射できる。
+properties.prestige.score,{} 名声ポイント
+worldmodifier.mapdeep.desc,地層が縦に深いが、横幅は狭い地下鉱山。
+upgrades.repellentbattleslowdownstun2.title,麻痺効果（改）
+upgrades.keeper2pinballmorespheres1.title,破壊球補充+1
+upgrades.prestigewater.desc,"水を送ると名声ポイントがウェーブごとに
+１増えるようになる"
+properties.keeper2.bundlestopcenter,中心軸重力場
+upgrades.stunlaserdamage1.title,ダメージ強化+1
+upgrades.keeper2pinballlifetime1.title,破壊球持続+1
+properties.repellent.battleslowdown,敵の移動速度減少 {.percent}
+upgrades.swordextendlong1.title,長距離射出+1
+level.gameover.stats.distancetravelled,探索距離
+properties.keeper2.reflectlifetime,反射時の破壊球持続時間延長 {}秒
+upgrades.blastminingimpactdetonation.desc,爆風弾が破壊可能な壁に接触した瞬間に爆発するようになる。
+properties.keeper2.spheresplit,向かってくる破壊球を分割する
+options.keybindings.action.dome.upgrade,アップグレードメニュー
+worldmodifier.resourcepoorcobalt.desc,コバルトがほとんどないワールド。
+pause.resumegame,探索を再開する
+level.gameover.unlock.difficulty,新たな難易度がアンロックされた！
+properties.stunlaser.cooldown,クールダウン {}秒
+options.keybindings.action.general.right,右
+level.tutorial.assessor.mining.desc,1つの岩を破壊するだけなら、回転する破壊球を岩の中に移動させればいい。
+upgrades.teleporterteleportresourcesback.title,資源転送機能
+upgrades.dome1.title,レーザードーム
+upgrades.keeper2bundleinfinite.title,バンドル持続
+upgrades.repellentdelay1.title,遅延効果+1
+upgrades.miner.desc,モンスターの存在しない世界で、邪魔されずに好きなだけ採掘に集中できる。
+upgrades.repellentbattlestrongerslowdown1.desc,霧の麻痺効果が強化され、効果の持続時間も長くなる。
+upgrades.teleporterteleportresourcesarea.desc,転送機の資源捕捉範囲が広がる。
+upgrades.dome3.title,長距離砲ドーム
+upgrades.swordstabshoot.desc,"ケーブルにつながって発射される代わりに
+チャージしたソードがミサイルのように
+発射されて飛んでいくようになる。"
+upgrades.repellentbattledamageovertime.desc,"毒ガスを導入する。このガスを吸った敵は
+毎秒少しずつダメージを受ける。"
+upgrades.shieldbattleactivateondepletion.title,自動復旧機能
+upgrades.artillerymultishot2.desc,ショットごとに、数発のグレネードを一緒に発射する。
+upgrades.dome1health2.title,耐久度+2
+worldmodifier.monsterlethal.desc,敵の攻撃性が上昇し、大きなダメージを与えてくる。
+loadout.pet,ペット
+options.keybindings.action,アクション
+upgrades.orcharddrill3.title,採掘ブースト+3
+options.translation.title,言語を選択
+upgrades.prospectionmeterrange1.title,探査範囲+1
+upgrades.dome2badrepair2.desc,"ドーム耐久値が戦闘時に大幅に減った時の
+自動回復量が増える。"
+options.audio.volumes.ambiencevolume,アンビエンス音量
+upgrades.prestigecobaltnocobalt.desc,"コバルトを送ると名声ポイントの倍率が
+増えるようになる"
+worldmodifier.maparms.desc,坑道が非常に不規則に入り組み、迷いやすい地下鉱山。
+loadout.prestige.countdown,カウントダウン
+upgrades.keeper2pinballdamage2.title,破壊球強化+2
+upgrades.jetpackspeed1.title,スピード強化+1
+upgrades.minerrefuel.title,補給
+upgrades.teleporterteleportduration1.title,転送時間短縮
+properties.blastmining.bombs,チャージ {}
+loadout.miner.fuel.title,燃料
+exhibition.title.press.anything,キーを押してプレイ
+loadout.mode,モード
+level.tutorial.sworddome.slicing,なぎ払い
+properties.condenser.autoovercharge,"自動オーバー
+チャージ"
+upgrades.teleporterteleportduration1.desc,キーパーの転送に必要な時間が短くなる。
+upgrades.minerwater.title,水ポイント
+level.gameover.backtomainmenu,メインメニューにもどる
+upgrades.orchardbattleshield.desc,枝を成長させ、投射物をさえぎるシールドをドームの外に作るようになる。
+upgrades.liftcarrykeeper1.title,キーパーリフト+1
+options.input.controls.keybindings,キーコンフィグ
+properties.keeper2.bundlespheres,バンドル破壊球
+upgrades.shieldovercharge.title,ドームシールド強化
+properties.condenser.overchargedelay,精製遅延 {} サイクル
+upgrades.keeper2.title,プロフェッサー
+level.tutorial.assessor.mining,回転採掘
+upgrades.repellentoverchargeduration2.title,スキル強化+2
+upgrades.swordblade1.title,なぎ払い強化
+properties.converter.irontoiron,鉄{}個→鉄1個
+exhibition.level.description,メインメニューに戻るまで…
+level.tutorial.assessor.mining.desc2,方向キーを離すと、破壊球を発射せずに採掘を止められる。
+worldmodifier.monsterslow.desc,敵の動きが遅くなる。
+upgrades.orcharddrill2.desc,"採掘スピードの上昇効果を増強し、さらに
+早く採掘できるようになる。"
+loadout.difficulty.easy.description,全体的にまだ少し手加減された難易度
+upgrades.swordstabexplode.title,刺突爆破効果
+level.gameover.stats.additionalgadget,追加ガジェット
+upgrades.drillbotbuffstrength2.desc,エサをやると、ディグモが疲れて居眠りするまでの時間がはるかに長くなる。
+upgrades.laserstrength3.desc,レーザーの威力がさらに上がる。ただし発射中の移動速度はほぼ動けないほどになる。
+loadout.mapsize.medium,中
+loadout.difficulty.hard,サバイバー
+level.gameover.stats.wavessurvived,ウェーブ数
+properties.stunlaser.damage,ダメージ {}
+options.cancel,やめる
+level.tutorial.sworddome.stabbing.desc,剣を伸ばして遠くの敵を突き刺す。
+level.gameover.unlock.gamemodevariant,新モードのバリエーション
+upgrades.prestigefinish.title,惑星を去る
+properties.keeper2.bundleduration,バンドル持続時間 {.percent}
+upgrades.shieldstrength3.title,強化+3
+options.audio.volumes.mastervolume,マスター音量
+upgrades.shieldbattlelongerafterdepletion.title,自動電圧強化
+options.keybindings.text,"同じキーに、異なる操作を重複して設定できる場合があります。
+例：キーパーの移動とドーム武器の移動は重複が可能"
+properties.shield.battleblastdamage,爆破ダメージ {}/秒
+loadout.mapsize.large.description,プレイに1時間以上かかる大きなマップ
+upgrades.drill4.desc,ドリルが強化され、採掘速度が向上する。
+upgrades.drillbotsleepless.desc,ディグモが疲れて眠ってしまうまでの時間が延びる。
+upgrades.swordlargeblade2.title,ヘビーブレード+2
+upgrades.swordlongblade2.desc,ソードの移動スピードがさらに増し、ドームの端に当たると跳ね返るようになる。
+upgrades.prestigefinishnocobalt.title,惑星を去る
+worldmodifier.hardnessmoderated.desc,とても硬い岩と柔らかい岩がほとんど出現しない。
+upgrades.converterironduplication.desc,鉄の変換率が増える。
+upgrades.prestigefinish.desc,この惑星を去り、帰還する。
+upgrades.dome2health2.desc,"ドーム耐久値の上限を増やし、耐久値も
+全回復させる。"
+upgrades.prestige.title,名声チャレンジ
+upgrades.liftcarrykeeper1.desc,リフト内で上に進むスピードが上昇する。
+upgrades.repellentbattlehealthreduction.desc,出現しているすべての敵の残り体力を即座に減少させる。
+upgrades.dome2.title,ソードドーム
+worldmodifier.monsterfast.desc,敵の動きが速くなる。
+upgrades.condenserautocollect.desc,水が自動的に収集されるようになり、手動で採取する必要がなくなる。
+upgrades.lift.title,リフト
+options.game.screenshake,画面ゆれ
+options.keybindings.action.dome,ドーム
+upgrades.swordstabexplodedamage.desc,爆弾が与えるダメージが増加する。
+level.gameover.stats.resourcesmined,採掘資源数
+worldmodifier.resourcepoorwater.desc,水がほとんどないワールド。
+upgrades.prospectionmeter.desc,"最も近い資源の場所を知らせる探査機。
+アップグレードすると、感知範囲が広がる。"
+upgrades.shredgadgettocobalt.title,コバルトに加工
+upgrades.swordelectrified.desc,"ブレードに電気が流れ、敵生命体が触れた
+だけでダメージを与えるようになる。"
+upgrades.artilleryflakexplosionradius2.desc,爆発の火花が大きくなる。
+upgrades.prospectionmeterwater1.title,水感知器
+upgrades.minerwater.desc,水を世界の外へと送り、名声を増加させる。
+options.video.graphicsmode,グラフィックモード
+upgrades.shieldbattlereflectspeedup.desc,反射した投射物が加速するようになり攻撃者に当たりやすくなる。
+properties.shield.battleblaststun,爆破スタン {}
+loadout.mode.hyperactive.desc,敵の動きが速くなるが、体力は少なくなる。
+upgrades.swordstabexplode.desc,ソードに爆弾を搭載し、刺突攻撃が当たった最初の敵が爆発する。
+upgrades.swordstabfast2.title,刺突スピード+2
+upgrades.converterefficientwater.desc,時間が少しかかるようになるが、水への変換に必要な資源の量が減る。
+upgrades.orchardduration1.desc,フルーツによる能力強化の時間が延びる。
+loadout.difficulty.title,難易度
+exhibition.level.heading,一定時間操作がありません
+level.gameover.unlock.gamemode,新たなゲームモード
+loadout.prestige.miner.description,モンスターのいない世界で効率的に採掘しよう。20サイクル持続。
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,弱体効果
+upgrades.teleporterteleportreactivate.title,"ヒト型生命体用
+転送機能（乙）"
+loadout.miner.scores,ロケットを使って資源を惑星外に送り、20サイクルでのハイスコアを目指せ。名声チャレンジと似ているが、モンスターは出現しない。
+options.audio,音声
+upgrades.repellentovercharge.desc,水を使用するとタンクがオーバーチャージし次の防除液の精製時間が早くなる。
+upgrades.domewavemeter.title,"敵対生物
+感知メーター"
+upgrades.prospectionmeterrange2.desc,鉱床メーターの検出範囲をさらに拡張する。
+upgrades.keeper2pinballreflectspeedup1.desc,反射の際に破壊球にエネルギーを与えることで、破壊球を加速させると同時に、より長く浮遊していられるようにする。
+upgrades.shieldoverchargestrength1.desc,ドームシールドがオーバーチャージすると、吸収できるダメージがさらに増加する。
+upgrades.repellentdelay1.desc,ウェーブ到達の遅延効果を増強する。
+upgrades.repellentbattlelongerhealthreduction.title,弱体効果（改）
+upgrades.swordtargetlock.desc,"ソードが伸びる時に、先頭の敵を自動的に
+ロックオンする。"
+upgrades.orchardovercharge.desc,水を使用すると果樹園がオーバーチャージしフルーツの結実が早まるようになる。
+upgrades.orchardbattlerootingmore.title,根冠強化
+upgrades.swordextendlong2.desc,"刺突パワーをさらに強化し、また刀身発射時
+の動作の精密性も上昇する。"
+upgrades.swordstabfast1.title,刺突スピード+1
+upgrades.probelong1.desc,充電スロットが減るが、探査機の感知範囲が広がる。
+upgrades.repellent.title,防除液タンク
+worldmodifier.monsterwavesspaced.desc,敵ウェーブの到来が遅くなる。
+upgrades.artilleryflakexplosionradius2.title,砲撃射程+2
+properties.drillbot.amount,採掘パワー {}回
+upgrades.repellentdelay3.title,遅延効果+3
+ending.appreciationmessage,楽しんでいただけましたか？DiscordやSteamフォーラムでご意見をお聞かせください。
+properties.orchard.battlerootexplosion,爆発ダメージ {}
+upgrades.orchardduration3.desc,"フルーツによる能力強化の持続時間が
+最大になる。"
+upgrades.dome1damagereduction2.desc,ドームの硬度をさらに高め近接攻撃からのダメージを軽減する。ただし、投射物によるダメージには効果がない。
+properties.orchard.speedbuff,移動スピード強化 {}
+upgrades.jetpackspeed2.desc,ジェットパックが改良され、移動スピードが上昇する。
+upgrades.jetpackspeed3.desc,ジェットパックが改良され、移動スピードが上昇する。
+options.accessibility.critters.explanation,視覚的効果として、芋虫や昆虫のような生物が出現するのを無効化します。
+pause.options,オプション
+properties.repellent.battledamageovertime,敵の被ダメージ量 {}/秒
+upgrades.repellentoverchargestrength1.title,遅延効果（改）+1
+upgrades.repellentoverchargestrength1.desc,オーバーチャージにより、次ウェーブまでの遅延時間が延びるようになる。
+upgrades.blastminingproductiontime1.desc,爆風弾の作成時間を短縮する。
+properties.teleporter.teleportresourcescooldown,資源転送時間 {}秒
+upgrades.artilleryflakmultishot1.desc,発射物の数が増える。
+properties.converter.ironcobalttime,変換時間 {}サイクル
+options.title,オプション
+options.video.graphicsmode.window,ウィンドウ
+properties.sword.reflectionacceleration,投射物の反射スピ―ド {.percent}
+upgrades.swordaimline.title,照準ライン追加
+level.tutorial.drillbot.handling1,|長押しで再び捕まえる。
+upgrades.probestage1.desc,探査機の性能が向上する。
+level.tutorial.drillbot.handling2,ディグモがブロックに接する時に|を押すと方向転換する。
+options.keybindings.rebinding.capture,割り当てる
+properties.prospectionmeter.range,探索範囲 {}ブロック
+properties.stunlaser.speed,スピード {}
+properties.probe.impulsespeed,伝導スピード {}
+upgrades.domehealthmeter.title,耐久値メーター
+options.audio.music.frequency,頻度 (無音のサイクルの長さ)
+options.audio.volumes.soundvolume,サウンド音量
+properties.sword.slicebounceback,衝突時のソード反発機能
+upgrades.jetpackspeed4.desc,ジェットパックが改良され、移動スピードが上昇する。
+worldmodifier.monsterfragile.desc,敵の体力が減る。
+level.gameover.prestige.score.personalbest,自己ベスト更新！
+properties.prestige.baseperwave,{} 基本名声ポイント/ウェーブ
+loadout.choices.comingsoon,ただいま整備中。しばし待て。
+upgrades.doublelaser.desc,2基めのレーザー砲塔を設置する。ただし、火力が分配され1基あたりの火力が下がる。
+upgrades.jetpackstrength2.title,運搬力+2
+upgrades.keeper2bundlestopcenter.title,重力中心軸
+properties.keeper2.spherelifetimeperbounce,衝突ごとの破壊球持続時間延長 {}秒
+upgrades.converterefficientcobalt.desc,時間がかなりかかるようになるが、コバルトの変換が効率的になる。
+properties.orchard.buffduration,能力強化持続 {}サイクル
+upgrades.domesandrepair.title,コバルト・リペア
+properties.keeper1.maxspeed,最高スピード {}
+level.station.upgrademenu.cost,コスト
+upgrades.lasermove1.title,機動力+1
+level.tutorial.sworddome.reflecting,反射
+loadout.petoptions.title,ペットを選ぼう
+upgrades.domeresourcecounters.title,資源数モニター
+level.gameover.unlockpicker.title,アンロックする要素を選ぶ
+level.gameover.proceedtounlock,新要素をアンロックする
+upgrades.artilleryshotcooldown2.desc,発射頻度が向上する。
+level.gameover.keepgadget.title,次のステージに持ち越すガジェットを選択
+level.station.battle.navbar.shoot,発射
+upgrades.repellentbattlestrongerslowdown1.title,減速効果（改）
+upgrades.dome2.desc,敵生命体を圧倒できる威力を持つ強力なソードを搭載したドーム。
+loadout.difficulty.easy,ハード
+upgrades.condenserautocollect.title,自動収集
+upgrades.orchard.title,果樹園
+upgrades.keeper2pinballreflectspeedup2.desc,反射された破壊球がいちじるしく強化されるようになる。
+upgrades.laserstrength1.title,パワー+1
+upgrades.lasermove2.title,機動力+2
+upgrades.shieldbattlereflectshortuses.desc,ドームが投射物を反射する頻度が、より高くなる。
+options.keybindings.action.keeper.drop,落とす
+level.converter.popup.conversion.to,から
+upgrades.repellent.desc,防除液醸造タンクを導入する。タンクで醸造した防除液を散布すると、次のウェーブを遅らせることができる。
+properties.repellent.battlehealthreduction,敵の体力減少 {.percent}
+loadout.mode.hyperactive,スピード勝負
+upgrades.miner.title,採掘師
+upgrades.converter.title,資源変換機
+properties.condenser.waterstorage,水の貯蔵数：{}個
+upgrades.jetpackstrength2.desc,ジェットパックが改良され、運べる資源の数が増える。
+options.keybindings.rebinding.cancel,やめる
+options.accessibility.photosensitivity.explanation,光のちらつきを抑えます。
+properties.orchard.overchargeadditionalabilityuses,オーバーチャージ後の追加使用数 {}回
+worldmodifier.resourcepooriron.desc,鉄がほとんどないワールド。
+level.gameover.continue,メインメニューにもどる
+upgrades.orchardbattlerooting.desc,戦闘中に、果樹がドーム外に根を張る。中型の敵が根を踏むと、捕われるようになる。
+upgrades.keeper2pinballreflect.desc,周囲に小さく強力な重力場を生成することで破壊球を反射できるようになる。
+upgrades.laser.title,レーザー
+options.game.tutorials.resettutorials,チュートリアルをリセット
+properties.converter.ironirontime,変換時間 {}サイクル
+loadout.secondstage.start,探索開始
+upgrades.artilleryflakmultishot2.desc,発射物の数が増える。
+upgrades.swordreflection2.desc,シールドパッドがさらに大きくなる。
+upgrades.lasermove3.title,機動力+3
+upgrades.lasermove1.desc,レーザー砲塔の移動スピードが上昇する。
+properties.lift.orbs,オーブ {}個
+level.station.battle.navbar.move,移動
+upgrades.orchardjetpack2.title,"ジェットパック
+ブースト+2"
+options.audio.music,ミュージック
+worldmodifier.resourceunpredicatableiron.desc,鉄の鉱床があちこちに散らばり、見つけにくくなる。
+properties.dome.maxhealth,耐久値 {}HP
+upgrades.condenserspeed1.title,精製機能+1
+properties.orchard.battleabilityuses,1ウェーブごとの使用数 {}回
+upgrades.shieldstrength2.desc,ドームシールドが吸収するダメージがさらに増加する。
+upgrades.drillbotbuffstrength2.title,タウリンフード
+upgrades.keeper2pinballreflectdamage2.desc,破壊球が反射されると次に衝突する岩に対してより多くのダメージを与えるようになる。
+level.paused,ポーズ中
+level.tutorial.sworddome.stabbing,刺突
+upgrades.stunlaserspeed1.title,スピード強化+1
+upgrades.domehealthmeter.desc,ドームの耐久値が表示されるようになる。
+upgrades.swordlargeblade1.desc,ソードの長さと幅を強化し攻撃力を上げる。
+pause.quitgame,ゲームを終了する
+level.station.battle.navbar.slice,なぎ払い
+level.gameover.stats.timeplayed,プレイ時間
+properties.teleporter.teleportresources,資源転送機能
+upgrades.drillbotstrength2.desc,ディグモの採掘パワーが強化される。
+level.tutorial.drop.popup_2,|を押して落とす。長押しで一気に落とす。
+level.gameover.keepgadget.keeping,キープするガジェット: {gadget}
+level.tutorial.drop.popup_1,資源を運ぶ時は、移動スピードが低下する。
+worldmodifier.maprugged.desc,坑道が不規則に入り組んでいる地下鉱山。
+level.tutorial.onewayteleporter1,一方通行のテレポーターを見つけた！
+properties.sword.aimline,照準の導入
+upgrades.keeper2bundle.desc,収集した鉱物を、破壊球を発射するかのようにまとめて発射できるようになる。
+level.tutorial.onewayteleporter2,|を押して「目」を置くと、その場を転送先にする。
+level.tutorial.onewayteleporter3,もう一度ボタンを押せば、目へテレポートできる。
+properties.lift.capacity,オーブの運搬資源数 {}
+properties.shield.battleabilityduration,スキル持続時間 {}秒
+level.tutorial.teleporter.carry2,転送機の近くで|を長押しすると、転送機を拾う。
+level.tutorial.teleporter.carry3,|を長押ししてテレポートする。
+upgrades.minerrefuel.desc,水を燃料に変換してドームの燃料庫を満たすことで、キーパーが補給を受けられるようになる。
+level.tutorial.teleporter.carry1,ポータルは好きな場所に設置できる。
+options.keybindings.cancel,やめる
+level.tutorial.probe.popup_1,|を押して散布する。
+upgrades.liftcarrykeeper2.desc,リフト内のキーパーの移動速度がさらに上昇する。
+level.tutorial.probe.popup_3,"近くにある一部の資源の場所を知らせる。
+ステーションでの充電が必要。"
+worldmodifier.resourcerichcobalt.desc,コバルトが豊富なワールド。
+upgrades.keeper2pinballdamage4.desc,破壊球が岩に当たったときのダメージが増加する。回転採掘のダメージも増える。
+properties.sword.stabexplosive,チップ爆弾装着
+properties.drillbot.turnaround,衝突時の反転能力機能教育
+upgrades.shieldstrength1.title,強化+1
+properties.repellent.overchargewavedelay,追加のウェーブ遅延 {}サイクル
+upgrades.swordreflection3.title,リフレクター+3
+upgrades.dome1.desc,強力で精密なレーザー砲塔を搭載した標準的な採掘ドーム。
+level.tutorial.drillbot.carry,ディグモを連れ出して、採掘させたい場所に置いてやろう。
+upgrades.lift.desc,採掘した資源を自動的にドームまで運搬するオートリフトを設置する。
+upgrades.dome1health2.desc,ドームの耐久値が増加する。
+upgrades.converterefficientwater.title,水素変換効率化
+loadout.difficulty.hard.description,負けると知っても挑むかは、あなた次第
+upgrades.artillerymultishot2.title,チェイン・ショット+2
+upgrades.swordelectrified.title,電磁ブレード
+upgrades.drillbotstrength3.desc,ディグモの採掘パワーが強化される。
+upgrades.shieldbattleinvulnerable.title,無敵シールド
+upgrades.keeper2rotationalmining2.title,回転採掘強化
+upgrades.stunlaserautonomy1.title,自律型AI
+level.tutorial.teleporter.teleport1,転送機に近づいて|を押すと再度テレポートできる。
+level.tutorial.teleporter.teleport2,転送機→ドームへのテレポートも可能。
+level.gameover.prestige.uploading.failed,送信に失敗しました。もう一度試してください。
+upgrades.lasermove2.desc,レーザー砲塔の移動スピードが上昇する。
+loadout.mapsize.title,マップのサイズ
+level.gameover.miner.title,採掘者モード終了
+upgrades.blastminingblast1.title,爆風+1
+upgrades.drillbotturnaround.desc,採掘できない壁にぶつかっても、ディグモがふて寝せず方向転換するようになる。
+properties.dome.autohealamount,修復 {}HP
+upgrades.condenserautoovercharge.desc,主要ガジェットが水なしでオーバーチャージするようになる。ただしオーバーチャージ後の水の精製時間が遅れるようになる。
+upgrades.teleporterteleportresourcesback.desc,"転送機が資源を転送できるようになる。
+ただしキーパーは転送機に乗り込めなくなり
+ドーム→転送機へのテレポートのみ行える。"
+ending.wishlistonsteam,Steamウィッシュリストに追加
+properties.sword.reflection,シールドパッド増幅
+upgrades.drillbotduplicate.desc,ディグモの双子の弟「ダグモ」が増える。
+level.converter.popup.conversion.convert,変換
+leaderboard.loading,loading...
+properties.converter.watertoiron,水{}個→鉄1個
+title.navbar.options,オプション
+upgrades.swordexplosivereflection.desc,反射物が何かにぶつかると、爆発するようになる。
+upgrades.shieldbattlereflectshortuses.title,時限高反射効果
+level.gameover.unlock.skin,新たなスキンが解放された！
+level.gameover.stats.destroyedblocks,破壊ブロック数
+options.keybindings.action.keeper.gravityball,射撃のチャージ
+upgrades.orchardjetpack1.title,"ジェットパック
+ブースト+1"
+upgrades.keeper1.desc,すぐれた採掘スキルを持つ、有能な専門家。
+properties.laser.movespeedmod,移動スピード補正 {.percent}
+upgrades.laserstrength3.title,パワー+3
+upgrades.orchardoverchargebuffduration.desc,"果樹がオーバーチャージすると、フルーツに
+よる能力の強化時間が伸びるようになる。"
+upgrades.stunlaserduration1.title,急速冷却+1
+loadout.mode.maze.desc,枝分かれ、ねじれ、行き止まり。マップが迷路のように変化する。
+properties.dome.healthfractionrepair,修復HP：総耐久値の{.percent}
+upgrades.jetpackstrength3.desc,ジェットパックが改良され、運べる資源の数が増える。
+options.input.gamepad.gamepadstickdeadzone.motiondetected,モーション検出
+upgrades.prospectionmetersand1.title,コバルト感知器
+upgrades.prospectionmeterwater1.desc,最も近い水までの距離を表示する。
+upgrades.blastminingstickycharge.desc,爆風弾が最初に触れた壁にくっつき、縦状にブロックを爆破するようになる。
+options.video,映像
+title.navbar.updates,更新情報
+loadout.skin,スキン
+upgrades.shieldstrength2.title,強化+2
+level.gameover.win.title,ドーム防衛成功
+level.station.navbar.battle,戦闘モード
+upgrades.converterirontocobalt.desc,コバルトを鉄に、鉄をコバルトに変換できるようになる。
+upgrades.keeper2rotationalmining2.desc,回転採掘のダメージが増加し、岩の硬度を無視するようになる。
+level.gameover.unlock.dome,新たなドーム
+pause.gamepadcontrols.pickup,拾う
+options.video.graphicsmode.photosensitive,光敏感症配慮モード
+upgrades.orchardduration2.desc,"フルーツによる能力強化の持続時間が
+さらに延びる。"
+properties.dome.meleedamagereduction,近接ダメージ軽減率 {.percent}
+upgrades.domesandrepairstrong.desc,コバルトを消費してドームを修復する。
+options.input,入力
+properties.keeper2.spherereload,破壊球のリロード {}秒
+properties.blastmining.damage,ダメージ {}
+upgrades.laserbend.title,スイベルヘッド
+upgrades.swordlargeblade3.desc,強力なブレード。すさまじいパワーを持つが移動スピードはかなり遅くなる。
+loadout.domeoptions.title,ドームを選んでください
+upgrades.shieldoverchargeduration1.desc,"シールドをオーバーチャージすると、次の
+ウェーブで戦闘スキル持続時間が伸びる。"
+upgrades.probelong1.title,探知範囲強化
+options.keybindings.rebinding.inputprocessor,設定するキーを押してください
+properties.teleporter.teleportduration,転送時間 {}秒
+upgrades.dome2health2.title,耐久度+2
+upgrades.drillbotduplicate.title,なかよし兄弟
+pause.quit.popup,"本当に終了しますか？
+もう一度押して終了します
+(進行状況はセーブされます)"
+upgrades.prospectionmetersand2.desc,最も近いコバルトの鉱床の方向を表示する。
+upgrades.probepersist1.desc,探査機にメモリーモジュールを搭載し、資源位置のマーク時間を大幅に伸ばす。
+upgrades.artilleryshotcooldown2.title,クールダウン+2
+properties.keeper2.sphereadditionalfirsthitdamage,初回ヒット追加ダメージ {.percent}
+upgrades.shieldbattledestructionprevention.title,"最終兵器
+「背水の陣」"
+level.gameover.unlock.pet,新たなペットが解放された！
+upgrades.repellentbattlelongerhealthreduction.desc,出現している敵への弱体効果を強め、さらに効果の持続時間を伸ばす。
+ending.feedbackondiscord,Discordでフィードバックする
+properties.keeper2.reflectnexthitdamage,反射した破壊球による次の衝突時の追加ダメージ {.percent}
+options.video.graphicsmode.borderlesswindow,ボーダーレスウィンドウ
+upgrades.keeper2pinballlifetime1.desc,破壊球を安定させ、より長時間にわたって浮遊させられるようになる。
+level.gadgetchoice.title,ガジェットを選んでください
+upgrades.keeper2bundle.title,バンドルショット
+upgrades.relichunt.title,遺物収集モード
+loadout.mode.doubleiron.desc,鉄の鉱床が2倍になるが、アップグレードに必要な鉄も2倍になる。
+level.tutorial.repair.findcobalt,"コバルトは貴重で数に限りがある資源で、
+ドームの修復に使用する。ぜひ見つけよう。"
+upgrades.keeper2pinballsplit.title,破壊球分割
+options.input.controls.text,コントローラー使用を推奨
+landing.proceed,キーを押してステージを開始
+upgrades.keeper2pinballmorespheres1.desc,重力生成器にモジュールを追加し、より多くの破壊球を装備できるようになる。
+upgrades.jetpackstrength4.desc,ジェットパックが改良され、運べる資源の数が増える。
+upgrades.orchardbattleshieldsecondlayer.desc,果樹が作ったシールドがもう一層増える。
+level.converter.popup.conversion.time,{time} サイクル以上
+properties.keeper2.maxspeed,最高スピード {}
+properties.laser.aimline,照準ライン追加
+upgrades.shieldstrength3.desc,ドームシールドが吸収するダメージがさらに増加する。
+upgrades.repellentovercharge.title,精製効率強化
+properties.drillbot.buffstrength,エネルギー加速 {.percent}
+worldmodifier.hardnesssofter.desc,柔らかい岩がたくさん出現する。
+level.tutorial.pickup.popup_1,|を押して拾う。
+level.tutorial.pickup.popup_3,長押しで一気に複数個を拾える。
+pause.gamepadcontrols.drop,落とす
+level.tutorial.fruit.popup_1,果樹にフルーツが実った。
+level.tutorial.fruit.popup_2,そばに行き|を押すとフルーツを食べる。
+worldmodifier.mapwide.desc,地層は浅いが、横に広大な地下鉱山。
+upgrades.prestigefinishnocobalt.desc,この惑星を去り、帰還する
+upgrades.prospectionmeteriron2.title,鉄探査コンパス
+upgrades.keeper2movement2.title,重力機動+2
+options.keybindings.gamepad,コントローラー
+ending.backtomainmenu,メインメニューにもどる
+pause.gamepadcontrols.back,もどる
+upgrades.shield.title,シールド
+upgrades.blastmining.title,爆風弾
+upgrades.converterirontocobalt.title,コバルト変換
+upgrades.swordstabfast1.desc,刺突のスピードと頻度が向上する。
+level.gameover.prestige.score.rankunchanged,ランキング変化なし
+options.accessibility.critters,生物の無効化
+upgrades.teleporterteleportreactivate.desc,転送機の機能が拡張され、キーパーが転送機に乗り込めるようになる。
+upgrades.orchardjetpack3.title,"ジェットパック
+ブースト+3"
+level.gameover.unlock.mapsize,新たなマップサイズがアンロックされた！
+level.station.upgrademenu.inventory,所持数
+level.gameover.keepgadget.none,なし
+upgrades.stunlaserdamage1.desc,スタンレーザーが敵に対し少量のダメージを与えるようになる。
+properties.repellent.battleabilityduration,スキル持続時間 {}秒
+upgrades.prestigeiron.desc,"鉄を送ると名声ポイントがウェーブごとに
+１増えるようになる"
+upgrades.teleporter.title,テレポーター
+ending.teasemessage,今後の新要素をちょっとだけご紹介
+loadout.relichunt.modifiers,オプションを選択せよ
+options.accessibility,アクセシビリティ
+loadout.mapsize.small.description,短時間プレイ用の小さなマップ
+upgrades.shieldbattleblastdamage.desc,電磁ブラストのダメージ量と気絶効果を強化する。
+options.translation.community.desc,以下の言語は私たちのコミュニティで翻訳中です。ぜひ翻訳プロジェクトにご参加を！
+upgrades.prospectionmeterwater2.desc,最も近い水のブロックの方向を表示する。
+upgrades.stunlaserdamage2.title,ダメージ強化+2
+options.keybindings.action.keeper.gadget1,カジェット1
+options.keybindings.action.keeper.gadget2,カジェット2
+properties.repellent.wavedelay,ウェーブ遅延 {}サイクル
+options.ok,OK
+upgrades.swordblade1.desc,なぎ払い時のパワーとスピードを強化する。
+upgrades.shieldoverchargeduration2.title,スキル強化+2
+properties.sword.slicedamage,なぎ払いダメージ {} 
+properties.condenser.autocollect,自動収集機能
+properties.keeper2.directminingdamage,高回転採掘ダメージ
+upgrades.keeper2bundlestopcenter.desc,発射したバンドルが、中心軸を通過せずにドームの真下で留まるようになる。
+upgrades.orchardduration1.title,持続時間+1
+upgrades.drillbotbuffstrength1.title,栄養満点フード
+upgrades.liftcarrykeeper2.title,キーパーリフト+2
+upgrades.shieldoverchargestrength2.desc,ドームシールドがオーバーチャージすると、吸収できるダメージがさらに増加する。
+upgrades.repellentbattleslowdown.title,減速効果
+upgrades.artilleryshotprediction.title,射撃予測
+upgrades.repellentdelay3.desc,ウェーブ到達の遅延効果をさらに増強する。
+upgrades.teleporter.desc,双方向転送機を導入する。転送機を坑道に設置すると、ドーム下部のステーションと行き来できるようになる。
+level.gameover.stats.monsterskilled,倒した敵生命体
+upgrades.keeper2pinballreflect.title,破壊球反射
+upgrades.drillbotstrength3.title,強化+3
+upgrades.shieldbattlereflectspeedup.title,加速反射効果
+upgrades.probeswift1.title,スピード強化
+options.game.events.enableseasonal,シーズンコンテンツを有効にする
+upgrades.repellentbattledamageovertime.title,毒ガス
+upgrades.dome3health2.title,耐久度+2
+loadout.mapsize.huge,巨大
+properties.repellent.overchargebattleabilityduration,追加スキル持続時間 {.percent}
+options.keybindings.action.keeper.gravitycollect,収集のチャージ
+loadout.miner.scores.title,スコア
+properties.lift.speed,オーブの移動速度 {}
+upgrades.drillbotstrength1.title,強化+1
+level.tutorial.repellent.popup_2,そばに行き|を押して起動する。
+level.tutorial.repellent.popup_1,防除剤を散布して、敵ウェーブの到達を遅らせよう。
+properties.orchard.growthtime,成長時間 {} サイクル
+properties.keeper2.spherefractiondamage,破壊球岩石硬度無視率 {.percent}
+properties.sword.brake,ソードの敏捷性 {}
+upgrades.artilleryflakmultishot2.title,マルチショット+2
+upgrades.swordstabfast2.desc,刺突の頻度とスピードが向上する。
+upgrades.sword.desc,耐久性の高いソード。大きくなぎ払うことでダメージが上昇する。敵を刺突する際に刀身を発射でき、敵の投射物を跳ね返すシールドも搭載している。
+upgrades.artilleryflakmultishot1.title,マルチショット+1
+upgrades.artilleryshotprediction.desc,発射したグレネードの予測軌道を表示する。
+upgrades.shieldbattlereflect.desc,"戦闘スキル。ドームが投射物を短時間だけ
+跳ね返すようになる。"
+upgrades.orchardbattleshieldstrong.title,強化シールド
+upgrades.swordlongblade1.title,ロングブレード+1
+level.station.battle.navbar.stab,刺突
+properties.converter.irontowater,鉄{}個→水1個
+upgrades.minoriron.title,鉄ポイント
+upgrades.keeper2bundleinfinite.desc,バンドルがかなり長い時間にわたって安定していられるようになる。
+worldmodifier.resourcedesc,鉄の鉱床が減るが、ひとかたまりのサイズがとても大きくなる。
+options.keybindings.action.keeper,キーパー
+upgrades.drillbotstrength4.desc,ディグモの採掘パワーが強化される。
+upgrades.swordstabexplodedamage.title,ボム・ダメージ
+upgrades.prospectionmeterwater2.title,水探査コンパス
+loadout.keeperoptions.title,キーパーを選んでください
+properties.probe.range,範囲 {}ブロック
+upgrades.orchardbattleshield.title,対投射物シールド
+loadout.mapsize.large,大
+properties.keeper2.reflectsphere,向かってくる破壊球を反射する
+upgrades.orchardbattlerooting.title,根冠トラップ
+properties.blastmining.growthtime,作成時間 {} サイクル
+properties.converter.irontocobalt,鉄{}個→コバルト1個
+upgrades.dome3health1.desc,ドームの耐久値が増加する。
+upgrades.teleporterteleportresourcescooldown.title,PTLクーラー
+upgrades.shieldovercharge.desc,水を使用してシールドをオーバーチャージし次ウェーブでダメージをより多く吸収する。
+upgrades.stunlaserspeed2.title,スピード強化+2
+upgrades.drillbotbuff1.desc,"巣でエサが生成される。エサをディグモに
+運んで食べさせると、元気に活動する。"
+options.keybindings.action.dome.battle,戦闘モード
+upgrades.orchardovercharge.title,結実促進効果
+properties.teleporter.teleportresourcesarea,転送範囲 {}ブロック
+upgrades.swordreflection1.desc,シールドパッドを大きくし、エネルギー性の投射物を反射するようになる。
+upgrades.blastminingblast2.title,爆風+2
+upgrades.swordreflection1.title,リフレクター+1
+upgrades.keeper2pinballlifetime2.desc,破壊球を安定させ、より長時間にわたって浮遊させられるようになる。
+options.keybindings.action.general.left,左
+properties.laser.movespeed,移動スピード {}
+upgrades.dome3health2.desc,ドームの耐久値が増加する。
+upgrades.drill2.title,ドリル強化+2
+options.keybindings.rebinding,割り当て
+level.tutorial.assessor.carry.desc1_1,1度ロックしてしまえば、収集キーを離しても資源はキーパーの後ろについてくる。
+upgrades.keeper2pinballdamage1.title,破壊球強化+1
+upgrades.stunlaserspeed2.desc,スタンレーザーの移動スピードがさらに早くなり、クールダウン時に敵を追跡し続ける。
+options.keybindings.title,コントロールマッピング
+upgrades.keeper2pinballmorespheres2.desc,重力生成器にモジュールを追加し、より多くの破壊球を装備できるようになる。
+level.gameover.prestige.uploading.finalfailed,最新スコアのアップロードに失敗しました。
+upgrades.blastminingblast1.desc,爆風のパワーを増強する。
+upgrades.stunlaserduration2.desc,スタンレーザーのクールダウン時間が早まり照射時間がのびる。
+upgrades.prospectionmetersand1.desc,最も近いコバルトまでの距離を表示する。
+pause.gamepadcontrols.move,移動
+properties.probe.charges,チャージ {}
+upgrades.drillbotstrength2.title,強化+2
+loadout.prestige.cobalt.description,マップ上にコバルトが生成されず、ガジェットを使用した精製も不可能なモード。最初に与えられる貯蔵分だけで挑もう。

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Garden subtle.wav-023dbdfb8f7c5c8d5bea74fbe13d7db5.sample"
+
+[deps]
+
+source_file="res://content/sounds/Amb/Garden subtle.wav"
+dest_files=[ "res://.import/Garden subtle.wav-023dbdfb8f7c5c8d5bea74fbe13d7db5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

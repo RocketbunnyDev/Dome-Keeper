@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/InvunerableEnd.wav-37125902639f3117be57850dfbaff03d.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/Scarab/InvunerableEnd.wav"
+dest_files=[ "res://.import/InvunerableEnd.wav-37125902639f3117be57850dfbaff03d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,103 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://gui/theme.tres" type="Theme" id=1]
+[ext_resource path="res://gui/fonts/FontHeading.tres" type="DynamicFont" id=2]
+[ext_resource path="res://systems/options/LanguageSelectPanel.gd" type="Script" id=4]
+[ext_resource path="res://gui/fonts/FontLarge.tres" type="DynamicFont" id=6]
+
+[node name="LanguageSelectPanel" type="ColorRect"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme = ExtResource( 1 )
+color = Color( 0.0705882, 0.0705882, 0.101961, 0.733333 )
+script = ExtResource( 4 )
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="PanelContainer" type="PanelContainer" parent="CenterContainer"]
+margin_left = 616.0
+margin_top = 71.0
+margin_right = 1303.0
+margin_bottom = 1008.0
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 675.0
+margin_bottom = 925.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 647.0
+margin_bottom = 897.0
+
+[node name="Label" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+margin_right = 631.0
+margin_bottom = 65.0
+custom_fonts/font = ExtResource( 2 )
+text = "options.translation.title"
+align = 1
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+margin_top = 81.0
+margin_right = 631.0
+margin_bottom = 881.0
+rect_min_size = Vector2( 400, 800 )
+follow_focus = true
+scroll_horizontal_enabled = false
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/ScrollContainer"]
+margin_right = 564.0
+margin_bottom = 255.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/ScrollContainer/MarginContainer"]
+margin_left = 16.0
+margin_top = 16.0
+margin_right = 548.0
+margin_bottom = 239.0
+
+[node name="ProfessionalTranslations" type="GridContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_right = 532.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+columns = 3
+
+[node name="HSeparator" type="HSeparator" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 16.0
+margin_right = 532.0
+margin_bottom = 40.0
+
+[node name="Label" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 56.0
+margin_right = 532.0
+margin_bottom = 93.0
+custom_fonts/font = ExtResource( 6 )
+text = "options.translation.community.title"
+align = 1
+
+[node name="Label2" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 109.0
+margin_right = 532.0
+margin_bottom = 134.0
+text = "options.translation.community.desc"
+align = 1
+autowrap = true
+
+[node name="CrowdinButton" type="Button" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 150.0
+margin_right = 532.0
+margin_bottom = 207.0
+text = "Dome Keeper Translation Project on Crowdin"
+
+[node name="CommunityTranslations" type="GridContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+margin_top = 223.0
+margin_right = 532.0
+margin_bottom = 223.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+columns = 3
+
+[connection signal="pressed" from="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/CrowdinButton" to="." method="_on_CrowdinButton_pressed"]

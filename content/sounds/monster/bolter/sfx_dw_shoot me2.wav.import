@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/sfx_dw_shoot me2.wav-e0822e023a8d3bdf1f3acdd160af1b83.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/bolter/sfx_dw_shoot me2.wav"
+dest_files=[ "res://.import/sfx_dw_shoot me2.wav-e0822e023a8d3bdf1f3acdd160af1b83.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

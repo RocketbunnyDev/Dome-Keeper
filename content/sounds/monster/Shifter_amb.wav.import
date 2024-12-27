@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Shifter_amb.wav-20983bbe50568ca6cbe744eec2e3721c.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/Shifter_amb.wav"
+dest_files=[ "res://.import/Shifter_amb.wav-20983bbe50568ca6cbe744eec2e3721c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

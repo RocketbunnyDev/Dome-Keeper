@@ -1,0 +1,52 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://content/gadgets/mineraltree/seeddrop.png" type="Texture" id=1]
+[ext_resource path="res://content/caves/seedcave/MineralTreeTutorial.gd" type="Script" id=3]
+[ext_resource path="res://gui/theme.tres" type="Theme" id=4]
+
+[node name="MineralTreeTutorial" type="MarginContainer"]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -518.0
+margin_top = -122.0
+grow_horizontal = 0
+grow_vertical = 0
+theme = ExtResource( 4 )
+script = ExtResource( 3 )
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+margin_left = 16.0
+margin_top = 18.0
+margin_right = 520.0
+margin_bottom = 106.0
+size_flags_horizontal = 8
+size_flags_vertical = 8
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 492.0
+margin_bottom = 76.0
+
+[node name="TextureRect" type="TextureRect" parent="PanelContainer/HBoxContainer" groups=["unstyled"]]
+margin_right = 64.0
+margin_bottom = 64.0
+rect_min_size = Vector2( 64, 64 )
+size_flags_vertical = 5
+texture = ExtResource( 1 )
+expand = true
+stretch_mode = 6
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/HBoxContainer"]
+margin_left = 80.0
+margin_right = 480.0
+margin_bottom = 64.0
+
+[node name="Label" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer"]
+margin_right = 400.0
+margin_bottom = 25.0
+rect_min_size = Vector2( 400, 0 )
+text = "level.tutorial.mineraltree1"
+autowrap = true

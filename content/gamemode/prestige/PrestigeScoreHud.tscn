@@ -1,0 +1,86 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://content/gamemode/prestige/PrestigeScoreHud.gd" type="Script" id=1]
+[ext_resource path="res://content/gamemode/prestige/score_hud.png" type="Texture" id=2]
+[ext_resource path="res://gui/fonts/FontHudPixelartMonospaced.tres" type="DynamicFont" id=3]
+[ext_resource path="res://content/sounds/UI/ui_tests_02.wav" type="AudioStream" id=4]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=5]
+[ext_resource path="res://content/sounds/UI/ui_tests_05.wav" type="AudioStream" id=6]
+[ext_resource path="res://content/gamemode/prestige/multipl_hud.png" type="Texture" id=7]
+
+[node name="PrestigeScoreHud" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+rect_scale = Vector2( 0.333, 0.333 )
+script = ExtResource( 1 )
+size = Vector2( 7, 3 )
+layoutWeights = Vector2( 1, 1 )
+layoutPriority = 9
+
+[node name="TextureRect" type="TextureRect" parent="."]
+margin_left = 12.012
+margin_top = 30.03
+margin_right = 33.012
+margin_bottom = 48.03
+texture = ExtResource( 2 )
+expand = true
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+margin_left = 45.0451
+margin_top = 9.00901
+margin_right = 65.0451
+margin_bottom = 31.009
+rect_scale = Vector2( 0.5, 0.5 )
+texture = ExtResource( 7 )
+stretch_mode = 1
+
+[node name="ScoreLabel" type="Label" parent="."]
+margin_left = 42.0059
+margin_top = 17.991
+margin_right = 117.006
+margin_bottom = 49.991
+grow_horizontal = 0
+size_flags_horizontal = 8
+custom_colors/font_color = Color( 1, 0.92549, 0.839216, 1 )
+custom_fonts/font = ExtResource( 3 )
+text = "54680"
+align = 2
+
+[node name="MultiplierLabel" type="Label" parent="."]
+margin_left = 9.009
+margin_top = -9.00901
+margin_right = 39.009
+margin_bottom = 22.991
+grow_horizontal = 0
+size_flags_horizontal = 8
+custom_colors/font_color = Color( 1, 0.92549, 0.839216, 1 )
+custom_fonts/font = ExtResource( 3 )
+text = "99"
+align = 2
+
+[node name="BasePerWaveLabel" type="Label" parent="."]
+margin_left = 57.021
+margin_top = -9.01201
+margin_right = 117.021
+margin_bottom = 22.988
+grow_horizontal = 0
+size_flags_horizontal = 8
+custom_colors/font_color = Color( 1, 0.92549, 0.839216, 1 )
+custom_fonts/font = ExtResource( 3 )
+text = "999"
+align = 2
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="Ping" parent="." instance=ExtResource( 5 )]
+stream = ExtResource( 4 )
+volume_db = 6.118
+bus = "UI"
+randomPitch = 0.5
+
+[node name="Kaching" parent="." instance=ExtResource( 5 )]
+stream = ExtResource( 6 )
+volume_db = 13.255
+bus = "UI"
+randomVolume = 1.0
+randomPitch = 0.2

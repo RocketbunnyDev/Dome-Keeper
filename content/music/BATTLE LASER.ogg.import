@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/BATTLE LASER.ogg-6404a33d90a5fcc57f2f196f45d6d3ec.oggstr"
+
+[deps]
+
+source_file="res://content/music/BATTLE LASER.ogg"
+dest_files=[ "res://.import/BATTLE LASER.ogg-6404a33d90a5fcc57f2f196f45d6d3ec.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

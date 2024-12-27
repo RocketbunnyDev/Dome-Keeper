@@ -1,0 +1,942 @@
+﻿key,nl_NL
+loadout.prestige.title,Kies een speltypevariatie
+upgrades.shieldbattleelectroblast.title,Elektroveld
+properties.orchard.battleshieldhp,Versterkt {} hp
+level.station.battle.navbar.move,Verplaatsen
+options.video.stretchmode.rezised,Grootte aangepast
+level.gameover.unlock.world,Nieuwe wereld ontgrendeld!
+upgrades.blastminingwaterless.desc,"Je hebt geen water meer nodig voor de productie, maar het duurt wel langer."
+properties.blastmining.growthtime,Productietijd van {} cycli
+properties.laser.stun,Verlammingskracht {}
+exhibition.level.instruction,Druk op een toets of knop om te blijven spelen!
+pause.godot,Gemaakt met Godot
+upgrades.orchardjetpack2.desc,"Verhoogt de fruitsnelheidsboost, waardoor je nog sneller beweegt."
+upgrades.artillery.title,Artillerie
+upgrades.condenser.desc,Voegt een machine toe onder de koepel die langzaam water produceert door middel van condensatie.
+properties.lift.keeperupwardsspeed,Liftsnelheid wachter {}
+level.tutorial.fullscreen.continue,doorgaan
+upgrades.dome1damagereduction2.title,Verharding 2
+upgrades.orchardduration2.title,Voedzaamheid 2
+upgrades.condenserautoovercharge.title,Automatisch overladen
+upgrades.keeper2pinballreflectdamage2.title,Schade weerkaatsing 2
+loadout.title,KIES JE UITRUSTING
+level.tutorial.teleporter_2,Gebruik het teleportatiestation om naar de portal te teleporteren en omgekeerd.
+options.keybindings.action.general.up,Omhoog
+level.converter.popup.cancel,Annuleren
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,Activeert vaardigheid bij schilduitputting
+loadout.difficulty.veryeasy,Normaal
+properties.sword.reflectprojectilesexplosive,Weerkaatste energieprojectielen zijn explosief
+upgrades.swordlargeblade3.title,Zwaar zwaard 3
+upgrades.orcharddrill2.title,Mijnwerkboost 2
+loadout.prestige.normal.description,Het normale prestigespeltype.
+upgrades.keeper2pinballreflectdamage1.desc,Weerkaatste bollen richten veel meer schade aan aan de rots die ze als volgende raken.
+options.input.gamepad,Controller
+loadout.choices.locked,Nog niet ontgrendeld
+upgrades.condenserspeed1.desc,Er is minder tijd nodig om een eenheid water te produceren.
+upgrades.shieldbattleinvulnerable.desc,Activeer een actieve vechtvaardigheid die je koepel eventjes onkwetsbaar maakt.
+upgrades.domewavemeter.desc,Geeft aan hoe lang het nog duurt tot de volgende golf vijanden aanvalt.
+upgrades.keeper2pinballreflectspeedup2.title,Superieure weerkaatsing
+upgrades.keeper2movement1.desc,Verbeter je zwaartekrachtgenerator om sneller te gaan.
+upgrades.repellentoverchargeduration2.desc,Na het overladen gaat de vechtvaardigheid langer mee in de volgende golf.
+upgrades.laserhitprojectiles.desc,Energieprojectielen die worden geraakt met de laser lossen direct op.
+options.keybindings.action.keeper.pickup,Oprapen
+upgrades.keeper2pinballdamage1.desc,Verbeter de schade die de kinetische bol aanricht aan rotsen bij inslag. Verbetert ook roterende mijnwerkschade.
+upgrades.keeper2pinballdamage3.title,Schade kinetische bol 3
+options.video.graphicsmode.enablevsync,VSync inschakelen
+options.translation.community,"Communityvertaling, {completion}% voltooid"
+loadout.difficult.harder,moeilijker
+worldmodifier.resourcerichiron.desc,Deze wereld bevat veel ijzer.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,IJzer versturen
+upgrades.stunlaserspeed1.desc,De stunlaser beweegt sneller.
+upgrades.keeper2pinballdamage2.desc,Verbeter de schade die de kinetische bol aanricht aan rotsen bij inslag. Verbetert ook roterende mijnwerkschade.
+upgrades.drill1.title,Boorkracht 1
+upgrades.prospectionmetersand2.title,Kobaltkompas
+upgrades.dome1health1.desc,Permanente verbetering van de structurele stabiliteit van je koepel.
+title.navbar.newgame,Nieuwe game
+properties.repellent.overchargeduration,Verhoog de productiesnelheid van de verdelger gedurende {} cycli
+properties.sword.retractspeed,Terugtreksnelheid {} 
+upgrades.lasermove3.desc,De maximale bewegingssnelheid van de laser.
+upgrades.stunlaser.title,Stunlaser
+options.keybindings.action.general.use,Gebruiken
+worldmodifier.monsterfeeble.desc,De monsters zijn zwakker en richten minder schade aan.
+upgrades.shield.desc,Monteer een schild dat wat schade absorbeert. Wordt automatisch opgeladen.
+options.video.stretchmode.rezised.text,"De game wordt op een volledig scherm gerenderd in de oorspronkelijke resolutie of in een vensterresolutie.
+Geeft een scherp beeld, maar er kunnen visuele problemen optreden in de vorm van lijnen die 1 pixel breed zijn."
+upgrades.orchardbattlerootingexplosion.desc,"Activeer nogmaals om alle verstrikte monsters te laten ontploffen, zodat ze schade om zich heen aanrichten."
+loadout.mapsize.small,Klein
+upgrades.probe.desc,Voegt een sonde toe aan je pak die na activering een puls uitzendt die nabije grondstoffen onthult. Moet worden opgeladen in het station onder de koepel.
+upgrades.swordlongblade1.desc,"Monteert een langer, wendbaarder zwaard."
+upgrades.dome1health1.title,Stabiliteit 1
+upgrades.blastminingwaterless.title,Waterloze explosieven
+level.tutorial.assessor.carry,Zwaartekracht verzamelen
+upgrades.liftspeed1.desc,De bollen bewegen sneller.
+upgrades.shieldstrength1.desc,Vergroot de hoeveelheid schade die het koepelschild kan absorberen.
+upgrades.orchardbattleshieldsecondlayer.title,Dubbellaagsschild
+upgrades.teleporterteleportresourcescooldown.desc,De portal kan vaker grondstoffen teleporteren.
+options.input.gamepad.autoswitch,automatische detectie van gekozen gamepad
+level.gameover.unlock.modifiers,Wereldmodifiers ontgrendeld!
+properties.sword.slicebrake,Snelheidsverlies bij hakken {.percent}
+loadout.mapsize.medium,Normaal
+properties.sword.sliceacceleration,Zwaardsnelheid {}
+options.input.gamepad.gamepadstickdeadzone.text,"Stel de waarde zo in dat de balk niet knippert als je de analoge sticks aanraakt, zonder ertegen te duwen.
+Als je de stick beweegt, zou de balk moeten knipperen."
+options.accessibility.highlightmonsters.explanation,Voeg een duidelijke omlijning aan de monsters toe zodat je ze goed kunt zien.
+properties.upgrade.gameover,Run beëindigen
+upgrades.blastminingstickycharge.title,Kleefexplosieven
+upgrades.shieldoverchargestrength2.title,Overladen schildkracht 2
+upgrades.blastminingblast2.desc,Vergroot de kracht van de explosie nog meer.
+upgrades.repellentbattlestrongerslowdown2.title,Sterke stagnatie
+upgrades.converter.desc,Kan grondstoffen omzetten om je grondstoffenverzameling in balans te houden.
+level.gameover.continue,Doorgaan
+upgrades.repellentbattleslowdown.desc,Sproei een verdovende nevel die alle monsters vertraagt.
+loadout.mapsize.medium.description,Een gemiddelde kaart voor als je lekker wilt mijnen.
+properties.orchard.overchargeadditionalbuffduration,{}s extra verbetering na overladen
+options.translation.community.title,Communityvertalingen
+upgrades.blastminingtriple.title,Driedubbele ladingen
+worldmodifier.hardnessextremes.desc,Er zijn veel meer rotsen die extreem hard of zacht zijn.
+level.station.battle.navbar.exit,Stoppen
+upgrades.keeper2pinballlifetime2.title,Levensduur kinetische bol 2
+upgrades.minoriron.desc,Send iron offworld to increase your prestige.
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,Migratie
+upgrades.converterefficientcobalt.title,Efficiënte kobaltomzetting
+upgrades.shieldbattledestructionprevention.desc,"Je bent langer onkwetsbaar als je koepel op instorten staat.
+Je schild laadt daarna niet op voor het volgende gevecht. Je moet 2 golven hebben voltooid om 'Laatste verzet' te kunnen activeren.
+"
+upgrades.drill1.desc,Versterkt de boor om sneller te kunnen graven.
+level.gameover.retry,Nieuwe run starten
+properties.orchard.overchargeduration,Fruit groei {} cycli lang twee keer zo snel
+upgrades.dome2health1.title,Stabiliteit 1
+level.tutorial.station.popup_4,Druk vervolgens op | om naar de vechtstand te gaan en te verdedigen.
+level.gameover.stats.timeplayed.unit,m
+upgrades.repellentbattlestrongerslowdown2.desc,De nevel vertraagt monsters nog meer en blijft nog langer hangen.
+loadout.gadgetoptions.title,Kies je primaire gadget!
+level.tutorial.station.popup_2,Ga naar het station en druk op | om naar binnen te gaan.
+upgrades.dome1damagereduction1.desc,"Verhard het oppervlak van de koepel, zodat mêleetreffers van monsters minder schade aanrichten. Heeft geen invloed op projectielschade."
+level.tutorial.station.popup_1,Je koepel wordt aangevallen!
+upgrades.keeper2movement3.title,Zwaartekrachtbeweging 3
+upgrades.jetpackspeed1.desc,"Verbetert de jetpack, zodat je je sneller verplaatst."
+properties.converter.ironwatertime,Omzettijd van {} cycli
+level.tutorial.sworddome.slicing.desc,"Hoe sneller je het zwaard zwaait, des te meer schade je aanricht."
+upgrades.liftorbs.desc,Installeer een extra liftbol.
+upgrades.proberecharge.desc,De sonde laadt zichzelf langzaam op.
+loadout.gadget,GADGET
+upgrades.drill4.title,Boorkracht 4
+properties.probe.rechargetime,Compleet opgeladen in {} cycli 
+upgrades.keeper2pinballdamage4.title,Schade kinetische bol 4
+options.game,Spel
+loadout.prestige.cobalt,Vaste hoeveelheid kobalt
+options.input.vibration.strength,Vibratiesterkte
+upgrades.liftcapacity1.desc,De bollen kunnen meer grondstoffen meenemen.
+loadout.miner.title,Choose Your Run Options
+level.gameover.stats.difficulty,Niveau
+upgrades.repellentoverchargestrength2.title,Overladen golfvertraging 2
+upgrades.domesandrepairstrong.title,Krachtige kobaltreparatie
+upgrades.stunlaserduration1.desc,De stunlaser koelt sneller af en schiet langer.
+level.gameover.prestige.score.rankimproved,Je bent gestegen naar positie {rank}.
+upgrades.stunlaserdamage2.desc,De stunlaser richt meer schade aan.
+upgrades.drillbotstrength4.title,Kracht 4
+level.gameover.prestige.title,PRESTIGERUN VOLTOOID
+loadout.secondstage.cancel,Annuleren
+upgrades.laseraimline.desc,"Voeg een vizier toe aan de laser, zodat je kunt zien waarop deze gericht is."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,"De condensator produceert twee eenheden water en slaat deze op, waarna hij stopt met werken."
+upgrades.swordreflection2.title,Weerkaatsing 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,Versterkt de boor om sneller te kunnen graven.
+properties.laser.hitprojectiles,Laser raakt energieprojectielen
+upgrades.dome1damagereduction1.title,Verharding 1
+properties.sword.stabexplosivedamage,Bomschade {}
+upgrades.drillbotturnaround.title,Gevorderde conditionering
+upgrades.keeper2movement1.title,Zwaartekrachtbeweging 1
+properties.orchard.battleroots,Er groeien {} wortels uit de grond
+upgrades.prospectionmeterrange2.title,Bereik 2
+upgrades.jetpackspeed4.title,Snelheid 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,Verlengt de vertraging van de volgende golf monsters nog meer.
+upgrades.orchard.desc,Plant een boom in de koepel waaraan fruit groeit dat je bewegingssnelheid en mijnkracht verbetert.
+upgrades.artilleryflakexplosionradius1.title,Artilleriebereik 1
+upgrades.shieldbattleelectroblast.desc,Activeer een actieve vechtvaardigheid die eventjes een dodelijk veld opwekt rond je koepel.
+upgrades.shredgadgettocobalt.desc,Versnipper de gadget en ontvang {amount} kobalt.
+upgrades.prestigecobalt.title,Kobalt versturen
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,"Monteert een enorm zwaard. Het is trager, maar richt zware schade aan."
+level.gameover.back,Terug
+options.cancel,Annuleren
+options.keybindings.action.dome.fire,Schieten 
+upgrades.swordstabshoot.title,Speer
+upgrades.blastminingtriple.desc,Produceert 3 kleine ladingen in plaats van een grote.
+upgrades.orcharddrill1.title,Mijnwerkboost 1
+upgrades.swordextendlong2.title,Lange steek 2
+upgrades.artilleryshotcooldown1.desc,Schiet vaker.
+upgrades.keeper2pinballdamagefraction.title,Hardheidoverwinning kinetische bol
+upgrades.doublelaser.title,Dubbele laser
+upgrades.jetpackspeed3.title,Snelheid 3
+upgrades.minerwater.title,Send Water
+properties.orchard.battleabilityuses,Kan {} keer worden gebruikt per gevecht
+upgrades.liftorbs.title,Bollen 1
+upgrades.repellentoverchargeduration1.title,Duur overladen vechtvaardigheid 1
+upgrades.drill3.desc,Versterkt de boor om sneller te kunnen graven.
+level.gameover.prestige.uploading.inprocess,score wordt geüpload...
+loadout.abort,Afbreken
+properties.shield.overchargestrength,Overladen versterkt {} hp
+level.station.navbar.upgrades,Upgrades
+upgrades.keeper2pinballsplit.desc,"Split incoming spheres into two, launching them perpendicular to the original."
+upgrades.proberecharge.title,Automatisch opladen
+properties.sword.stabrange,Bereik {} 
+upgrades.liftspeed1.title,Snelheid
+upgrades.domewavecount.desc,Monteer een teller die bijhoudt hoeveel golven je hebt overleefd.
+level.converter.popup.title,Grondstoffen omzetten
+pause.discord,Praat mee op Discord
+options.keybindings.action.general.back,Annuleren
+upgrades.prospectionmeterrange1.desc,Vergroot het detectiebereik van de prospectiemeter.
+upgrades.dome2badrepair1.desc,Je koepel repareert automatisch wat schade als hij veel heeft moeten incasseren tijdens een gevecht.
+upgrades.prestigecobalt.desc,Stuur kobalt terug. Verhoogt de prestigepuntvermenigvuldiger voor elke golf.
+upgrades.domesandrepair.desc,Gebruik kobalt om de schade aan je koepel te repareren.
+loadout.skinoptions.title,Kies je skin!
+loadout.difficulty.medium.description,Dome's bedoelde moeilijkheidsgraad.
+loadout.difficulty.veryeasy.description,"Nog steeds geen makkie, maar minder intens dan de andere niveaus."
+options.game.tutorials,Tutorials
+upgrades.orchardbattlerootingmore.desc,Laat meer wortels groeien die langer actief blijven.
+upgrades.probepersist1.title,Geheugensonde
+upgrades.keeper2pinballmorespheres2.title,Bolvoorraad 2
+upgrades.orchardjetpack3.desc,"Verhoogt de fruitsnelheidsboost, waardoor je pijlsnel beweegt."
+upgrades.probe.title,Sonde
+upgrades.sword.title,Zwaard
+properties.shield.battledestructionprevention,Aanvullende duur {}s
+upgrades.shieldbattlereflect.title,Weerkaatsing
+pause.gamepadcontrols.use,Gebruiken
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,Dubbele opslag
+upgrades.relichunt.desc,Vind de relieken die diep begraven zijn en breng ze naar je koepel.
+loadout.mapsize.unlock.description,Win een run met de vorige kaartgrootte om deze kaartgrootte te ontgrendelen.
+properties.sword.stabdamage,Steekschade {} 
+properties.keeper1.drillstrength,Boorkracht {}
+worldmodifier.mapwildbiomes.desc,De grenzen van de biomen zijn zeer onregelmatig.
+upgrades.condenser.title,Condensator
+upgrades.dome2badrepair2.title,Impactherstel 2
+options.game.screenshake.shakewhenmining,Schudden tijdens het mijnen
+upgrades.repellentdelay2.title,Vertraging 2
+level.tutorial.assessor.reflect.desc,Druk op|om inkomende kinetische bollen voor een korte tijd te weerkaatsen.
+properties.drillbot.buffamount,Boort {} keer als hij vol energie zit
+upgrades.laserstrength2.title,Kracht 2
+upgrades.jetpackstrength3.title,Draagkracht 3
+options.keybindings.action.general,Algemeen
+level.gameover.unlock.gadgetability,Nieuwe vechtvaardigheid voor gadget
+upgrades.jetpackstrength1.desc,"Verbetert het jetpack, zodat je meer grondstoffen mee kunt nemen."
+upgrades.artillerymultishot1.desc,Vuurt meerdere granaten af per schot.
+properties.sword.reflectprojectiles,Weerkaatst energieprojectielen
+upgrades.stunlaser.desc,Installeert een laser die kleine monsters automatisch onder vuur neemt en verlamt.
+upgrades.orchardbattleshieldstrong.desc,De projectielenschilden zijn sterker. Ook kun je een extra vaardigheid gebruiken na het overladen.
+upgrades.orchardjetpack1.desc,"Verhoogt de fruitsnelheidsboost, waardoor je sneller beweegt."
+upgrades.laser.desc,Een precisielaser die rond je koepel beweegt. Oorspronkelijk gemaakt voor het mijnen van asteroïden.
+properties.shield.maxstrength,Versterkt {} hp
+options.keybindings.action.keeper,Wachter
+worldmodifier.resourceunpredicatablecobalt.desc,Kobalt is meer verspreid en lastiger te voorspellen.
+title.navbar.quit,Naar bureaublad
+options.keybindings.rebinding.error.gamepad,Kan niet worden ingesteld als controllerinvoer
+upgrades.repellentbattleslowdownstun1.desc,"Sporen in de nevel verlammen monsters, zodat ze eventjes niet kunnen bewegen."
+upgrades.swordfastreflection.title,Versnelde weerkaatsing
+upgrades.stunlaserduration2.title,Schietduur 2
+level.gameover.lose.title,DE KOEPEL IS VERLOREN
+worldmodifier.resourcescatterediron.desc,"Er zijn meer ijzerclusters, maar ze zijn wel kleiner."
+properties.laser.dps,Schade {}
+options.game.screenshake.shakeintensity,Intensiteit van het schudden
+worldmodifier.hardnessharder.desc,Er zijn meer hardere rotsen in deze mijn.
+options.video.stretchmode,Uitgestrekte modus
+worldmodifier.monsterhealthy.desc,De monsters hebben meer gezondheid.
+level.gameover.stats.mapsize,Kaartgrootte
+loadout.mode.longtime,Lange cycli
+upgrades.swordreflection3.desc,Maximale schildvoet.
+upgrades.repellentbattleslowdownstun2.desc,Gebruik de sporen vaker en verlam de monsters langer.
+upgrades.teleporterteleportresourcesarea.title,Teleportatiegebied
+upgrades.shieldoverchargeduration2.desc,Na het overladen blijft de vechtvaardigheid van het schild nog langer actief in de volgende golf.
+upgrades.shieldoverchargestrength1.title,Overladen schildkracht 1
+upgrades.drillbotbuffstrength1.desc,Lekkernijen geven Booris langer energie.
+upgrades.orchardoverchargebuffduration.title,Langer overladen
+level.tutorial.assessor.spheres.desc3,Deze laadt zijn kracht opnieuw op met elke stuitering.
+loadout.mode.longtime.desc,"Er zit twee keer zoveel tijd tussen de golven, maar de golven zijn sterker."
+level.tutorial.assessor.spheres.desc2,Kies een richting en laat los om de bol af te vuren.
+upgrades.laserstrength1.desc,"Vergroot de kracht van je laser, maar hij beweegt langzamer tijdens het schieten."
+level.tutorial.assessor.spheres.desc1,Houd|ingedrukt om een kinetische bol op te laden.
+upgrades.jetpackstrength4.title,Draagkracht 4
+upgrades.migration.desc,Trek van wereld naar wereld om grondstoffen en relieken buit te maken voordat je onder de voet wordt gelopen.
+upgrades.orcharddrill1.desc,"Verhoogt de fruitmijnboost, waardoor je sneller ontgint."
+upgrades.keeper2pinballdamage3.desc,Verbeter de schade die de kinetische bol aanricht aan rotsen bij inslag. Verbetert ook roterende mijnwerkschade.
+options.accessibility.highlightmonsters,Markeer de monsters
+upgrades.prestigecobaltnocobalt.title,Kobalt versturen
+properties.keeper2.spherebasedamage,Basisschade bol {}
+upgrades.orcharddrill3.desc,"Verhoogt de fruitmijnboost, waardoor je pijlsnel ontgint."
+properties.converter.cobalttoiron,{} kobalt voor één ijzer
+level.tutorial.repair.usecobalt,Je kunt je koepel repareren met kobalt. Het is een upgrade in het techschema van de koepel.
+upgrades.blastminingimpactdetonation.title,Impactexplosie
+upgrades.swordfastreflection.desc,Weerkaatste projectielen vliegen sneller terug.
+upgrades.liftcapacity1.title,Capaciteit
+upgrades.artillery.desc,Knal erop los met een bazooka.
+properties.sword.electricdamage,Elektrozwaardschade {}
+level.station.upgrademenu.close,Afsluiten
+properties.shield.overchargebattleabilityduration,Duur extra vaardigheid {.percent}
+pause.title,PAUZE
+upgrades.artillerymultishot1title,Kettingschot 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Duur extra vaardigheid {}s
+upgrades.orchardbattlerootingexplosion.title,Explosieve prooi
+upgrades.blastminingproductiontime1.title,Productietijd
+options.video.stretchmode.scaled.text,"Geeft het spel weer in een vaste resolutie en past het aan aan jouw resolutie.
+Kan pixelachtig zijn, vooral bij lettertypes, maar er zijn geen visuele lijnfouten."
+upgrades.orchardduration3.title,Voedzaamheid 3
+upgrades.domewavecount.title,Cyclusteller
+upgrades.shredgadgettoiron.title,Versnipperen tot ijzer
+options.keybindings.rebinding.apply,Toepassen
+options.keybindings.restoredefault,Terug naar standaardinstellingen
+upgrades.converterironduplication.title,IJzerduplicatie
+title.navbar.credits,Credits
+level.gameover.unlock.gadget,Nieuwe gadget
+upgrades.jetpackspeed2.title,Snelheid 2
+loadout.modeoptions.title,Kies je speltype!
+properties.keeper2.spherebaselifetime,Levensduur bol {}
+options.video.stretchmode.scaled,Opgeschaald
+properties.orchard.battleabilityduration,Vaardigheidsduur {}s
+upgrades.repellentbattleslowdownstun1.title,Verlamming
+loadout.difficulty.medium,Wreed
+options.audio.volumes,Volumes
+upgrades.keeper1.title,Ingenieur
+upgrades.drillbotsleepless.title,Basisconditionering
+upgrades.drillbot.title,Booris
+level.tutorial.assessor.carry.desc1,Houd|ingedrukt om grondstoffen aan te trekken tot ze aan je gekoppeld zijn.
+level.tutorial.assessor.carry.desc2,Druk op|om een grondstof te laten vallen.
+level.tutorial.drillbot.sleeping1,"Na een tijdje, of als hij een muur tegenkomt waar hij niet doorheen kan graven, doet Booris doet dutje."
+level.tutorial.assessor.carry.desc3,"Als je in een bepaalde richting mikt wanneer je een grondstof laat vallen, wordt deze zwaar versneld."
+level.tutorial.drillbot.sleeping2,Druk naast hem op | om hem wakker te maken.
+level.tutorial.drillbot.sleeping3,Je kunt het omdraaien door op | te drukken wanneer het actief is.
+properties.keeper2.totalspheres,Bollen {}
+upgrades.shieldbattleblastdamage.title,Dodelijk veld
+upgrades.domeresourcecounters.desc,Toont de huidige hoeveelheid opgeslagen grondstoffen.
+upgrades.swordextendlong1.desc,Verbetert de steekkracht en de geleiding als het is afgevuurd.
+worldmodifier.resourcerichwater.desc,Deze wereld bevat veel water.
+upgrades.drillbotstrength1.desc,Vergroot de graafkracht van Booris.
+upgrades.stunlaserautonomy1.desc,"Een eenvoudige AI bestuurt de stunlaser, ook als je niet in het controlestation bent."
+properties.blastmining.radius,Explosiebereik van {} vakken
+upgrades.jetpackstrength1.title,Draagkracht 1
+options.keybindings.apply,Toepassen
+upgrades.laserstrength2.desc,"Vergroot de kracht van je laser aanzienlijk, maar hij beweegt nog langzamer tijdens het schieten."
+properties.laser.movespeedwhilefiring,Snelheid tijdens schieten {.percent}
+properties.probe.markerretention,Markeringsbehoud {}s
+upgrades.swordexplosivereflection.title,Explosieve weerkaatsing
+upgrades.condenserspeed2.desc,Er is nog minder tijd nodig om een eenheid water te produceren.
+upgrades.condenserspeed2.title,Productiesnelheid 2
+properties.stunlaser.firetime,Schietduur {}s
+options.input.gamepad.gamepadstickdeadzone,Dode zone analoge stick
+upgrades.keeper2movement2.desc,Verbeter je zwaartekrachtgenerator om sneller te gaan.
+upgrades.shieldbattlelongerafterdepletion.desc,Het veld blijft langer actief als het is geactiveerd nadat je schild was uitgeput.
+properties.laser.bend,Laser richt automatisch {}°
+level.station.upgrademenu.buy,Kopen
+properties.drillbot.plantgrowthtime,Groeitijd lekkernijen van {} cycli
+loadout.proceed,Doorgaan
+upgrades.repellentoverchargeduration1.desc,Na het overladen van je tank gaan de vechtvaardigheden van je verdelger langer mee in de volgende golf.
+upgrades.artilleryshotcooldown1.title,Afkoeling 1
+worldmodifier.resourceunpredicatablewater.desc,Water is meer verspreid en lastiger te voorspellen.
+level.tutorial.blastmining.popup_1,Neem het explosief mee en laat het achter waar je rotsen wilt opblazen.
+ending.thankyoumessage,Bedankt voor het spelen!
+options.keybindings.rebinding.error.keyboard,Kan niet worden ingesteld als toetsenbordinvoer
+upgrades.keeper2pinballdamagefraction.desc,The kinetic sphere transcends rock hardness and damages the rock by a fixed fraction of its health.
+upgrades.swordlargeblade1.title,Zwaar zwaard 1
+upgrades.shredgadgettoiron.desc,Versnipper de gadget en ontvang {amount} ijzer.
+upgrades.drillbot.desc,Adopteer een schattig wezen dat dol is op graven. Draag hem de mijn in en zet hem neer waar je wilt dat hij aan de slag gaat. Ga af en toe bij hem kijken en maak hem wakker als hij in slaap is gevallen.
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,Stabiliteit 1
+title.navbar.updates.close,Afsluiten
+upgrades.swordaimline.desc,Voeg een laservizier toe om de zwaardsteek te richten.
+upgrades.shieldoverchargeduration1.title,Duur overladen vechtvaardigheid 1
+level.converter.popup.explanation,Kies een grondstofomzetting om te beginnen!
+upgrades.drillbotbuff1.title,Lekkernijen
+title.navbar.credits.close,Afsluiten
+upgrades.keeper2movement3.desc,Verbeter je zwaartekrachtgenerator om sneller te gaan.
+pause.quittotitlescreen,Terug naar titelscherm
+loadout.prestige.countdown.description,De prestigevermenigvuldiger begint hoog en daalt elke cyclus.
+upgrades.drill3.title,Boorkracht 3
+upgrades.probestage1.title,Verbeterde sonde
+properties.sword.stabarrowhead,Grotere pijlpunt
+loadout.mapsize.huge.description,Een grote kaart voor de langste runs.
+properties.sword.stabspeed,Steeksnelheid {.percent} 
+level.tutorial.teleporter.take1,Je teleporteerder heeft een station en een portal. Je kunt ertussen teleporteren.
+worldmodifier.mapmaze.desc,De mijn is een doolhof.
+level.tutorial.teleporter.take2,Grijp de Portal en plaats deze waar je wil.
+options.keybindings.action.dome.battleability1,Strijd vaardigheid
+upgrades.laserbend.desc,Installeert een draaikop op de laser die het richten corrigeert als je net niet nauwkeurig genoeg bent.
+options.video.graphicsmode.fullscreen,Volledig scherm
+options.keybindings.action.general.down,Omlaag
+level.tutorial.assessor.spheres,Kinetische bollen
+level.tutorial.mineraltree1,"Je hebt net een mineraalboomzaad gevonden. Dit kan tot een boom uitgroeien die in tegels wortelt. Deze kweekt grondstoffen afhankelijk van de grondstoffen van de gewortelde tegels.
+Laat het op een tegel vallen om het zaad te planten."
+upgrades.blastmining.desc,Voegt een machine toe onder de koepel die water gebruikt om explosieven te produceren. Neem ze mee de mijnen in en laat ze los om ze te laten ontploffen.
+properties.sword.stabcooldown,Afkoelperiode zwaard afvuren {)s 
+upgrades.repellentoverchargestrength2.desc,Overladen verlengt de vertraging van de volgende golf monsters nog meer.
+upgrades.probeswift1.desc,Schakel over op een snelle korteafstandssonde met veel ladingen.
+properties.drillbot.buffextraamount,Boort {} keer extra
+level.gameover.unlock.keeper,Nieuwe wachter
+upgrades.prospectionmeter.title,Prospectiemeter
+upgrades.shieldbattleactivateondepletion.desc,"Als het schild is uitgeput, wordt Onkwetsbaarheid automatisch geactiveerd."
+upgrades.dome2badrepair1.title,Impactherstel 1
+upgrades.swordtargetlock.title,Doelwitfixatie
+upgrades.laserhitprojectiles.title,Projectielen oplossen
+upgrades.keeper2pinballreflectspeedup1.title,Verbeterde weerkaatsing
+properties.shield.battleuses,Kan {} keer worden gebruikt per gevecht
+options.game.events,Evenementen
+upgrades.artilleryflakexplosionradius1.desc,Een grotere explosie.
+properties.keeper1.speedlosspercarry,Draagvertraging {}
+pause.gamepadcontrols.back,Terug
+level.gameover.unlocknewelementbutton,Maak je keuze
+upgrades.prospectionmeteriron2.desc,Toont de richting naar de dichtstbijzijnde ijzerafzettingen.
+upgrades.prestige.desc,Scoor punten door zoveel mogelijk grondstoffen terug te sturen naar huis voordat je koepel sneuvelt of jij de planeet veilig verlaat.
+properties.prestige.multiplier,{} prestige per golfvermenigvuldiger
+options.input.controls,Besturing
+properties.sword.reflectionacceleration,Snelheid weerkaatste projectielen {.percent}
+loadout.difficult.easier,gemakkelijker
+upgrades.keeper2pinballreflectdamage1.title,Schade weerkaatsing 1
+properties.sword.extendspeed,Acceleratie {} 
+properties.keeper2.reflectspeedup,Bolversnelling bij weerkaatsing {.percent}
+loadout.mode.doubleiron,Dubbel ijzer
+upgrades.dome3.desc,niet beschikbaar in de demo
+properties.condenser.growthtime,Productietijd van {} cycli
+options.game.languages,Talen
+worldmodifier.mapwidebottom.desc,"De mijn begint smal, maar wordt steeds breder naarmate je dieper komt."
+loadout.mode.maze,Doolhof
+upgrades.dome2health1.desc,Verbeter de structurele stabiliteit van je koepel permanent en repareer deze.
+properties.drillbot.drillstrength,Boorkracht {}
+upgrades.keeper2.desc,Een bijzondere mijnwerker die experimentele zwaartekrachttechnologie inzet.
+properties.orchard.battleshields,Schildlagen {}
+level.tutorial.sworddome.reflecting.desc,Gebruik het schild van het zwaard om projectielen te stoppen of zelfs weerkaatsen.
+options.audio.volumes.musicvolume,Muziekvolume
+loadout.dome,KOEPEL
+upgrades.swordlongblade2.title,Lang zwaard 2
+upgrades.laseraimline.title,Laservizier
+level.tutorial.assessor.bundle.desc1,Houd|ingedrukt wanneer je grondstoffen draagt om een bundel op te laden.
+options.keybindings.keyboard,Toetsenbord
+level.tutorial.assessor.bundle.desc2,Mik en laat los om te schieten zoals je een kinetische bol afvuurt.
+properties.prestige.score,{} prestige
+worldmodifier.mapdeep.desc,De mijn is dieper en minder breed.
+upgrades.repellentbattleslowdownstun2.title,Ernstige verlamming
+upgrades.keeper2pinballmorespheres1.title,Bolvoorraad 1
+upgrades.prestigewater.desc,Stuur water terug. Voegt 1 punt toe aan de prestige die je ontvangt voor elke golf.
+properties.keeper2.bundlestopcenter,Zwaartekrachtsveld middenzuil
+upgrades.stunlaserdamage1.title,Schade 1
+upgrades.keeper2pinballlifetime1.title,Levensduur kinetische bol 1
+properties.repellent.battleslowdown,Monstervertraging {.percent}
+upgrades.swordextendlong1.title,Lange steek 1
+level.gameover.stats.distancetravelled,Afgelegde afstand
+properties.keeper2.reflectlifetime,Extra levensduur bol bij weerkaatsing {}s
+upgrades.blastminingimpactdetonation.desc,De explosieven ontploffen als ze in contact komen met een oppervlak.
+properties.keeper2.spheresplit,Split Incoming Spheres
+options.keybindings.action.dome.upgrade,Upgrades
+worldmodifier.resourcepoorcobalt.desc,Deze wereld bevat weinig kobalt.
+pause.resumegame,Game hervatten
+level.gameover.unlock.difficulty,Nieuw niveau ontgrendeld!
+properties.stunlaser.cooldown,Afkoelperiode van {}s
+options.keybindings.action.general.right,Rechts
+level.tutorial.assessor.mining.desc,"Om een enkele rots te verwijderen, kun je de roterende kinetische bol erin bewegen."
+upgrades.teleporterteleportresourcesback.title,Grondstoffenteleportatie
+upgrades.dome1.title,Laserkoepel
+upgrades.keeper2bundleinfinite.title,Duurzame bundel
+upgrades.repellentdelay1.title,Vertraging 1
+upgrades.miner.desc,"In worlds without monsters, you can concentrate on mining as many resources as you want without distraction."
+upgrades.repellentbattlestrongerslowdown1.desc,De nevel vertraagt monsters nog meer en blijft langer hangen.
+upgrades.teleporterteleportresourcesarea.desc,De portal teleporteert grondstoffen uit een groter gebied.
+upgrades.dome3.title,Artilleriekoepel
+upgrades.swordstabshoot.desc,"Het zwaard wordt niet teruggetrokken met een kabel, maar opgeladen en als een speer afgevuurd vanuit de koepel."
+upgrades.repellentbattledamageovertime.desc,Alle monsters lopen wat schade op gedurende elke seconde dat de gifdampen aanwezig zijn.
+upgrades.shieldbattleactivateondepletion.title,Activeren bij uitputting
+upgrades.artillerymultishot2.desc,Vuurt meerdere granaten af per schot.
+upgrades.dome1health2.title,Stabiliteit 2
+worldmodifier.monsterlethal.desc,De monsters zijn dodelijker en richten meer schade aan.
+loadout.pet,Huisdier
+options.keybindings.action,Actie
+upgrades.orcharddrill3.title,Mijnwerkboost 3
+options.translation.title,KIES JE TAAL
+upgrades.prospectionmeterrange1.title,Bereik 1
+upgrades.dome2badrepair2.desc,Je koepel repareert automatisch schade als hij veel heeft moeten incasseren tijdens een gevecht.
+options.audio.volumes.ambiencevolume,Omgevingsvolume
+upgrades.prestigecobaltnocobalt.desc,Stuur kobalt terug. Verhoogt de prestigepuntvermenigvuldiger voor elke golf.
+worldmodifier.maparms.desc,De mijn is meer versplinterd.
+loadout.prestige.countdown,Countdown
+upgrades.keeper2pinballdamage2.title,Schade kinetische bol 2
+upgrades.jetpackspeed1.title,Snelheid 1
+upgrades.minerrefuel.title,Refuel
+upgrades.teleporterteleportduration1.title,Teleportatieduur
+properties.blastmining.bombs,Ladingen {}
+loadout.miner.fuel.title,Fuel
+exhibition.title.press.anything,Druk op een toets of knop om te spelen
+loadout.mode,SPELTYPE
+level.tutorial.sworddome.slicing,Hakken
+properties.condenser.autoovercharge,Automatisch overladen
+upgrades.teleporterteleportduration1.desc,Het duurt minder lang om jezelf te teleporteren.
+upgrades.prestigewater.title,Water versturen
+title.navbar.continue,Doorgaan
+upgrades.orchardbattleshield.desc,Groei een schil dat de koepel beschermt tegen projectielen.
+upgrades.liftcarrykeeper1.title,Wachterslift 1
+options.input.controls.keybindings,Toetsen toewijzen
+properties.keeper2.bundlespheres,Bollenbundel
+upgrades.shieldovercharge.title,Overladen schild
+properties.condenser.overchargedelay,Productievertraging van {} cycli
+upgrades.keeper2.title,Beoordelaar
+level.tutorial.assessor.mining,Roterend ontginnen
+upgrades.repellentoverchargeduration2.title,Duur overladen vechtvaardigheid 2
+upgrades.swordblade1.title,Hakverbetering
+properties.converter.irontoiron,{} ijzer voor één ijzer
+exhibition.level.description,Je gaat terug naar het hoofdmenu over...
+level.tutorial.assessor.mining.desc2,Je kunt stoppen met ontginnen zonder een bol te schieten door eerst de pijltjestoetsen los te laten.
+worldmodifier.monsterslow.desc,De monsters zijn langzamer.
+upgrades.orcharddrill2.desc,"Verhoogt de fruitmijnboost, waardoor je nog sneller ontgint."
+loadout.difficulty.easy.description,In velerlei opzicht wat genadiger.
+upgrades.swordstabexplode.title,Steekbom
+level.gameover.stats.additionalgadget,Extra gadget
+upgrades.drillbotbuffstrength2.desc,Na het eten van een lekkernij werkt Booris een stuk langer door voordat hij slaap krijgt.
+upgrades.laserstrength3.desc,"Vergroot de kracht van je laser enorm, maar hij beweegt nauwelijks tijdens het schieten."
+loadout.prestige.normal,Normaal
+loadout.difficulty.hard,Je vraagt erom
+level.gameover.stats.wavessurvived,Golven overleefd
+properties.stunlaser.damage,Schade {}
+options.keybindings.rebinding.cancel,Annuleren
+level.tutorial.sworddome.stabbing.desc,Maak het zwaard langer en steek vijanden op afstand.
+level.gameover.unlock.gamemodevariant,Nieuwe speltypevariant
+upgrades.prestigefinish.title,Planeet verlaten
+properties.keeper2.bundleduration,Levensduur bundel {.percent}
+upgrades.laserstrength3.title,Kracht 3
+options.audio.volumes.mastervolume,Mastervolume
+upgrades.shieldbattlelongerafterdepletion.title,Uitputtingsboost
+options.keybindings.text,"Wijzig de besturing naar eigen smaak.
+Toetsen voor verschillende secties zullen doorgaans niet voor overlapproblemen zorgen (zoals het gebruik van dezelfde toetsen voor het verplaatsen van je wachter en het koepelwapen)."
+properties.shield.battleblastdamage,{} explosieschade per seconde
+loadout.mapsize.large.description,Een grote kaart voor sessies van meer dan een uur.
+upgrades.drill4.desc,Versterkt de boor om sneller te kunnen graven.
+upgrades.drillbotsleepless.desc,Booris werkt veel langer door voordat hij slaap krijgt.
+upgrades.swordlargeblade2.title,Zwaar zwaard 2
+upgrades.swordlongblade2.desc,"Verhoogt de zwaardsnelheid, waardoor het stuitert als het de grond raakt."
+upgrades.prestigefinishnocobalt.title,Planeet verlaten
+worldmodifier.hardnessmoderated.desc,Er zijn weinig rotsen die extreem hard of zacht zijn.
+upgrades.converterironduplication.desc,Vermenigvuldig ijzer.
+upgrades.prestigefinish.desc,Verlaat deze planeet en keer terug naar huis.
+upgrades.dome2health2.desc,Verbeter de structurele stabiliteit van je koepel permanent en repareer deze.
+upgrades.prestige.title,Prestige
+upgrades.liftcarrykeeper1.desc,De lift zorgt ervoor dat je sneller boven bent.
+upgrades.repellentbattlehealthreduction.desc,Verzwakt alle aanwezige monsters door hun gezondheid nog verder te verlagen.
+upgrades.dome2.title,Zwaardkoepel
+worldmodifier.monsterfast.desc,De monsters zijn sneller.
+upgrades.condenserautocollect.desc,"Water wordt automatisch verzameld, zodat je het niet handmatig hoeft op te halen."
+upgrades.lift.title,Lift
+options.game.screenshake,Schudden van het scherm
+options.keybindings.action.dome,Koepel
+upgrades.swordstabexplodedamage.desc,Vergroot de bomschade.
+level.gameover.stats.resourcesmined,Grondstoffen verzameld
+worldmodifier.resourcepoorwater.desc,Deze wereld bevat weinig water.
+upgrades.prospectionmeter.desc,Een meter toont de afstand tot de dichtstbijzijnde grondstoffen. Kan worden verbeterd om ook de richting aan te geven.
+upgrades.shredgadgettocobalt.title,Versnipperen voor kobalt
+upgrades.swordelectrified.desc,"Het zwaard staat onder stroom, waardoor het extra schade aanricht bij contact."
+upgrades.artilleryflakexplosionradius2.desc,Een grotere explosie.
+upgrades.prospectionmeterwater1.title,Watermeter
+upgrades.minerwater.desc,Send water offworld to increase your prestige.
+options.video.graphicsmode,Grafische modus
+upgrades.shieldbattlereflectspeedup.desc,"Weerkaatste projectielen vliegen sneller terug, wat de kans vergroot dat ze de aanvaller raken."
+properties.shield.battleblaststun,Explosieverdoving {}
+loadout.mode.hyperactive.desc,"Monsters bewegen een stuk sneller, maar hebben minder gezondheid."
+upgrades.swordstabexplode.desc,Het zwaard neemt een bom mee die ontploft op de eerste vijand die wordt gestoken.
+upgrades.swordstabfast2.title,Snelle steek 2
+upgrades.converterefficientwater.desc,"Wateromzetting is efficiënter, maar neemt wat meer tijd in beslag."
+upgrades.orchardduration1.desc,De effecten van het fruit duren langer.
+loadout.difficulty.title,Niveau
+exhibition.level.heading,Ben je er nog?
+level.gameover.unlock.gamemode,Nieuw speltype
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Verzwakken
+upgrades.teleporterteleportreactivate.title,Persoonlijke teleportatie heractiveren
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,Geluid
+upgrades.repellentovercharge.desc,Gebruik water om je tank te overladen om de volgende lading van het verdelgingsmiddel sneller te produceren.
+upgrades.domewavemeter.title,Vijandklok
+upgrades.prospectionmeterrange2.desc,Vergroot het detectiebereik van de prospectiemeter nog verder.
+upgrades.keeper2pinballreflectspeedup1.desc,"Bollen worden opgeladen wanneer weerkaatst, wat ze versnelt en ze langer doet zweven bij weerkaatsing."
+upgrades.shieldoverchargestrength1.desc,Vergroot de hoeveelheid schade die het overladen schild kan absorberen.
+upgrades.repellentdelay1.desc,Verlengt de vertraging van de volgende golf monsters.
+upgrades.repellentbattlelongerhealthreduction.title,Ernstige verzwakking
+upgrades.swordtargetlock.desc,Na een steek fixeert het zwaard zich automatisch op het volgende monster.
+upgrades.orchardovercharge.desc,"Geef je fruitboom water om hem te overladen, zodat er sneller fruit aan groeit."
+upgrades.orchardbattlerootingmore.title,Sterke wortels
+upgrades.swordextendlong2.desc,Verbetert de steekkracht nog verder en bestuurt nauwkeuriger als het is afgevuurd.
+upgrades.swordstabfast1.title,Snelle steek 1
+upgrades.probelong1.desc,Vergroot het bereik van de ping ten koste van een oplaadvak.
+upgrades.repellent.title,Verdelger
+worldmodifier.monsterwavesspaced.desc,Er zit meer ruimte tussen de monstergolven.
+upgrades.artilleryflakexplosionradius2.title,Artilleriebereik 2
+properties.drillbot.amount,Boort {} keer
+upgrades.repellentdelay3.title,Vertraging 3
+ending.appreciationmessage,"Hopelijk heb je genoten! We stellen feedback altijd op prijs, dus geef vooral je mening op Discord of de Steam-forums :)"
+properties.orchard.battlerootexplosion,Explosion damage {}
+upgrades.orchardduration3.desc,Maximale duur van fruiteffecten.
+upgrades.dome1damagereduction2.desc,"Verhard het oppervlak van de koepel, zodat mêleetreffers van monsters minder schade aanrichten."
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,"Verbetert de jetpack, zodat je je sneller verplaatst."
+upgrades.jetpackspeed3.desc,"Verbetert de jetpack, zodat je je sneller verplaatst."
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,Opties
+properties.repellent.battledamageovertime,Monsters lopen {} schade op per seconde
+upgrades.repellentoverchargestrength1.title,Overladen golfvertraging 1
+upgrades.repellentoverchargestrength1.desc,Overladen verlengt ook de vertraging van de volgende golf monsters.
+upgrades.blastminingproductiontime1.desc,Er is minder tijd nodig om een explosief te maken.
+properties.teleporter.teleportresourcescooldown,Teleportatieduur grondstoffen {}s
+upgrades.artilleryflakmultishot1.desc,Vuur meer projectielen af.
+properties.converter.ironcobalttime,Omzettijd van {} cycli
+options.title,OPTIES
+options.video.graphicsmode.window,Venster
+properties.shield.battlereflectspeedup,Snelheid weerkaatste projectielen {.percent}
+upgrades.swordaimline.title,Richtlijn
+level.tutorial.drillbot.handling1,Hou | ingedrukt om Booris weer op te pakken.
+upgrades.probestage1.desc,Verbetert de algehele prestaties van de sonde.
+level.tutorial.drillbot.handling2,Druk op | om van richting te veranderen als je op de grond bent.
+options.keybindings.rebinding.capture,Vastleggen
+properties.probe.range,Bereik van {} vakken
+properties.stunlaser.speed,Snelheid {}
+properties.probe.impulsespeed,Pulssnelheid {}
+upgrades.domehealthmeter.title,Stabiliteitsmeter
+options.audio.music.frequency,Aantal keer (cycli zonder muziek)
+options.audio.volumes.soundvolume,Geluidsvolume
+properties.sword.slicebounceback,Zwaard stuitert op grond
+upgrades.jetpackspeed4.desc,"Verbetert de jetpack, zodat je je sneller verplaatst."
+worldmodifier.monsterfragile.desc,De monsters hebben minder gezondheid.
+level.gameover.prestige.score.personalbest,Nieuw persoonlijk record!
+properties.prestige.baseperwave,{} basisprestige per golf
+loadout.choices.comingsoon,"Nog niet beschikbaar, maar binnenkort."
+upgrades.doublelaser.desc,"Monteert een tweede lasergeschut, maar de vuurkracht wordt verdeeld."
+upgrades.jetpackstrength2.title,Draagkracht 2
+upgrades.keeper2bundlestopcenter.title,Zwaartekrachtscentrum
+properties.keeper2.spherelifetimeperbounce,Extra levensduur bol per stuitering {}s
+upgrades.converterefficientcobalt.desc,"Kobaltomzetting is efficiënter, maar neemt wat meer tijd in beslag."
+properties.orchard.buffduration,Verbetering duurt {} cycli
+upgrades.domesandrepair.title,Kobaltreparatie
+properties.keeper1.maxspeed,Topsnelheid {}
+level.station.upgrademenu.cost,Kosten
+upgrades.lasermove1.title,Bewegingssnelheid 1
+level.tutorial.sworddome.reflecting,Weerkaatsen
+loadout.petoptions.title,Kies je huisdier!
+level.station.upgrademenu.inventory,Inventaris
+level.gameover.unlockpicker.title,MAAK JE KEUZE
+level.gameover.proceedtounlock,Ontgrendel een nieuwe element
+upgrades.artilleryshotcooldown2.desc,Schiet vaker.
+level.gameover.keepgadget.title,Selecteer een gadget dat je behoudt voor je volgende run
+level.station.battle.navbar.shoot,Schieten
+upgrades.repellentbattlestrongerslowdown1.title,Stagnatie
+upgrades.dome2.desc,Krachtige koepel met een dynamisch zwaard dat wachters kunnen hanteren om aanvallers een kopje kleiner te maken.
+loadout.difficulty.easy,Moeilijk
+upgrades.condenserautocollect.title,Automatische verzameling
+upgrades.orchard.title,Fruitboom
+upgrades.keeper2pinballreflectspeedup2.desc,Bollen worden intensief opgeladen wanneer weerkaatst.
+upgrades.laserstrength1.title,Kracht 1
+upgrades.lasermove2.title,Bewegingssnelheid 2
+upgrades.shieldbattlereflectshortuses.desc,Je weerkaatst projectielen vaker in een kortere tijd.
+options.keybindings.action.keeper.drop,Laten vallen
+level.converter.popup.conversion.to,in
+upgrades.repellent.desc,Installeert een tank met vloeistof die monsters afweert. Activeer hem om de vloeistof buiten de koepel te sproeien om de volgende aanvalsgolf te vertragen.
+properties.repellent.battlehealthreduction,Monsterschadebeperking {.percent}
+loadout.mode.hyperactive,"Snel, maar zwak"
+upgrades.miner.title,Miner
+upgrades.converter.title,Grondstoffenomzetter
+properties.condenser.waterstorage,Slaat {} water op
+upgrades.jetpackstrength2.desc,"Verbetert het jetpack, zodat je meer grondstoffen mee kunt nemen."
+level.station.navbar.exit,Stoppen
+options.accessibility.photosensitivity.explanation,Vermindert flikkerende lichten.
+properties.orchard.overchargeadditionalabilityuses,{} extra vaardigheid na overladen
+worldmodifier.resourcepooriron.desc,Deze wereld bevat weinig ijzer.
+level.gameover.backtomainmenu,Terug naar hoofdmenu
+upgrades.orchardbattlerooting.desc,Activeer deze upgrade tijdens een gevecht om wortels te laten groeien buiten de koepel die vijanden van gemiddelde grootte verstrikken als ze erop gaan staan.
+upgrades.keeper2pinballreflect.desc,"Weerkaats bollen met een krachtiger, kleiner zwaartekrachtveld rond jezelf."
+upgrades.laser.title,Laser
+options.game.tutorials.resettutorials,Tutorials resetten
+properties.converter.ironirontime,Omzettijd van {} cycli
+loadout.secondstage.start,Run starten
+upgrades.artilleryflakmultishot2.desc,Vuur meer projectielen af.
+upgrades.swordreflection2.desc,Nog grotere schildvoet.
+upgrades.lasermove3.title,Bewegingssnelheid 3
+upgrades.lasermove1.desc,De laser beweegt sneller.
+properties.lift.orbs,{} bollen
+options.keybindings.action.general.move,Bewegen
+upgrades.orchardjetpack2.title,Snelheidsboost jetpack 2
+options.audio.music,Muziek
+worldmodifier.resourceunpredicatableiron.desc,De ijzerclusters zijn meer verspreid en lastiger te voorspellen.
+properties.dome.maxhealth,Stabiliteit {) hp
+upgrades.condenserspeed1.title,Productiesnelheid 1
+properties.repellent.battleuses,Kan {} keer worden gebruikt per gevecht
+upgrades.shieldstrength2.desc,Het koepelschild kan nog meer schade absorberen.
+upgrades.drillbotbuffstrength2.title,Vleugje taurine
+upgrades.keeper2pinballreflectdamage2.desc,Weerkaatste bollen richten veel meer schade aan aan de rots die ze als volgende raken.
+level.paused,Gepauzeerd
+level.tutorial.sworddome.stabbing,Steken
+upgrades.stunlaserspeed1.title,Snelheid 1
+upgrades.domehealthmeter.desc,Toont de structurele stabiliteit van de koepel.
+upgrades.swordlargeblade1.desc,"Maakt het zwaard breder en langer, zodat het meer schade aanricht."
+pause.quitgame,Game afsluiten
+level.station.battle.navbar.slice,Hakken 
+level.gameover.stats.timeplayed,Speeltijd
+properties.teleporter.teleportresources,Grondstoffenteleportatie
+upgrades.drillbotstrength2.desc,Vergroot de graafkracht van Booris.
+level.tutorial.drop.popup_2,Druk op | om er eentje achter te laten. Hou ingedrukt om er meerdere achter te laten.
+level.gameover.keepgadget.keeping,Te houden gadget: {gadget}
+level.tutorial.drop.popup_1,Gedragen grondstoffen maken je langzamer.
+worldmodifier.maprugged.desc,De mijn is ruw en onregelmatig.
+level.tutorial.onewayteleporter1,Je hebt zojuist een eenrichtingsteleporteerder gevonden!
+properties.sword.aimline,Richtvoorspelling
+upgrades.keeper2bundle.desc,Verbonden mineralen kunnen als een bundel afgevoord worden op dezelfde manier als je kinetische bollen schiet.
+level.tutorial.onewayteleporter2,Druk op | om het oog te plaatsen.
+level.tutorial.onewayteleporter3,Druk opnieuw om erheen te teleporteren.
+properties.lift.capacity,Bollen kunnen {} grondstoffen meenemen
+properties.shield.battleabilityduration,Vaardigheidsduur {}s
+level.tutorial.teleporter.carry2,Hou | ingedrukt bij de portal om hem opnieuw op te pakken.
+level.tutorial.teleporter.carry3,"Als je op | drukt, teleporteer je terug."
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,Je kunt de portal overal mee naartoe nemen.
+options.keybindings.cancel,Annuleren
+level.tutorial.probe.popup_1,Druk op | om een sondepuls uit te zenden.
+upgrades.liftcarrykeeper2.desc,De lift brengt je nog sneller naar boven.
+level.tutorial.probe.popup_3,"Dit onthult enkele nabije grondstoffen.
+Laad hem op in het station."
+worldmodifier.resourcerichcobalt.desc,Deze wereld bevat veel kobalt.
+upgrades.keeper2pinballdamage4.desc,Verbeter de schade die de kinetische bol aanricht aan rotsen bij inslag. Verbetert ook roterende mijnwerkschade.
+properties.sword.stabexplosive,Bom gemonteerd op punt
+properties.drillbot.turnaround,Omkeren bij een harde muur
+upgrades.shieldstrength1.title,Kracht 1
+properties.repellent.overchargewavedelay,Extra golfvertraging van {} cycli
+upgrades.swordreflection3.title,Weerkaatsing 3
+upgrades.dome1.desc,Standaardmijnkoepel met een precisielaser.
+level.tutorial.drillbot.carry,"Haal Booris uit zijn tank en plaats hem in de mijn, zodat hij lekker kan graven."
+upgrades.lift.desc,"Installeer een geautomatiseerde lift die gewonnen grondstoffen naar boven brengt, zodat de koepel ze kan verwerken."
+upgrades.dome1health2.desc,Permanente verbetering van de structurele stabiliteit van je koepel.
+upgrades.converterefficientwater.title,Efficiënte wateromzetting
+loadout.difficulty.hard.description,"Tja, dan moet je het zelf maar weten."
+upgrades.artillerymultishot2.title,Kettingschot 2
+upgrades.swordelectrified.title,Elektrozwaard
+upgrades.drillbotstrength3.desc,Vergroot de graafkracht van Booris.
+upgrades.shieldbattleinvulnerable.title,Onkwetsbaarheid
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,Autonomie
+level.tutorial.teleporter.teleport1,"Wanneer je de portal sluit, druk op | om terug te teleporteren."
+level.tutorial.teleporter.teleport2,Je kunt ook in de andere richting teleporteren.
+level.gameover.prestige.uploading.failed,uploaden mislukt; nog een keer proberen
+upgrades.lasermove2.desc,De laser beweegt nog sneller.
+loadout.mapsize.title,Kaartgrootte
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Explosie 1
+upgrades.drillbotturnaround.desc,"Als hij een ondoordringbare muur tegenkomt, keert Booris om in plaats van dat hij een dutje doet."
+properties.dome.baserepair,Repareer {) hp
+upgrades.condenserautoovercharge.desc,Je primaire gadget blijft permanent overladen zonder water te verbruiken. Na het overladen duurt het langer voor de condensator water produceert.
+upgrades.teleporterteleportresourcesback.desc,"De portal teleporteert nu grondstoffen, maar kan jou niet langer teleporteren. Je kunt nog wel teleporteren van de koepel naar de portal."
+ending.wishlistonsteam,Zet hem op je Steam-verlanglijst
+properties.sword.reflection,Grotere schildvoet
+upgrades.drillbotduplicate.desc,"Booris krijgt een identieke tweelingbroer, Boorlando."
+level.converter.popup.conversion.convert,omzetten:
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} water voor één ijzer
+title.navbar.options,Opties
+upgrades.swordexplosivereflection.desc,Weerkaatste projectielen ontploffen als ze iets raken.
+upgrades.shieldbattlereflectshortuses.title,Getimede weerkaatsing
+level.gameover.unlock.skin,Nieuwe skin vrijgespeeld!
+level.gameover.stats.destroyedblocks,Blokken verwoest
+options.keybindings.action.keeper.gravityball,Ladingsschot
+upgrades.orchardjetpack1.title,Snelheidsboost jetpack 1
+upgrades.keeper1.desc,"Een bekwame, efficiënte professional die weet wat mijnwerk is."
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.shieldstrength3.title,Kracht 3
+upgrades.orchardoverchargebuffduration.desc,De effecten van het fruit duren langer na het overladen van de fruitboom.
+upgrades.stunlaserduration1.title,Schietduur 1
+loadout.mode.maze.desc,"De kaart is een soort doolhof vol vertakkingen, doodlopende stukken en kronkelingen."
+properties.dome.healthfractionrepair,Repareer {.percent} van totale hp
+upgrades.jetpackstrength3.desc,"Verbetert het jetpack, zodat je meer grondstoffen mee kunt nemen."
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Beweging gedetecteerd:
+upgrades.prospectionmetersand1.title,Kobaltmeter
+upgrades.prospectionmeterwater1.desc,Toont de afstand tot de dichtstbijzijnde waterbronnen.
+upgrades.blastminingstickycharge.desc,Explosieven blijven aan de eerste muur kleven waarmee ze in contact komen en veroorzaken tunnels in plaats van cirkelvormige explosies.
+options.video,Beeld
+title.navbar.updates,Updates
+loadout.skin,Skin
+upgrades.shieldstrength2.title,Kracht 2
+level.gameover.win.title,JE KOEPEL IS GERED
+level.station.navbar.battle,Gevecht
+upgrades.converterirontocobalt.desc,Zet kobalt om in ijzer en omgekeerd.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,Nieuwe koepel
+pause.gamepadcontrols.pickup,Oppakken
+options.video.graphicsmode.photosensitive,Lichtovergevoeligheidsmodus
+upgrades.orchardduration2.desc,De effecten van het fruit duren nog langer.
+properties.dome.meleedamagereduction,Mêleeschadebeperking {.percent}
+upgrades.domesandrepairstrong.desc,Gebruik kobalt om de schade aan je koepel te repareren.
+options.input,Invoer
+properties.keeper2.spherereload,Heropladen bol {}s
+properties.blastmining.damage,Schade {}
+upgrades.laserbend.title,Laser met draaikop
+upgrades.swordlargeblade3.desc,"Een monsterlijk zwaard. Zeer krachtig, maar erg traag."
+loadout.domeoptions.title,Kies je koepel!
+upgrades.shieldoverchargeduration1.desc,Na het overladen van je schild gaan de vechtvaardigheden van elk schild langer mee in de volgende golf.
+upgrades.probelong1.title,Groot bereik
+options.keybindings.rebinding.inputprocessor,Druk op een nieuwe toets voor deze actie
+properties.teleporter.teleportduration,Teleportatieduur {}s
+upgrades.dome2health2.title,Stabiliteit 2
+upgrades.drillbotduplicate.title,Broertje
+pause.quit.popup,"Weet je zeker dat je wilt stoppen?
+Druk dan opnieuw.
+(Je voortgang wordt opgeslagen)"
+upgrades.prospectionmetersand2.desc,Toont de richting naar de dichtstbijzijnde kobaltafzettingen.
+upgrades.probepersist1.desc,"Voeg een geheugenmodule toe aan de sonde, zodat de locatie van grondstoffen langer gemarkeerd is."
+upgrades.artilleryshotcooldown2.title,Afkoeling 2
+properties.keeper2.sphereadditionalfirsthitdamage,Extra schade eerste treffer {.percent}
+upgrades.shieldbattledestructionprevention.title,Laatste verzet
+level.gameover.unlock.pet,Nieuw huisdier ontgrendeld!
+upgrades.repellentbattlelongerhealthreduction.desc,Verlengt en versterkt het verzwakken van alle aanwezige monsters.
+ending.feedbackondiscord,Geef feedback op Discord
+properties.keeper2.reflectnexthitdamage,Extra schade bol bij weerkaatsing voor volgende stuitering {.percent}
+options.video.graphicsmode.borderlesswindow,Venster zonder randen
+upgrades.keeper2pinballlifetime1.desc,Stabiliseer de kinetische bol zodat deze langer zweeft.
+level.gadgetchoice.title,KIES EEN GADGET!
+upgrades.keeper2bundle.title,Bundelschot
+upgrades.relichunt.title,Reliekenjacht
+loadout.mode.doubleiron.desc,"IJzerafzettingen zijn twee keer zo rijk, maar upgrades kosten ook twee keer zoveel ijzer."
+level.tutorial.repair.findcobalt,"Probeer kobalt te vinden, want daar kun je je koepel mee repareren.
+Het is zeldzaam en het kan op."
+upgrades.keeper2pinballsplit.title,Split Spheres
+options.input.controls.text,Een controller wordt aanbevolen.
+landing.proceed,Druk op een toets of knop om door te gaan
+upgrades.keeper2pinballmorespheres1.desc,Voeg een extra module toe aan je zwaartekrachtgenerator zodat deze meer bollen kan opnemen.
+upgrades.jetpackstrength4.desc,"Verbetert het jetpack, zodat je meer grondstoffen mee kunt nemen."
+upgrades.orchardbattleshieldsecondlayer.desc,Groei nog een laag projectielenschilden.
+level.converter.popup.conversion.time,over {time} cyclussen
+properties.keeper2.maxspeed,Topsnelheid {}
+properties.laser.aimline,Richtlijn
+upgrades.shieldstrength3.desc,Het koepelschild kan nog meer schade absorberen.
+upgrades.repellentovercharge.title,Overladen verdelger
+properties.drillbot.buffstrength,Sneller energie {.percent}
+worldmodifier.hardnesssofter.desc,Er zijn meer zachtere rotsen in deze mijn.
+level.tutorial.pickup.popup_1,Druk op | om een grondstof te pakken.
+level.tutorial.pickup.popup_3,Ingedrukt houden om er meerdere te pakken.
+pause.gamepadcontrols.drop,Laten vallen
+level.tutorial.fruit.popup_1,Je fruitboom heeft zijn eerste vruchten.
+level.tutorial.fruit.popup_2,Druk ernaast op | om een vrucht te eten.
+worldmodifier.mapwide.desc,De mijn is breder en minder diep.
+upgrades.prestigefinishnocobalt.desc,Verlaat deze planeet en keer terug naar huis.
+upgrades.prospectionmeteriron2.title,IJzerkompas
+upgrades.keeper2movement2.title,Zwaartekrachtbeweging 2
+options.keybindings.gamepad,Controller
+ending.backtomainmenu,Terug naar hoofdmenu
+level.tutorial.fullscreen.back,terug
+upgrades.shield.title,Schild
+upgrades.blastmining.title,Explosief mijnwerk
+upgrades.converterirontocobalt.title,Kobaltomzetting
+upgrades.swordstabfast1.desc,Steek sneller en vaker.
+level.gameover.prestige.score.rankunchanged,Klassering ongewijzigd.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,De portal kan jou nu weer teleporteren.
+upgrades.orchardjetpack3.title,Snelheidsboost jetpack 3
+level.gameover.unlock.mapsize,Nieuwe kaartgrootte ontgrendeld!
+upgrades.domeresourcecounters.title,Inventaris
+level.gameover.keepgadget.none,geen
+upgrades.stunlaserdamage1.desc,De stunlaser richt ook wat schade aan.
+properties.repellent.battleabilityduration,Vaardigheidsduur {}s
+upgrades.prestigeiron.desc,Stuur ijzer terug. Voegt 1 punt toe aan de prestige die je ontvangt voor elke golf.
+upgrades.teleporter.title,Teleporteerder
+ending.teasemessage,Een klein tipje van de sluier van wat komen gaat:
+loadout.relichunt.modifiers,Kies je modifiers
+options.accessibility,Toegankelijkheid
+loadout.mapsize.small.description,Een kleine kaart voor korte sessies.
+upgrades.shieldbattleblastdamage.desc,Vergroot de schade en het verdovende effect van het elektroveld.
+options.translation.community.desc,Deze talen zijn vertaald door onze prachtige community. Doe mee als je wil!
+upgrades.prospectionmeterwater2.desc,Toont de richting naar de dichtstbijzijnde waterbronnen.
+upgrades.stunlaserdamage2.title,Schade 2
+options.keybindings.action.keeper.gadget1,Gadget 1
+options.keybindings.action.keeper.gadget2,Gadget 2
+properties.repellent.wavedelay,Golfvertraging van {} cycli
+options.ok,OK
+upgrades.swordblade1.desc,Verbeter de hakkracht en -snelheid van je zwaard.
+upgrades.shieldoverchargeduration2.title,Duur overladen vechtvaardigheid 2
+properties.sword.slicedamage,Hakschade {} 
+properties.condenser.autocollect,Automatische verzameling
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,Afgevuurde bundels blijven recht onder de koepel in plaats van langs de centrale as te vliegen.
+upgrades.orchardduration1.title,Voedzaamheid 1
+upgrades.drillbotbuffstrength1.title,Voedzame lekkernijen
+upgrades.liftcarrykeeper2.title,Wachterslift 2
+upgrades.shieldoverchargestrength2.desc,Het overladen schild kan nog meer schade absorberen.
+upgrades.repellentbattleslowdown.title,Oponthoud
+upgrades.artilleryshotprediction.title,Schotvoorspelling
+upgrades.repellentdelay3.desc,Verlengt de vertraging van de volgende golf monsters nog meer.
+upgrades.teleporter.desc,Een tweerichtingsteleporteerder met een station onder de koepel en een portal die je kunt verplaatsen in de mijnen.
+level.gameover.stats.monsterskilled,Monsters gedood
+upgrades.keeper2pinballreflect.title,Bolweerkaatsing
+upgrades.drillbotstrength3.title,Kracht 3
+upgrades.shieldbattlereflectspeedup.title,Versnelde weerkaatsing
+upgrades.probeswift1.title,Snelle sonde
+options.game.events.enableseasonal,seizoenscontent inschakelen
+upgrades.repellentbattledamageovertime.title,Gifdampen
+upgrades.dome3health2.title,Stabiliteit 2
+loadout.mapsize.huge,Enorm
+properties.repellent.overchargebattleabilityduration,Duur extra vaardigheid {.percent}
+options.keybindings.action.keeper.gravitycollect,Lading verzamelen
+loadout.miner.scores.title,Scores
+properties.lift.speed,Bolsnelheid {}
+upgrades.drillbotstrength1.title,Kracht 1
+level.tutorial.repellent.popup_2,Druk vlakbij op | om hem te activeren.
+level.tutorial.repellent.popup_1,Je verdelger is gereed om de volgende golf te vertragen.
+properties.orchard.growthtime,Groeitijd van {} cycli
+properties.keeper2.spherefractiondamage,Sphere Damage transcending Rock Hardness {.percent}
+properties.sword.brake,Zwaardwendbaarheid {}
+upgrades.artilleryflakmultishot2.title,Multischot 2
+upgrades.swordstabfast2.desc,Steek nog sneller en vaker.
+upgrades.sword.desc,Een duurzaam zwaard dat meer schade aanricht naarmate het verder van de koepel zwaait. Kan worden afgevuurd om monsters te steken en heeft een schildvoet die projectielen afweert.
+upgrades.artilleryflakmultishot1.title,Multischot 1
+upgrades.artilleryshotprediction.desc,Toont de verwachte baan van een afgevuurde granaat.
+upgrades.shieldbattlereflect.desc,Activeer een actieve vechtvaardigheid die aankomende projectielen tijdelijk weerkaatst.
+upgrades.orchardbattleshieldstrong.title,Sterke schilden
+upgrades.swordlongblade1.title,Lang zwaard 1
+level.station.battle.navbar.stab,Steken
+properties.converter.irontowater,{} ijzer voor één water
+upgrades.minoriron.title,Send Iron
+upgrades.keeper2bundleinfinite.desc,Bundels blijven voor een erg lange tijd stabiel.
+worldmodifier.resourcedesc,"Er zijn maar een paar ijzerclusters, maar die zijn wel erg groot."
+loadout.keeper,WACHTER
+upgrades.drillbotstrength4.desc,Vergroot de graafkracht van Booris.
+upgrades.swordstabexplodedamage.title,Bomschade
+upgrades.prospectionmeterwater2.title,Waterkompas
+loadout.keeperoptions.title,Kies je wachter!
+properties.prospectionmeter.range,Bereik van {} vakken
+upgrades.orchardbattleshield.title,Projectielenschild
+loadout.mapsize.large,Groot
+properties.keeper2.reflectsphere,Inkomende bollen weerkaatsen
+upgrades.orchardbattlerooting.title,Strikwortels
+properties.repellent.growthtime,Productietijd van {} cycli
+properties.converter.irontocobalt,{} ijzer voor één kobalt
+upgrades.dome3health1.desc,Permanente verbetering van de structurele stabiliteit van je koepel.
+upgrades.teleporterteleportresourcescooldown.title,Teleportatiekoeling
+upgrades.shieldovercharge.desc,"Gebruik water om je schild handmatig te overladen, zodat het tijdens de volgende golf meer schade kan absorberen."
+upgrades.stunlaserspeed2.title,Snelheid 2
+upgrades.drillbotbuff1.desc,"Er groeien lekkernijen in het nest onder de koepel. Breng ze naar Booris, die ze met smaak oppeuzelt om energie te krijgen."
+options.keybindings.action.dome.battle,Vechten
+upgrades.orchardovercharge.title,Overladen fruitboom
+properties.teleporter.teleportresourcesarea,Teleportatiebereik van {} vakken
+upgrades.swordreflection1.desc,Vergroot de schildvoet en zorgt ervoor dat hij energieprojectielen weerkaatst.
+upgrades.blastminingblast2.title,Explosie 2
+upgrades.swordreflection1.title,Weerkaatsing 1
+upgrades.keeper2pinballlifetime2.desc,Stabiliseer de kinetische bol zodat deze langer zweeft.
+options.keybindings.action.general.left,Links
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Permanente verbetering van de structurele stabiliteit van je koepel.
+upgrades.drill2.title,Boorkracht 2
+options.keybindings.rebinding,Toetsen opnieuw toewijzen
+level.tutorial.assessor.carry.desc1_1,"Zodra ze aan je gekoppeld zijn, volgen ze je zelfs wanneer je de verzamelingsknop loslaat."
+upgrades.keeper2pinballdamage1.title,Schade kinetische bol 1
+upgrades.stunlaserspeed2.desc,De stunlaser beweegt nog sneller en blijft monsters volgen tijdens het afkoelen.
+options.keybindings.title,BESTURING WIJZIGEN
+upgrades.keeper2pinballmorespheres2.desc,Voeg een extra module toe aan je zwaartekrachtgenerator zodat deze meer bollen kan opnemen.
+level.gameover.prestige.uploading.finalfailed,"nieuwe score uploaden mislukt, sorry!"
+upgrades.blastminingblast1.desc,Vergroot de kracht van de explosie.
+upgrades.stunlaserduration2.desc,De stunlaser koelt sneller af en schiet langer.
+upgrades.prospectionmetersand1.desc,Toont de afstand tot de dichtstbijzijnde kobaltafzettingen.
+pause.gamepadcontrols.move,Verplaatsen
+properties.probe.charges,Ladingen {}
+upgrades.drillbotstrength2.title,Kracht 2
+loadout.prestige.cobalt.description,"De kaart bevat geen kobalt en je kunt het ook niet genereren, maar je begint wel met een aanzienlijke hoeveelheid."

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ASSESSOR Claustrophobe.ogg-4fc1fa27946b4cdb90a177d878b482fe.oggstr"
+
+[deps]
+
+source_file="res://content/music/ASSESSOR Claustrophobe.ogg"
+dest_files=[ "res://.import/ASSESSOR Claustrophobe.ogg-4fc1fa27946b4cdb90a177d878b482fe.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

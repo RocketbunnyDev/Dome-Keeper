@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Damagefield_Intro.wav-6d4c780c870d9f4107c5106e51223ae1.sample"
+
+[deps]
+
+source_file="res://content/sounds/Locations/DomeShield/Damagefield_Intro.wav"
+dest_files=[ "res://.import/Damagefield_Intro.wav-6d4c780c870d9f4107c5106e51223ae1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

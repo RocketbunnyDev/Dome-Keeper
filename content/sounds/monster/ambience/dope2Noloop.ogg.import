@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/dope2Noloop.ogg-549d004391c1caf94c48e8cd7746f82e.oggstr"
+
+[deps]
+
+source_file="res://content/sounds/monster/ambience/dope2Noloop.ogg"
+dest_files=[ "res://.import/dope2Noloop.ogg-549d004391c1caf94c48e8cd7746f82e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

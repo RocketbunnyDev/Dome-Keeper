@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/grid Off.wav-dd9e546c0368f19259450207fc2dfb63.sample"
+
+[deps]
+
+source_file="res://content/sounds/Weapons/Laser/grid Off.wav"
+dest_files=[ "res://.import/grid Off.wav-dd9e546c0368f19259450207fc2dfb63.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

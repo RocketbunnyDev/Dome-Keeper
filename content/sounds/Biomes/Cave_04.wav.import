@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Cave_04.wav-8a3561d1294becef0cc39bfac994603a.sample"
+
+[deps]
+
+source_file="res://content/sounds/Biomes/Cave_04.wav"
+dest_files=[ "res://.import/Cave_04.wav-8a3561d1294becef0cc39bfac994603a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,145 @@
+[gd_scene load_steps=27 format=2]
+
+[ext_resource path="res://content/drop/egg/Egg.gd" type="Script" id=1]
+[ext_resource path="res://content/sounds/Events/EggPlant/Spring_08.wav" type="AudioStream" id=2]
+[ext_resource path="res://content/drop/egg/focus.png" type="Texture" id=3]
+[ext_resource path="res://content/shared/drops/DropEnterTrigger.tscn" type="PackedScene" id=4]
+[ext_resource path="res://content/drop/egg/carry.png" type="Texture" id=5]
+[ext_resource path="res://content/shared/HighlightShader.material" type="Material" id=6]
+[ext_resource path="res://content/drop/egg/eggrooting-Sheet.png" type="Texture" id=7]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=8]
+
+
+[sub_resource type="PhysicsMaterial" id=6]
+resource_local_to_scene = true
+friction = 0.6
+bounce = 0.25
+
+[sub_resource type="AtlasTexture" id=9]
+atlas = ExtResource( 7 )
+region = Rect2( 19, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=10]
+atlas = ExtResource( 7 )
+region = Rect2( 38, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=11]
+atlas = ExtResource( 7 )
+region = Rect2( 57, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=12]
+atlas = ExtResource( 7 )
+region = Rect2( 76, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=13]
+atlas = ExtResource( 7 )
+region = Rect2( 95, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=14]
+atlas = ExtResource( 7 )
+region = Rect2( 114, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=15]
+atlas = ExtResource( 7 )
+region = Rect2( 133, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=16]
+atlas = ExtResource( 7 )
+region = Rect2( 152, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=17]
+atlas = ExtResource( 7 )
+region = Rect2( 171, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=18]
+atlas = ExtResource( 7 )
+region = Rect2( 190, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=19]
+atlas = ExtResource( 7 )
+region = Rect2( 209, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=20]
+atlas = ExtResource( 7 )
+region = Rect2( 228, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=21]
+atlas = ExtResource( 7 )
+region = Rect2( 247, 0, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=22]
+atlas = ExtResource( 7 )
+region = Rect2( 0, 12, 19, 12 )
+
+[sub_resource type="AtlasTexture" id=8]
+atlas = ExtResource( 7 )
+region = Rect2( 0, 0, 19, 12 )
+
+[sub_resource type="SpriteFrames" id=23]
+animations = [ {
+"frames": [ SubResource( 9 ), SubResource( 10 ), SubResource( 11 ), SubResource( 12 ), SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ), SubResource( 17 ), SubResource( 18 ), SubResource( 19 ), SubResource( 20 ), SubResource( 21 ) ],
+"loop": false,
+"name": "rooting",
+"speed": 10.0
+}, {
+"frames": [ SubResource( 22 ) ],
+"loop": false,
+"name": "broken",
+"speed": 1.0
+}, {
+"frames": [ SubResource( 8 ) ],
+"loop": false,
+"name": "default",
+"speed": 1.0
+} ]
+
+[sub_resource type="CapsuleShape2D" id=7]
+radius = 3.0
+height = 2.0
+
+[node name="Egg" type="RigidBody2D" groups=["drops", "saveable"]]
+z_index = 22
+collision_layer = 1066
+collision_mask = 2
+physics_material_override = SubResource( 6 )
+contacts_reported = 1
+contact_monitor = true
+can_sleep = false
+script = ExtResource( 1 )
+carryableType = "gadget"
+type = "egg"
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+light_mask = 0
+frames = SubResource( 23 )
+
+[node name="CarrySprite" type="Sprite" parent="."]
+visible = false
+texture = ExtResource( 5 )
+
+[node name="FocusSprite" type="Sprite" parent="."]
+visible = false
+material = ExtResource( 6 )
+z_index = 30
+texture = ExtResource( 3 )
+
+[node name="DropEnterTrigger" parent="." instance=ExtResource( 4 )]
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="VisibilityEnabler2D" type="VisibilityEnabler2D" parent="."]
+visible = false
+position = Vector2( 0, 2.38419e-07 )
+scale = Vector2( 0.5, 0.5 )
+freeze_bodies = false
+
+[node name="BumpSound" parent="." instance=ExtResource( 8 )]
+stream = ExtResource( 2 )
+volume_db = -3.0
+pitch_scale = 1.04
+bus = "Mine"
+randomPitch = 0.19
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 0, -1 )
+shape = SubResource( 7 )

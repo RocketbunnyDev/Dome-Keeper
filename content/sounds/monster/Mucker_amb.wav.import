@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Mucker_amb.wav-321b1921cd2db1cc96877759b3c4ee09.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/Mucker_amb.wav"
+dest_files=[ "res://.import/Mucker_amb.wav-321b1921cd2db1cc96877759b3c4ee09.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

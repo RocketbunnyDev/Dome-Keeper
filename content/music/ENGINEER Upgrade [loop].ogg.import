@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ENGINEER Upgrade [loop].ogg-133a50660a938a2e467747cf5309306e.oggstr"
+
+[deps]
+
+source_file="res://content/music/ENGINEER Upgrade [loop].ogg"
+dest_files=[ "res://.import/ENGINEER Upgrade [loop].ogg-133a50660a938a2e467747cf5309306e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

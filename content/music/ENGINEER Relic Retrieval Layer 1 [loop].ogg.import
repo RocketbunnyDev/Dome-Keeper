@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ENGINEER Relic Retrieval Layer 1 [loop].ogg-7369f96744aa4d078eb0246bb316d7fa.oggstr"
+
+[deps]
+
+source_file="res://content/music/ENGINEER Relic Retrieval Layer 1 [loop].ogg"
+dest_files=[ "res://.import/ENGINEER Relic Retrieval Layer 1 [loop].ogg-7369f96744aa4d078eb0246bb316d7fa.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/stillsound.wav-be70ee9e3aa339002ff6af5d8a78f234.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper1/stillsound.wav"
+dest_files=[ "res://.import/stillsound.wav-be70ee9e3aa339002ff6af5d8a78f234.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

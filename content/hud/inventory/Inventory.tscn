@@ -1,0 +1,78 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://content/hud/inventory/Inventory.gd" type="Script" id=1]
+[ext_resource path="res://gui/fonts/FontHudPixelartMonospaced.tres" type="DynamicFont" id=2]
+[ext_resource path="res://content/icons/icon_sand.png" type="Texture" id=3]
+[ext_resource path="res://content/icons/icon_iron.png" type="Texture" id=4]
+[ext_resource path="res://content/icons/icon_water.png" type="Texture" id=5]
+
+[node name="Inventory" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+size = Vector2( 4, 5 )
+layoutWeights = Vector2( 5, 0 )
+layoutPriority = 2
+
+[node name="LabelIron" type="Label" parent="."]
+margin_left = 9.0
+margin_top = -3.0
+margin_right = 39.0
+margin_bottom = 29.0
+rect_scale = Vector2( 0.333, 0.333 )
+custom_colors/font_color = Color( 1, 0.92549, 0.839216, 1 )
+custom_fonts/font = ExtResource( 2 )
+text = "0"
+align = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="LabelWater" type="Label" parent="."]
+margin_left = 8.8598
+margin_top = 5.60309
+margin_right = 38.8598
+margin_bottom = 37.6031
+rect_scale = Vector2( 0.333, 0.333 )
+custom_colors/font_color = Color( 1, 0.92549, 0.839216, 1 )
+custom_fonts/font = ExtResource( 2 )
+text = "0"
+align = 2
+
+[node name="LabelSand" type="Label" parent="."]
+margin_left = 9.035
+margin_top = 14.9419
+margin_right = 39.035
+margin_bottom = 46.9419
+rect_scale = Vector2( 0.333, 0.333 )
+custom_colors/font_color = Color( 1, 0.92549, 0.839216, 1 )
+custom_fonts/font = ExtResource( 2 )
+text = "0"
+align = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextureRect1" type="TextureRect" parent="."]
+margin_left = 2.0
+margin_top = 1.75122
+margin_right = 26.0
+margin_bottom = 25.7512
+rect_scale = Vector2( 0.25, 0.25 )
+texture = ExtResource( 4 )
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+margin_left = 2.25
+margin_top = 10.5012
+margin_right = 26.25
+margin_bottom = 34.5012
+rect_scale = Vector2( 0.25, 0.25 )
+texture = ExtResource( 5 )
+
+[node name="TextureRect3" type="TextureRect" parent="."]
+margin_left = 2.0
+margin_top = 19.7512
+margin_right = 26.0
+margin_bottom = 43.7512
+rect_scale = Vector2( 0.25, 0.25 )
+texture = ExtResource( 3 )

@@ -1,0 +1,942 @@
+﻿key,nb_NO
+loadout.prestige.title,Velg en modusvariant
+upgrades.shieldbattleelectroblast.title,Elektroeksplosjon
+properties.orchard.battleshieldhp,Styrke {} hp
+level.station.battle.navbar.move,Bevegelse
+options.video.stretchmode.rezised,Endret størrelse
+level.gameover.unlock.world,Ny verden låst opp!
+upgrades.blastminingwaterless.desc,"Trenger ikke vann, men produksjonen av sprengladninger tar lengre tid."
+properties.blastmining.growthtime,Produksjonstid {} sykluser
+properties.laser.stun,Svimeslagsstyrke {}
+exhibition.level.instruction,Trykk hvor som helst for å spille videre!
+pause.godot,Laget med Godot
+upgrades.orchardjetpack2.desc,"Gir en kraftigere fruktfartsøkning, slik at du kan bevege deg enda raskere."
+upgrades.artillery.title,Artilleri
+upgrades.condenser.desc,Under kuppelen plasseres en maskin som sakte produserer vann gjennom kondensering.
+properties.lift.keeperupwardsspeed,Fart på vokterheis {}
+level.tutorial.fullscreen.continue,fortsett
+upgrades.dome1damagereduction2.title,Hardhet 2
+upgrades.orchardduration2.title,Varighet 2
+upgrades.condenserautoovercharge.title,Automatisk overlading
+upgrades.keeper2pinballreflectdamage2.title,Refleksjonsskade 2
+loadout.title,VELG UTSTYR
+level.tutorial.teleporter_2,Bruk teleportstasjonen til å teleportere deg til stasjonen og omvendt.
+options.keybindings.action.general.up,Opp
+level.converter.popup.cancel,Avbryt
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,Aktiver ferdighet ved uttømming av skjold
+loadout.prestige.normal,Vanlig
+properties.sword.reflectprojectilesexplosive,Returnerte energiprosjektiler er eksplosive
+upgrades.swordlargeblade3.title,Kraftig klinge 3
+upgrades.orcharddrill2.title,Gruvedriftbooster 2
+loadout.prestige.normal.description,Vanlig prestisjemodus.
+upgrades.keeper2pinballreflectdamage1.desc,Reflekterte sfærer vil gi større skade mot stein de treffer neste gang.
+options.input.gamepad,Spillkontroll
+loadout.choices.locked,Ikke låst opp
+upgrades.condenserspeed1.desc,Gjør at det går raskere å produsere en enhet vann.
+upgrades.shieldbattleinvulnerable.desc,Utløser en aktiv kampferdighet som gjør kuppelen usårbar i en kort periode.
+upgrades.domewavemeter.desc,Viser hvor lenge det er til neste gang fiendtlige livsformer angriper.
+upgrades.keeper2pinballreflectspeedup2.title,Overlegen refleksjon
+upgrades.keeper2movement1.desc,Forbedrer gravitasjonsgeneratoren din til å bevege seg raskere.
+upgrades.repellentoverchargeduration2.desc,Etter overlading varer kampferdigheten lenger i neste bølge.
+upgrades.laserhitprojectiles.desc,"Når du treffer prosjektiler med laseren, løses de umiddelbart opp."
+options.keybindings.action.keeper.pickup,Plukk opp
+upgrades.keeper2pinballdamage1.desc,Forbereder hvor mye skaden fra kinetisk sfære gjør når den treffer steiner. Forbedrer også den roterende gruvedriftskaden.
+upgrades.keeper2pinballdamage3.title,Kinetisk sfæreskade 3
+options.video.graphicsmode.enablevsync,Aktiver VSync
+options.translation.community,Oversettelse av spillerne: {completion} % fullført
+loadout.difficult.harder,vanskeligere
+worldmodifier.resourcerichiron.desc,Verdenen inneholder mye jern.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,Send jern
+upgrades.stunlaserspeed1.desc,Svimeslagslaseren beveger seg raskere.
+upgrades.keeper2pinballdamage2.desc,Forbereder hvor mye skaden fra kinetisk sfære gjør når den treffer steiner. Forbedrer også den roterende gruvedriftskaden.
+upgrades.drill1.title,Borstyrke 1
+upgrades.prospectionmetersand2.title,Koboltkompass
+upgrades.dome1health1.desc,Gir kuppelen permanent bedre strukturell helse.
+title.navbar.newgame,Nytt spill
+properties.repellent.overchargeduration,Raskere produksjon av monstermiddel i {} sykluser
+properties.sword.retractspeed,Tilbaketrekkingsfart {} 
+upgrades.lasermove3.desc,Laseren beveger seg i maksfart.
+upgrades.stunlaser.title,Svimeslagslaser
+options.keybindings.action.general.use,Bruk
+worldmodifier.monsterfeeble.desc,"Monstrene er svakere, og påfører mindre skade."
+upgrades.shield.desc,Bygg et skjold som absorberer skade. Lades automatisk.
+options.video.stretchmode.rezised.text,"Gjengir spillet i den opprinnelige oppløsningen på skjerm eller i vindu.
+Gir skarp grafikk, men feil i form av 1 piksel brede linjer kan forekomme."
+upgrades.orchardbattlerootingexplosion.desc,Utløs dette på nytt for at alle fangede monstre skal eksplodere og påføre skade rundt seg.
+loadout.mapsize.small,Lite
+upgrades.probe.desc,"Fester en sonde til drakten din. Når den aktiveres, sender den ut en puls som viser ressurser i nærheten. Må lades opp i stasjonen under kuppelen."
+upgrades.swordlongblade1.desc,Gir en lengre og smidigere klinge.
+upgrades.dome1health1.title,Helse 1
+upgrades.blastminingwaterless.title,Sprengladninger uten vann
+level.tutorial.assessor.carry,Innsamling av gravitet
+upgrades.liftspeed1.desc,Sfærene beveger seg raskere.
+upgrades.shieldstrength1.desc,Gjør at kuppelskjoldet tåler mer skade.
+upgrades.orchardbattleshieldsecondlayer.title,Skjold med to lag
+upgrades.teleporterteleportresourcescooldown.desc,Portalen kan teleportere ressurser oftere.
+options.input.gamepad.autoswitch,automatisk gjenkjenning av foretrukne spillkontroller
+level.gameover.unlock.modifiers,Verdensmodifikatorer låst opp!
+properties.sword.slicebrake,Redusert fart ved hugg {.percent}
+loadout.difficulty.veryeasy,Normal
+properties.sword.sliceacceleration,Sverdfart {}
+options.input.gamepad.gamepadstickdeadzone.text,"Still inn slik at linjen ikke flimrer når du rører lett ved tommelspakene, og ikke skyver på dem.
+Når du skyver på tommelspaken, skal linjen flimre."
+options.accessibility.highlightmonsters.explanation,Et lysende omriss gjør monstre mer synlige.
+properties.upgrade.gameover,Avslutt runden
+upgrades.blastminingstickycharge.title,Retningsladninger som festes
+upgrades.shieldoverchargestrength2.title,Overlading av skjold 2
+upgrades.blastminingblast2.desc,Gir en enda kraftigere eksplosjon.
+upgrades.repellentbattlestrongerslowdown2.title,Kraftig stagnasjon
+upgrades.converter.desc,"Kan konvertere ressurser, slik at det blir lettere å få god balanse i ressursbeholdningen."
+level.gameover.continue,Fortsett
+upgrades.repellentbattleslowdown.desc,Spray en bedøvende tåke under kamp for å bremse alle monstre.
+loadout.mapsize.medium.description,Et gjennomsnittlig stort kart for en real utvinningsøkt.
+properties.orchard.overchargeadditionalbuffduration,Økningen varer i {} s ekstra etter overlading
+options.translation.community.title,Oversettelser fra fellesskapet
+upgrades.blastminingtriple.title,Triple ladninger
+worldmodifier.hardnessextremes.desc,Det finnes mange flere ekstremt harde og myke steiner.
+level.station.battle.navbar.exit,Avslutt
+upgrades.keeper2pinballlifetime2.title,Kinetisk sfærelivslengde 2
+upgrades.minoriron.desc,Send iron offworld to increase your prestige.
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,Migrasjon
+upgrades.converterefficientcobalt.title,Effektiv koboltkonvertering
+upgrades.shieldbattledestructionprevention.desc,"Du blir usårbar i en lengre periode når kuppelen er nær ved å bli ødelagt.
+Etter dette lades ikke skjoldet opp før neste kamp. Siste skanse kan ikke aktiveres før etter 2 fullførte bølger.
+"
+upgrades.drill1.desc,Forsterk boret for å grave raskere.
+level.gameover.retry,Start en ny runde
+properties.orchard.overchargeduration,Frukt vokser dobbelt så fort for hver {}. syklus
+upgrades.dome2health1.title,Helse 1
+level.tutorial.station.popup_4,Trykk deretter på | for å gå til kampmodus og forsvare den.
+level.gameover.stats.timeplayed.unit,m
+upgrades.repellentbattlestrongerslowdown2.desc,Tåken bremser monstrene enda mer og varer lenger.
+loadout.gadgetoptions.title,Velg primærinnretning!
+level.tutorial.station.popup_2,Gå til stasjonen og trykk på | for å gå inn i den.
+upgrades.dome1damagereduction1.desc,"Gjør kuppelens overflate hardere, slik at den blir mindre skadet i nærkampangrep fra monstre. Har ingen innvirkning på skade fra prosjektiler."
+level.tutorial.station.popup_1,Kuppelen er under angrep!
+upgrades.keeper2movement3.title,Gravitasjonsbevegelse 3
+upgrades.jetpackspeed1.desc,Forbedre jetpacken for å forflytte deg raskere.
+properties.converter.ironwatertime,Konverteringstid på {} sykluser
+level.tutorial.sworddome.slicing.desc,"Jo raskere sverdet svinger, desto mer huggskade gjør det."
+upgrades.liftorbs.desc,Monter en ekstra heissfære.
+upgrades.proberecharge.desc,Over tid lades sonden sakte opp av seg selv.
+loadout.gadget,INNRETNING
+upgrades.drill4.title,Borstyrke 4
+properties.probe.rechargetime,Tid for full opplading {} sykluser 
+upgrades.keeper2pinballdamage4.title,Kinetisk sfæreskade 4
+options.game,Spill
+loadout.prestige.cobalt,Fastsatt kobolt
+options.input.vibration.strength,Vibrasjonsstyrke
+upgrades.liftcapacity1.desc,Sfærene har plass til flere ressurser.
+loadout.miner.title,Choose Your Run Options
+level.gameover.stats.difficulty,Vanskelighet
+upgrades.repellentoverchargestrength2.title,Overlading av forsinket bølge 2
+upgrades.domesandrepairstrong.title,Kraftig koboltreparasjon
+upgrades.stunlaserduration1.desc,Svimeslagslaseren nedkjøles raskere og avfyrer lenger.
+level.gameover.prestige.score.rankimproved,Du klatret til plass {rank}.
+upgrades.stunlaserdamage2.desc,Gjør at svimeslagslaseren gjør mer skade.
+upgrades.drillbotstrength4.title,Styrke 4
+level.gameover.prestige.title,PRESTISJELØP FULLFØRT
+loadout.secondstage.cancel,Avbryt
+upgrades.laseraimline.desc,Gjør at du ser hva laseren sikter på.
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,Kondensatoren produserer og lagrer to enheter vann før den slutter å fungere.
+upgrades.swordreflection2.title,Retur 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,Forsterk boret for å grave raskere.
+properties.laser.hitprojectiles,laseren treffer energiprosjektiler
+upgrades.dome1damagereduction1.title,Hardhet 1
+properties.sword.stabexplosivedamage,Bombeskade {}
+upgrades.drillbotturnaround.title,Avanserte betingelser
+upgrades.keeper2movement1.title,Gravitasjonsbevegelse 1
+properties.orchard.battleroots,Dyrk {} røtter i bakken
+upgrades.prospectionmeterrange2.title,Rekkevidde 2
+upgrades.jetpackspeed4.title,Hastighet 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,Gjør at neste monsterbølge bremses enda mer.
+upgrades.orchard.desc,Plant et tre i domen som kultiverer fruktvekster for å styrke bevegelse og gruvedrift.
+upgrades.artilleryflakexplosionradius1.title,Luftvernradius 1
+upgrades.shieldbattleelectroblast.desc,"Utløser en aktiv kampferdighet som aktiverer et livsfarlig, kortvarig kraftfelt rundt kuppelen."
+upgrades.shredgadgettocobalt.desc,Kvern innretningen for å få {amount} kobolt.
+upgrades.prestigecobalt.title,Send kobolt
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,"Gir en enorm klinge. Den er tregere, men gjør stor skade."
+level.gameover.back,Tilbake
+loadout.abort,Avbryt
+options.keybindings.action.dome.fire,Avfyr 
+upgrades.swordstabshoot.title,Spyd
+upgrades.blastminingtriple.desc,Produserer tre mindre ladninger i stedet for én stor.
+upgrades.orcharddrill1.title,Gruvedriftbooster 1
+upgrades.swordextendlong2.title,Langt stikk 2
+upgrades.artilleryshotcooldown1.desc,Våpenet kan avfyres hyppigere.
+upgrades.keeper2pinballdamagefraction.title,Overskridelse av kinetisk sfærehardhet
+upgrades.doublelaser.title,Dobbeltlaser
+upgrades.jetpackspeed3.title,Hastighet 3
+upgrades.minerwater.title,Send Water
+properties.orchard.battleabilityuses,Antall bruk per kamp {}
+upgrades.liftorbs.title,Sfærer 1
+upgrades.repellentoverchargeduration1.title,Varighet av overladet kampferdighet 1
+upgrades.drill3.desc,Forsterk boret for å grave raskere.
+level.gameover.prestige.uploading.inprocess,laster opp resultat …
+options.cancel,Avbryt
+properties.shield.overchargestrength,Styrke på overlading {} hp
+level.station.navbar.upgrades,Oppgraderinger
+upgrades.keeper2pinballsplit.desc,"Split incoming spheres into two, launching them perpendicular to the original."
+upgrades.proberecharge.title,Automatisk opplading
+properties.sword.stabrange,Rekkevidde {} 
+upgrades.liftspeed1.title,Fart
+upgrades.domewavecount.desc,En teller som viser hvor mange angrepsbølger du har overlevd.
+level.converter.popup.title,Konverter ressurser
+pause.discord,Følg oss på Discord
+options.keybindings.action.general.back,Avbryt
+upgrades.prospectionmeterrange1.desc,Øker effektradiusen til utgravingsmåleren.
+upgrades.dome2badrepair1.desc,Kuppelen repareres automatisk noe hvis den tar mye skade i en kamp.
+upgrades.prestigecobalt.desc,Send tilbake kobolt. Øker poengmultiplikatoren for prestisje for hver bølge.
+upgrades.domesandrepair.desc,Bruk kobolt til å reparere skade på kuppelen:
+loadout.skinoptions.title,Velg utseende!
+loadout.difficulty.medium.description,Domes tiltenkte vanskelighetsgrad.
+loadout.difficulty.veryeasy.description,"Ikke lett, men litt mer overkommelig enn de andre vanskelighetsgradene."
+options.game.tutorials,Opplæringer
+upgrades.orchardbattlerootingmore.desc,"Dyrk flere røtter, som varer lenger."
+upgrades.probepersist1.title,Minnesonde
+upgrades.keeper2pinballmorespheres2.title,Sfæreforsyning 2
+upgrades.orchardjetpack3.desc,"Gir en kraftigere fruktfartsøkning, slik at du kan bevege deg ekstremt raskt."
+upgrades.probe.title,Sonde
+upgrades.sword.title,Sverd
+properties.shield.battledestructionprevention,Ekstra varighet {} s
+upgrades.shieldbattlereflect.title,Retur
+options.keybindings.rebinding.apply,Bruk
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,Dobbel lagringsplass
+upgrades.relichunt.desc,"Finn relikvien som ligger dypt nede i jorden, og ta den med til kuppelen din."
+loadout.mapsize.unlock.description,Vinn en runde med den tidligere kartstørrelsen for å låse opp denne kartstørrelsen.
+properties.sword.stabdamage,Stikkskade {} 
+properties.keeper1.drillstrength,Borstyrke {}
+worldmodifier.mapwildbiomes.desc,Biomets grenser er veldig uregelmessige.
+upgrades.condenser.title,Kondensator
+upgrades.dome2badrepair2.title,Innhentning etter sammenstøt 2
+options.game.screenshake.shakewhenmining,Rist ved utvinning
+upgrades.repellentdelay2.title,Forsinkelse 2
+level.tutorial.assessor.reflect.desc,Trykk|for å reflektere innkommende sfærer i en veldig kort periode.
+properties.drillbot.buffamount,Energisk boring {} stykk
+upgrades.laserstrength2.title,Kraft 2
+upgrades.jetpackstrength3.title,Bagasjeplass 3
+options.keybindings.action.general,Generelt
+level.gameover.unlock.gadgetability,Ny kampferdighet for innretning
+upgrades.jetpackstrength1.desc,Forbedre jetpacken slik at den får plass til flere ressurser.
+upgrades.artillerymultishot1.desc,Avfyrer flere granater per skudd.
+properties.sword.reflectprojectiles,Returner energiprosjektiler
+upgrades.stunlaser.desc,Ta i bruk en laser som automatisk angriper og svimeslår små monstre.
+upgrades.orchardbattleshieldstrong.desc,Sterkere prosjektilskjold. Gir også mulighet for å bruke en ferdighet en ekstra gang etter overlading.
+upgrades.orchardjetpack1.desc,"Gir en kraftigere fruktfartsøkning, slik at du kan bevege deg raskere."
+upgrades.laser.desc,En presisjonslaser som beveger seg på kuppelen. Ble opprinnelig utviklet for utvinning på asteroider.
+properties.shield.maxstrength,Styrke {} hp
+options.keybindings.action.keeper,Vokter
+worldmodifier.resourceunpredicatablecobalt.desc,"Koboltforekomstene er mer spredt, og det er vanskelig å forutsi hvor de befinner seg."
+title.navbar.quit,Avslutt og gå ut
+options.keybindings.rebinding.error.gamepad,Dette kan ikke brukes som gamepad-funksjon
+upgrades.repellentbattleslowdownstun1.desc,Bruk ustabile sporer til å svimeslå monstre og stoppe dem i en kort periode.
+upgrades.swordfastreflection.title,Raskere retur
+upgrades.stunlaserduration2.title,Lengre ildgivning 2
+level.gameover.lose.title,KUPPELEN ER ØDELAGT
+worldmodifier.resourcescatterediron.desc,"Det finnes flere jernforekomster, men de er mindre."
+properties.laser.dps,Skade {}
+options.game.screenshake.shakeintensity,Ristingens intensitet
+worldmodifier.hardnessharder.desc,Det er flere hardere steiner i gruven.
+options.video.stretchmode,Utstrakt modus
+worldmodifier.monsterhealthy.desc,Monstrene har mer helse.
+level.gameover.stats.mapsize,Kartstørrelse
+loadout.mode.longtime,Lange sykluser
+upgrades.swordreflection3.desc,Den største skjoldsokkelen.
+upgrades.repellentbattleslowdownstun2.desc,Bruk sporene oftere og svimeslå monstrene i en lengre periode.
+upgrades.teleporterteleportresourcesarea.title,Teleportområde
+upgrades.shieldoverchargeduration2.desc,Etter overlading vil skjold-kampferdigheten være aktiv enda lenger i neste bølge.
+upgrades.shieldoverchargestrength1.title,Overlading av skjold 1
+upgrades.drillbotbuffstrength1.desc,Godbitene gir Drillbert energi som varer lenger.
+upgrades.orchardoverchargebuffduration.title,Varighet på overlading
+level.tutorial.assessor.spheres.desc3,Den lader opp kraften igjen for hvert hopp.
+loadout.mode.longtime.desc,"Du får dobbelt så lang tid mellom bølgene, men bølgene er mer intense."
+level.tutorial.assessor.spheres.desc2,Velg en retning og slipp for å skyte sfæren.
+upgrades.laserstrength1.desc,"Gjør laseren kraftigere, men gjør at den beveger seg saktere mens den skyter."
+level.tutorial.assessor.spheres.desc1,Hold|for å lade en kinetisk sfære.
+upgrades.jetpackstrength4.title,Bagasjeplass 4
+upgrades.migration.desc,"Reis fra verden til verden, og sank ressurser og relikvier på hver av dem før du blir overkjørt."
+upgrades.orcharddrill1.desc,Øker gruvedriftbusteren for fruktvekster og lar deg høste raskere.
+upgrades.keeper2pinballdamage3.desc,Forbereder hvor mye skaden fra kinetisk sfære gjør når den treffer steiner. Forbedrer også den roterende gruvedriftskaden.
+options.accessibility.highlightmonsters,Gjør monstre tydeligere
+upgrades.prestigecobaltnocobalt.title,Send kobolt
+properties.keeper2.spherebasedamage,Grunnskade for sfære {}
+upgrades.orcharddrill3.desc,Øker gruvedriftbusteren for fruktvekster og lar deg høste veldig mye raskere.
+properties.converter.cobalttoiron,{} kobolt til én jern
+level.tutorial.repair.usecobalt,Du kan bruke kobolten til å reparere kuppelen. Det er en oppgradering i kuppelens teknologitre.
+upgrades.blastminingimpactdetonation.title,Detonering ved sammenstøt
+upgrades.swordfastreflection.desc,Returnerte prosjektiler flyr raskere tilbake.
+upgrades.liftcapacity1.title,Kapasitet
+upgrades.artillery.desc,Worms-bazooka.
+properties.sword.electricdamage,Skade fra elektrisk sverd {}
+level.station.upgrademenu.close,Lukk
+properties.shield.overchargebattleabilityduration,Ferdighet forlenges med {.percent}
+pause.title,PAUSE
+upgrades.artillerymultishot1title,Kjedeskudd 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Ekstra evnevarighet {} s
+upgrades.orchardbattlerootingexplosion.title,Eksplosiv fangst
+upgrades.blastminingproductiontime1.title,Produksjonstid
+options.video.stretchmode.scaled.text,"Gjengir spillet i korrekt oppløsning og skalerer det opp mot din oppløsning.
+Kan bli pikselert, spesielt i skrifttyper, men det vil ikke være noen synlige linjefeil."
+upgrades.orchardduration3.title,Varighet 3
+upgrades.domewavecount.title,Syklusteller
+upgrades.shredgadgettoiron.title,Kvern til jern
+options.keybindings.apply,Bruk
+options.keybindings.restoredefault,Gjenopprett standard
+upgrades.converterironduplication.title,Jernduplisering
+title.navbar.credits,Medvirkende
+level.gameover.unlock.gadget,Ny innretning
+upgrades.jetpackspeed2.title,Hastighet 2
+loadout.modeoptions.title,Velg spillmodus!
+properties.keeper2.spherebaselifetime,Livslengde for sfære {}
+options.video.stretchmode.scaled,Skalert
+properties.shield.battleabilityduration,Evnevarighet {} s
+upgrades.repellentbattleslowdownstun1.title,Lammelse
+loadout.difficulty.medium,Brutalt
+options.audio.volumes,Volum
+upgrades.keeper1.title,Ingeniør
+upgrades.drillbotsleepless.title,Grunnleggende betingelser
+upgrades.drillbot.title,Drillbert
+level.tutorial.assessor.carry.desc1,Hold|for å hente inn ressurser frem til de låser seg fast på deg.
+level.tutorial.assessor.carry.desc2,Trykk|for å slippe en ressurs.
+level.tutorial.drillbot.sleeping1,"Drillbert legger seg til å sove etter en stund, eller når han støter på en vegg han ikke kan grave gjennom."
+level.tutorial.assessor.carry.desc3,"Hvis du sikter i en retning mens du dropper en ressurs, vil den akselerere kraftig."
+level.tutorial.drillbot.sleeping2,"Når du er nær ham, kan du trykke på | for å vekke ham."
+level.tutorial.drillbot.sleeping3,Du kan snu på den ved å trykke på | når den er våken.
+properties.keeper2.totalspheres,Sfærer {}
+upgrades.shieldbattleblastdamage.title,Dødseksplosjon
+upgrades.domeresourcecounters.desc,Viser mengden ressurser du har på lager.
+upgrades.swordextendlong1.desc,Sterkere stikk og mulighet til å styre sverdet mens det er i luften.
+worldmodifier.resourcerichwater.desc,Verdenen inneholder mye vann.
+upgrades.drillbotstrength1.desc,Gjør Drillbert flinkere til å grave.
+upgrades.stunlaserautonomy1.desc,En enkel AI styrer svimeslagslaseren også når du ikke er i kontrollstasjonen.
+properties.blastmining.radius,Eksplosjonsradius {} felter
+upgrades.jetpackstrength1.title,Bagasjeplass 1
+pause.gamepadcontrols.use,Bruk
+upgrades.laserstrength2.desc,"Gjør laseren mye kraftigere, men gjør at den beveger enda seg saktere mens den skyter."
+properties.laser.movespeedwhilefiring,Fart ved avfyring {.percent}
+properties.probe.markerretention,Markørvarighet {} s
+upgrades.swordexplosivereflection.title,Eksplosiv retur
+upgrades.condenserspeed2.desc,Gjør at det går enda raskere å produsere en enhet vann.
+upgrades.condenserspeed2.title,Produksjonshastighet 2
+properties.stunlaser.firetime,Avfyringstid {} s
+options.input.gamepad.gamepadstickdeadzone,Dødsone for tommelspak
+upgrades.keeper2movement2.desc,Forbedrer gravitasjonsgeneratoren din til å bevege seg raskere.
+upgrades.shieldbattlelongerafterdepletion.desc,Eksplosjonen varer lenger hvis den utløses etter at skjoldet går tomt.
+properties.laser.bend,laseren sikter automatisk {} Â°
+level.station.upgrademenu.buy,Kjøp
+properties.drillbot.plantgrowthtime,Veksttid for godbit {} sykluser
+loadout.proceed,Fortsett
+upgrades.repellentoverchargeduration1.desc,Ved å overlade beholderen forlenges også alle monstermiddel-kampferdigheter du bruker i neste bølge.
+upgrades.artilleryshotcooldown1.title,Nedkjøling 1
+worldmodifier.resourceunpredicatablewater.desc,"Vannforekomstene er mer spredt, og det er vanskelig å forutsi hvor de befinner seg."
+level.tutorial.blastmining.popup_1,Plukk opp sprengladningen og slipp den fra deg der du vil fjerne steiner.
+ending.thankyoumessage,Takk for at du spilte!
+options.keybindings.rebinding.error.keyboard,Dette kan ikke brukes som tastaturfunksjon
+upgrades.keeper2pinballdamagefraction.desc,The kinetic sphere transcends rock hardness and damages the rock by a fixed fraction of its health.
+upgrades.swordlargeblade1.title,Kraftig klinge 1
+upgrades.shredgadgettoiron.desc,Kvern innretningen for å få {amount} jern.
+upgrades.drillbot.desc,Ta til deg en skjønn skapning som elsker å grave. Bær den ned i gruven og slipp den fra deg der du vil at den skal jobbe. Stikk innom for å vekke den når den sovner på jobb.
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,Helse 1
+title.navbar.updates.close,Lukk
+upgrades.swordaimline.desc,Gir et lasersikte så det blir lettere å stikke presist med sverdet.
+upgrades.shieldoverchargeduration1.title,Varighet av overladet kampferdighet 1
+level.converter.popup.explanation,Velg en ressurskonvertering for å starte!
+upgrades.drillbotbuff1.title,Godbiter
+title.navbar.credits.close,Lukk
+upgrades.keeper2movement3.desc,Forbedrer gravitasjonsgeneratoren din til å bevege seg raskere.
+pause.quittotitlescreen,Avslutt til startskjermen
+loadout.prestige.countdown.description,Prestisjemultiplikatoren starter høyt og faller for hver syklus.
+upgrades.drill3.title,Borstyrke 3
+upgrades.probestage1.title,Forbedret sonde
+properties.sword.stabarrowhead,Forstørr pilspiss
+loadout.mapsize.huge.description,Et stort kart for de lengste rundene.
+properties.sword.stabspeed,Stikkfart {.percent} 
+level.tutorial.teleporter.take1,Teleportøren din har en stasjon og en portal. Du kan teleportere deg i mellom disse.
+worldmodifier.mapmaze.desc,Gruven er en labyrint.
+level.tutorial.teleporter.take2,Ta en portal og plasser den hvor du vil.
+options.keybindings.action.dome.battleability1,Kampferdighet
+upgrades.laserbend.desc,Gjør at laseren automatisk korrigerer siktet når målet er nær nok.
+options.video.graphicsmode.fullscreen,Fullskjerm
+options.keybindings.action.general.down,Ned
+level.tutorial.assessor.spheres,Kinetiske sfærer
+level.tutorial.mineraltree1,"Du fant akkurat et frø til et mineraltre. Det kan gro til et tre som slår røtter i feltene. Det vil gro ressurser avhengig av ressursene som finnes i feltene med røttene.
+Dropp det på et felt for å plante frøet."
+upgrades.blastmining.desc,Under kuppelen plasseres en maskin som bruker vann til å produsere sprengladninger. Ta den med og slipp dem fra deg i gruvegangene for å detonere dem.
+properties.sword.stabcooldown,Forlenger nedkjøling med {} s 
+upgrades.repellentoverchargestrength2.desc,Etter overlading tar det enda lenger tid før neste bølge kommer.
+upgrades.probeswift1.desc,"Bytt til en kjapp sonde med kort rekkevidde, men mange ladningsplasser."
+properties.drillbot.buffextraamount,Ekstra bor {} trykk
+level.gameover.unlock.keeper,Ny vokter
+upgrades.prospectionmeter.title,Utgravingsmåler
+upgrades.shieldbattleactivateondepletion.desc,Usårbarhet aktiveres automatisk i en kort ekstra periode når skjoldet går tomt.
+upgrades.dome2badrepair1.title,Innhentning etter sammenstøt 1
+upgrades.swordtargetlock.title,Lås på målet
+upgrades.laserhitprojectiles.title,Oppløsing av prosjektiler
+upgrades.keeper2pinballreflectspeedup1.title,Forbedret refleksjon
+properties.shield.battleuses,Antall bruk per kamp {}
+options.game.events,Begivenheter
+upgrades.artilleryflakexplosionradius1.desc,Gir en større eksplosjon.
+properties.keeper1.speedlosspercarry,Fartsreduksjon med last {}
+pause.gamepadcontrols.back,Tilbake
+level.gameover.unlocknewelementbutton,Velg noe å låse opp
+upgrades.prospectionmeteriron2.desc,Viser retningen til nærmeste jernforekomst.
+upgrades.prestige.desc,"Du får poeng for å sende hjem så mange ressurser som mulig før kuppelen svikter, eller til du trygt forlater planeten."
+properties.prestige.multiplier,{} prestisje per bølgemultiplikator
+options.input.controls,Kontroller
+properties.sword.reflectionacceleration,Fart på returnert prosjektil {.percent}
+loadout.difficult.easier,lettere
+upgrades.keeper2pinballreflectdamage1.title,Refleksjonsskade 1
+properties.sword.extendspeed,Utskytingsfart {} 
+properties.keeper2.reflectspeedup,Sfærefartsøkning under refleksjon {.percent}
+loadout.mode.doubleiron,Dobbelt jern
+upgrades.dome3.desc,ikke tilgjengelig i demoen
+properties.condenser.growthtime,Produksjonstid {} sykluser
+options.game.languages,Språk
+worldmodifier.mapwidebottom.desc,"Gruven er tynn øverst, men blir svært bred i dypet."
+loadout.mode.maze,Labyrint
+upgrades.dome2health1.desc,Gir kuppelen permanent bedre strukturell helse og reparerer den.
+properties.drillbot.drillstrength,Borstyrke {}
+upgrades.keeper2.desc,An ukonvensjonell arbeider som bruker eksperimentell gravitasjonsteknologi.
+properties.orchard.battleshields,Skjoldlag {}
+level.tutorial.sworddome.reflecting.desc,"Bruk sverdets skjoldplate til å stoppe prosjektiler, eller til og med returnere dem."
+options.audio.volumes.musicvolume,Musikkvolum
+loadout.dome,KUPPEL
+upgrades.swordlongblade2.title,Lang klinge 2
+upgrades.laseraimline.title,Lasersikte
+level.tutorial.assessor.bundle.desc1,Hold|mens du bærer ressurser for å lade en samling.
+options.keybindings.keyboard,Tastatur
+level.tutorial.assessor.bundle.desc2,"Sikt og slipp for å skyte den, samme måte som du skyter en kinetisk sfære."
+properties.prestige.score,{} prestisje
+worldmodifier.mapdeep.desc,Gruven er dypere og ikke så bred.
+upgrades.repellentbattleslowdownstun2.title,Kraftig lammelse
+upgrades.keeper2pinballmorespheres1.title,Sfæreforsyning 1
+upgrades.prestigewater.desc,Send tilbake vann. Gir 1 ekstra prestisje for hver bølge.
+properties.keeper2.bundlestopcenter,Gravitetsfelt i midtre kolonne
+upgrades.stunlaserdamage1.title,Skade 1
+upgrades.keeper2pinballlifetime1.title,Kinetisk sfærelivslengde 1
+properties.repellent.battleslowdown,Fartsreduksjon for monster {.percent}
+upgrades.swordextendlong1.title,Langt stikk 1
+level.gameover.stats.distancetravelled,Avstand tilbakelagt
+properties.keeper2.reflectlifetime,Ekstra livslengde for sfære under refleksjon {}s
+upgrades.blastminingimpactdetonation.desc,Sprengladningen eksploderer når den treffer en overflate.
+properties.keeper2.spheresplit,Split Incoming Spheres
+options.keybindings.action.dome.upgrade,Oppgraderinger
+worldmodifier.resourcepoorcobalt.desc,Verdenen inneholder litt kobolt.
+pause.resumegame,Gjenoppta spill
+level.gameover.unlock.difficulty,Ny vanskelighetsgrad låst opp!
+properties.stunlaser.cooldown,Nedkjøling {} s
+options.keybindings.action.general.right,Høyre
+level.tutorial.assessor.mining.desc,"For å fjerne en enkel stein, kan du flytte den roterende kinetiske sfæren inn i den."
+upgrades.teleporterteleportresourcesback.title,Teleportressurser
+upgrades.dome1.title,Laserkuppel
+upgrades.keeper2bundleinfinite.title,Utholdende samling
+upgrades.repellentdelay1.title,Forsinkelse 1
+upgrades.miner.desc,"In worlds without monsters, you can concentrate on mining as many resources as you want without distraction."
+upgrades.repellentbattlestrongerslowdown1.desc,Tåken bremser monstrene mer og varer lenger.
+upgrades.teleporterteleportresourcesarea.desc,Portalen teleporterer ressurser fra et større område enn før
+upgrades.dome3.title,Artillerikuppel
+upgrades.swordstabshoot.desc,I stedet for å trekkes tilbake med en kabel lades sverdet opp og skytes ut fra kuppelen som et spyd.
+upgrades.repellentbattledamageovertime.desc,Alle monstre blir litt skadet for hvert sekund giftgassen er aktiv.
+upgrades.shieldbattleactivateondepletion.title,Aktiver ved uttømming
+upgrades.artillerymultishot2.desc,Avfyrer flere granater per skudd.
+upgrades.dome1health2.title,Helse 2
+worldmodifier.monsterlethal.desc,"Monstrene er farligere, og påfører mer skade."
+loadout.pet,Dyr
+options.keybindings.action,Handling
+upgrades.orcharddrill3.title,Gruvedriftbooster 3
+options.translation.title,VELG SPRÅK
+upgrades.prospectionmeterrange1.title,Rekkevidde 1
+upgrades.dome2badrepair2.desc,Kuppelen repareres automatisk mye hvis den tar mye skade i en kamp.
+options.audio.volumes.ambiencevolume,Bakgrunnsvolum
+upgrades.prestigecobaltnocobalt.desc,Send tilbake kobolt. Øker poengmultiplikatoren for prestisje for hver bølge.
+worldmodifier.maparms.desc,Gruven er mer fragmentert.
+loadout.prestige.countdown,Nedtelling
+upgrades.keeper2pinballdamage2.title,Kinetisk sfæreskade 2
+upgrades.jetpackspeed1.title,Hastighet 1
+upgrades.minerrefuel.title,Refuel
+upgrades.teleporterteleportduration1.title,Teleporttid
+properties.probe.charges,Ladinger {}
+loadout.miner.fuel.title,Fuel
+exhibition.title.press.anything,Trykk hvor som helst for å spille
+loadout.mode,MODUS
+level.tutorial.sworddome.slicing,Hugg
+properties.condenser.autoovercharge,Automatisk overlading
+upgrades.teleporterteleportduration1.desc,Det tar mindre tid å teleportere deg selv.
+upgrades.prestigewater.title,Send vann
+title.navbar.continue,Fortsett
+upgrades.orchardbattleshield.desc,Ta i bruk et skjold som beskytter kuppelen mot prosjektiler.
+upgrades.liftcarrykeeper1.title,Vokterheis 1
+options.input.controls.keybindings,Tastebindinger
+properties.keeper2.bundlespheres,Sfæresamlinger
+upgrades.shieldovercharge.title,Overlading av skjold
+properties.condenser.overchargedelay,Produksjonen forsinkes i {} sykluser
+upgrades.keeper2.title,Gravitor
+level.tutorial.assessor.mining,Roterende gruvedrift
+upgrades.repellentoverchargeduration2.title,Varighet av overladet kampferdighet 2
+upgrades.swordblade1.title,Huggforbedring
+properties.converter.irontoiron,{} jern til én jern
+exhibition.level.description,Går tilbake til hovedmenyen om …
+level.tutorial.assessor.mining.desc2,Du kan stoppe gruvedriften uten å skyte en sfære ved å først slippe retningstastene.
+worldmodifier.monsterslow.desc,Monstrene er tregere.
+upgrades.orcharddrill2.desc,Øker gruvedriftbusteren for fruktvekster og lar deg høste enda raskere.
+loadout.difficulty.easy.description,Noe lettere på mange områder.
+upgrades.swordstabexplode.title,Stikkbombepost
+level.gameover.stats.additionalgadget,Ekstra innretning
+upgrades.drillbotbuffstrength2.desc,Etter å ha fått en godbit kan Drillbert jobbe lenger før han blir trøtt.
+upgrades.laserstrength3.desc,"Gjør laseren svært mye kraftigere, men gjør at den knapt beveger seg mens den skyter."
+loadout.mapsize.medium,Middels
+loadout.difficulty.hard,Du ba om det selv
+level.gameover.stats.wavessurvived,Bølger overlevd
+properties.stunlaser.damage,Skade {}
+options.keybindings.rebinding.cancel,Avbryt
+level.tutorial.sworddome.stabbing.desc,Forleng sverdet og stikk fiender langt borte.
+level.gameover.unlock.gamemodevariant,Ny spillmodusvariant
+upgrades.prestigefinish.title,Forlat planeten
+properties.keeper2.bundleduration,Livslengde for samling {.percent}
+upgrades.shieldstrength3.title,Styrke 3
+options.audio.volumes.mastervolume,Hovedvolum
+upgrades.shieldbattlelongerafterdepletion.title,Uttømmingsboost
+options.keybindings.text,"Juster kontrollopplegget sånn du vil.
+Taster fra ulike deler kan stort sett overlappe hverandre uten problem (som å bruke samme taster til å bevege vokteren og kuppelvåpenet)."
+properties.shield.battleblastdamage,{} sprengskade per sekund
+loadout.mapsize.large.description,Et stort kart for økter som varer lengre enn en time.
+upgrades.drill4.desc,Forsterk boret for å grave raskere.
+upgrades.drillbotsleepless.desc,Drillbert kan jobbe mye lenger før han blir søvnig.
+upgrades.swordlargeblade2.title,Kraftig klinge 2
+upgrades.swordlongblade2.desc,"Gjør klingen enda raskere, og den spretter tilbake når den treffer kanten."
+upgrades.prestigefinishnocobalt.title,Forlat planeten
+worldmodifier.hardnessmoderated.desc,Det finnes enkelte ekstremt harde og myke steiner.
+upgrades.converterironduplication.desc,Multipliserer jern
+upgrades.prestigefinish.desc,Forlat planeten og reis hjem.
+upgrades.dome2health2.desc,Gir kuppelen permanent bedre strukturell helse og reparerer den.
+upgrades.prestige.title,Prestisje
+upgrades.liftcarrykeeper1.desc,Heisen gjør deg raskere mens du er i den og beveger deg oppover.
+upgrades.repellentbattlehealthreduction.desc,Svekker alle monstre i nærheten og reduserer umiddelbart helsen deres.
+upgrades.dome2.title,Sverdkuppel
+worldmodifier.monsterfast.desc,Monstrene er raskere.
+upgrades.condenserautocollect.desc,"Automatiserer vanninnsamling, slik at du ikke trenger å hente vann manuelt."
+upgrades.lift.title,Heis
+options.game.screenshake,Skjermristing
+options.keybindings.action.dome,Kuppel
+upgrades.swordstabexplodedamage.desc,Gir større bombeskade.
+level.gameover.stats.resourcesmined,Ressurser utvunnet
+worldmodifier.resourcepoorwater.desc,Verdenen inneholder litt vann.
+upgrades.prospectionmeter.desc,En måler som viser avstanden til nærmeste ressurser. Kan oppgraderes så den også viser retningen.
+upgrades.shredgadgettocobalt.title,Kvern til kobolt
+upgrades.swordelectrified.desc,Bladet er elektrisk og skader ved berøring.
+upgrades.artilleryflakexplosionradius2.desc,Gir en større eksplosjon.
+upgrades.prospectionmeterwater1.title,Vannmåler
+upgrades.minerwater.desc,Send water offworld to increase your prestige.
+options.video.graphicsmode,Grafikkmodus
+upgrades.shieldbattlereflectspeedup.desc,"Returnerte prosjektiler flyr tilbake i høyere hastighet, slik at det er mer sannsynlig at de treffer angriperen."
+properties.shield.battleblaststun,Sprengsvimeslåing {}
+loadout.mode.hyperactive.desc,"Monstrene beveger seg mye raskere, men har mindre helse."
+upgrades.swordstabexplode.desc,Sverdet er utstyrt med en bombe som eksploderer på den første fienden sverdet stikker.
+upgrades.swordstabfast2.title,Raskt stikk 2
+upgrades.converterefficientwater.desc,"Vannkonverteringen blir mer effektiv, men tar noe lenger tid."
+upgrades.orchardduration1.desc,Fruktens effekt varer lenger.
+loadout.difficulty.title,Vanskelighet
+exhibition.level.heading,Er du fortsatt her?
+level.gameover.unlock.gamemode,Ny spillmodus
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Forvitring
+upgrades.teleporterteleportreactivate.title,Reaktiver persontransport
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,Lyd
+upgrades.repellentovercharge.desc,Bruk vann til å overlade beholderen for å produsere neste ladning med monstermiddel raskere.
+upgrades.domewavemeter.title,Avstandsmåler for fiender
+upgrades.prospectionmeterrange2.desc,Øker effektradiusen til utgravingsmåleren enda mer.
+upgrades.keeper2pinballreflectspeedup1.desc,"Øker kraften på sfærer når de reflekteres, noe som vil akselerere sfærene og lar de sveve lenger under refleksjon."
+upgrades.shieldoverchargestrength1.desc,Gjør at det overladede skjoldet absorberer mer skade.
+upgrades.repellentdelay1.desc,Gjør at neste monsterbølge bremses mer.
+upgrades.repellentbattlelongerhealthreduction.title,Intens forvitring
+upgrades.swordtargetlock.desc,Sverdet låses automatisk på det første monsteret det stikker.
+upgrades.orchardovercharge.desc,"Bruk vann for å overlade frukthagen, slik at den produserer frukt raskere."
+upgrades.orchardbattlerootingmore.title,Sterke røtter
+upgrades.swordextendlong2.desc,Enda sterkere stikk og mer presis styring mens sverdet er i luften.
+upgrades.swordstabfast1.title,Raskt stikk 1
+upgrades.probelong1.desc,"Sonden kan brukes på lengre avstand, men du mister en ladningsplass."
+upgrades.repellent.title,Monstermiddel
+worldmodifier.monsterwavesspaced.desc,Det er større avstand mellom monsterbølgene.
+upgrades.artilleryflakexplosionradius2.title,Luftvernradius 2
+properties.drillbot.amount,Bor {} trykk
+upgrades.repellentdelay3.title,Forsinkelse 3
+ending.appreciationmessage,"Vi håper du hadde det gøy. Vi tar gjerne imot tilbakemeldinger, så gå til Discord eller Steam-forumene og fortell oss hva du synes :)"
+properties.orchard.battlerootexplosion,Explosion damage {}
+upgrades.orchardduration3.desc,Fruktens effekt har maks lengde.
+upgrades.dome1damagereduction2.desc,"Gjør kuppelens overflate enda hardere, slik at den blir mindre skadet i nærkampangrep fra monstre. Har ingen innvirkning på skade fra prosjektiler."
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,Forbedre jetpacken for å forflytte deg raskere.
+upgrades.jetpackspeed3.desc,Forbedre jetpacken for å forflytte deg raskere.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,Valg
+properties.repellent.battledamageovertime,Monstre tar {} skade per sekund
+upgrades.repellentoverchargestrength1.title,Overlading av forsinket bølge 1
+upgrades.repellentoverchargestrength1.desc,Overlading gjør også at det tar lenger tid før neste bølge kommer.
+upgrades.blastminingproductiontime1.desc,Gjør at sprengladninger produseres raskere.
+properties.teleporter.teleportresourcescooldown,Teleportvarighet for ressurser {} s
+upgrades.artilleryflakmultishot1.desc,Avfyr flere prosjektiler.
+properties.converter.ironcobalttime,Konverteringstid på {} sykluser
+options.title,VALG
+options.video.graphicsmode.window,Vindu
+properties.shield.battlereflectspeedup,Fart på returnert prosjektil {.percent}
+upgrades.swordaimline.title,Siktlinje
+level.tutorial.drillbot.handling1,Hold nede | for å plukke opp Drillbert igjen.
+upgrades.probestage1.desc,Forbedrer sonden på alle områder.
+level.tutorial.drillbot.handling2,Trykk på | for at han skal forandre retning hvis han er på bakken.
+options.keybindings.rebinding.capture,Registrer
+properties.prospectionmeter.range,Rekkevidde {} felter
+properties.stunlaser.speed,Fart {}
+properties.probe.impulsespeed,Pulsfart {}
+upgrades.domehealthmeter.title,Helsemåler
+options.audio.music.frequency,Gjentakelser (sykluser uten musikk)
+options.audio.volumes.soundvolume,Lydvolum
+properties.sword.slicebounceback,Sverd spretter på kanten
+upgrades.jetpackspeed4.desc,Forbedre jetpacken for å forflytte deg raskere.
+worldmodifier.monsterfragile.desc,Monstrene har mindre helse.
+level.gameover.prestige.score.personalbest,Din personlige rekord!
+properties.prestige.baseperwave,{} grunnprestisje per bølge
+loadout.choices.comingsoon,"Ikke tilgjengelig enda, men kommer snart."
+upgrades.doublelaser.desc,Gir deg enda et lasertårn. Ildkraften fordeles imidlertid mellom tårnene.
+upgrades.jetpackstrength2.title,Bagasjeplass 2
+upgrades.keeper2bundlestopcenter.title,Gravitetssenter
+properties.keeper2.spherelifetimeperbounce,Ekstra livslengde for sfære per hopp {}s
+upgrades.converterefficientcobalt.desc,"Koboltkonverteringen blir svært effektiv, men tar lang tid."
+properties.orchard.buffduration,Økningen varer i {} sykluser
+upgrades.domesandrepair.title,Koboltreparasjon
+properties.keeper1.maxspeed,Toppfart {}
+level.station.upgrademenu.cost,Pris
+upgrades.lasermove1.title,Fart 1
+level.tutorial.sworddome.reflecting,Returnering
+loadout.petoptions.title,Velg dyr!
+level.station.upgrademenu.inventory,Beholdning
+level.gameover.unlockpicker.title,VELG NOE Å LÅSE OPP
+level.gameover.proceedtounlock,Lås opp et nytt element
+upgrades.artilleryshotcooldown2.desc,Våpenet kan avfyres hyppigere.
+level.gameover.keepgadget.title,Velg en innretning du får beholde i neste runde
+level.station.battle.navbar.shoot,Skyt
+upgrades.repellentbattlestrongerslowdown1.title,Stagnasjon
+upgrades.dome2.desc,Kraftig kuppel med et dynamisk sverd som voktere kan bruke for å få overtaket på angripere.
+loadout.difficulty.easy,Vanskelig
+upgrades.condenserautocollect.title,Automatisk innsamling
+upgrades.orchard.title,Frukthage
+upgrades.keeper2pinballreflectspeedup2.desc,Øker kraften til sfærer intensivt under refleksjon.
+upgrades.laserstrength1.title,Kraft 1
+upgrades.lasermove2.title,Fart 2
+upgrades.shieldbattlereflectshortuses.desc,"Returene skjer oftere, men varer ikke like lenge."
+options.keybindings.action.keeper.drop,Dropp
+level.converter.popup.conversion.to,til
+upgrades.repellent.desc,Bygg en beholder som produserer monsterfrastøtende væske. Aktiver dette for å spraye væsken utenfor kuppelen og bremse neste angrepsbølge.
+properties.repellent.battlehealthreduction,Helsereduksjon for monster {.percent}
+loadout.mode.hyperactive,Raske og skjøre
+upgrades.miner.title,Miner
+upgrades.converter.title,Ressurskonverterer
+properties.condenser.waterstorage,Oppbevarer {} enheter vann
+upgrades.jetpackstrength2.desc,Forbedre jetpacken slik at den får plass til flere ressurser.
+level.station.navbar.exit,Avslutt
+options.accessibility.photosensitivity.explanation,Reduserer flimrende lys.
+properties.orchard.overchargeadditionalabilityuses,Ferdigheten kan brukes {} ganger ekstra etter overlading
+worldmodifier.resourcepooriron.desc,Verdenen inneholder litt jern.
+level.gameover.backtomainmenu,Til hovedmenyen
+upgrades.orchardbattlerooting.desc,Aktiver dette i kamp for at røtter skal vokse utenfor kuppelen. Røttene fanger mellomstore monstre som trår på dem.
+upgrades.keeper2pinballreflect.desc,"Reflekterer sfærer med en høyere kraft, mindre gravitetsfelt rundt deg."
+upgrades.laser.title,Laser
+options.game.tutorials.resettutorials,Tilbakestill opplæringer
+properties.converter.ironirontime,Konverteringstid på {} sykluser
+loadout.secondstage.start,Start runde
+upgrades.artilleryflakmultishot2.desc,Avfyr flere prosjektiler.
+upgrades.swordreflection2.desc,Enda større skjoldsokkel.
+upgrades.lasermove3.title,Fart 3
+upgrades.lasermove1.desc,Laseren beveger seg raskere.
+properties.lift.orbs,{} sfærer
+options.keybindings.action.general.move,Flytt
+upgrades.orchardjetpack2.title,Raskere jetpack 2
+options.audio.music,Musikk
+worldmodifier.resourceunpredicatableiron.desc,"Jernforekomstene er mer spredt, og det er vanskelig å forutsi hvor de befinner seg."
+properties.dome.maxhealth,Helse {} hp
+upgrades.condenserspeed1.title,Produksjonshastighet 1
+properties.repellent.battleuses,Antall bruk per kamp {}
+upgrades.shieldstrength2.desc,Gjør at skjoldet tåler enda mer skade.
+upgrades.drillbotbuffstrength2.title,Taurintillegg
+upgrades.keeper2pinballreflectdamage2.desc,Reflekterte sfærer vil gi større skade mot stein de treffer neste gang.
+level.paused,Pause
+level.tutorial.sworddome.stabbing,Stikk
+upgrades.stunlaserspeed1.title,Hastighet 1
+upgrades.domehealthmeter.desc,Viser kuppelens strukturelle helse.
+upgrades.swordlargeblade1.desc,"Gjør klingen bredere og lengre, slik at den påfører mer skade."
+pause.quitgame,Avslutt spillet
+level.station.battle.navbar.slice,Hugg 
+level.gameover.stats.timeplayed,Tid spilt
+properties.teleporter.teleportresources,Teleportressurser
+upgrades.drillbotstrength2.desc,Gjør Drillbert flinkere til å grave.
+level.tutorial.drop.popup_2,Trykk på | for å slippe fra deg en. Hold inne for å slippe fra deg mange.
+level.gameover.keepgadget.keeping,Dings som kan beholdes: {gadget}
+level.tutorial.drop.popup_1,Du blir tregere når du bærer ressurser.
+worldmodifier.maprugged.desc,Gruven er grov og uregelmessig.
+level.tutorial.onewayteleporter1,Du fant nettopp en enveis teleport!
+properties.sword.aimline,Prediktivt sikte
+upgrades.keeper2bundle.desc,Vedlagte mineraler kan skytes samlet på samme måte som du kyter kinetiske sfærer.
+level.tutorial.onewayteleporter2,Trykk på | for å utplassere øyet.
+level.tutorial.onewayteleporter3,Trykk igjen for å teleportere tilbake.
+properties.lift.capacity,Sfærer rommer {} ressurser
+properties.orchard.battleabilityduration,Evnens varighet {} s
+level.tutorial.teleporter.carry2,Hold inne | for å plukke opp portalen igjen når du står inntil den.
+level.tutorial.teleporter.carry3,"Hvis du trykker på |, teleporterer du tilbake."
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,Du kan sette portalen hvor du vil.
+options.keybindings.cancel,Avbryt
+level.tutorial.probe.popup_1,Trykk på | for å sende ut en sondepuls.
+upgrades.liftcarrykeeper2.desc,Heisen gir deg enda større fart.
+level.tutorial.probe.popup_3,"Den avslører enkelte av ressursene i nærheten.
+Lades opp på stasjonen."
+worldmodifier.resourcerichcobalt.desc,Verdenen inneholder mye kobolt.
+upgrades.keeper2pinballdamage4.desc,Forbereder hvor mye skaden fra kinetisk sfære gjør når den treffer steiner. Forbedrer også den roterende gruvedriftskaden.
+properties.sword.stabexplosive,Montert tuppbombe
+properties.drillbot.turnaround,Snur når den støter på en hard vegg
+upgrades.shieldstrength1.title,Styrke 1
+properties.repellent.overchargewavedelay,Ekstra bølgeforsinkelse {} sykluser
+upgrades.swordreflection3.title,Retur 3
+upgrades.dome1.desc,Vanlig utvinningskuppel utstyrt med en presisjonslaser.
+level.tutorial.drillbot.carry,Hent Drillbert i beholderen og plasser ham i gruven der han skal grave.
+upgrades.lift.desc,Monter en automatisk heis som henter opp ressurser til prosessering i kuppelen.
+upgrades.dome1health2.desc,Gir kuppelen permanent bedre strukturell helse.
+upgrades.converterefficientwater.title,Effektiv vannkonvertering
+loadout.difficulty.hard.description,"Vel, hvis du vil miste kuppene din, så."
+upgrades.artillerymultishot2.title,Kjedeskudd 2
+upgrades.swordelectrified.title,Elektrisk klinge
+upgrades.drillbotstrength3.desc,Gjør Drillbert flinkere til å grave.
+upgrades.shieldbattleinvulnerable.title,Udødelighet
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,Autonomi
+level.tutorial.teleporter.teleport1,"Når du er i nærheten av en portal, trykk på | for å teleportere deg tilbake."
+level.tutorial.teleporter.teleport2,Du kan også teleportere deg i en annen retning.
+level.gameover.prestige.uploading.failed,opplasting mislyktes. prøver igjen
+upgrades.lasermove2.desc,Laseren beveger seg enda raskere.
+loadout.mapsize.title,Kartstørrelse
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Sprengning 1
+upgrades.drillbotturnaround.desc,"Når Drillbert støter på en ugjennomtrengelig vegg, snur han om i stedet for å ta en lur."
+properties.dome.baserepair,Reparer {} hp
+upgrades.condenserautoovercharge.desc,"Gjør at primærinnretningen er overladet konstant, uten at det forbrukes vann. Kondensatorens vannproduksjon forsinkes etter overlading."
+upgrades.teleporterteleportresourcesback.desc,"Portalen teleporterer nå ressurser, men kan ikke lenger teleportere deg tilbake. Du kan fortsatt teleportere fra kuppelen til portalen."
+ending.wishlistonsteam,Ønskeliste på Steam
+properties.sword.reflection,Forstørret skjoldsokkel
+upgrades.drillbotduplicate.desc,Drillbert får en identisk tvilling: Drilliam.
+level.converter.popup.conversion.convert,konverter
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} vann til én jern
+title.navbar.options,Valg
+upgrades.swordexplosivereflection.desc,Returnerte prosjektiler sprenger når de treffer noe.
+upgrades.shieldbattlereflectshortuses.title,Innstilt retur
+level.gameover.unlock.skin,Ny drakt frigjort!
+level.gameover.stats.destroyedblocks,Blokker ødelagt
+options.keybindings.action.keeper.gravityball,Lade skudd
+upgrades.orchardjetpack1.title,Raskere jetpack 1
+upgrades.keeper1.desc,En dyktig og effektiv arbeider med utmerkede utvinningsferdigheter.
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,Kraft 3
+upgrades.orchardoverchargebuffduration.desc,Fruktens effekt varer lenger når frukthagen er overladet.
+upgrades.stunlaserduration1.title,Lengre ildgivning 1
+loadout.mode.maze.desc,"Kartet minner om en labyrint, med mange avgreininger, blindveier og svinger."
+properties.dome.healthfractionrepair,Reparer {.percent} av total hp
+upgrades.jetpackstrength3.desc,Forbedre jetpacken slik at den får plass til flere ressurser.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Bevegelse registrert:
+upgrades.prospectionmetersand1.title,Koboltmåler
+upgrades.prospectionmeterwater1.desc,Viser avstanden til nærmeste vannforekomst.
+upgrades.blastminingstickycharge.desc,"Ladninger klistrer seg fast i den første veggen de støter på, og sprenger ut en tunnel i veggen i stedet for å skape en rund eksplosjon."
+options.video,Video
+title.navbar.updates,Oppdateringer
+loadout.skin,Utseende
+upgrades.shieldstrength2.title,Styrke 2
+level.gameover.win.title,KUPPELEN ER REDDET
+level.station.navbar.battle,Kjemp
+upgrades.converterirontocobalt.desc,Lar deg konvertere kobolt til jern og omvendt.
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,Ny kuppel
+pause.gamepadcontrols.pickup,Plukk opp
+options.video.graphicsmode.photosensitive,Fotosensitivmodus
+upgrades.orchardduration2.desc,Fruktens effekt varer enda lenger.
+properties.dome.meleedamagereduction,Skadereduksjon i nærkamp {.percent}
+upgrades.domesandrepairstrong.desc,Bruk kobolt til å reparere skade på kuppelen:
+options.input,Inngang
+properties.keeper2.spherereload,Omlading av sfære {}s
+properties.blastmining.damage,Skade {}
+upgrades.laserbend.title,Roterende laser
+upgrades.swordlargeblade3.desc,"Et monster av en klinge. Enormt kraftig, men også svært treg."
+loadout.domeoptions.title,Velg kuppel!
+upgrades.shieldoverchargeduration1.desc,Ved å overlade skjoldet forlenges også skjold-kampferdigheter du bruker i neste bølge.
+upgrades.probelong1.title,Lang rekkevidde
+options.keybindings.rebinding.inputprocessor,Trykk på en ny tast for denne handlingen
+properties.teleporter.teleportduration,Teleportvarighet {} s
+upgrades.dome2health2.title,Helse 2
+upgrades.drillbotduplicate.title,Søsken
+pause.quit.popup,"Er du sikker på at du vil avslutte?
+Trykk igjen for å gjøre det.
+(fremdriften lagres)"
+upgrades.prospectionmetersand2.desc,Viser retningen til nærmeste koboltforekomst.
+upgrades.probepersist1.desc,"Monterer en minnemodul på sonden, slik at markeringen av steder med ressurser varer lenger."
+upgrades.artilleryshotcooldown2.title,Nedkjøling 2
+properties.keeper2.sphereadditionalfirsthitdamage,Ekstra første treffskade {.percent}
+upgrades.shieldbattledestructionprevention.title,Siste skanse
+level.gameover.unlock.pet,Nytt dyr låst opp!
+upgrades.repellentbattlelongerhealthreduction.desc,Forlenger og styrker forvitringen til alle monstre i nærheten.
+ending.feedbackondiscord,Tilbakemeldinger på Discord
+properties.keeper2.reflectnexthitdamage,Ekstra sfæreskade under refleksjon for neste hopp {.percent}
+options.video.graphicsmode.borderlesswindow,Vindu uten rammer
+upgrades.keeper2pinballlifetime1.desc,"Stabiliserer den kinetiske sfæren, slik at den vil sveve lengre."
+level.gadgetchoice.title,VELG EN INNRETNING!
+upgrades.keeper2bundle.title,Skuddsamling
+upgrades.relichunt.title,Relikviejakt
+loadout.mode.doubleiron.desc,"Jernforekomster er dobbelt så store, men oppgraderinger koster også dobbelt så mye jern."
+level.tutorial.repair.findcobalt,"Prøv å finne kobolt. Du kan bruke det til å reparere kuppelen.
+Det er sjeldent og finnes i en begrenset mengde."
+upgrades.keeper2pinballsplit.title,Split Spheres
+options.input.controls.text,Fungerer best med gamepad.
+landing.proceed,Trykk hvor som helst for å fortsette
+upgrades.keeper2pinballmorespheres1.desc,"Legger til en ekstra modul til gravitetsgeneratoren, slik at den kan bære flere kinetiske sfærer."
+upgrades.jetpackstrength4.desc,Forbedre jetpacken slik at den får plass til flere ressurser.
+upgrades.orchardbattleshieldsecondlayer.desc,Bruk et nytt lag med beskyttende skjold.
+level.converter.popup.conversion.time,over {time} sykluser
+properties.keeper2.maxspeed,Toppfart {}
+properties.laser.aimline,Siktlinje
+upgrades.shieldstrength3.desc,Gjør at skjoldet tåler enda mer skade.
+upgrades.repellentovercharge.title,Overladet monstermiddel
+properties.drillbot.buffstrength,Energisk fartsøkning {.percent}
+worldmodifier.hardnesssofter.desc,Det er flere mykere steiner i gruven.
+level.tutorial.pickup.popup_1,Trykk på | for å plukke opp en ressurs.
+level.tutorial.pickup.popup_3,Hold inne for å plukke opp mange.
+pause.gamepadcontrols.drop,Slipp
+level.tutorial.fruit.popup_1,Din første drivstoffrukt vokste nettopp.
+level.tutorial.fruit.popup_2,"Når du er ved siden av den, trykker du på | for å bruke den."
+worldmodifier.mapwide.desc,Gruven er bredere og ikke så dyp.
+upgrades.prestigefinishnocobalt.desc,Forlat planeten og reis hjem.
+upgrades.prospectionmeteriron2.title,Jernkompass
+upgrades.keeper2movement2.title,Gravitasjonsbevegelse 2
+options.keybindings.gamepad,Spillkontroll
+ending.backtomainmenu,Til hovedmenyen
+level.tutorial.fullscreen.back,tilbake
+upgrades.shield.title,Skjold
+upgrades.blastmining.title,Sprengutvinning
+upgrades.converterirontocobalt.title,Koboltkonvertering
+upgrades.swordstabfast1.desc,Stikker raskere og hyppigere.
+level.gameover.prestige.score.rankunchanged,Du beholder plassen.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,Portalen kan teleportere deg igjen.
+upgrades.orchardjetpack3.title,Raskere jetpack 3
+level.gameover.unlock.mapsize,Ny kartstørrelse låst opp!
+upgrades.domeresourcecounters.title,Beholdning
+level.gameover.keepgadget.none,ingen
+upgrades.stunlaserdamage1.desc,Gjør at svimeslagslaseren gjør noe skade.
+properties.repellent.battleabilityduration,Evnevarighet {} s
+upgrades.prestigeiron.desc,Send tilbake jern. Gir 1 ekstra prestisje for hver bølge.
+upgrades.teleporter.title,Teleport
+ending.teasemessage,En smakebit på det som kommer:
+loadout.relichunt.modifiers,Velg modifikatorer
+options.accessibility,Tilgjengelighet
+loadout.mapsize.small.description,Et lite kart for korte økter.
+upgrades.shieldbattleblastdamage.desc,Skade- og svimeslåingseffektene fra elektroeksplosjonen blir kraftigere.
+options.translation.community.desc,Disse språkene er oversatt av vårt herlige fellesskap. Du kan bli med om du vil!
+upgrades.prospectionmeterwater2.desc,Viser retningen til nærmeste vannforekomst.
+upgrades.stunlaserdamage2.title,Skade 2
+options.keybindings.action.keeper.gadget1,Innretning 1
+options.keybindings.action.keeper.gadget2,Innretning 2
+properties.repellent.wavedelay,Bølgeforsinkelse {} sykluser
+options.ok,Ok
+upgrades.swordblade1.desc,Gjør at sverdet hugger raskere og kraftigere.
+upgrades.shieldoverchargeduration2.title,Varighet av overladet kampferdighet 2
+properties.sword.slicedamage,Huggskade {} 
+properties.condenser.autocollect,Automatisk innsamling
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,"Skutte samlinger vil holde seg rett under domen, i stedet for å fly forbi den midtre aksen."
+upgrades.orchardduration1.title,Varighet 1
+upgrades.drillbotbuffstrength1.title,Næringsrike godbiter
+upgrades.liftcarrykeeper2.title,Vokterheis 2
+upgrades.shieldoverchargestrength2.desc,Gjør at det overladede skjoldet absorberer enda mer skade.
+upgrades.repellentbattleslowdown.title,Svekking
+upgrades.artilleryshotprediction.title,Skuddets bane
+upgrades.repellentdelay3.desc,Gjør at neste monsterbølge bremses enda mer.
+upgrades.teleporter.desc,En toveis teleport med en stasjon under kuppelen og en portal som kan utplasseres og flyttes rundt gruvene.
+level.gameover.stats.monsterskilled,Monstre drept
+upgrades.keeper2pinballreflect.title,Sfærerefleksjon
+upgrades.drillbotstrength3.title,Styrke 3
+upgrades.shieldbattlereflectspeedup.title,Raskere retur
+upgrades.probeswift1.title,Rask sonde
+options.game.events.enableseasonal,aktiver sesonginnhold
+upgrades.repellentbattledamageovertime.title,Giftgass
+upgrades.dome3health2.title,Helse 2
+loadout.mapsize.huge,Digert
+properties.repellent.overchargebattleabilityduration,Ferdighet forlenges med {.percent}
+options.keybindings.action.keeper.gravitycollect,Lade innsamling
+loadout.miner.scores.title,Scores
+properties.lift.speed,Sfærehastighet {}
+upgrades.drillbotstrength1.title,Styrke 1
+level.tutorial.repellent.popup_2,"Når du er nær det, trykker du på | for å aktivere det."
+level.tutorial.repellent.popup_1,Monstermiddelet kan nå brukes til å forsinke neste bølge.
+properties.orchard.growthtime,Veksttid {} sykluser
+properties.keeper2.spherefractiondamage,Sphere Damage transcending Rock Hardness {.percent}
+properties.sword.brake,Sverdsmidighet {}
+upgrades.artilleryflakmultishot2.title,Luftvern 2
+upgrades.swordstabfast2.desc,Stikker enda raskere og hyppigere.
+upgrades.sword.desc,Et slitesterkt sverd som gjør mer skade jo lenger det hugger. Det kan skytes ut for å stikke monstre og har en beskyttet sokkel som beskytter mot prosjektiler.
+upgrades.artilleryflakmultishot1.title,Luftvern 1
+upgrades.artilleryshotprediction.desc,Viser den forventede banen til en granat.
+upgrades.shieldbattlereflect.desc,Utløser en aktiv kampferdighet som gjør at innkommende prosjektiler returneres i en kort periode.
+upgrades.orchardbattleshieldstrong.title,Sterke skjold
+upgrades.swordlongblade1.title,Lang klinge 1
+level.station.battle.navbar.stab,Stikk
+properties.converter.irontowater,{} jern til én vann
+upgrades.minoriron.title,Send Iron
+upgrades.keeper2bundleinfinite.desc,Samlinger vil holde seg stabile for en veldig lang periode.
+worldmodifier.resourcedesc,"Det er bare noen få jernforekomster, men de er svært store."
+loadout.keeper,VOKTER
+upgrades.drillbotstrength4.desc,Gjør Drillbert flinkere til å grave.
+upgrades.swordstabexplodedamage.title,Bombeskade
+upgrades.prospectionmeterwater2.title,Vannkompass
+loadout.keeperoptions.title,Velg en vokter!
+properties.probe.range,Rekkevidde på {} felter
+upgrades.orchardbattleshield.title,Prosjektilskjold
+loadout.mapsize.large,Stort
+properties.keeper2.reflectsphere,Reflekterer innkommende sfærer
+upgrades.orchardbattlerooting.title,Fellerøtter
+properties.repellent.growthtime,Produksjonstid {} sykluser
+properties.converter.irontocobalt,{} jern til én kobolt
+upgrades.dome3health1.desc,Gir kuppelen permanent bedre strukturell helse.
+upgrades.teleporterteleportresourcescooldown.title,Nedkjøling av teleport
+upgrades.shieldovercharge.desc,"Bruk vann til å overlade skjoldet manuelt, slik at det absorberer mer skade i neste angrepsbølge."
+upgrades.stunlaserspeed2.title,Hastighet 2
+upgrades.drillbotbuff1.desc,"Det vokser godbiter i redet under kuppelen. Ta dem med til Drillbert, som får mer energi når han spiser dem."
+options.keybindings.action.dome.battle,Kamp
+upgrades.orchardovercharge.title,Overladet frukthage
+properties.teleporter.teleportresourcesarea,Teleportrekkevidde {} felter
+upgrades.swordreflection1.desc,"Gjør skjoldsokkelen større, og den returnerer fiendenes prosjektiler."
+upgrades.blastminingblast2.title,Sprengning 2
+upgrades.swordreflection1.title,Retur 1
+upgrades.keeper2pinballlifetime2.desc,"Stabiliserer den kinetiske sfæren, slik at den vil sveve lengre."
+options.keybindings.action.general.left,Venstre
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Gir kuppelen permanent bedre strukturell helse.
+upgrades.drill2.title,Borstyrke 2
+options.keybindings.rebinding,Ny binding
+level.tutorial.assessor.carry.desc1_1,"Når de er låst fast på deg, vil de følge deg selv om du slipper innsamlingstasten."
+upgrades.keeper2pinballdamage1.title,Kinetisk sfæreskade 1
+upgrades.stunlaserspeed2.desc,Svimeslagslaseren beveger seg enda raskere og følger monstre når den kjøles ned.
+options.keybindings.title,KONTROLLOPPLEGG
+upgrades.keeper2pinballmorespheres2.desc,"Legger til en ekstra modul til gravitetsgeneratoren, slik at den kan bære flere kinetiske sfærer."
+level.gameover.prestige.uploading.finalfailed,"beklager, det nye resultatet kan ikke lastes opp"
+upgrades.blastminingblast1.desc,Gir en kraftigere eksplosjon.
+upgrades.stunlaserduration2.desc,Svimeslagslaseren nedkjøles raskere og skyter lenger.
+upgrades.prospectionmetersand1.desc,Viser avstanden til nærmeste koboltforekomst.
+pause.gamepadcontrols.move,Bevegelse
+properties.blastmining.bombs,Ladninger {}
+upgrades.drillbotstrength2.title,Styrke 2
+loadout.prestige.cobalt.description,"Kartet inneholder ikke kobolt, og du kan ikke produsere det, men du starter med en stor mengde."

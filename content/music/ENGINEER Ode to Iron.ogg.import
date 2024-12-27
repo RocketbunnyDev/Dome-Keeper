@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ENGINEER Ode to Iron.ogg-205dfcccd9ef5b66423ab8916166b1ba.oggstr"
+
+[deps]
+
+source_file="res://content/music/ENGINEER Ode to Iron.ogg"
+dest_files=[ "res://.import/ENGINEER Ode to Iron.ogg-205dfcccd9ef5b66423ab8916166b1ba.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

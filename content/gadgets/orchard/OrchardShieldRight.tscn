@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://content/gadgets/orchard/OrchardShield.tscn" type="PackedScene" id=1]
+
+[sub_resource type="CapsuleShape2D" id=1]
+radius = 2.82617
+height = 45.5335
+
+[node name="Shield" instance=ExtResource( 1 )]
+position = Vector2( 0, 0 )
+
+[node name="Sprite" parent="." index="0"]
+position = Vector2( 5, -4 )
+frame = 2
+
+[node name="CollisionShape2D" parent="." index="1"]
+position = Vector2( 1, -0.999998 )
+rotation = -0.977384
+shape = SubResource( 1 )

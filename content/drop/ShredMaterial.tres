@@ -1,0 +1,29 @@
+[gd_resource type="ShaderMaterial" load_steps=4 format=2]
+
+[ext_resource path="res://systems/style/palettes/index_palette.png" type="Texture" id=1]
+[ext_resource path="res://content/drop/ShredNoise.png" type="Texture" id=2]
+
+[sub_resource type="Shader" id=7]
+code = "shader_type canvas_item;
+
+uniform float fade : hint_range(0, 1) = 0.0f;
+uniform sampler2D noise;
+
+uniform sampler2D palette;
+const float start_r = 0.5 / float(32);
+const float start_b = 0.5 / float(12);
+
+void fragment() {
+    vec4 input = texture(TEXTURE, UV);
+    highp float c = 0.33333333*(input.r+input.g+input.b);
+    input.a *= step(fade, texture(noise, UV).r);
+	vec4 output = texture(palette, vec2(start_r + input.r, start_b+input.b));
+    output.a = input.a;
+    COLOR.rgba = output;
+}"
+
+[resource]
+shader = SubResource( 7 )
+shader_param/fade = 0.0
+shader_param/noise = ExtResource( 2 )
+shader_param/palette = ExtResource( 1 )

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Debilitate.mp3-77ae674d70cca9cef64cfad5a8ea87e6.mp3str"
+
+[deps]
+
+source_file="res://content/sounds/Locations/Repellent/Debilitate.mp3"
+dest_files=[ "res://.import/Debilitate.mp3-77ae674d70cca9cef64cfad5a8ea87e6.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

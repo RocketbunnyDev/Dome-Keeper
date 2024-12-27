@@ -1,0 +1,246 @@
+[gd_scene load_steps=12 format=2]
+
+[ext_resource path="res://gui/fonts/FontSmall.tres" type="DynamicFont" id=1]
+[ext_resource path="res://tool/SessionViewer/Listing.tscn" type="PackedScene" id=2]
+[ext_resource path="res://tool/SessionViewer/GetSessions.gd" type="Script" id=3]
+[ext_resource path="res://tool/SessionViewer/SessionViewer.gd" type="Script" id=4]
+[ext_resource path="res://tool/SessionViewer/GetSessionsCount.gd" type="Script" id=5]
+[ext_resource path="res://gui/theme.tres" type="Theme" id=6]
+[ext_resource path="res://tool/SessionViewer/GetListing.gd" type="Script" id=7]
+[ext_resource path="res://tool/SessionViewer/GetFile.gd" type="Script" id=8]
+[ext_resource path="res://tool/SessionViewer/GetNumberOfListingEntries.gd" type="Script" id=9]
+[ext_resource path="res://tool/SessionViewer/DownloadAllButton.gd" type="Script" id=10]
+
+[sub_resource type="ButtonGroup" id=1]
+
+[node name="SessionViewer" type="Node"]
+script = ExtResource( 4 )
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Canvas"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme = ExtResource( 6 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/HBoxContainer"]
+margin_right = 206.0
+margin_bottom = 1080.0
+
+[node name="ModeChartsButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer"]
+margin_right = 206.0
+margin_bottom = 57.0
+toggle_mode = true
+pressed = true
+group = SubResource( 1 )
+text = "Charts"
+
+[node name="ModeTextButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer"]
+margin_top = 73.0
+margin_right = 206.0
+margin_bottom = 130.0
+toggle_mode = true
+group = SubResource( 1 )
+text = "Event List"
+
+[node name="Listing" parent="Canvas/HBoxContainer/VBoxContainer" instance=ExtResource( 2 )]
+margin_top = 146.0
+margin_right = 206.0
+margin_bottom = 934.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="DownloadAllButton" type="Button" parent="Canvas/HBoxContainer/VBoxContainer"]
+margin_top = 950.0
+margin_right = 206.0
+margin_bottom = 1007.0
+text = "download all"
+script = ExtResource( 10 )
+
+[node name="GetListing" type="HTTPRequest" parent="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton"]
+script = ExtResource( 7 )
+
+[node name="GetNumberOfListingEntries" type="HTTPRequest" parent="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton"]
+script = ExtResource( 9 )
+
+[node name="GetFile" type="HTTPRequest" parent="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton"]
+script = ExtResource( 8 )
+
+[node name="RebuildFileIndex" type="Button" parent="Canvas/HBoxContainer/VBoxContainer"]
+margin_top = 1023.0
+margin_right = 206.0
+margin_bottom = 1080.0
+text = "rebuild file index"
+script = ExtResource( 10 )
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="Canvas/HBoxContainer"]
+margin_left = 222.0
+margin_right = 1920.0
+margin_bottom = 1080.0
+size_flags_horizontal = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="PanelContainer" type="PanelContainer" parent="Canvas/HBoxContainer/VBoxContainer2"]
+margin_right = 1698.0
+margin_bottom = 24.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VersionButtons" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer2/PanelContainer"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1686.0
+margin_bottom = 12.0
+
+[node name="RawDataPanel" type="PanelContainer" parent="Canvas/HBoxContainer/VBoxContainer2"]
+margin_top = 40.0
+margin_right = 1698.0
+margin_bottom = 552.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/HBoxContainer/VBoxContainer2/RawDataPanel"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1686.0
+margin_bottom = 500.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+follow_focus = true
+
+[node name="RawDataGridContainer" type="GridContainer" parent="Canvas/HBoxContainer/VBoxContainer2/RawDataPanel/ScrollContainer"]
+margin_right = 1674.0
+margin_bottom = 488.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_constants/hseparation = 20
+columns = 4
+
+[node name="PlottedDataPanel" type="PanelContainer" parent="Canvas/HBoxContainer/VBoxContainer2"]
+margin_top = 568.0
+margin_right = 1698.0
+margin_bottom = 1080.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel"]
+margin_left = 12.0
+margin_top = 12.0
+margin_right = 1686.0
+margin_bottom = 500.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer"]
+margin_right = 1674.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+
+[node name="RunButtons" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/HBoxContainer"]
+margin_right = 1557.0
+margin_bottom = 57.0
+size_flags_horizontal = 3
+
+[node name="ButtonMinus" type="Button" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/HBoxContainer"]
+margin_left = 1573.0
+margin_right = 1614.0
+margin_bottom = 57.0
+focus_mode = 0
+size_flags_horizontal = 8
+text = "-"
+
+[node name="ButtonPlus" type="Button" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/HBoxContainer"]
+margin_left = 1630.0
+margin_right = 1674.0
+margin_bottom = 57.0
+focus_mode = 0
+size_flags_horizontal = 8
+text = "+"
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer"]
+margin_top = 73.0
+margin_right = 1674.0
+margin_bottom = 92.0
+custom_constants/separation = 20
+
+[node name="DateLabel" type="Label" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/HBoxContainer2"]
+margin_bottom = 19.0
+custom_fonts/font = ExtResource( 1 )
+align = 1
+
+[node name="VersionLabel" type="Label" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/HBoxContainer2"]
+margin_left = 20.0
+margin_right = 20.0
+margin_bottom = 19.0
+custom_fonts/font = ExtResource( 1 )
+align = 1
+
+[node name="PlatformLabel" type="Label" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/HBoxContainer2"]
+margin_left = 40.0
+margin_right = 40.0
+margin_bottom = 19.0
+custom_fonts/font = ExtResource( 1 )
+align = 1
+
+[node name="ResultLabel" type="Label" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/HBoxContainer2"]
+margin_left = 60.0
+margin_right = 60.0
+margin_bottom = 19.0
+custom_fonts/font = ExtResource( 1 )
+align = 1
+
+[node name="DurationLabel" type="Label" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/HBoxContainer2"]
+margin_left = 80.0
+margin_right = 80.0
+margin_bottom = 19.0
+custom_fonts/font = ExtResource( 1 )
+align = 1
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer"]
+margin_top = 108.0
+margin_right = 1674.0
+margin_bottom = 488.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+follow_focus = true
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/ScrollContainer"]
+margin_right = 16.0
+margin_bottom = 830.0
+
+[node name="Labels" type="VBoxContainer" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/ScrollContainer/HBoxContainer"]
+margin_bottom = 830.0
+alignment = 1
+
+[node name="PlotContainer" type="Control" parent="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/ScrollContainer/HBoxContainer"]
+margin_left = 16.0
+margin_right = 16.0
+margin_bottom = 830.0
+rect_min_size = Vector2( 0, 830 )
+size_flags_horizontal = 3
+size_flags_vertical = 0
+
+[node name="GetSessions" type="HTTPRequest" parent="."]
+script = ExtResource( 3 )
+
+[node name="GetSessionsCount" type="HTTPRequest" parent="."]
+script = ExtResource( 5 )
+
+[node name="Tween" type="Tween" parent="."]
+
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/ModeChartsButton" to="." method="_on_ModeChartsButton_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/ModeTextButton" to="." method="_on_ModeTextButton_pressed"]
+[connection signal="entry_selected" from="Canvas/HBoxContainer/VBoxContainer/Listing" to="." method="_on_Listing_entry_selected"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton" to="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton" method="_on_DownloadAllButton_pressed"]
+[connection signal="request_completed" from="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton/GetListing" to="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton" method="_on_GetListing_request_completed"]
+[connection signal="request_completed" from="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton/GetNumberOfListingEntries" to="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton" method="_on_GetNumberOfListingEntries_request_completed"]
+[connection signal="request_completed" from="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton/GetFile" to="Canvas/HBoxContainer/VBoxContainer/DownloadAllButton" method="_on_GetFile_request_completed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer/RebuildFileIndex" to="Canvas/HBoxContainer/VBoxContainer/RebuildFileIndex" method="groupSessionsByVersion"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/HBoxContainer/ButtonMinus" to="." method="_on_ButtonMinus_pressed"]
+[connection signal="pressed" from="Canvas/HBoxContainer/VBoxContainer2/PlottedDataPanel/VBoxContainer/HBoxContainer/ButtonPlus" to="." method="_on_ButtonPlus_pressed"]
+[connection signal="request_completed" from="GetSessions" to="." method="_on_GetSessions_request_completed"]
+[connection signal="request_completed" from="GetSessionsCount" to="." method="_on_GetSessionsCount_request_completed"]

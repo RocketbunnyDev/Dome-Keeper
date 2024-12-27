@@ -1,0 +1,141 @@
+[gd_scene load_steps=20 format=2]
+
+[ext_resource path="res://content/sounds/Locations/Lift/LiftOrbDrop.wav" type="AudioStream" id=1]
+[ext_resource path="res://content/sounds/Locations/Lift/LiftOrbAmb.wav" type="AudioStream" id=2]
+[ext_resource path="res://content/sounds/Locations/Lift/OrbSpawn.wav" type="AudioStream" id=3]
+[ext_resource path="res://content/gadgets/lift/liftorb.png" type="Texture" id=5]
+[ext_resource path="res://content/gadgets/lift/LiftOrb.gd" type="Script" id=6]
+[ext_resource path="res://systems/audio/Sound.gd" type="Script" id=8]
+[ext_resource path="res://systems/audio/Sound.tscn" type="PackedScene" id=9]
+[ext_resource path="res://content/sounds/Locations/Lift/LiftOrbResourceAttach.wav" type="AudioStream" id=10]
+
+[sub_resource type="CircleShape2D" id=8]
+radius = 4.0
+
+[sub_resource type="AtlasTexture" id=15]
+atlas = ExtResource( 5 )
+region = Rect2( 24, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=10]
+atlas = ExtResource( 5 )
+region = Rect2( 0, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=11]
+atlas = ExtResource( 5 )
+region = Rect2( 24, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=12]
+atlas = ExtResource( 5 )
+region = Rect2( 48, 0, 24, 24 )
+
+[sub_resource type="AtlasTexture" id=13]
+atlas = ExtResource( 5 )
+region = Rect2( 72, 0, 24, 24 )
+
+[sub_resource type="SpriteFrames" id=14]
+animations = [ {
+"frames": [ SubResource( 15 ) ],
+"loop": false,
+"name": "off",
+"speed": 1.0
+}, {
+"frames": [ SubResource( 10 ), SubResource( 11 ), SubResource( 12 ), SubResource( 13 ) ],
+"loop": true,
+"name": "on",
+"speed": 2.0
+} ]
+
+[sub_resource type="CanvasItemMaterial" id=5]
+blend_mode = 1
+
+[sub_resource type="Curve" id=6]
+max_value = 30.0
+_data = [ Vector2( 0, 0 ), 0.0, -18.0149, 0, 0, Vector2( 0.693419, 4.6875 ), -32.6748, -32.6748, 0, 0, Vector2( 1, 0 ), 9.36998, 0.0, 0, 0 ]
+
+[sub_resource type="Gradient" id=7]
+offsets = PoolRealArray( 0, 0.0621572, 0.325411, 0.66362, 0.840951, 0.90128, 1 )
+colors = PoolColorArray( 0.219608, 0.47451, 0.54902, 0, 0.219608, 0.47451, 0.54902, 1, 0.156863, 0.247059, 0.54902, 1, 0.12549, 0.152941, 0.54902, 1, 0.12549, 0.152941, 0.54902, 1, 0.745098, 0.298039, 0.407843, 1, 0.745098, 0.298039, 0.407843, 0 )
+
+[sub_resource type="CircleShape2D" id=4]
+radius = 24.0
+
+[node name="LiftOrb" type="KinematicBody2D" groups=["lift_orbs"]]
+z_index = 12
+collision_layer = 0
+collision_mask = 0
+script = ExtResource( 6 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource( 8 )
+disabled = true
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+frames = SubResource( 14 )
+animation = "on"
+
+[node name="Trail" type="CPUParticles2D" parent="."]
+material = SubResource( 5 )
+rotation = 3.14159
+z_index = -1
+amount = 10
+lifetime = 2.0
+lifetime_randomness = 0.5
+local_coords = false
+emission_shape = 1
+emission_sphere_radius = 3.0
+direction = Vector2( 0, -1 )
+spread = 2.0
+gravity = Vector2( 0, 0 )
+damping_curve = SubResource( 6 )
+color_ramp = SubResource( 7 )
+
+[node name="CarryArea" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 32
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CarryArea"]
+position = Vector2( 0, 16 )
+shape = SubResource( 4 )
+
+[node name="OrbAmb" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 2 )
+autoplay = true
+bus = "Mine"
+script = ExtResource( 8 )
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 54.0
+minAudibleDistance = 12.0
+fadeInTime = 0.3
+fadeOutTime = 1.0
+loop = true
+
+[node name="Pickup" parent="." instance=ExtResource( 9 )]
+stream = ExtResource( 10 )
+bus = "Mine"
+randomVolume = 1.0
+maxAudibleDistance = 72.0
+minAudibleDistance = 12.0
+
+[node name="Drop" parent="." instance=ExtResource( 9 )]
+stream = ExtResource( 1 )
+volume_db = -6.0
+pitch_scale = 1.7
+bus = "Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 96.0
+minAudibleDistance = 24.0
+
+[node name="SpawnSound" parent="." instance=ExtResource( 9 )]
+stream = ExtResource( 3 )
+volume_db = -1.417
+bus = "Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 64.0
+minAudibleDistance = 24.0
+
+[node name="Tween" type="Tween" parent="."]
+
+[connection signal="body_entered" from="CarryArea" to="." method="_on_CarryArea_body_entered"]

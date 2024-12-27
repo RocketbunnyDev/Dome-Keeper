@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Cancel.wav-a4cfc08983242a99d1cd4eb78fb9ed77.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper2/Cancel.wav"
+dest_files=[ "res://.import/Cancel.wav-a4cfc08983242a99d1cd4eb78fb9ed77.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

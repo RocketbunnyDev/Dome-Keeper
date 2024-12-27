@@ -1,0 +1,942 @@
+﻿key,fr_FR
+loadout.prestige.title,Choisissez une variation du mode
+upgrades.shieldbattleelectroblast.title,Souffle électromagnétique
+properties.orchard.battleshieldhp,Puissance : {} PV
+options.keybindings.action.general.move,Déplacement
+options.video.stretchmode.rezised,Redimensionné
+level.gameover.unlock.world,Nouveau monde débloqué !
+upgrades.blastminingwaterless.desc,"Permet de produire des charges explosives sans utiliser d'eau, mais cela prend plus longtemps."
+properties.blastmining.growthtime,Temps de production : {} cycles
+properties.laser.stun,Puissance de l'étourdissement : {}
+exhibition.level.instruction,Appuyez sur une touche pour continuer à jouer !
+pause.godot,Fait avec Godot
+upgrades.orchardjetpack2.desc,"Augmente le bonus de vitesse conféré par les fruits, ce qui vous permet de vous déplacer encore plus rapidement."
+upgrades.artillery.title,Artillerie
+upgrades.condenser.desc,Ajoute sous le dôme une machine produisant lentement de l'eau par condensation.
+properties.lift.keeperupwardsspeed,Vitesse du monte-charge du gardien : {}
+level.tutorial.fullscreen.continue,continuer
+upgrades.dome1damagereduction2.title,Renforcement 2
+upgrades.orchardduration2.title,Durée 2
+upgrades.condenserautoovercharge.title,Surcharge automatique
+upgrades.keeper2pinballreflectdamage2.title,Dégâts de renvoi 2
+loadout.title,CHOISISSEZ VOTRE ÉQUIPEMENT
+level.tutorial.teleporter_2,"Utilisez le téléporteur de la station pour vous rendre instantanément au portail, et vice versa."
+options.keybindings.action.general.up,Haut
+level.converter.popup.cancel,Annuler
+properties.keeper.domefuel,Add fuel {}
+properties.shield.battleactivateondepletion,La capacité s'active quand le bouclier est épuisé
+loadout.difficulty.veryeasy,Normal
+properties.sword.reflectprojectilesexplosive,Les projectiles énergétiques sont explosifs
+upgrades.swordlargeblade3.title,Lourde lame 3
+upgrades.orcharddrill2.title,Boost de minage 2
+loadout.prestige.normal.description,Le mode prestige normal.
+upgrades.keeper2pinballreflectdamage1.desc,Les sphères renvoyées infligeront beaucoup plus de dégâts au rocher qu'elles touchent.
+options.input.gamepad,Manette
+loadout.choices.locked,Pas encore débloqué
+upgrades.condenserspeed1.desc,Réduit le temps nécessaire pour condenser un volume d'eau.
+upgrades.shieldbattleinvulnerable.desc,Déclenche une capacité de combat active qui rend votre dôme invulnérable pendant un court laps de temps.
+upgrades.domewavemeter.desc,Indique le temps restant avant la prochaine vague de formes de vie hostiles.
+upgrades.keeper2pinballreflectspeedup2.title,Renvoi supérieur
+upgrades.keeper2movement1.desc,Améliorez votre générateur de gravité pour vous déplacer plus rapidement.
+upgrades.repellentoverchargeduration2.desc,"Après surcharge, la capacité de combat dure plus longtemps lors de la prochaine vague."
+upgrades.laserhitprojectiles.desc,Toucher les projectiles ennemis à l'aide du laser les dissout instantanément.
+options.keybindings.action.keeper.pickup,Ramasser
+upgrades.keeper2pinballdamage1.desc,Améliore les dégâts que la sphère cinétique inflige aux rochers lors de l'impact. Améliore également les dégâts de l'exploitation minière par rotation.
+upgrades.keeper2pinballdamage3.title,Dégâts de la sphère cinétique 3
+options.video.graphicsmode.enablevsync,Activer la VSync
+options.translation.community,Traduction par la communauté terminée à {completion} %
+loadout.difficult.harder,plus difficile
+worldmodifier.resourcerichiron.desc,Ce monde contient beaucoup de fer.
+loadout.miner.fuel,Enable the need to refuel your keepers movement aggregate with water.
+upgrades.prestigeiron.title,Envoi de fer
+upgrades.stunlaserspeed1.desc,Le laser étourdissant se déplace plus rapidement.
+upgrades.keeper2pinballdamage2.desc,Améliore les dégâts que la sphère cinétique inflige aux rochers lors de l'impact. Améliore également les dégâts de l'exploitation minière par rotation.
+upgrades.drill1.title,Foreuse surpuissante 1
+upgrades.prospectionmetersand2.title,Détecteur de cobalt
+upgrades.dome1health1.desc,Augmente de manière permanente la solidité de votre dôme.
+title.navbar.newgame,Nouvelle partie
+properties.repellent.overchargeduration,Augmente la vitesse de production de monstrifuge pendant {} cycles
+properties.sword.retractspeed,Vitesse de rétractation : {} 
+upgrades.lasermove3.desc,Le laser se déplace à vitesse maximale.
+upgrades.stunlaser.title,Laser étourdissant
+options.keybindings.action.general.use,Utiliser
+worldmodifier.monsterfeeble.desc,Les monstres sont moins dangereux et infligent moins de dégâts.
+upgrades.shield.desc,Installe un bouclier absorbant une partie des dégâts. Se recharge automatiquement.
+options.video.stretchmode.rezised.text,"Vous propose le jeu dans la résolution de l'écran natif ou en mode fenêtré.
+Le rendu est plus net, mais des erreurs visuelles peuvent apparaître, sous la forme de lignes d'un pixel de large."
+upgrades.orchardbattlerootingexplosion.desc,"Déclenchez de nouveau la capacité pour faire exploser tous les monstres piégés, ce qui inflige des dégâts tout autour d'eux."
+loadout.mapsize.small,Petite
+upgrades.probe.desc,"Ajoute à votre équipement une sonde qui, quand on la déclenche, envoie une impulsion détectant les ressources proches. Doit être rechargée à la station, sous le dôme."
+upgrades.swordlongblade1.desc,Installe une lame plus longue et plus maniable sur votre dôme.
+upgrades.dome1health1.title,Solidité 1
+upgrades.blastminingwaterless.title,Charges sans eau
+level.tutorial.assessor.carry,Collecte par gravité
+upgrades.liftspeed1.desc,Les orbes se déplacent plus rapidement.
+upgrades.shieldstrength1.desc,Augmente la quantité de dégâts que le bouclier du dôme est capable d'absorber.
+upgrades.orchardbattleshieldsecondlayer.title,Bouclier double couche
+upgrades.teleporterteleportresourcescooldown.desc,Le portail peut téléporter des ressources plus souvent.
+options.input.gamepad.autoswitch,détection automatique de la manette de jeu préférée
+level.gameover.unlock.modifiers,Modificateurs de monde débloqués !
+properties.sword.slicebrake,Perte de vitesse lors des coups de taille : {.percent}
+loadout.prestige.normal,Normal
+properties.sword.sliceacceleration,Vitesse de l'épée : {}
+options.input.gamepad.gamepadstickdeadzone.text,"Ajustez la valeur afin que la barre ne clignote pas quand vous ne faites que toucher les sticks, sans appuyer franchement dessus.
+Si vous poussez le stick dans une direction, la barre devrait clignoter."
+options.accessibility.highlightmonsters.explanation,"Ajoute un contour lumineux atour des monstres, pour une meilleure visibilité."
+properties.upgrade.gameover,Finir la partie
+upgrades.blastminingstickycharge.title,Charges directionnelles adhésives
+upgrades.shieldoverchargestrength2.title,Surcharge de puissance du bouclier 2
+upgrades.blastminingblast2.desc,Augmente encore plus la puissance du souffle de l'explosion.
+upgrades.repellentbattlestrongerslowdown2.title,Grande stagnation
+upgrades.converter.desc,"Permet de convertir les ressources, ce qui vous aide à rééquilibrer votre inventaire des ressources."
+level.gameover.continue,Continuer
+upgrades.repellentbattleslowdown.desc,Pulvérise une brume affaiblissante qui ralentit tous les monstres.
+loadout.mapsize.medium.description,Carte de taille moyenne pour les gens qui aiment les sessions d'extraction qui se respectent.
+properties.orchard.overchargeadditionalbuffduration,Durée additionnelle du buff après surcharge : {} s
+options.translation.community.title,Traductions communautaires
+upgrades.blastminingtriple.title,Charges triplées
+worldmodifier.hardnessextremes.desc,Il y a beaucoup plus de roches extrêmement dures et tendres.
+level.station.battle.navbar.exit,Sortir
+upgrades.keeper2pinballlifetime2.title,Durée de vie de la sphère cinétique 2
+upgrades.minoriron.desc,Send iron offworld to increase your prestige.
+properties.dome.autohealamount,Repair {} hp
+upgrades.migration.title,Migration
+upgrades.converterefficientcobalt.title,Conversion de cobalt efficace
+upgrades.shieldbattledestructionprevention.desc,"Vous gagnez une longue période d'invulnérabilité quand votre dôme est sur le point d'être détruit.
+Après cela, votre bouclier ne se recharge pas pour le combat suivant. Dernière chance ne peut s'utiliser de nouveau qu'après avoir réussi à vaincre deux vagues entre deux utilisations.
+"
+upgrades.drill1.desc,"Renforce la foreuse, qui creuse plus vite."
+level.gameover.retry,Lancer une nouvelle partie
+properties.orchard.overchargeduration,Vitesse de croissance des fruits doublée pendant {} cycles
+upgrades.dome2health1.title,Solidité 1
+level.tutorial.station.popup_4,"Puis, appuyez sur | pour passer en mode combat et défendre votre dôme."
+level.gameover.stats.timeplayed.unit,m
+upgrades.repellentbattlestrongerslowdown2.desc,La brume ralentit encore plus les monstres et dure plus longtemps.
+loadout.gadgetoptions.title,Choisissez votre gadget principal !
+level.tutorial.station.popup_2,Allez à la station et appuyez sur | pour entrer à l'intérieur.
+upgrades.dome1damagereduction1.desc,Renforce la surface du dôme pour réduire les dégâts infligés par les monstres de corps à corps. Les dégâts de projectile ne sont pas concernés.
+level.tutorial.station.popup_1,Votre dôme est attaqué !
+upgrades.keeper2movement3.title,Mouvement gravitationnel 3
+upgrades.jetpackspeed1.desc,Améliorez le jetpack pour aller plus vite.
+properties.converter.ironwatertime,Durée de conversion : {}
+level.tutorial.sworddome.slicing.desc,"Plus votre épée se déplace vite, plus la découpe inflige de dégats."
+upgrades.liftorbs.desc,Installe un orbe de transport supplémentaire.
+upgrades.proberecharge.desc,La sonde se recharge lentement au fil du temps.
+loadout.gadget,GADGET
+upgrades.drill4.title,Foreuse surpuissante 4
+properties.probe.rechargetime,Temps de recharge complet : {} cycles 
+upgrades.keeper2pinballdamage4.title,Dégâts de la sphère cinétique 4
+options.game,Jeu
+loadout.prestige.cobalt,Quantité de cobalt fixe
+options.input.vibration.strength,Force de Vibration
+upgrades.liftcapacity1.desc,Les orbes peuvent transporter davantage de ressources.
+loadout.miner.title,Choose Your Run Options
+loadout.difficulty.title,Difficulté
+upgrades.repellentoverchargestrength2.title,Surcharge du retardant de vague 2
+upgrades.domesandrepairstrong.title,Grosse réparation au cobalt
+upgrades.stunlaserduration1.desc,"Le laser étourdissant se refroidit plus rapidement, ce qui lui permet de tirer plus longtemps."
+level.gameover.prestige.score.rankimproved,Vous êtes désormais rang {rank}.
+upgrades.stunlaserdamage2.desc,Augmente les dégâts des tirs du laser étourdissant.
+upgrades.drillbotstrength4.title,Force 4
+level.gameover.prestige.title,PARTIE PRESTIGE TERMINÉE
+loadout.secondstage.cancel,Annuler
+upgrades.laseraimline.desc,"Ajoute un viseur à votre laser, qui vous montre la direction de tir."
+leaderboard.global,Global
+upgrades.condenserdoublestorage.desc,"Avant de s'éteindre, le condensateur produit et stocke deux volumes d'eau."
+upgrades.swordreflection2.title,Retour à l'envoyeur 2
+leaderboard.season,Season {season}
+upgrades.drill2.desc,"Renforce la foreuse, qui creuse plus vite."
+properties.laser.hitprojectiles,Le laser touche les projectiles énergétiques
+upgrades.dome1damagereduction1.title,Renforcement 1
+properties.sword.stabexplosivedamage,Dégâts de la bombe : {}
+upgrades.drillbotturnaround.title,Excellente forme physique
+upgrades.keeper2movement1.title,Mouvement gravitationnel 1
+properties.orchard.battleroots,{} racines poussent au niveau du sol
+upgrades.prospectionmeterrange2.title,Portée 2
+upgrades.jetpackspeed4.title,Vitesse 4
+loadout.prestige.miner,Miner
+upgrades.repellentdelay2.desc,Augmente encore plus le délai avant l'apparition de la prochaine vague de monstres.
+upgrades.orchard.desc,Plante un arbre dans le dôme. Ses fruits augmentent vos capacités de déplacement et la puissance de minage.
+upgrades.artilleryflakexplosionradius1.title,Rayon de DCA 1
+upgrades.shieldbattleelectroblast.desc,Déclenche une capacité de combat active qui crée un champ d'énergie mortel autour du dôme pendant un court laps de temps.
+upgrades.shredgadgettocobalt.desc,Détruisez le gadget pour gagner {amount} cobalt.
+upgrades.prestigecobalt.title,Envoi de cobalt
+properties.orchard.drillbuff,Mining Strength Buff {}
+upgrades.swordlargeblade2.desc,"Installe une lame massive, plus lente que la normale, mais infligeant beaucoup plus de dégâts."
+level.gameover.back,Retour
+loadout.abort,Annuler
+options.keybindings.action.dome.fire,Tirer 
+upgrades.swordstabshoot.title,Javeline
+upgrades.blastminingtriple.desc,Produit 3 petites charges au lieu d'une grande.
+upgrades.orcharddrill1.title,Boost de minage 1
+upgrades.swordextendlong2.title,Coup d'estoc renforcé 2
+upgrades.artilleryshotcooldown1.desc,Permet de tirer plus souvent.
+upgrades.keeper2pinballdamagefraction.title,Transcendance de la solidité de la sphère cinétique
+upgrades.doublelaser.title,Double laser
+upgrades.jetpackspeed3.title,Vitesse 3
+upgrades.minerwater.title,Send Water
+properties.orchard.battleabilityuses,Utilisations par combat : {}
+upgrades.liftorbs.title,Orbes 1
+upgrades.repellentoverchargeduration1.title,Surcharge de durée de capacité de combat 1
+upgrades.drill3.desc,"Renforce la foreuse, qui creuse plus vite."
+level.gameover.prestige.uploading.inprocess,Transfert du score...
+options.cancel,Annuler
+properties.shield.overchargestrength,Surcharge de puissance : {} PV
+level.station.navbar.upgrades,Améliorations
+upgrades.keeper2pinballsplit.desc,"Split incoming spheres into two, launching them perpendicular to the original."
+upgrades.proberecharge.title,Recharge automatique
+properties.sword.stabrange,Portée : {} 
+upgrades.liftspeed1.title,Vitesse
+upgrades.domewavecount.desc,Fait apparaître un compteur qui vous indique à combien de vagues vous avez survécu.
+level.converter.popup.title,Convertir des ressources
+pause.discord,Rejoignez-nous sur Discord
+options.keybindings.action.general.back,Annuler
+upgrades.prospectionmeterrange1.desc,Augmente la portée de détection du radar de prospection.
+upgrades.dome2badrepair1.desc,Votre dôme se répare partiellement sans que vous ayez à faire quoi que ce soit s'il subit d'importants dégâts au cours d'un combat.
+upgrades.prestigecobalt.desc,"Envoie une cargaison de cobalt, ce qui augmente votre multiplicateur de points de prestige que vous gagnez à chaque vague."
+upgrades.domesandrepair.desc,Répare les dégâts subis par votre dôme à l'aide de cobalt.
+loadout.skinoptions.title,Choisissez votre skin !
+loadout.difficulty.medium.description,Difficulté prévue pour Dome Keeper.
+loadout.difficulty.veryeasy.description,"Pas si facile que ça, mais plus détendu que les autres niveaux de difficulté."
+options.game.tutorials,Didacticiels
+upgrades.orchardbattlerootingmore.desc,Les racines sont plus nombreuses et durent plus longtemps.
+upgrades.probepersist1.title,Sonde mémorielle
+upgrades.keeper2pinballmorespheres2.title,Chargement de sphères 2
+upgrades.orchardjetpack3.desc,"Augmente le bonus de vitesse conféré par les fruits, ce qui vous permet de vous déplacer extrêmement rapidement."
+upgrades.probe.title,Sonde
+upgrades.sword.title,Épée
+properties.shield.battledestructionprevention,Durée additionnelle : {} s
+upgrades.shieldbattlereflect.title,Retour à l'envoyeur
+pause.gamepadcontrols.use,Utiliser
+properties.laser.dpsmod,Damage Modifier {.percent}
+upgrades.condenserdoublestorage.title,Double stockage
+upgrades.relichunt.desc,Trouvez la relique profondément enfouie et remontez-la jusqu'à votre dôme.
+loadout.mapsize.unlock.description,Gagnez une session avec la taille de carte inférieure pour débloquer cette taille de carte.
+properties.sword.stabdamage,Dégâts des coups d'estoc : {} 
+properties.keeper1.drillstrength,Puissance de forage : {}
+worldmodifier.mapwildbiomes.desc,Les limites du biome sont très irrégulières.
+upgrades.condenser.title,Condensateur
+upgrades.dome2badrepair2.title,Réparation des impacts 2
+options.game.screenshake.shakewhenmining,Secouer en creusant
+upgrades.repellentdelay2.title,Retardant 2
+level.tutorial.assessor.reflect.desc,Appuyez|pour renvoyer les sphères cinétiques pendant un temps très court.
+properties.drillbot.buffamount,Forage énergisé : {} coups
+upgrades.laserstrength2.title,Puissance 2
+upgrades.jetpackstrength3.title,Force de traction 3
+options.keybindings.action.general,Général
+level.gameover.unlock.gadgetability,Nouvelle capacité de combat de gadget
+upgrades.jetpackstrength1.desc,Améliore vos réacteurs dorsaux pour vous permettre de transporter davantage de ressources.
+upgrades.artillerymultishot1.desc,Lance plusieurs grenades par tir.
+properties.sword.reflectprojectiles,Renvoi des projectiles énergétiques
+upgrades.stunlaser.desc,Installe un laser qui vise automatiquement les petits monstres et les étourdit.
+upgrades.orchardbattleshieldstrong.desc,Les boucliers antiprojectiles sont plus puissants. Vous gagnez également une activation de capacité supplémentaire après avoir utilisé surcharge.
+upgrades.orchardjetpack1.desc,"Augmente le bonus de vitesse conféré par les fruits, ce qui vous permet de vous déplacer plus rapidement."
+upgrades.laser.desc,Laser de précision qui se déplace le long de votre dôme. Initialement conçu pour extraire les ressources des astéroïdes.
+properties.shield.maxstrength,Puissance : {} PV
+options.keybindings.action.keeper,Gardien
+worldmodifier.resourceunpredicatablecobalt.desc,Le cobalt est plus éparpillé et plus difficile à détecter.
+title.navbar.quit,Quitter
+options.keybindings.rebinding.error.gamepad,Cette commande ne peut pas être assignée à une manette
+upgrades.repellentbattleslowdownstun1.desc,"La brume contient des spores volatiles qui étourdissent les monstres, ce qui les force à s'immobiliser pendant quelques instants."
+upgrades.swordfastreflection.title,Retour à l'envoyeur accéléré
+upgrades.stunlaserduration2.title,Tir prolongé 2
+level.gameover.lose.title,LE DÔME EST PERDU
+worldmodifier.resourcescatterediron.desc,"Il y a davantage d'amas de fer, mais ils sont plus petits."
+properties.laser.dps,Dégâts : {}
+options.game.screenshake.shakeintensity,Intensité des secousses
+worldmodifier.hardnessharder.desc,Il y a plus de roches dures dans la mine.
+options.video.stretchmode,Mode d'Étirement
+worldmodifier.monsterhealthy.desc,Les monstres ont plus de santé.
+level.gameover.stats.mapsize,Taille de la carte :
+loadout.mode.longtime,Cycles longs
+upgrades.swordreflection3.desc,Le bouclier de garde atteint sa taille maximale.
+upgrades.repellentbattleslowdownstun2.desc,"Vous pouvez utiliser les spores plus souvent, et leur effet dure plus longtemps."
+upgrades.teleporterteleportresourcesarea.title,Zone de téléportation
+upgrades.shieldoverchargeduration2.desc,"Après surcharge, la capacité de combat liée à votre bouclier dure plus longtemps lors de la prochaine vague."
+upgrades.shieldoverchargestrength1.title,Surcharge de puissance du bouclier 1
+upgrades.drillbotbuffstrength1.desc,L'énergie que ces friandises confèrent à Creusetout dure plus longtemps.
+upgrades.orchardoverchargebuffduration.title,Surcharge de la durée des buffs
+level.tutorial.assessor.spheres.desc3,Elle se recharge à chaque rebond.
+loadout.mode.longtime.desc,"Vous disposez de deux fois plus de temps entre les vagues, mais celles-ci sont plus puissantes."
+level.tutorial.assessor.spheres.desc2,Choisissez une direction et relâchez pour tirer la sphère.
+upgrades.laserstrength1.desc,"Augmente la puissance de votre laser, mais il se déplace plus lentement quand il tire."
+level.tutorial.assessor.spheres.desc1,Maintenez|pour charger une sphère cinétique.
+upgrades.jetpackstrength4.title,Force de traction 4
+upgrades.migration.desc,"Migrez d'un monde à l'autre, en récupérant leurs ressources et leurs reliques avant de vous faire submerger par l'ennemi."
+upgrades.orcharddrill1.desc,"Augmente le bonus de minage conféré par les fruits, ce qui vous permet de miner plus rapidement."
+upgrades.keeper2pinballdamage3.desc,Améliore les dégâts que la sphère cinétique inflige aux rochers lors de l'impact. Améliore également les dégâts de l'exploitation minière par rotation.
+options.accessibility.highlightmonsters,Surbrillance des monstres
+upgrades.prestigecobaltnocobalt.title,Envoi de cobalt
+properties.keeper2.spherebasedamage,Dégâts de base des sphères {}
+upgrades.orcharddrill3.desc,"Augmente le bonus de minage conféré par les fruits, ce qui vous permet de miner extrêmement rapidement."
+properties.converter.cobalttoiron,{} cobalt en 1 fer
+level.tutorial.repair.usecobalt,"Vous pouvez utiliser votre cobalt pour réparer votre dôme, grâce à une amélioration qui se trouve dans l'arbre technologique du dôme."
+upgrades.blastminingimpactdetonation.title,Déflagration à l'impact
+upgrades.swordfastreflection.desc,Les projectiles renvoyés repartent plus vite.
+upgrades.liftcapacity1.title,Capacité
+upgrades.artillery.desc,Bazooka de Worms.
+properties.sword.electricdamage,Dégâts de l'épée électrifiée : {}
+level.station.upgrademenu.close,Fermer
+properties.repellent.overchargebattleabilityduration,Durée additionnelle de la capacité : {.percent}
+pause.title,PAUSE
+upgrades.artillerymultishot1title,Enchaînement de grenades 1
+properties.shield.battleadditionalabilitydurationafterdepletion,Durée additionnelle de la capacité : {} s
+upgrades.orchardbattlerootingexplosion.title,Proies explosives
+upgrades.blastminingproductiontime1.title,Production accélérée
+options.video.stretchmode.scaled.text,"Affiche le jeu en résolution fixe et le redimensionne à votre résolution.
+Peut être pixélisé, en particulier dans les polices, mais il n'y a pas d'erreurs de lignes visuelles."
+upgrades.orchardduration3.title,Durée 3
+upgrades.domewavecount.title,Compteur de cycles
+upgrades.shredgadgettoiron.title,Transformation en fer
+options.keybindings.rebinding.apply,Appliquer
+options.keybindings.restoredefault,Retour aux valeurs par défaut
+upgrades.converterironduplication.title,Duplication du fer
+title.navbar.credits,Crédits
+level.gameover.unlock.gadget,Nouveau gadget
+upgrades.jetpackspeed2.title,Vitesse 2
+loadout.modeoptions.title,Choisissez votre mode de jeu !
+properties.keeper2.spherebaselifetime,Durée de vie des sphères {}
+options.video.stretchmode.scaled,À l'échelle
+properties.orchard.battleabilityduration,Durée de la capacité : {} s
+upgrades.repellentbattleslowdownstun1.title,Paralysie
+loadout.difficulty.medium,Brutal
+options.audio.volumes,Volumes
+upgrades.keeper1.title,Ingénieur
+upgrades.drillbotsleepless.title,Meilleure forme physique
+upgrades.drillbot.title,Creusetout
+level.tutorial.assessor.carry.desc1,"Maintenez|pour attirer les ressources, jusqu'à ce qu'elles soient verrouillées sur vous."
+level.tutorial.assessor.carry.desc2,Appuyez|pour déposer une ressource.
+level.tutorial.drillbot.sleeping1,"Creusetout s'endort au bout de quelque temps, ou quand il se retrouve devant un mur qu'il est incapable de percer."
+level.tutorial.assessor.carry.desc3,"Si vous visez dans une direction tout en lâchant une ressource, celle-ci sera fortement accélérée."
+level.tutorial.drillbot.sleeping2,"Pour le réveiller, appuyez sur | quand vous êtes à côté de lui."
+level.tutorial.drillbot.sleeping3,Vous pouvez le faire se retourner en appuyant sur | quand il est réveillé.
+properties.keeper2.totalspheres,Sphères {}
+upgrades.shieldbattleblastdamage.title,Souffle explosif
+upgrades.domeresourcecounters.desc,Montre les ressources que vous avez actuellement en stock.
+upgrades.swordextendlong1.desc,"La puissance des coups d'estoc est renforcée, et vous avez la possibilité de guider la lame de l'épée en vol."
+worldmodifier.resourcerichwater.desc,Ce monde contient beaucoup d'eau.
+upgrades.drillbotstrength1.desc,Augmente la force avec laquelle Creusetout creuse.
+upgrades.stunlaserautonomy1.desc,Le laser étourdissant est contrôlé par une I.A. de base même quand vous ne vous trouvez pas à l'intérieur de la station.
+properties.blastmining.radius,Rayon d'explosion : {} tuiles
+upgrades.jetpackstrength1.title,Force de traction 1
+options.keybindings.apply,Appliquer
+upgrades.laserstrength2.desc,"Augmente grandement la puissance de votre laser, mais il se déplace encore plus lentement quand il tire."
+properties.laser.movespeedwhilefiring,Vitesse en tirant : {.percent}
+properties.probe.markerretention,Rétention des marqueurs : {} s
+upgrades.swordexplosivereflection.title,Retour à l'envoyeur explosif
+upgrades.condenserspeed2.desc,Réduit encore plus le temps nécessaire pour condenser un volume d'eau.
+upgrades.condenserspeed2.title,Vitesse de production 2
+properties.stunlaser.firetime,Délai de tir : {} s
+options.input.gamepad.gamepadstickdeadzone,Zone inactive du stick
+upgrades.keeper2movement2.desc,Améliorez votre générateur de gravité pour vous déplacer plus rapidement.
+upgrades.shieldbattlelongerafterdepletion.desc,Le souffle dure plus longtemps s'il se déclenche alors que votre bouclier est épuisé.
+properties.laser.bend,Visée automatique du laser : {}
+level.station.upgrademenu.buy,Acheter
+properties.drillbot.plantgrowthtime,Durée de croissance avec traitement : {} cycles
+loadout.proceed,Continuer
+upgrades.repellentoverchargeduration1.desc,Surcharger votre cuve prolonge également la durée de n'importe quelles autres capacités de combat liées au monstrifuge utilisés lors de la prochaine vague.
+upgrades.artilleryshotcooldown1.title,Refroidissement accéléré 1
+worldmodifier.resourceunpredicatablewater.desc,L'eau est plus éparpillée et plus difficile à détecter.
+level.tutorial.blastmining.popup_1,Prenez la charge explosive et apportez-la à l'endroit où vous voulez faire exploser de la roche.
+ending.thankyoumessage,Merci d'avoir choisi notre jeu !
+options.keybindings.rebinding.error.keyboard,Cette commande ne peut pas être assignée au clavier
+upgrades.keeper2pinballdamagefraction.desc,The kinetic sphere transcends rock hardness and damages the rock by a fixed fraction of its health.
+upgrades.swordlargeblade1.title,Lourde lame 1
+upgrades.shredgadgettoiron.desc,Détruisez le gadget pour gagner {amount} fer.
+upgrades.drillbot.desc,"Adoptez une petite créature qui adore creuser. Descendez-la dans la mine et lâchez-la où vous voulez qu'elle se mette au travail. Revenez tout de même voir Creusetout de temps en temps, car il a tendance à s'endormir au travail."
+properties.dome.autohealdamagethreshold,Activate on getting more damage than {} hp
+upgrades.dome3health1.title,Solidité 1
+title.navbar.updates.close,Fermer
+upgrades.swordaimline.desc,Ajoute une visée laser pour augmenter votre précision à l'épée lorsque vous frappez d'estoc.
+upgrades.shieldoverchargeduration1.title,Surcharge de durée de capacité de combat 1
+level.converter.popup.explanation,Choisissez une conversion de ressources pour commencer !
+upgrades.drillbotbuff1.title,Friandises
+title.navbar.credits.close,Fermer
+upgrades.keeper2movement3.desc,Améliorez votre générateur de gravité pour vous déplacer plus rapidement.
+pause.quittotitlescreen,Retour à l'écran titre
+loadout.prestige.countdown.description,Le multiplicateur de prestige commence élevé et baisse à chaque cycle.
+upgrades.drill3.title,Foreuse surpuissante 3
+upgrades.probestage1.title,Sonde améliorée
+properties.sword.stabarrowhead,Augmente la taille des pointes de flèche
+loadout.mapsize.huge.description,Une énorme carte pour les sessions les plus longues.
+properties.sword.stabspeed,Vitesse des coups d'estoc : {.percent} 
+level.tutorial.teleporter.take1,Votre téléporteur comporte une station et un portail. Vous pouvez vous téléporter entre eux.
+worldmodifier.mapmaze.desc,La mine est un labyrinthe.
+level.tutorial.teleporter.take2,Prenez le Portail et placez-le où vous voulez.
+options.keybindings.action.dome.battleability1,Capacité de Combat
+upgrades.laserbend.desc,Installe sur votre laser une tête pivotante qui corrige automatiquement votre visée quand elle est proche de la cible.
+options.video.graphicsmode.fullscreen,Plein écran
+options.keybindings.action.general.down,Bas
+level.tutorial.assessor.spheres,Sphères cinétiques
+level.tutorial.mineraltree1,"Vous venez de trouver une graine d'arbre minéral. Elle peut se transformer en un arbre qui prend racine dans les tuiles. Il produira des ressources en fonction de celles présentes dans les tuiles enracinées.
+Déposez-la sur une tuile pour planter la graine."
+upgrades.blastmining.desc,Ajoute sous le dôme une machine utilisant l'eau pour produire des charges explosives. Amenez-les dans les galeries et lâchez-les pour qu'elles explosent.
+properties.sword.stabcooldown,Extension de la réutilisation : {} s 
+upgrades.repellentoverchargestrength2.desc,Augmente encore plus le délai avant l'apparition de la prochaine vague de monstres après surcharge.
+upgrades.probeswift1.desc,"La sonde ne détecte plus qu'à courte portée, mais possède de nombreuses charges."
+properties.drillbot.buffextraamount,Forage additionnel : {} coups
+level.gameover.unlock.keeper,Nouveau gardien
+upgrades.prospectionmeter.title,Radar de prospection
+upgrades.shieldbattleactivateondepletion.desc,Invulnérabilité s'active automatiquement une fois de plus lorsque le bouclier est épuisé.
+upgrades.dome2badrepair1.title,Réparation des impacts 1
+upgrades.swordtargetlock.title,Cible verrouillée
+upgrades.laserhitprojectiles.title,Dissolution des projectiles
+upgrades.keeper2pinballreflectspeedup1.title,Renvoi amélioré
+properties.shield.battleuses,Utilisations par combat : {}
+options.game.events,Évènements
+upgrades.artilleryflakexplosionradius1.desc,Les explosions des tirs de DCA touchent une plus large zone.
+properties.keeper1.speedlosspercarry,Ralentissement lors du transport : {}
+pause.gamepadcontrols.back,Retour
+level.gameover.unlocknewelementbutton,Choisissez votre élément débloqué
+upgrades.prospectionmeteriron2.desc,Indique dans quelle direction se trouvent les dépôts de fer les plus proches.
+upgrades.prestige.desc,Marquez des points en envoyant chez vous autant de ressources que possible avant que votre dôme ne s'effondre ou que vous ne quittiez la planète sain et sauf.
+properties.prestige.multiplier,Multiplicateur de prestige par vague : {}
+options.input.controls,Commandes
+properties.sword.reflectionacceleration,Vitesse des projectiles renvoyés : {.percent}
+loadout.difficult.easier,plus facile
+upgrades.keeper2pinballreflectdamage1.title,Dégâts de renvoi 1
+properties.sword.extendspeed,Vitesse d'extension : {} 
+properties.keeper2.reflectspeedup,Accélération des sphères renvoyées {.percent}
+loadout.mode.doubleiron,Fer Double
+upgrades.dome3.desc,Non disponible dans la démo
+properties.condenser.growthtime,Temps de production : {} cycles
+options.game.languages,Langues
+worldmodifier.mapwidebottom.desc,"La mine est étroite au début, puis de plus en plus large en descendant."
+loadout.mode.maze,Dédale
+upgrades.dome2health1.desc,Augmentez de manière permanente la solidité de votre dôme et réparez-le totalement.
+properties.drillbot.drillstrength,Puissance de forage : {}
+upgrades.keeper2.desc,Mineur peu conventionnel utilisant une technique d'extraction gravitationnelle encore expérimentale.
+properties.orchard.battleshields,Couches de bouclier : {}
+level.tutorial.sworddome.reflecting.desc,"Utilisez la garde de l'épée comme un bouclier pour stopper les projectiles, ou même les renvoyer."
+options.audio.volumes.musicvolume,Volume de la musique
+loadout.dome,DÔME
+upgrades.swordlongblade2.title,Longue lame 2
+upgrades.laseraimline.title,Viseur laser
+level.tutorial.assessor.bundle.desc1,"Maintenez|pendant que vous transportez des ressources, pour charger un paquet."
+options.keybindings.keyboard,Clavier
+level.tutorial.assessor.bundle.desc2,"Visez et relâchez pour la tirer, de la même manière que vous tirez une sphère cinétique."
+properties.prestige.score,Prestige : {}
+worldmodifier.mapdeep.desc,La mine est plus profonde et moins large.
+upgrades.repellentbattleslowdownstun2.title,Puissante paralysie
+upgrades.keeper2pinballmorespheres1.title,Chargement de sphères 1
+upgrades.prestigewater.desc,"Envoie une cargaison d'eau, ce qui ajoute 1 au prestige que vous gagnez à chaque vague."
+properties.keeper2.bundlestopcenter,Champ de gravité de la colonne centrale
+upgrades.stunlaserdamage1.title,Dégâts 1
+upgrades.keeper2pinballlifetime1.title,Durée de vie de la sphère cinétique 1
+properties.repellent.battleslowdown,Ralentissement des monstres : {.percent}
+upgrades.swordextendlong1.title,Coup d'estoc renforcé 1
+level.gameover.stats.distancetravelled,Distance parcourue :
+properties.keeper2.reflectlifetime,Durée de vie supplémentaire des sphères renvoyées {}s
+upgrades.blastminingimpactdetonation.desc,La charge explose au moindre impact contre une surface.
+properties.keeper2.spheresplit,Split Incoming Spheres
+options.keybindings.action.dome.upgrade,Améliorations
+worldmodifier.resourcepoorcobalt.desc,Ce monde ne contient pas beaucoup de cobalt.
+pause.resumegame,Reprendre la partie
+level.gameover.unlock.difficulty,Nouvelle difficulté débloquée !
+properties.stunlaser.cooldown,Temps de refroidissement : {} s
+options.keybindings.action.general.right,Droite
+level.tutorial.assessor.mining.desc,"Pour retirer un seul rocher, vous pouvez y déplacer la sphère cinétique rotative."
+upgrades.teleporterteleportresourcesback.title,Téléportation de ressources
+upgrades.dome1.title,Dôme laser
+upgrades.keeper2bundleinfinite.title,Paquet durable
+upgrades.repellentdelay1.title,Retardant 1
+upgrades.miner.desc,"In worlds without monsters, you can concentrate on mining as many resources as you want without distraction."
+upgrades.repellentbattlestrongerslowdown1.desc,La brume ralentit davantage les monstres et dure plus longtemps.
+upgrades.teleporterteleportresourcesarea.desc,Le portail téléporte des ressources comprises dans une plus grande zone.
+upgrades.dome3.title,Dôme artillerie
+upgrades.swordstabshoot.desc,"Au lieu de se rétracter à l'aide d'un câble, l'épée se charge en énergie et est tirée par le dôme telle une javeline."
+upgrades.repellentbattledamageovertime.desc,Tous les monstres subissent de légers dégâts chaque seconde où les vapeurs toxiques persistent.
+upgrades.shieldbattleactivateondepletion.title,Activation à l'épuisement
+upgrades.artillerymultishot2.desc,Lance plusieurs grenades par tir.
+upgrades.dome1health2.title,Solidité 2
+worldmodifier.monsterlethal.desc,Les monstres sont plus dangereux et infligent davantage de dégâts.
+loadout.pet,Compagnon
+options.keybindings.action,Action
+upgrades.orcharddrill3.title,Boost de minage 3
+options.translation.title,CHOIX DE LA LANGUE
+upgrades.prospectionmeterrange1.title,Portée 1
+upgrades.dome2badrepair2.desc,Votre dôme se répare davantage sans que vous ayez à faire quoi que ce soit s'il subit d'importants dégâts au cours d'un combat.
+options.audio.volumes.ambiencevolume,Volume d'ambiance
+upgrades.prestigecobaltnocobalt.desc,"Envoyez une cargaison de cobalt, ce qui augmente votre multiplicateur de points de prestige que vous gagnez à chaque vague."
+worldmodifier.maparms.desc,Les dépôts de la mine sont plus éparpillés.
+loadout.prestige.countdown,Compte à rebours
+upgrades.keeper2pinballdamage2.title,Dégâts de la sphère cinétique 2
+upgrades.jetpackspeed1.title,Vitesse 1
+upgrades.minerrefuel.title,Refuel
+upgrades.teleporterteleportduration1.title,Durée de téléportation
+properties.blastmining.bombs,Charges : {}
+loadout.miner.fuel.title,Fuel
+exhibition.title.press.anything,Appuyez sur une touche pour jouer
+loadout.mode,MODE
+level.tutorial.sworddome.slicing,Découper
+properties.condenser.autoovercharge,Surcharge automatisée
+upgrades.teleporterteleportduration1.desc,Le fait de vous téléporter prend moins de temps.
+upgrades.prestigewater.title,Envoi d'eau
+title.navbar.continue,Continuer
+upgrades.orchardbattleshield.desc,Génère un bouclier protégeant le dôme contre les projectiles.
+upgrades.liftcarrykeeper1.title,Monte-charge du gardien 1
+options.input.controls.keybindings,Assignation des touches
+properties.keeper2.bundlespheres,Sphères en paquet
+upgrades.shieldovercharge.title,Surcharge du bouclier
+properties.condenser.overchargedelay,Délai de production : {} cycles
+upgrades.keeper2.title,Assesseur
+level.tutorial.assessor.mining,Minage par rotation
+upgrades.repellentoverchargeduration2.title,Surcharge de durée de capacité de combat 2
+upgrades.swordblade1.title,Meilleur tranchant
+properties.converter.irontoiron,{} fer en 1 fer
+exhibition.level.description,Retour au menu principal dans...
+level.tutorial.assessor.mining.desc2,"Vous pouvez arrêter le minage sans tirer de sphère, en relâchant d'abord les touches directionnelles."
+worldmodifier.monsterslow.desc,Les monstres sont plus lents.
+upgrades.orcharddrill2.desc,"Augmente le bonus de minage conféré par les fruits, ce qui vous permet de miner encore plus rapidement."
+loadout.difficulty.easy.description,Un peu plus clément dans bien des aspects du jeu.
+upgrades.swordstabexplode.title,Bombe d'estoc
+level.gameover.stats.additionalgadget,Gadget additionnel :
+upgrades.drillbotbuffstrength2.desc,"Après avoir mangé une friandise, Creusetout travaille plus longtemps sans avoir envie de dormir."
+upgrades.laserstrength3.desc,"Augmente énormément la puissance de votre laser, mais il se déplace à peine quand il tire."
+loadout.mapsize.medium,Moyenne
+loadout.difficulty.hard,Vous l'aurez voulu !
+level.gameover.stats.wavessurvived,Vagues vaincues :
+properties.stunlaser.damage,Dégâts : {}
+options.keybindings.rebinding.cancel,Annuler
+level.tutorial.sworddome.stabbing.desc,Propulse l'épée et donne un coup d'estoc sur les ennemies distants.
+level.gameover.unlock.gamemodevariant,Nouvelle variante de mode de jeu
+upgrades.prestigefinish.title,Départ de la planète
+properties.keeper2.bundleduration,Durée de vie du paquet {.percent}
+upgrades.shieldstrength3.title,Puissance du bouclier 3
+options.audio.volumes.mastervolume,Volume principal
+upgrades.shieldbattlelongerafterdepletion.title,Souffle accru à l'épuisement
+options.keybindings.text,"Vous pouvez modifier l'assignation des commandes comme vous le souhaitez.
+La plupart du temps, il est possible d'utiliser les mêmes touches pour accomplir des tâches différentes dans diverses parties du jeu (par exemple, pour déplacer votre gardien et l'armement de votre dôme)."
+properties.shield.battleblastdamage,Dégâts d'explosion par seconde : {}
+loadout.mapsize.large.description,Une grande carte pour une session de jeu de plus d'une heure.
+upgrades.drill4.desc,"Renforce la foreuse, qui creuse plus vite."
+upgrades.drillbotsleepless.desc,Creusetout travaille plus longtemps avant d'avoir sommeil.
+upgrades.swordlargeblade2.title,Lourde lame 2
+upgrades.swordlongblade2.desc,"Augmente plus encore la vitesse de l'épée, qui rebondit quand elle atteint le bord du dôme."
+upgrades.prestigefinishnocobalt.title,Départ de la planète
+worldmodifier.hardnessmoderated.desc,Il y a très peu de roches extrêmement dures et tendres.
+upgrades.converterironduplication.desc,Multiplie le fer.
+upgrades.prestigefinish.desc,Vous quittez cette planète pour rentrer chez vous.
+upgrades.dome2health2.desc,Augmentez de manière permanente la solidité de votre dôme et réparez-le totalement.
+upgrades.prestige.title,Prestige
+upgrades.liftcarrykeeper1.desc,Le monte-charge vous permet d'aller plus vite quand vous l'utilisez pour remonter.
+upgrades.repellentbattlehealthreduction.desc,"Affaiblit tous les monstres présents, ce qui réduit immédiatement leur santé restante."
+upgrades.dome2.title,Dôme épée
+worldmodifier.monsterfast.desc,Les monstres sont plus rapides.
+upgrades.condenserautocollect.desc,"La récupération d'eau se fait automatiquement, et vous n'avez plus besoin de vous en charger manuellement."
+upgrades.lift.title,Monte-charge
+options.game.screenshake,Secousses de l'écran
+options.keybindings.action.dome,Dôme
+upgrades.swordstabexplodedamage.desc,Augmente les dégâts de la bombe.
+level.gameover.stats.resourcesmined,Ressources extraites :
+worldmodifier.resourcepoorwater.desc,Ce monde ne contient pas beaucoup d'eau.
+upgrades.prospectionmeter.desc,Appareil indiquant à quelle distance se trouvent les ressources les plus proches. Peut être amélioré afin d'indiquer également leur direction.
+upgrades.shredgadgettocobalt.title,Transformation en cobalt
+upgrades.swordelectrified.desc,La lame de l'épée est parcourue d'un courant électrique infligeant des dégâts à chaque coup.
+upgrades.artilleryflakexplosionradius2.desc,Les explosions des tirs de DCA touchent une plus large zone.
+upgrades.prospectionmeterwater1.title,Radar à eau
+upgrades.minerwater.desc,Send water offworld to increase your prestige.
+options.video.graphicsmode,Mode d'affichage
+upgrades.shieldbattlereflectspeedup.desc,"Les projectiles sont renvoyés vers l'ennemi plus rapidement, ce qui augmente leurs chances de toucher l'attaquant."
+properties.shield.battleblaststun,Étourdissement du souffle : {}
+loadout.mode.hyperactive.desc,"Les monstres sont bien plus rapides, mais ils ont moins de santé."
+upgrades.swordstabexplode.desc,"La lame s'accompagne d'une bombe, qui explose dès que l'épée porte un coup d'estoc contre un ennemi."
+upgrades.swordstabfast2.title,Coup d'estoc rapide 2
+upgrades.converterefficientwater.desc,"La conversion d'eau devient plus efficace, mais elle prend également un peu plus de temps."
+upgrades.orchardduration1.desc,L'effet des fruits dure plus longtemps.
+level.gameover.stats.difficulty,Difficulté :
+exhibition.level.heading,Vous êtes toujours là ?
+level.gameover.unlock.gamemode,Nouveau mode de jeu
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+leaderboard.friends,Friends
+upgrades.repellentbattlehealthreduction.title,Flétrissement
+upgrades.teleporterteleportreactivate.title,Réactivation du téléporteur personnel
+loadout.miner.scores,"Send resources off planet with a rocket, to reach a high score after 20 cycles. Same as prestige mode, but without monsters."
+options.audio,Audio
+upgrades.repellentovercharge.desc,Utilisez de l'eau pour surcharger votre cuve afin de produire votre prochaine charge de monstrifuge plus rapidement.
+upgrades.domewavemeter.title,Jauge de proximité hostile
+upgrades.prospectionmeterrange2.desc,Augmente encore plus la portée de détection du radar de prospection.
+upgrades.keeper2pinballreflectspeedup1.desc,"Les sphères sont renforcées lorsqu'elles sont renvoyées, ce qui les accélère et leur permet de flotter plus longtemps lors du renvoi."
+upgrades.shieldoverchargestrength1.desc,Augmente la quantité de dégâts que le bouclier surchargé est capable d'absorber.
+upgrades.repellentdelay1.desc,Augmente le délai avant l'apparition de la prochaine vague de monstres.
+upgrades.repellentbattlelongerhealthreduction.title,Intense flétrissement
+upgrades.swordtargetlock.desc,"Quand vous frappez d'estoc, l'épée se verrouille automatiquement sur le premier monstre qu'elle vise."
+upgrades.orchardovercharge.desc,"Vous utilisez de l'eau pour surcharger votre verger, ce qui lui permet de produire des fruits plus rapidement."
+upgrades.orchardbattlerootingmore.title,Racines vigoureuses
+upgrades.swordextendlong2.desc,Renforce encore la puissance des coups d'estoc et permet de mieux guider la lame de l'épée en vol.
+upgrades.swordstabfast1.title,Coup d'estoc rapide 1
+upgrades.probelong1.desc,"Augmente la portée de détection de la sonde, mais au prix d'un emplacement de charge."
+upgrades.repellent.title,Monstrifuge
+worldmodifier.monsterwavesspaced.desc,Les vagues de monstres sont plus espacées.
+upgrades.artilleryflakexplosionradius2.title,Rayon de DCA 2
+properties.drillbot.amount,Forage : {} coups
+upgrades.repellentdelay3.title,Retardant 3
+ending.appreciationmessage,Nous espérons que vous vous êtes bien amusé ! Nous apprécions grandement vos retours. N'hésitez pas à nous dire ce que vous pensez sur Discord ou sur les forums Steam. :)
+properties.orchard.battlerootexplosion,Explosion damage {}
+upgrades.orchardduration3.desc,L'effet des fruits a une durée maximale.
+upgrades.dome1damagereduction2.desc,Renforce encore plus la surface du dôme pour réduire les dégâts infligés par les monstres de corps à corps. Les dégâts de projectile ne sont pas concernés.
+properties.orchard.speedbuff,Move Speed Buff {}
+upgrades.jetpackspeed2.desc,Améliorez le jetpack pour aller plus vite.
+upgrades.jetpackspeed3.desc,Améliorez le jetpack pour aller plus vite.
+options.accessibility.critters.explanation,"Disable worm, bug or spider like critters that spawn in the mine as visual effects."
+pause.options,Paramètres
+properties.repellent.battledamageovertime,Les monstres subissent {} points de dégâts par seconde
+upgrades.repellentoverchargestrength1.title,Surcharge du retardant de vague 1
+upgrades.repellentoverchargestrength1.desc,Utiliser la surcharge augmente également le délai avant l'apparition de la prochaine vague de monstres.
+upgrades.blastminingproductiontime1.desc,Réduit le temps nécessaire pour produire une charge explosive.
+properties.teleporter.teleportresourcescooldown,Durée de la téléportation de ressources : {} s
+upgrades.artilleryflakmultishot1.desc,Tire davantage de projectiles.
+properties.converter.ironcobalttime,Durée de conversion : {}
+options.title,Paramètres
+options.video.graphicsmode.window,Fenêtré
+properties.shield.battlereflectspeedup,Vitesse des projectiles renvoyés : {.percent}
+upgrades.swordaimline.title,Ligne de visée
+level.tutorial.drillbot.handling1,Maintenez | pour ramasser de nouveau Creusetout.
+upgrades.probestage1.desc,"Améliore la sonde, ce qui augmente son efficacité."
+level.tutorial.drillbot.handling2,Appuyez sur | pour le faire changer de direction s'il est par terre.
+options.keybindings.rebinding.capture,Saisir
+properties.probe.range,Portée : {} tuiles
+properties.stunlaser.speed,Vitesse : {}
+properties.probe.impulsespeed,Vitesse d'impulsion : {}
+upgrades.domehealthmeter.title,Jauge de solidité
+options.audio.music.frequency,Fréquence (cycles sans musique)
+options.audio.volumes.soundvolume,Volume des bruitages
+properties.sword.slicebounceback,L'épée rebondit au bord du dôme
+upgrades.jetpackspeed4.desc,Améliorez le jetpack pour aller plus vite.
+worldmodifier.monsterfragile.desc,Les monstres ont moins de santé.
+level.gameover.prestige.score.personalbest,Votre nouveau record personnel !
+properties.prestige.baseperwave,Prestige de base par vague : {}
+loadout.choices.comingsoon,Pas encore mais Bientôt disponible.
+upgrades.doublelaser.desc,"Installe une seconde tourelle laser, mais votre puissance de feu est répartie entre les deux."
+upgrades.jetpackstrength2.title,Force de traction 2
+upgrades.keeper2bundlestopcenter.title,Centre de gravité
+properties.keeper2.spherelifetimeperbounce,Durée de vie supplémentaire des sphères par rebond {}s
+upgrades.converterefficientcobalt.desc,"La conversion de cobalt devient très efficace, mais elle prend également plus de temps."
+properties.orchard.buffduration,Durée du buff : {} cycles
+upgrades.domesandrepair.title,Réparation au cobalt
+properties.keeper1.maxspeed,Vitesse maximale : {}
+level.station.upgrademenu.cost,Coût
+upgrades.lasermove1.title,Vitesse de déplacement 1
+level.tutorial.sworddome.reflecting,Retour à l'envoyeur
+loadout.petoptions.title,Choisissez votre compagnon !
+level.station.upgrademenu.inventory,Inventaire
+level.gameover.unlockpicker.title,CHOISISSEZ VOTRE ÉLÉMENT DÉBLOQUÉ
+level.gameover.proceedtounlock,Débloquez un nouvel élément
+upgrades.artilleryshotcooldown2.desc,Permet de tirer plus souvent.
+level.gameover.keepgadget.title,Sélectionnez le gadget à conserver pour votre prochaine partie
+level.station.battle.navbar.shoot,Tirer
+upgrades.repellentbattlestrongerslowdown1.title,Stagnation
+upgrades.dome2.desc,Puissant dôme équipé d'une épée qu'il est possible de maîtriser pour vaincre les agresseurs.
+loadout.difficulty.easy,Difficile
+upgrades.condenserautocollect.title,Récupération automatique
+upgrades.orchard.title,Verger
+upgrades.keeper2pinballreflectspeedup2.desc,Les sphères sont intensément renforcées lorsqu'elles sont renvoyées.
+upgrades.laserstrength1.title,Puissance 1
+upgrades.lasermove2.title,Vitesse de déplacement 2
+upgrades.shieldbattlereflectshortuses.desc,"Renvoie plus souvent les tirs ennemis, mais pour un laps de temps plus court."
+options.keybindings.action.keeper.drop,Lâcher
+level.converter.popup.conversion.to,en
+upgrades.repellent.desc,"Installe une cuve produisant un liquide qui repousse les monstres. Activez-la pour vaporiser l'extérieur du dôme, ce qui retarde la vague de monstres suivante."
+properties.repellent.battlehealthreduction,Réduction de la santé des monstres : {.percent}
+loadout.mode.hyperactive,Rapides et faibles
+upgrades.miner.title,Miner
+upgrades.converter.title,Convertisseur de ressources
+properties.condenser.waterstorage,Stocke {} volumes d'eau
+upgrades.jetpackstrength2.desc,Améliore vos réacteurs dorsaux pour vous permettre de transporter davantage de ressources.
+level.station.navbar.exit,Sortir
+options.accessibility.photosensitivity.explanation,Réduit le scintillement des lumières.
+properties.orchard.overchargeadditionalabilityuses,Utilisations de capacité supplémentaires après surcharge : {}
+worldmodifier.resourcepooriron.desc,Ce monde ne contient pas beaucoup de fer.
+level.gameover.backtomainmenu,Retour au menu principal
+upgrades.orchardbattlerooting.desc,Activez cette capacité au combat pour faire pousser des racines autour du dôme qui piègent les ennemis de taille moyenne marchant dessus.
+upgrades.keeper2pinballreflect.desc,Renvoyez des sphères grâce à un petit champ de gravité très puissant qui vous entoure.
+upgrades.laser.title,Laser
+options.game.tutorials.resettutorials,Réinitialiser les didacticiels
+properties.converter.ironirontime,Durée de conversion : {}
+loadout.secondstage.start,Lancer la partie
+upgrades.artilleryflakmultishot2.desc,Tire davantage de projectiles.
+upgrades.swordreflection2.desc,Augmente encore plus la taille du bouclier de garde.
+upgrades.lasermove3.title,Vitesse de déplacement 3
+upgrades.lasermove1.desc,Le laser se déplace plus rapidement.
+properties.lift.orbs,{} orbes
+pause.gamepadcontrols.move,Déplacement
+upgrades.orchardjetpack2.title,Turboréacteurs dorsaux 2
+options.audio.music,Musique
+worldmodifier.resourceunpredicatableiron.desc,Les amas de fer sont plus éparpillés et plus difficiles à détecter.
+properties.dome.maxhealth,Solidité : {} PV
+upgrades.condenserspeed1.title,Vitesse de production 1
+properties.repellent.battleuses,Utilisations par combat : {}
+upgrades.shieldstrength2.desc,Augmente encore plus la quantité de dégâts que le bouclier est capable d'absorber.
+upgrades.drillbotbuffstrength2.title,Ajout de taurine
+upgrades.keeper2pinballreflectdamage2.desc,Les sphères renvoyées infligeront beaucoup plus de dégâts au rocher qu'elles touchent.
+level.paused,Pause
+level.tutorial.sworddome.stabbing,Estoque
+upgrades.stunlaserspeed1.title,Vitesse 1
+upgrades.domehealthmeter.desc,Mesure le degré d'intégrité structurelle du dôme.
+upgrades.swordlargeblade1.desc,"Élargit et allonge votre lame, qui inflige davantage de dégâts."
+pause.quitgame,Quitter le jeu
+level.station.battle.navbar.slice,Taille 
+level.gameover.stats.timeplayed,Temps de jeu :
+properties.teleporter.teleportresources,Téléportation de ressources
+upgrades.drillbotstrength2.desc,Augmente la force avec laquelle Creusetout creuse.
+level.tutorial.drop.popup_2,Appuyez sur | pour en lâcher une. Maintenez pour en lâcher beaucoup.
+level.gameover.keepgadget.keeping,Gadget à garder : {gadget}
+level.tutorial.drop.popup_1,Les ressources que vous transportez vous ralentissent.
+worldmodifier.maprugged.desc,La mine est rugueuse et irrégulière.
+level.tutorial.onewayteleporter1,Vous venez de trouver un téléporteur à sens unique !
+properties.sword.aimline,Prédiction de la visée
+upgrades.keeper2bundle.desc,"Les minéraux attachés peuvent être tirés sous forme de paquet, de la même manière que les sphères cinétiques."
+level.tutorial.onewayteleporter2,Appuyez sur | pour placer l'œil.
+level.tutorial.onewayteleporter3,Appuyez de nouveau pour vous téléporter jusqu'à lui.
+properties.lift.capacity,Les orbes transportent {} ressources
+properties.shield.battleabilityduration,Durée de la capacité : {} s
+level.tutorial.teleporter.carry2,Maintenez | pour prendre de nouveau le portail avec vous quand vous êtes tout près.
+level.tutorial.teleporter.carry3,"Si vous appuyez sur |, il vous téléporte dans l'autre sens."
+upgrades.minerrefuel.desc,"Transform water into fuel, filling up your domes fuel storage so you can refuel your keeper."
+level.tutorial.teleporter.carry1,Vous pouvez amener le portail où vous voulez.
+options.keybindings.cancel,Annuler
+level.tutorial.probe.popup_1,Appuyez sur | pour émettre une impulsion de sonde.
+upgrades.liftcarrykeeper2.desc,Le monte-charge vous remonte encore plus vite.
+level.tutorial.probe.popup_3,"Cela vous révélera une partie des ressources proches.
+Se recharge à la station."
+worldmodifier.resourcerichcobalt.desc,Ce monde contient beaucoup de cobalt.
+upgrades.keeper2pinballdamage4.desc,Améliore les dégâts que la sphère cinétique inflige aux rochers lors de l'impact. Améliore également les dégâts de l'exploitation minière par rotation.
+properties.sword.stabexplosive,Bombe d'épée montée
+properties.drillbot.turnaround,Fait demi-tour en atteignant un mur infranchissable
+upgrades.shieldstrength1.title,Puissance du bouclier 1
+properties.repellent.overchargewavedelay,Délai additionnel avant l'apparition de la vague : {} cycles
+upgrades.swordreflection3.title,Retour à l'envoyeur 3
+upgrades.dome1.desc,"Dôme d'extraction standard, équipé d'un laser de précision."
+level.tutorial.drillbot.carry,"Sortez Creusetout de sa cuve et placez-le dans la mine, pour qu'il se mette à creuser."
+upgrades.lift.desc,Installe un monte-charge automatisé remontant les ressources extraites afin qu'elles soient traitées à l'intérieur du dôme.
+upgrades.dome1health2.desc,Augmente de manière permanente la solidité de votre dôme.
+upgrades.converterefficientwater.title,Conversion d'eau efficace
+loadout.difficulty.hard.description,C'est vous qui voyez...
+upgrades.artillerymultishot2.title,Enchaînement de grenades 2
+upgrades.swordelectrified.title,Lame électrifiée
+upgrades.drillbotstrength3.desc,Augmente la force avec laquelle Creusetout creuse.
+upgrades.shieldbattleinvulnerable.title,Invulnérabilité
+upgrades.keeper2rotationalmining2.title,Improved Rotational Mining
+upgrades.stunlaserautonomy1.title,Autonomie
+level.tutorial.teleporter.teleport1,"Quand vous approchez le portail, appuyez sur | pour vous téléporter en arrière."
+level.tutorial.teleporter.teleport2,Vous pouvez aussi vous téléporter dans l'autre direction.
+level.gameover.prestige.uploading.failed,Le transfert a échoué. Nouvelle tentative...
+upgrades.lasermove2.desc,Le laser se déplace encore plus rapidement.
+loadout.mapsize.title,Taille de la carte
+level.gameover.miner.title,MINER RUN FINISHED
+upgrades.blastminingblast1.title,Souffle 1
+upgrades.drillbotturnaround.desc,"Quand il se retrouve face à un mur indestructible, Creusetout fait demi-tour au lieu de faire une petite sieste."
+properties.dome.baserepair,Réparer {} PV
+upgrades.condenserautoovercharge.desc,"Votre gadget principal est en état de surcharge permanente, sans qu'il soit nécessaire d'utiliser de l'eau. La production d'eau du condensateur est retardée après surcharge."
+upgrades.teleporterteleportresourcesback.desc,"Le portail téléporte désormais les ressources, mais il ne peut plus vous téléporter. Vous pouvez néanmoins vous téléporter entre le dôme et le portail."
+ending.wishlistonsteam,Liste d'envies sur Steam
+properties.sword.reflection,Augmente la taille du bouclier de garde
+upgrades.drillbotduplicate.desc,"Creusetout a un frère jumeau, Perceval."
+level.converter.popup.conversion.convert,convertir
+leaderboard.loading,loading...
+properties.converter.watertoiron,{} eau en 1 fer
+title.navbar.options,Paramètres
+upgrades.swordexplosivereflection.desc,Les projectiles renvoyés explosent quand ils touchent quelque chose.
+upgrades.shieldbattlereflectshortuses.title,Retour à l'envoyeur chronométré
+level.gameover.unlock.skin,Nouvelle skin débloquée ! 
+level.gameover.stats.destroyedblocks,Blocs détruits :
+options.keybindings.action.keeper.gravityball,Charger pour tirer
+upgrades.orchardjetpack1.title,Turboréacteurs dorsaux 1
+upgrades.keeper1.desc,"Ingénieur expérimenté, particulièrement doué pour l'extraction de ressources."
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.laserstrength3.title,Puissance 3
+upgrades.orchardoverchargebuffduration.desc,Les effets des fruits durent plus longtemps lorsque le verger a été surchargé.
+upgrades.stunlaserduration1.title,Tir prolongé 1
+loadout.mode.maze.desc,"La carte est un véritable labyrinthe, avec de nombreux virages et culs-de-sac."
+properties.dome.healthfractionrepair,Répare {.percent} du total de PV
+upgrades.jetpackstrength3.desc,Améliore vos réacteurs dorsaux pour vous permettre de transporter davantage de ressources.
+options.input.gamepad.gamepadstickdeadzone.motiondetected,mouvement détecté:
+upgrades.prospectionmetersand1.title,Radar à cobalt
+upgrades.prospectionmeterwater1.desc,Indique à quelle distance se trouvent les nappes d'eau souterraines les plus proches.
+upgrades.blastminingstickycharge.desc,"Les charges explosives se collent au premier mur qu'elles touchent, et leur déflagration n'est pas circulaire, mais en forme de tunnel."
+options.video,Vidéo
+title.navbar.updates,Mises à jour
+loadout.skin,Skin
+upgrades.drillbotstrength2.title,Force 2
+level.gameover.win.title,VOTRE DÔME EST SAUVÉ
+level.station.navbar.battle,Combattre
+upgrades.converterirontocobalt.desc,"Permet de convertir le cobalt en fer, et vice versa."
+upgrades.keeper2rotationalmining2.desc,"Increases the damage rotational mining does, transcending rock hardness."
+level.gameover.unlock.dome,Nouveau dôme
+pause.gamepadcontrols.pickup,Ramasser
+options.video.graphicsmode.photosensitive,Mode photosensibilité
+upgrades.orchardduration2.desc,L'effet des fruits dure encore plus longtemps.
+properties.dome.meleedamagereduction,Réduction des dégâts au corps à corps : {.percent}
+upgrades.domesandrepairstrong.desc,Répare les dégâts subis par votre dôme à l'aide de cobalt.
+options.input,Contrôle
+properties.keeper2.spherereload,Rechargement des sphères {}s
+properties.blastmining.damage,Dégâts : {}
+upgrades.laserbend.title,Laser à tête pivotante
+upgrades.swordlargeblade3.desc,"Lame monstrueuse, extrêmement puissante, mais très lente."
+loadout.domeoptions.title,Choisissez votre dôme !
+upgrades.shieldoverchargeduration1.desc,Surcharger votre bouclier prolonge également la durée de la capacité de combat liée au bouclier que vous utilisez lors de la prochaine vague.
+upgrades.probelong1.title,Longue portée
+options.keybindings.rebinding.inputprocessor,Appuyez sur une autre touche pour l'assigner à cette action …
+properties.teleporter.teleportduration,Durée de la téléportation : {} s
+upgrades.dome2health2.title,Solidité 2
+upgrades.drillbotduplicate.title,Perceval
+pause.quit.popup,"Voulez-vous vraiment quitter ?
+Appuyez de nouveau pour confirmer.
+(Votre progression a été sauvegardée.)"
+upgrades.prospectionmetersand2.desc,Indique dans quelle direction se trouvent les dépôts de cobalt les plus proches.
+upgrades.probepersist1.desc,"Ajoute un module de mémoire à la sonde, qui lui permet de signaler les ressources détectées plus longtemps."
+upgrades.artilleryshotcooldown2.title,Refroidissement accéléré 2
+properties.keeper2.sphereadditionalfirsthitdamage,Dégâts supplémentaires du premier coup {.percent}
+upgrades.shieldbattledestructionprevention.title,Dernière chance
+level.gameover.unlock.pet,Nouveau compagnon débloqué !
+upgrades.repellentbattlelongerhealthreduction.desc,Prolonge et renforce le flétrissement subi par tous les monstres présents.
+ending.feedbackondiscord,Retours sur Discord
+properties.keeper2.reflectnexthitdamage,Dégâts supplémentaires des sphères renvoyées pour le rebond suivant {.percent}
+options.video.graphicsmode.borderlesswindow,Fenêtré sans bordure
+upgrades.keeper2pinballlifetime1.desc,Stabilise la sphère cinétique pour lui permettre de flotter plus longtemps.
+level.gadgetchoice.title,CHOISISSEZ UN GADGET !
+upgrades.keeper2bundle.title,Tir groupé
+upgrades.relichunt.title,Chasse à la relique
+loadout.mode.doubleiron.desc,"Les gisements de fer sont deux fois plus riches, mais les mises à niveau coûtent également deux fois plus de fer."
+level.tutorial.repair.findcobalt,"Essayez de trouver du cobalt. Vous pouvez vous en servir pour réparer votre dôme.
+Sachez toutefois que c'est une ressource rare et que ses quantités ne sont pas infinies."
+upgrades.keeper2pinballsplit.title,Split Spheres
+options.input.controls.text,Nous vous recommandons de jouer avec une manette.
+landing.proceed,Appuyez sur une touche pour continuer
+upgrades.keeper2pinballmorespheres1.desc,Ajoute un module supplémentaire à votre générateur de gravité pour lui permettr de transporter davantage de sphères cinétiques.
+upgrades.jetpackstrength4.desc,Améliore vos réacteurs dorsaux pour vous permettre de transporter davantage de ressources.
+upgrades.orchardbattleshieldsecondlayer.desc,Génère un deuxième bouclier antiprojectiles.
+level.converter.popup.conversion.time,sur {time} cycles
+properties.keeper2.maxspeed,Vitesse maximale : {}
+properties.laser.aimline,Ligne de visée
+upgrades.shieldstrength3.desc,Augmente encore plus la quantité de dégâts que le bouclier est capable d'absorber.
+upgrades.repellentovercharge.title,Surcharge du monstrifuge
+properties.drillbot.buffstrength,Accélération énergisée : {.percent}
+worldmodifier.hardnesssofter.desc,Il y a plus de roches tendres dans la mine.
+level.tutorial.pickup.popup_1,Appuyez sur | pour ramasser une ressource.
+level.tutorial.pickup.popup_3,Maintenez pour en ramasser beaucoup.
+pause.gamepadcontrols.drop,Lâcher
+level.tutorial.fruit.popup_1,Votre premier fruit à propergol vient de pousser.
+level.tutorial.fruit.popup_2,"Quand vous êtes tout près, appuyez sur | pour le manger."
+worldmodifier.mapwide.desc,La mine est plus large et moins profonde.
+upgrades.prestigefinishnocobalt.desc,Vous quittez cette planète pour rentrer chez vous.
+upgrades.prospectionmeteriron2.title,Détecteur de fer
+upgrades.keeper2movement2.title,Mouvement gravitationnel 2
+options.keybindings.gamepad,Manette
+ending.backtomainmenu,Retour au menu principal
+level.tutorial.fullscreen.back,retour
+upgrades.shield.title,Bouclier
+upgrades.blastmining.title,Forage par explosion
+upgrades.converterirontocobalt.title,Conversion de cobalt
+upgrades.swordstabfast1.desc,Permet de porter des coups d'estoc plus rapides et plus souvent.
+level.gameover.prestige.score.rankunchanged,Aucun changement de rang.
+options.accessibility.critters,Disable Critters
+upgrades.teleporterteleportreactivate.desc,Le portail a de nouveau la capacité de vous téléporter.
+upgrades.orchardjetpack3.title,Turboréacteurs dorsaux 3
+level.gameover.unlock.mapsize,Nouvelle taille de carte débloquée !
+upgrades.domeresourcecounters.title,Inventaire
+level.gameover.keepgadget.none,aucun
+upgrades.stunlaserdamage1.desc,Ajoute une petite quantité de dégâts aux tirs du laser étourdissant.
+properties.repellent.battleabilityduration,Durée de la capacité : {} s
+upgrades.prestigeiron.desc,"Envoie une cargaison de fer, ce qui ajoute 1 au prestige que vous gagnez à chaque vague."
+upgrades.teleporter.title,Téléporteur
+ending.teasemessage,Petit avant-goût de ce qui vous attend :
+loadout.relichunt.modifiers,Choisissez vos modificateurs
+options.accessibility,Accessibilité
+loadout.mapsize.small.description,Petite carte pour les sessions de jeu assez courtes.
+upgrades.shieldbattleblastdamage.desc,Augmente les dégâts et l'effet étourdissant du souffle électromagnétique.
+options.translation.community.desc,Ces langues sont traduites par notre charmante communauté. Rejoignez-les si vous voulez !
+upgrades.prospectionmeterwater2.desc,Indique dans quelle direction se trouvent les nappes d'eau souterraines les plus proches.
+upgrades.stunlaserdamage2.title,Dégâts 2
+options.keybindings.action.keeper.gadget1,Gadget 1
+options.keybindings.action.keeper.gadget2,Gadget 2
+properties.repellent.wavedelay,Délai avant l'apparition de la vague : {} cycles
+options.ok,OK
+upgrades.swordblade1.desc,Améliore le tranchant et la vitesse de votre épée.
+upgrades.shieldoverchargeduration2.title,Surcharge de durée de capacité de combat 2
+properties.sword.slicedamage,Dégâts des coups de taille : {} 
+properties.condenser.autocollect,Récupération automatique
+properties.keeper2.directminingdamage,High Rotational Mining Damage
+upgrades.keeper2bundlestopcenter.desc,"Les paquets de tirs resteront sous le dôme, au lieu de passer devant l'axe central."
+upgrades.orchardduration1.title,Durée 1
+upgrades.drillbotbuffstrength1.title,Friandises nutritives
+upgrades.liftcarrykeeper2.title,Monte-charge du gardien 2
+upgrades.shieldoverchargestrength2.desc,Augmente encore plus la quantité de dégâts que le bouclier surchargé est capable d'absorber.
+upgrades.repellentbattleslowdown.title,Affaiblissement
+upgrades.artilleryshotprediction.title,Prédiction de tir
+upgrades.repellentdelay3.desc,Augmente encore plus le délai avant l'apparition de la prochaine vague de monstres.
+upgrades.teleporter.desc,"Téléporteur fonctionnant dans les deux sens, entre une station située sous le dôme et un portail pouvant être déplacé dans les galeries."
+level.gameover.stats.monsterskilled,Monstres tués :
+upgrades.keeper2pinballreflect.title,Renvoi de sphères
+upgrades.drillbotstrength3.title,Force 3
+upgrades.shieldbattlereflectspeedup.title,Retour à l'envoyeur accéléré
+upgrades.probeswift1.title,Sonde rapide
+options.game.events.enableseasonal,activer le contenu saisonnier
+upgrades.repellentbattledamageovertime.title,Vapeurs toxiques
+upgrades.dome3health2.title,Solidité 2
+loadout.mapsize.huge,Énorme
+properties.shield.overchargebattleabilityduration,Durée de la capacité additionnelle : {.percent}
+options.keybindings.action.keeper.gravitycollect,Charger pour récupérer
+loadout.miner.scores.title,Scores
+properties.lift.speed,Vitesse des orbes : {}
+upgrades.drillbotstrength1.title,Force 1
+level.tutorial.repellent.popup_2,"Quand vous êtes tout près, appuyez sur | pour l'activer."
+level.tutorial.repellent.popup_1,Votre monstrifuge est prêt à retarder la prochaine vague.
+properties.orchard.growthtime,Durée de croissance : {} cycles
+properties.keeper2.spherefractiondamage,Sphere Damage transcending Rock Hardness {.percent}
+properties.sword.brake,Agilité de l'épée : {}
+upgrades.artilleryflakmultishot2.title,DCA à tir multiple 2
+upgrades.swordstabfast2.desc,Permet de porter des coups d'estoc encore plus rapides et plus souvent.
+upgrades.sword.desc,"Épée extrêmement résistante, qui fait de plus en plus de dégâts quand elle parcourt une longue distance le long du dôme. Vous pouvez également la tirer sur les monstres, et sa garde est un bouclier bloquant les projectiles."
+upgrades.artilleryflakmultishot1.title,DCA à tir multiple 1
+upgrades.artilleryshotprediction.desc,Indique la trajectoire prévue d'une grenade quand elle est lancée.
+upgrades.shieldbattlereflect.desc,Déclenche une capacité de combat active qui renvoie les projectiles ennemis pendant un court laps de temps.
+upgrades.orchardbattleshieldstrong.title,Boucliers surpuissants
+upgrades.swordlongblade1.title,Longue lame 1
+level.station.battle.navbar.stab,Estoc
+properties.converter.irontowater,{} fer en 1 eau
+upgrades.minoriron.title,Send Iron
+upgrades.keeper2bundleinfinite.desc,Les paquets resteront stables pendant très longtemps.
+worldmodifier.resourcedesc,"Il n'y a que quelques amas de fer, mais ils sont très gros."
+loadout.keeper,GARDIEN
+upgrades.drillbotstrength4.desc,Augmente la force avec laquelle Creusetout creuse.
+upgrades.swordstabexplodedamage.title,Bombe super-explosive
+upgrades.prospectionmeterwater2.title,Détecteur d'eau
+loadout.keeperoptions.title,Choisissez votre gardien !
+properties.prospectionmeter.range,Portée : {} tuiles
+upgrades.orchardbattleshield.title,Bouclier antiprojectiles
+loadout.mapsize.large,Grande
+properties.keeper2.reflectsphere,Renvoi des sphères
+upgrades.orchardbattlerooting.title,Racines agrippantes
+properties.repellent.growthtime,Temps de production : {} cycles
+properties.converter.irontocobalt,{} fer en 1 cobalt
+upgrades.dome3health1.desc,Augmente de manière permanente la solidité de votre dôme.
+upgrades.teleporterteleportresourcescooldown.title,Téléporteur plus rapide
+upgrades.shieldovercharge.desc,Utilisez l'eau pour surcharger manuellement votre bouclier afin qu'il absorbe davantage de dégâts lors de la prochaine vague.
+upgrades.stunlaserspeed2.title,Vitesse 2
+upgrades.drillbotbuff1.desc,"On trouve des friandises dans le nid, sous le dôme. Apportez-en à Creusetout et il les avalera goulûment, ce qui lui conférera un regain d'énergie."
+options.keybindings.action.dome.battle,Combat
+upgrades.orchardovercharge.title,Surcharge du verger
+properties.teleporter.teleportresourcesarea,Portée de la téléportation : {} tuiles
+upgrades.swordreflection1.desc,Augmente la taille du bouclier de garde et lui permet de renvoyer les projectiles d'énergie.
+upgrades.blastminingblast2.title,Souffle 2
+upgrades.swordreflection1.title,Retour à l'envoyeur 1
+upgrades.keeper2pinballlifetime2.desc,Stabilise la sphère cinétique pour lui permettre de flotter plus longtemps.
+options.keybindings.action.general.left,Gauche
+properties.laser.movespeed,Move Speed {}
+upgrades.dome3health2.desc,Augmente de manière permanente la solidité de votre dôme.
+upgrades.drill2.title,Foreuse surpuissante 2
+options.keybindings.rebinding,Changement d'assignation
+level.tutorial.assessor.carry.desc1_1,"Une fois verrouillés sur vous, elles vous suivront même si vous relâchez la touche de collecte."
+upgrades.keeper2pinballdamage1.title,Dégâts de la sphère cinétique 1
+upgrades.stunlaserspeed2.desc,"Le laser étourdissant se déplace encore plus rapidement, et il continue de suivre les monstres même pendant que son canon refroidit."
+options.keybindings.title,ASSIGNATION DES COMMANDES
+upgrades.keeper2pinballmorespheres2.desc,Ajoute un module supplémentaire à votre générateur de gravité pour lui permettr de transporter davantage de sphères cinétiques.
+level.gameover.prestige.uploading.finalfailed,"Le transfert du nouveau score a échoué, désolé !"
+upgrades.blastminingblast1.desc,Augmente la puissance du souffle de l'explosion.
+upgrades.stunlaserduration2.desc,"Le laser étourdissant se refroidit encore plus rapidement, ce qui lui permet de tirer encore plus longtemps."
+upgrades.prospectionmetersand1.desc,Indique à quelle distance se trouvent les dépôts de cobalt les plus proches.
+level.station.battle.navbar.move,Déplacer
+properties.probe.charges,Charges : {}
+upgrades.shieldstrength2.title,Puissance du bouclier 2
+loadout.prestige.cobalt.description,"Il n'y a pas de cobalt sur la carte et vous ne pouvez pas en créer, mais vous en avez une quantité fixe au début de la partie."

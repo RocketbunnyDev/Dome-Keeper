@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/shifter_shoot_1.wav-6f9b015f470edbce20a6a1295d470ed4.sample"
+
+[deps]
+
+source_file="res://content/sounds/monster/shifter/shifter_shoot_1.wav"
+dest_files=[ "res://.import/shifter_shoot_1.wav-6f9b015f470edbce20a6a1295d470ed4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
