@@ -16,18 +16,6 @@ Upgrades: Choose from powerful upgrade paths to enhance your defenses.
 
 Wave Defense: Defend your dome from waves of alien attackers.
 
-## Azure PlayFab Integration:
-> Azure PlayFab was used for several features in our game. 
-> If it doesn't show up in project (or there are errors associated with PlayFab) you may have to re-install it from here: https://godotengine.org/asset-library/asset/1756
-> If errors persist, you may have to setup the PlayFab services from scratch: https://www.youtube.com/watch?v=msakr3GHPL8*
-
-**Telemetry and Analytics**: Collect data on player interactions to improve the game.
-
-**Achievements and Leaderboards**: Add replay value and competition among players.
-
-**Cloud Saves**: Save game progress on the cloud for access on different devices.
-
-**LiveOps**: Keep the game fresh with new content and events
 
 ## Controls
 Movement: Use the arrow keys to navigate.
@@ -43,6 +31,25 @@ Dig for Resources: Use the time between attacks to dig beneath your dome.
 
 Defend Your Dome: Prioritize and deal with attackers before they tear your dome apart.
 
+## Azure PlayFab Integration:
+> Azure PlayFab was used for several features in our game. 
+> If it doesn't show up in project (or there are errors associated with PlayFab) you may have to re-install it from here: https://godotengine.org/asset-library/asset/1756
+> If errors persist, you may have to setup the PlayFab services from scratch: https://www.youtube.com/watch?v=msakr3GHPL8*
+
+**Telemetry and Analytics**: Collect data on player interactions to improve the game.
+
+**Achievements and Leaderboards**: Add replay value and competition among players.
+
+**Cloud Saves**: Save game progress on the cloud for access on different devices.
+
+**LiveOps**: Keep the game fresh with new content and events
+
+## GodotSteam Integration:
+> There also may be errors in the project due to GodotSteam integration issues:
+> You're not using a pre-compiled editor. You didn't actually include GodotSteam in your build when compiling.
+> You're using a non-GodotSteam template when exporting from a GodotSteam-enabled editor.
+> Your GDExtension files may be out-of-date with your .gdextension file.
+> To fix these, please check the GodotSteam documentation (https://godotsteam.com/) and go through the respective 'common issues' to fix them individually.
 
 ## License
 This game is proprietary and confidential. Unauthorized copying, use, distribution, or modification of this code is strictly prohibited without prior written consent from the author.
